@@ -1,0 +1,3 @@
+{
+  "-W100": false // Silently deleted characters (in locales)
+}

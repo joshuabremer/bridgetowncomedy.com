@@ -1,0 +1,4 @@
+scripts/vendor_*.js
+scripts/templates.js
+scripts/application*
+scripts/*.bak
