@@ -1,6 +1,7 @@
 var fs = require("fs");
 var festivalData = require( "./festival-data" );
 var util = require( "./utilities" );
+var wrench = require('wrench');
 
 TMP_VENUE_PATH = festivalData.tmpVenuesPath;
 FESTIVALTHING_VENUE_URL = "http://127.0.0.1:4000/fixtures/festivalthing-venues.json";
@@ -35,7 +36,32 @@ function processVenueData() {
   fs.writeFileSync("./scripts/fixtures/venue.js","/*jshint -W100 */\nApp.Venue.FIXTURES = ","utf8");
   fs.appendFileSync("./scripts/fixtures/venue.js",festivalData.getVenueData(),{encoding:"utf8"});
   fs.appendFileSync("./scripts/fixtures/venue.js",";");
+  createVenuePages();
   console.log("Finished: " + "./scripts/fixtures/venue.js");
+}
+
+function createVenuePages() {
+  var venueObj = festivalData.getVenueObject();
+  var rootPath = "./venue/";
+  wrench.rmdirSyncRecursive( "./venue", false );
+  fs.mkdirSync( "./venue" );
+
+  for ( var key in venueObj ) {
+    var fileName = util.convertToSlug( venueObj[key].Name );
+    var dirPath = rootPath + venueObj[key].pageUrl;
+    var filePath = dirPath + "/index.html";
+
+    fs.mkdirSync( dirPath );
+    fs.openSync( filePath, 'w');
+
+    fs.appendFileSync( filePath, "---\n");
+    fs.appendFileSync( filePath, "layout: page\n");
+    fs.appendFileSync( filePath, "title: \"" + venueObj[key].Name + "\"\n");
+    fs.appendFileSync( filePath, "category: venue \n");
+    fs.appendFileSync( filePath, "---\n\n");
+
+    fs.appendFileSync( filePath, "Blah Blah Blah");
+  }
 }
 
 
@@ -45,7 +71,7 @@ function addEventIds() {
   for (var key in venueObj) {
     venueObj[key].events = getEventsForVenue( venueObj[key].id )
   }
-  fs.writeFileSync(TMP_VENUE_PATH, JSON.stringify(venueObj, null, " "), "utf8");
+  fs.writeFileSync( TMP_VENUE_PATH, JSON.stringify(venueObj, null, " "), "utf8" );
 }
 
 function getEventsForVenue( id ) {

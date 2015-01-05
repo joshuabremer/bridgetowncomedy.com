@@ -70,21 +70,9 @@ function addEventIds(filepath) {
   var eventObj = festivalData.getEventData();
 
   for (var key in showObj) {
-    showObj[key].events = getEventsForShow(showObj[key].id)
+    showObj[key].events = festivalData.getEventsForShow(showObj[key].id)
   }
   fs.writeFileSync(filepath, JSON.stringify(showObj, null, " "), 'utf8');
-}
-
-function getEventsForShow(id) {
-  var eventObj = festivalData.getEventObject();
-  var returnArray = [];
-  for (var key in eventObj) {
-    var idCheck = parseInt(eventObj[key].ShowId,10);
-    if (idCheck === parseInt(id,10)) {
-      returnArray.push(eventObj[key].id);
-    }
-  }
-  return returnArray;
 }
 
 function buildImages(path,prefix) {

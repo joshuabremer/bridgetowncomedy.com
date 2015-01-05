@@ -49,7 +49,7 @@ function createEventPages() {
 
 function addPerformerIds() {
   var eventObj = festivalData.getEventObject();
-  var scheduleObj = festivalData.getScheduleData();
+  var scheduleObj = festivalData.getScheduleObject();
 
   for ( var key in eventObj ) {
     eventObj[key].performers = festivalData.getPerformersForEvents(eventObj[key].id);

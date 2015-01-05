@@ -20,7 +20,7 @@ FestivalData.prototype.getEventData = function() {
 }
 
 FestivalData.prototype.getVenueObject = function() {
-  return JSON.parse(this.getVenueData().replace(/[^\w\s\[\]\{\}\,\"\'\:]/gi, ''));
+  return JSON.parse(this.getVenueData());
 }
 
 FestivalData.prototype.getVenueData = function() {
@@ -56,37 +56,89 @@ FestivalData.prototype.getPerformersForEvents = function( id ) {
   var returnArray = [];
   for (var key in scheduleObj) {
     var idCheck = parseInt(scheduleObj[key].EventId,10);
+
     if (idCheck === parseInt(id,10) && this.doesPerformerExistForId(scheduleObj[key].PerformerId)) {
+
       returnArray.push(scheduleObj[key].PerformerId);
     }
   }
   return returnArray;
 }
 
+FestivalData.prototype.getEventsForPerformer = function( id ) {
+  var scheduleObj = this.getScheduleObject();
+  var returnArray = [];
+  for (var key in scheduleObj) {
+    var idCheck = parseInt(scheduleObj[key].PerformerId,10);
+    if (idCheck === parseInt(id,10) && this.doesEventExistForId(scheduleObj[key].EventId)) {
+      returnArray.push(scheduleObj[key].EventId);
+    }
+  }
+  return returnArray;
+}
+
+FestivalData.prototype.getMCEventsForPerformer = function( id ) {
+  var eventObj = this.getEventObject();
+  var returnArray = [];
+  for ( var key in eventObj ) {
+    var idCheck = parseInt(eventObj[key].MCId,10);
+    if (idCheck === parseInt(id,10) && this.doesEventExistForId(eventObj[key].EventId)) {
+      returnArray.push(eventObj[key].EventId);
+    }
+  }
+  return returnArray;
+}
+
+FestivalData.prototype.doesEventExistForId = function( id ) {
+  var eventObj = this.getEventObject();
+  id = parseInt(id,10);
+  for ( var key in eventObj ) {
+    var eventId = parseInt(eventObj[key].EventId,10);
+
+    if ( eventId === id ) {
+      return true;
+    }
+  }
+  return false;
+}
+
+FestivalData.prototype.getEventsForShow = function(id) {
+  var eventObj = this.getEventObject();
+  var returnArray = [];
+  for (var key in eventObj) {
+    var idCheck = parseInt(eventObj[key].ShowId,10);
+    if (idCheck === parseInt(id,10)) {
+      returnArray.push(eventObj[key].EventId);
+    }
+  }
+  return returnArray;
+}
+
 FestivalData.prototype.doesPerformerExistForId = function(id) {
+
   var performerObj = this.getPerformerObject();
   id = parseInt(id,10);
-  for (var key in performerObj) {
-    var performerId = parseInt(performerObj[key].id,10);
 
+  for (var key in performerObj) {
+    var performerId = parseInt(performerObj[key].PerformerId,10);
     if (performerId === id) {
       return true;
     }
   }
-  return;
+  return false;
 }
 
 FestivalData.prototype.doesEventExistForId = function(id) {
   var eventObj = this.getEventObject();
   id = parseInt(id,10);
   for (var key in eventObj) {
-    var eventId = parseInt(eventObj[key].id,10);
+    var eventId = parseInt(eventObj[key].EventId,10);
 
     if (eventId === id) {
       return true;
     }
   }
-  return
+  return false;
 }
 
 module.exports = new FestivalData();

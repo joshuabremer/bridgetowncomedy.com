@@ -48,47 +48,10 @@ function addEventIds(filepath) {
   var scheduleObj = festivalData.getScheduleObject();
 
   for (var key in performerObj) {
-    performerObj[key].events = getEventsForPerformer(performerObj[key].id)
-    performerObj[key].mc_events = getMCEventsForPerformer(performerObj[key].id)
+    performerObj[key].events = festivalData.getEventsForPerformer(performerObj[key].id)
+    performerObj[key].mc_events = festivalData.getMCEventsForPerformer(performerObj[key].id)
   }
   fs.writeFileSync(filepath, JSON.stringify(performerObj, null, " "), "utf8");
-}
-
-function getEventsForPerformer( id ) {
-  var scheduleObj = festivalData.getScheduleObject();
-  var returnArray = [];
-  for (var key in scheduleObj) {
-    var idCheck = parseInt(scheduleObj[key].PerformerId,10);
-    if (idCheck === parseInt(id,10) && doesEventExistForId(scheduleObj[key].EventId)) {
-      returnArray.push(scheduleObj[key].EventId);
-    }
-  }
-  return returnArray;
-}
-
-function getMCEventsForPerformer( id ) {
-  var eventObj = festivalData.getEventObject();
-  var returnArray = [];
-  for ( var key in eventObj ) {
-    var idCheck = parseInt(eventObj[key].MCId,10);
-    if (idCheck === parseInt(id,10) && doesEventExistForId(eventObj[key].EventId)) {
-      returnArray.push(eventObj[key].EventId);
-    }
-  }
-  return returnArray;
-}
-
-function doesEventExistForId( id ) {
-  var eventObj = festivalData.getEventObject();
-  id = parseInt(id,10);
-  for ( var key in eventObj ) {
-    var eventId = parseInt(eventObj[key].id,10);
-
-    if ( eventId === id ) {
-      return true;
-    }
-  }
-  return false;
 }
 
 function normalizePerformerData(filepath) {

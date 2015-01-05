@@ -25,3 +25,6 @@ collections:
   show:
     output: true
     permalink: /show/:path/
+  venue:
+    output: true
+    permalink: /show/:path/
