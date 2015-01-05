@@ -41,7 +41,7 @@ module.exports = function(grunt) {
     },
     watch: {
       scripts: {
-        files: ['spec/**/*.*','Gruntfile.js','includes/**','scripts/**/*.*', 'index.html','**/*.scss', "_config.yml"],
+        files: ['spec/**/*.*','Gruntfile.js','_includes/**','scripts/**/*.*', 'index.html','**/*.scss', "_config.yml"],
         tasks: ['default'],
         options: {
           spawn: false,

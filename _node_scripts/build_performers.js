@@ -4,6 +4,7 @@ var easyimg = require("easyimage");
 var smushit = require("node-smushit");
 var util = require( "./utilities" );
 var festivalData = require( "./festival-data" );
+var wrench = require('wrench');
 
 TMP_PERFORMERS_PATH = festivalData.tmpPerformersPath;
 
@@ -13,8 +14,33 @@ function processPerformerData() {
   normalizePerformerData( TMP_PERFORMERS_PATH );
   addEventIds( TMP_PERFORMERS_PATH );
   writePerformersToFixtures();
+  createPerformerPages();
   console.log("Finished: " + "./scripts/fixtures/performer.js");
   //buildImages( TMP_PERFORMERS_PATH ,"performer");
+}
+
+function createPerformerPages() {
+  var performerObj = festivalData.getPerformerObject();
+  var rootPath = "./performer/";
+  wrench.rmdirSyncRecursive( "./performer", true );
+  fs.mkdirSync( "./performer" );
+
+  for ( var key in performerObj ) {
+    var fileName = util.convertToSlug( performerObj[key].Name );
+    var dirPath = rootPath + performerObj[key].pageUrl;
+    var filePath = dirPath + "/index.html";
+
+    fs.mkdirSync( dirPath );
+    fs.openSync( filePath, 'w');
+
+    fs.appendFileSync( filePath, "---\n");
+    fs.appendFileSync( filePath, "layout: page\n");
+    fs.appendFileSync( filePath, "title: \"" + performerObj[key].Name + "\"\n");
+    fs.appendFileSync( filePath, "category: performer \n");
+    fs.appendFileSync( filePath, "---\n\n");
+
+    fs.appendFileSync( filePath, "Blah Blah Blah");
+  }
 }
 
 function addEventIds(filepath) {

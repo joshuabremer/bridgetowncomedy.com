@@ -4,6 +4,7 @@ var easyimg = require("easyimage");
 var smushit = require("node-smushit");
 var util = require( "./utilities" );
 var festivalData = require( "./festival-data" );
+var wrench = require('wrench');
 
 TMP_SHOWS_PATH = festivalData.tmpShowsPath;
 
@@ -14,7 +15,32 @@ function processShowData() {
   createPageUrls( TMP_SHOWS_PATH );
   addEventIds( TMP_SHOWS_PATH );
   writeShowsToFixtures();
+  createShowPages();
   console.log("Finished: ./scripts/fixtures/show.js")
+}
+
+function createShowPages() {
+  var showObj = festivalData.getShowObject();
+  var rootPath = "./show/";
+  wrench.rmdirSyncRecursive( "./show", true );
+  fs.mkdirSync( "./show" );
+
+  for ( var key in showObj ) {
+    var fileName = util.convertToSlug( showObj[key].Name );
+    var dirPath = rootPath + showObj[key].pageUrl;
+    var filePath = dirPath + "/index.html";
+
+    fs.mkdirSync( dirPath );
+    fs.openSync( filePath, 'w');
+
+    fs.appendFileSync( filePath, "---\n");
+    fs.appendFileSync( filePath, "layout: page\n");
+    fs.appendFileSync( filePath, "title: \"" + showObj[key].Name + "\"\n");
+    fs.appendFileSync( filePath, "category: show \n");
+    fs.appendFileSync( filePath, "---\n\n");
+
+    fs.appendFileSync( filePath, "Blah Blah Blah");
+  }
 }
 
 function writeShowsToFixtures() {

@@ -19,3 +19,9 @@ collections:
   event:
     output: true
     permalink: /event/:path/
+  performer:
+    output: true
+    permalink: /performer/:path/
+  show:
+    output: true
+    permalink: /show/:path/
