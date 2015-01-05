@@ -21,7 +21,7 @@
     pageUrl: DS.attr('string'),
 
     headshot300: function() {
-      return '/assets/show-images/show-' + cleanStr(this.get('Name')) + '-300x300.jpg';
+      return '/img/show-images/show-' + cleanStr(this.get('Name')) + '-300x300.jpg';
     }.property('Name'),
 
     backgroundImageCSS: function() {

@@ -92,7 +92,7 @@ function buildImageFromURL(name,url,prefix) {
     console.log("Created: " + "tmp/" + filename);
     response.pipe(file);
     response.on('end', function () {
-      buildThumbnail("tmp/" + filename, "assets/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
+      buildThumbnail("tmp/" + filename, "./img/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
     });
   });
   request.on('error', function(e) {

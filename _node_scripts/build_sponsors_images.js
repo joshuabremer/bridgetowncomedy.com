@@ -10,13 +10,13 @@ var smushit = require('node-smushit');
 cropSponsorImages();
 
 function cropSponsorImages() {
-  var dir = 'assets/sponsor-images';
+  var dir = './img/sponsor-images';
   var files = fs.readdirSync(dir);
   for(var i in files){
       if (!files.hasOwnProperty(i)) continue;
       var fullPath = dir+'/'+files[i];
       if (!fs.statSync(fullPath).isDirectory()){
-        buildThumbnail(dir + '/' + files[i],'assets/sponsor-' + files[i]);
+        buildThumbnail(dir + '/' + files[i],'./img/sponsor-' + files[i]);
       }
   }
 }

@@ -36,7 +36,7 @@ module.exports = function(grunt) {
           'scripts/config/router.js',
           'scripts/routes/*.js'
         ],
-        dest: 'assets/application.js'
+        dest: 'scripts/application.js'
       }
     },
     watch: {
@@ -59,11 +59,11 @@ module.exports = function(grunt) {
         }
       }
     },
-    clean: ["footer-1.region","./styles/style.css", "./scripts/templates.js","./assets/application.js"],
+    clean: ["./scripts/templates.js","./scripts/application.js"],
 
     imageoptim: {
       myTask: {
-        src: ['assets']
+        src: ['img']
       }
     },
     reload: {
