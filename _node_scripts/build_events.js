@@ -39,7 +39,7 @@ function createEventPages() {
 
     fs.appendFileSync( filePath, "---\n");
     fs.appendFileSync( filePath, "layout: page\n");
-    fs.appendFileSync( filePath, "title: \"" + eventObj[key].Name + "\"\n");
+    fs.appendFileSync( filePath, "title: \"" + eventObj[key].Name.replace("\"","\\\"") + "\"\n");
     fs.appendFileSync( filePath, "category: event \n");
     fs.appendFileSync( filePath, "---\n\n");
 
