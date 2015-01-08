@@ -3,13 +3,13 @@
 
   App.Event = DS.Model.extend({
 
-    performers: DS.hasMany('performer', {async: true}),
+    performers: DS.hasMany('performer'),
 
-    emcees: DS.hasMany('performer', {async: true}),
+    emcees: DS.hasMany('performer'),
 
-    venue: DS.belongsTo('venue', {async: true}),
+    venue: DS.belongsTo('venue'),
 
-    show: DS.belongsTo('show', {async: true}),
+    show: DS.belongsTo('show'),
 
     Name: DS.attr('string'),
 

@@ -4,7 +4,7 @@
   App.IndexRoute = Ember.Route.extend({
 
     model: function() {
-      return this.retrievePageJSON('front-page');
+      // Do nothing...
     },
 
     renderTemplate: function() {

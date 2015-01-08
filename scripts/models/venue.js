@@ -3,7 +3,7 @@
 
   App.Venue = DS.Model.extend({
 
-    events: DS.hasMany('event', {async: true}),
+    events: DS.hasMany('event'),
 
     Name: DS.attr('string'),
 

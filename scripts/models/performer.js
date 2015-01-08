@@ -3,9 +3,9 @@
 
   App.Performer = DS.Model.extend({
 
-    events: DS.hasMany('event', {async: true}),
+    events: DS.hasMany('event'),
 
-    mc_events:  DS.hasMany('event', {async: true}),
+    mc_events:  DS.hasMany('event'),
 
     Name: DS.attr('string'),
 
