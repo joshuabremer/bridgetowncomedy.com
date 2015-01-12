@@ -103,7 +103,7 @@ function program9(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
   data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <p class=\"lead\">\n    ");
   data.buffer.push(escapeExpression((helper = helpers.niceDate || (depth0 && depth0.niceDate),options={hash:{},hashTypes:{},hashContexts:{},contexts:[depth0],types:["ID"],data:data},helper ? helper.call(depth0, "start_time", options) : helperMissing.call(depth0, "niceDate", "start_time", options))));
@@ -272,9 +272,9 @@ function program9(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
-  data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-4 text-center\">\n      <p><img class=\"img-responsive performer-headshot\" ");
+  data.buffer.push("\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-4 text-center\">\n      <p><img class=\"img-responsive performer-headshot\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {hash:{
     'src': ("headshot300")
   },hashTypes:{'src': "STRING"},hashContexts:{'src': depth0},contexts:[],types:[],data:data})));
@@ -433,7 +433,7 @@ function program6(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
   data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-4 text-center\">\n      <p><img class=\"img-responsive performer-headshot\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {hash:{
@@ -533,7 +533,7 @@ function program3(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
   data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-12\">\n      <p>\n        ");
   stack1 = (helper = helpers.googleMapLink || (depth0 && depth0.googleMapLink),options={hash:{},hashTypes:{},hashContexts:{},contexts:[depth0],types:["ID"],data:data},helper ? helper.call(depth0, "address", options) : helperMissing.call(depth0, "googleMapLink", "address", options));
@@ -677,7 +677,7 @@ function program9(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
   data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <p class=\"lead\">\n    ");
   data.buffer.push(escapeExpression((helper = helpers.niceDate || (depth0 && depth0.niceDate),options={hash:{},hashTypes:{},hashContexts:{},contexts:[depth0],types:["ID"],data:data},helper ? helper.call(depth0, "start_time", options) : helperMissing.call(depth0, "niceDate", "start_time", options))));
@@ -1595,9 +1595,9 @@ function program9(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
-  data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-4 text-center\">\n      <p><img class=\"img-responsive performer-headshot\" ");
+  data.buffer.push("\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-4 text-center\">\n      <p><img class=\"img-responsive performer-headshot\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {hash:{
     'src': ("headshot300")
   },hashTypes:{'src': "STRING"},hashContexts:{'src': depth0},contexts:[],types:[],data:data})));
@@ -1929,7 +1929,7 @@ function program6(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
   data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-4 text-center\">\n      <p><img class=\"img-responsive performer-headshot\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {hash:{
@@ -2029,7 +2029,7 @@ function program3(depth0,data) {
   }
 
   data.buffer.push(escapeExpression((helper = helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']),options={hash:{
-    'title': ("Name")
+    'title': ("model.Name")
   },hashTypes:{'title': "ID"},hashContexts:{'title': depth0},contexts:[],types:[],data:data},helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options))));
   data.buffer.push("\n\n<div class=\"container single-performer main-content\">\n  <div class=\"row\">\n\n    <div class=\"col-sm-12\">\n      <p>\n        ");
   stack1 = (helper = helpers.googleMapLink || (depth0 && depth0.googleMapLink),options={hash:{},hashTypes:{},hashContexts:{},contexts:[depth0],types:["ID"],data:data},helper ? helper.call(depth0, "address", options) : helperMissing.call(depth0, "googleMapLink", "address", options));

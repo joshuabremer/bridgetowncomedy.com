@@ -25104,7 +25104,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -25467,7 +25467,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -25479,7 +25479,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
         types: [],
         data: data
     }, helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options)))), 
-    data.buffer.push('\n\n<div class="container single-performer main-content">\n  <div class="row">\n\n    <div class="col-sm-4 text-center">\n      <p><img class="img-responsive performer-headshot" '), 
+    data.buffer.push('\n<div class="container single-performer main-content">\n  <div class="row">\n\n    <div class="col-sm-4 text-center">\n      <p><img class="img-responsive performer-headshot" '), 
     data.buffer.push(escapeExpression(helpers["bind-attr"].call(depth0, {
         hash: {
             src: "headshot300"
@@ -25827,7 +25827,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -26027,7 +26027,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -26302,7 +26302,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -28089,7 +28089,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -28101,7 +28101,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
         types: [],
         data: data
     }, helper ? helper.call(depth0, options) : helperMissing.call(depth0, "page-title-banner", options)))), 
-    data.buffer.push('\n\n<div class="container single-performer main-content">\n  <div class="row">\n\n    <div class="col-sm-4 text-center">\n      <p><img class="img-responsive performer-headshot" '), 
+    data.buffer.push('\n<div class="container single-performer main-content">\n  <div class="row">\n\n    <div class="col-sm-4 text-center">\n      <p><img class="img-responsive performer-headshot" '), 
     data.buffer.push(escapeExpression(helpers["bind-attr"].call(depth0, {
         hash: {
             src: "headshot300"
@@ -28794,7 +28794,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
@@ -28994,7 +28994,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
     return data.buffer.push(escapeExpression((helper = helpers["page-title-banner"] || depth0 && depth0["page-title-banner"], 
     options = {
         hash: {
-            title: "Name"
+            title: "model.Name"
         },
         hashTypes: {
             title: "ID"
