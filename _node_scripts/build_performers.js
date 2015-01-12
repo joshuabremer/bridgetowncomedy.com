@@ -37,10 +37,15 @@ function createPerformerPages() {
     fs.appendFileSync( filePath, "layout: page\n");
     fs.appendFileSync( filePath, "title: \"" + performerObj[key].Name + "\"\n");
     fs.appendFileSync( filePath, "category: performer \n");
+    fs.appendFileSync( filePath, "featuredimage: \"/img/performer-images/performer-" + cleanStr(performerObj[key].Name) + "'-300x300.jpg\"\n");
     fs.appendFileSync( filePath, "---\n\n");
 
-    fs.appendFileSync( filePath, "Blah Blah Blah");
+    fs.appendFileSync( filePath, util.htmlToText(performerObj[key].Bio));
   }
+}
+
+function cleanStr(string) {
+    return string = string || "", string.replace(/\W/g, "").toLowerCase();
 }
 
 function addEventIds(filepath) {

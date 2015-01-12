@@ -39,12 +39,16 @@ function createEventPages() {
 
     fs.appendFileSync( filePath, "---\n");
     fs.appendFileSync( filePath, "layout: page\n");
-    fs.appendFileSync( filePath, "title: \"" + eventObj[key].Name.replace("\"","\\\"") + "\"\n");
+    fs.appendFileSync( filePath, "title: \"" + escapeDoubleQuotes(eventObj[key].Name) + "\"\n");
     fs.appendFileSync( filePath, "category: event \n");
     fs.appendFileSync( filePath, "---\n\n");
 
     fs.appendFileSync( filePath, "Blah Blah Blah");
   }
+}
+
+function escapeDoubleQuotes(str) {
+  return str.replace(/\\([\s\S])|(")/g,"\\$1$2"); // thanks @slevithan!
 }
 
 function addPerformerIds() {

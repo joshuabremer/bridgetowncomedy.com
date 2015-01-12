@@ -39,7 +39,7 @@ function createShowPages() {
     fs.appendFileSync( filePath, "category: show \n");
     fs.appendFileSync( filePath, "---\n\n");
 
-    fs.appendFileSync( filePath, "Blah Blah Blah");
+    fs.appendFileSync( filePath, util.htmlToText(showObj[key].Bio));
   }
 }
 

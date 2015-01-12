@@ -81,4 +81,16 @@ Utilities.prototype.removeGremlins = function( text ) {
   return stripBom(text).replace(/\\u2028/g, "")
 }
 
+Utilities.prototype.htmlToText = function( html ) {
+  html = html.replace(/<style([\s\S]*?)<\/style>/gi, '');
+  html = html.replace(/<script([\s\S]*?)<\/script>/gi, '');
+  html = html.replace(/<\/div>/ig, '\n');
+  html = html.replace(/<\/li>/ig, '\n');
+  html = html.replace(/<li>/ig, '  *  ');
+  html = html.replace(/<\/ul>/ig, '\n');
+  html = html.replace(/<\/p>/ig, '\n');
+  html = html.replace(/<br\s*[\/]?>/gi, "\n");
+  return html.replace(/<[^>]+>/ig, '');
+}
+
 module.exports = new Utilities();
