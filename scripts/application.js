@@ -26944,7 +26944,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
             contexts: [ depth0, depth0 ],
             types: [ "STRING", "ID" ],
             data: data
-        }, stack1 = helper ? helper.call(depth0, "event", "event", options) : helperMissing.call(depth0, "link-to", "event", "event", options), 
+        }, stack1 = helper ? helper.call(depth0, "event", "", options) : helperMissing.call(depth0, "link-to", "event", "", options), 
         (stack1 || 0 === stack1) && data.buffer.push(stack1), data.buffer.push("\n          "), 
         buffer;
     }
@@ -29465,7 +29465,7 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
             contexts: [ depth0, depth0 ],
             types: [ "STRING", "ID" ],
             data: data
-        }, stack1 = helper ? helper.call(depth0, "event", "event", options) : helperMissing.call(depth0, "link-to", "event", "event", options), 
+        }, stack1 = helper ? helper.call(depth0, "event", "", options) : helperMissing.call(depth0, "link-to", "event", "", options), 
         (stack1 || 0 === stack1) && data.buffer.push(stack1), data.buffer.push("\n          "), 
         buffer;
     }

@@ -6,7 +6,7 @@
           {{#if show}}
             {{#link-to "show" show }}{{{ show.Name }}}{{/link-to}}
           {{else}}
-            {{#link-to "event" event }}{{{ Name }}}{{/link-to}}
+            {{#link-to "event" this }}{{{ Name }}}{{/link-to}}
           {{/if}}
           <br/>
           <small>({{getWeekday start_time}} <span style="white-space:nowrap">{{getTime start_time}} - </span>
