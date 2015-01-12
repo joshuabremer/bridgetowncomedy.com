@@ -15,7 +15,7 @@
         <li class="list-group-item active" style="background:#695b53;">
         <h4 class="list-group-item-heading" style="background:#695b53;color:white">Shows</h4>
         </li>
-        {{#each event in events}}
+        {{#each events}}
           {{partial "partials/schedule_list_item"}}
         {{else}}
           <li class="list-group-item">No shows scheduled yet...</li>
