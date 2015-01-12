@@ -401,13 +401,17 @@ Ember.TEMPLATES["sponsors"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0
 },"useData":true});
 
 Ember.TEMPLATES["venue"] = Ember.Handlebars.template({"1":function(depth0,helpers,partials,data) {
-  var helperMissing=helpers.helperMissing, escapeExpression=this.escapeExpression, buffer = '';
+  var escapeExpression=this.escapeExpression, buffer = '';
   data.buffer.push("          ");
-  data.buffer.push(escapeExpression(((helpers.partial || (depth0 && depth0.partial) || helperMissing).call(depth0, "partials/schedule_list_item", {"name":"partial","hash":{},"hashTypes":{},"hashContexts":{},"types":["STRING"],"contexts":[depth0],"data":data}))));
+  data.buffer.push(escapeExpression(helpers.view.call(depth0, "schedule-list-item", {"name":"view","hash":{
+    'context': ("event")
+  },"hashTypes":{'context': "ID"},"hashContexts":{'context': depth0},"types":["STRING"],"contexts":[depth0],"data":data})));
   data.buffer.push("\n");
   return buffer;
 },"3":function(depth0,helpers,partials,data) {
   data.buffer.push("          <li class=\"list-group-item\">No shows scheduled yet...</li>\n");
+  },"5":function(depth0,helpers,partials,data) {
+  data.buffer.push("← All Venues");
   },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, escapeExpression=this.escapeExpression, buffer = '';
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
@@ -417,9 +421,12 @@ Ember.TEMPLATES["venue"] = Ember.Handlebars.template({"1":function(depth0,helper
   stack1 = ((helpers.googleMapLink || (depth0 && depth0.googleMapLink) || helperMissing).call(depth0, "address", {"name":"googleMapLink","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("\n      </p>\n\n      <ul class=\"list-group\">\n        <li class=\"list-group-item active\" style=\"background:#695b53;\">\n        <h4 class=\"list-group-item-heading\" style=\"background:#695b53;color:white\">Shows</h4>\n        </li>\n");
-  stack1 = helpers.each.call(depth0, "events", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.program(3, data),"types":["ID"],"contexts":[depth0],"data":data});
+  stack1 = helpers.each.call(depth0, "event", "in", "events", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.program(3, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
-  data.buffer.push("\n      </ul>\n    </div>\n  </div>\n</div>\n\n\n\n\n\n");
+  data.buffer.push("\n      </ul>\n      <p>\n        ");
+  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "venues", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(5, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
+  if (stack1 != null) { data.buffer.push(stack1); }
+  data.buffer.push("\n      </p>\n    </div>\n  </div>\n</div>\n\n\n\n\n\n");
   return buffer;
 },"useData":true});
 

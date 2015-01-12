@@ -32,7 +32,7 @@ Q.all([
   buildVenues();
   buildEvents();
   buildPerformers();
-  buildShows();
+  //buildShows();
 }).catch(function(error) {
   console.error(error.stack);
 })
