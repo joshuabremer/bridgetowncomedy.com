@@ -31,7 +31,7 @@
     }
   });
 
-  App.Store = DS.Store.extend({
+  App.ApplicationStore = DS.Store.extend({
     revision: 11,
     //adapter: DS.RESTAdapter.create()
     //adapter: DS.LSAdapter.create()

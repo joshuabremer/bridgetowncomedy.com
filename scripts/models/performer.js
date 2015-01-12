@@ -3,9 +3,9 @@
 
   App.Performer = DS.Model.extend({
 
-    events: DS.hasMany('event'),
+    events: DS.hasMany('event', {inverse: 'performers'}),
 
-    mc_events:  DS.hasMany('event'),
+    mc_events:  DS.hasMany('event', {inverse: 'emcees'}),
 
     Name: DS.attr('string'),
 

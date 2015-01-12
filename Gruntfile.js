@@ -72,7 +72,7 @@ module.exports = function(grunt) {
           host: 'localhost'
       }
     },
-    emberhandlebars: {
+    emberTemplates: {
       compile: {
         options: {
           templateName: function(sourceFile){
@@ -80,12 +80,13 @@ module.exports = function(grunt) {
             return newSource.replace('.hbs','');
           }
         },
-        files: [
-          'scripts/templates/*.hbs',
-          'scripts/templates/**/*.hbs',
-          'scripts/templates/partials/*.hbs'
-        ],
-        dest: 'scripts/templates.js'
+        files: {
+          'scripts/templates.js': [
+            'scripts/templates/*.hbs',
+            'scripts/templates/**/*.hbs',
+            'scripts/templates/partials/*.hbs'
+          ]
+        }
       }
     },
     jasmine: {
@@ -119,6 +120,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-sass');
   grunt.loadNpmTasks('grunt-ember-template-compiler');
+  grunt.loadNpmTasks('grunt-ember-templates');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-jasmine');
   grunt.loadNpmTasks('grunt-shell');
@@ -126,7 +128,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-template');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-jekyll');
-  grunt.registerTask('default', ['clean','emberhandlebars','uglify', 'jekyll']);
+  grunt.registerTask('default', ['clean','emberTemplates','uglify', 'jekyll']);
 
 
 };
