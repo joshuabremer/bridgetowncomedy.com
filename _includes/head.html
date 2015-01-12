@@ -11,13 +11,29 @@
   <meta itemprop="name" content="Bridgetown Comedy Festival"/>
   <meta itemprop="url" content="http://ghpages.bridgetowncomedy.com/"/>
   <meta itemprop="description" content="{{ page.content }}"/>
+
+  {% if page.featuredimage %}
   <meta itemprop="thumbnailUrl" content="http://ghpages.bridgetowncomedy.com{{page.featuredimage}}"/>
-  <link rel="image_src" href="http://ghpages.bridgetowncomedy.com{{page.featuredimage}}" />
-  <meta itemprop="image" content="http://ghpages.bridgetowncomedy.com{{page.featuredimage}}"/>
+  {% else %}
+  <meta itemprop="thumbnailUrl" content="http://ghpages.bridgetowncomedy.com/img/facebook-image.png"/>
+  {% endif %}
+
+  {% if page.featuredimage %}
+  <link rel="image_src" href="http://ghpages.bridgetowncomedy.com{{page.featuredimage}}"/>
+  {% else %}
+  <link rel="image_src" href="http://ghpages.bridgetowncomedy.com/img/facebook-image.png"/>
+  {% endif %}
+
+  {% if page.featuredimage %}
+  <link itemprop="image" content="http://ghpages.bridgetowncomedy.com{{page.featuredimage}}"/>
+  {% else %}
+  <link itemprop="image" content="http://ghpages.bridgetowncomedy.com/img/facebook-image.png"/>
+  {% endif %}
+
   <meta name="description" content="{{ page.content }}" />
   <meta name="viewport" content="width=device-width">
   <link href="//fonts.googleapis.com/css?family=Fjalla+One|Cantarell:400,400italic,700italic,700" rel="stylesheet" type="text/css" />
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-      <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
   <link rel="stylesheet" href="/css/main.css" />
 </head>

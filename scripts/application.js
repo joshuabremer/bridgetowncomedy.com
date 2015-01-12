@@ -26140,16 +26140,22 @@ if (window.Handlebars = Handlebars, function(Handlebars, undefined) {
 }), Ember.TEMPLATES["components/page-title-banner"] = Ember.Handlebars.template(function(Handlebars, depth0, helpers, partials, data) {
     this.compilerInfo = [ 4, ">= 1.0.0" ], helpers = this.merge(helpers, Ember.Handlebars.helpers), 
     data = data || {};
-    var stack1, buffer = "";
+    var buffer = "", escapeExpression = this.escapeExpression;
     return data.buffer.push('  <div class="jumbotron jumbotron-minor jumbotron-color-1  jumbotron-page-header">\n    <div class="container">\n      <div class="row centered">\n        <div class="col-lg-8 col-lg-offset-2">\n        <h1>'), 
-    stack1 = helpers._triageMustache.call(depth0, "title", {
-        hash: {},
-        hashTypes: {},
-        hashContexts: {},
+    data.buffer.push(escapeExpression(helpers._triageMustache.call(depth0, "title", {
+        hash: {
+            unescaped: "true"
+        },
+        hashTypes: {
+            unescaped: "STRING"
+        },
+        hashContexts: {
+            unescaped: depth0
+        },
         contexts: [ depth0 ],
         types: [ "ID" ],
         data: data
-    }), (stack1 || 0 === stack1) && data.buffer.push(stack1), data.buffer.push("</h1>\n        </div>\n      </div><!-- row -->\n    </div><!-- container -->\n  </div><!-- headerwrap -->"), 
+    }))), data.buffer.push("</h1>\n        </div>\n      </div><!-- row -->\n    </div><!-- container -->\n  </div><!-- headerwrap -->"), 
     buffer;
 }), Ember.TEMPLATES.contact = Ember.Handlebars.template(function(Handlebars, depth0, helpers, partials, data) {
     this.compilerInfo = [ 4, ">= 1.0.0" ], helpers = this.merge(helpers, Ember.Handlebars.helpers), 
