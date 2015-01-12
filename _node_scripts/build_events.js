@@ -43,7 +43,7 @@ function createEventPages() {
     fs.appendFileSync( filePath, "category: event \n");
     fs.appendFileSync( filePath, "---\n\n");
 
-    fs.appendFileSync( filePath, "Blah Blah Blah");
+    fs.appendFileSync( filePath, "");
   }
 }
 
