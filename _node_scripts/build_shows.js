@@ -37,10 +37,15 @@ function createShowPages() {
     fs.appendFileSync( filePath, "layout: page\n");
     fs.appendFileSync( filePath, "title: \"" + showObj[key].Name + "\"\n");
     fs.appendFileSync( filePath, "category: show \n");
+    fs.appendFileSync( filePath, "featuredimage: \"/img/show-images/show-" + cleanStr(showObj[key].Name) + "-300x300.jpg\"\n");
     fs.appendFileSync( filePath, "---\n\n");
 
     fs.appendFileSync( filePath, util.htmlToText(showObj[key].Bio));
   }
+}
+
+function cleanStr(string) {
+    return string = string || "", string.replace(/\W/g, "").toLowerCase();
 }
 
 function writeShowsToFixtures() {
