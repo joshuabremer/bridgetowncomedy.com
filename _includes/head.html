@@ -7,7 +7,13 @@
   <meta property="og:url" content="{{ site.url }}{{page.url}}"/>
   <meta property="og:type" content="website"/>
   <meta property="og:description" content="{{ page.content }}"/>
-  <meta property="og:image" content="{{ site.url }}{{page.featuredimage}}" />
+
+  {% if page.featuredimage %}
+  <meta property="og:image" content="{{ site.url }}{{page.featuredimage}}"/>
+  {% else %}
+  <meta property="og:image" content="{{ site.url }}/img/facebook-image.png"/>
+  {% endif %}
+
   <meta itemprop="name" content="{{ site.title }}"/>
   <meta itemprop="url" content="{{ site.url }}"/>
   <meta itemprop="description" content="{{ page.content }}"/>
