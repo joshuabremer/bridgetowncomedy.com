@@ -37,7 +37,7 @@ function createPerformerPages() {
     fs.appendFileSync( filePath, "layout: page\n");
     fs.appendFileSync( filePath, "title: \"" + performerObj[key].Name + "\"\n");
     fs.appendFileSync( filePath, "category: performer \n");
-    fs.appendFileSync( filePath, "featuredimage: \"/img/performer-images/performer-" + cleanStr(performerObj[key].Name) + "'-300x300.jpg\"\n");
+    fs.appendFileSync( filePath, "featuredimage: \"/img/performer-images/performer-" + cleanStr(performerObj[key].Name) + "-300x300.jpg\"\n");
     fs.appendFileSync( filePath, "---\n\n");
 
     fs.appendFileSync( filePath, util.htmlToText(performerObj[key].Bio));
