@@ -29,9 +29,8 @@ Q.all([
   util.requestJsonAndSave( FESTIVALTHING_PERFORMERS_URL, TMP_PERFORMERS_PATH),
   util.requestJsonAndSave( FESTIVALTHING_SHOWS_URL, TMP_SHOWS_PATH)
 ]).then(function() {
-  // buildVenues();
-  // buildEvents();
-  // buildPerformers();
+  buildVenues();
+  buildEvents();
   var a = new ShowBuilder();
   a.buildFixtures();
   var b = new PerformerBuilder();
