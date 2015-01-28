@@ -116,7 +116,7 @@ Ember.TEMPLATES["four_oh_four"] = Ember.Handlebars.template({"compiler":[6,">= 2
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Page Not Found")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n  <div class=\"container main-content\">\n    <div class=\"row\">\n      <div class=\"col-md-8 col-md-offset-2\">\n        <div class=\"\">\n          <h2>The page cannot be found...</h2>\n          <p>Perhaps you are here because:</p>\n          <ul>\n            <li>The page has moved</li>\n            <li>The page no longer exists</li>\n            <li>You were looking for your puppy and got lost</li>\n            <li>You like 404 pages</li>\n          </ul>\n          <p><a class=\"btn btn-block btn-primary\" href=\"/\">Return to homepage </a></p>\n        </div>\n      </div>\n    </div>\n  </div>\n");
+  data.buffer.push("\n\n  <div class=\"container main-content\">\n    <div class=\"row\">\n      <div class=\"col-md-8 col-md-offset-2\">\n        <div class=\"\">\n          <h2>The page cannot be found...</h2>\n          <p>Perhaps you are here because:</p>\n          <ul>\n            <li>The page has moved</li>\n            <li>The page no longer exists</li>\n          </ul>\n          <p><a class=\"btn btn-block btn-primary\" href=\"/\">Return to homepage </a></p>\n        </div>\n      </div>\n    </div>\n  </div>\n");
   return buffer;
 },"useData":true});
 
