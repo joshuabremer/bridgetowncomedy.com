@@ -107,7 +107,7 @@ Ember.TEMPLATES["faqs"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0-bet
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("FAQs")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n  <p class=\"lead\">FAQs to come...</p>\n\n</div>\n\n\n");
+  data.buffer.push("\n\n<div class=\"container main-content\">\n  <h2 class=\"text-center\">FAQs to come...</p>\n\n</div>\n\n\n");
   return buffer;
 },"useData":true});
 
@@ -259,7 +259,7 @@ Ember.TEMPLATES["performers"] = Ember.Handlebars.template({"1":function(depth0,h
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Performers")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n  <p class=\"lead\">Performers subject to change...</p>\n  <div class=\"row\">\n");
+  data.buffer.push("\n\n<div class=\"container main-content\">\n <h2 class=\"text-center\">Performers to be announced...</h2>\n  <div class=\"row\">\n");
   stack1 = helpers.each.call(depth0, "performer", "in", "controller", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.noop,"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("  </div>\n</div>\n");
@@ -280,7 +280,7 @@ Ember.TEMPLATES["schedule"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Schedule")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n  <p>Performers, shows and prices subject to change.</p>\n  <div id=\"schedules\" ");
+  data.buffer.push("\n\n<div class=\"container main-content\">\n  <h2 class=\"text-center\">Schedule to be announced...</h2>\n  <div id=\"schedules\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
     'class': ("scheduleClass")
   },"hashTypes":{'class': "STRING"},"hashContexts":{'class': depth0},"types":[],"contexts":[],"data":data})));
@@ -384,7 +384,7 @@ Ember.TEMPLATES["shows"] = Ember.Handlebars.template({"1":function(depth0,helper
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Shows")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n  <p class=\"lead\">Shows subject to change...</p>\n  <div class=\"row\">\n");
+  data.buffer.push("\n\n<div class=\"container main-content\">\n  <h2 class=\"text-center\">Shows to be announced...</h2>\n  <div class=\"row\">\n");
   stack1 = helpers.each.call(depth0, "show", "in", "controller", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.noop,"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("  </div>\n</div>\n");
@@ -396,7 +396,7 @@ Ember.TEMPLATES["sponsors"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Sponsors")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content sponsors-container text-center\">\n  <p class=\"lead\">Sponsors to be announced...</p>\n</div><!-- container -->\n");
+  data.buffer.push("\n\n<div class=\"container main-content sponsors-container text-center\">\n  <h2 class=\"text-center\">Sponsors to be announced...</h2>\n</div><!-- container -->\n");
   return buffer;
 },"useData":true});
 
@@ -435,7 +435,7 @@ Ember.TEMPLATES["venues"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0-b
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Venues")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n  <p class=\"lead\">Venues to be decided...</p>\n</div>\n\n\n");
+  data.buffer.push("\n\n<div class=\"container main-content\">\n  <h2 class=\"text-center\">Venues to be decided...</h2>\n</div>\n\n\n");
   return buffer;
 },"useData":true});
 

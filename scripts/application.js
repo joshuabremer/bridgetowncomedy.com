@@ -23913,7 +23913,7 @@ App.Venue.FIXTURES = [], function() {
             types: [],
             contexts: [],
             data: data
-        }))), data.buffer.push('\n\n<div class="container main-content">\n  <p class="lead">FAQs to come...</p>\n\n</div>\n\n\n'), 
+        }))), data.buffer.push('\n\n<div class="container main-content">\n  <h2 class="text-center">FAQs to come...</p>\n\n</div>\n\n\n'), 
         buffer;
     },
     useData: !0
@@ -24326,7 +24326,7 @@ App.Venue.FIXTURES = [], function() {
             types: [],
             contexts: [],
             data: data
-        }))), data.buffer.push('\n\n<div class="container main-content">\n  <p class="lead">Performers subject to change...</p>\n  <div class="row">\n'), 
+        }))), data.buffer.push('\n\n<div class="container main-content">\n <h2 class="text-center">Performers to be announced...</h2>\n  <div class="row">\n'), 
         stack1 = helpers.each.call(depth0, "performer", "in", "controller", {
             name: "each",
             hash: {},
@@ -24381,7 +24381,7 @@ App.Venue.FIXTURES = [], function() {
             types: [],
             contexts: [],
             data: data
-        }))), data.buffer.push('\n\n<div class="container main-content">\n  <p>Performers, shows and prices subject to change.</p>\n  <div id="schedules" '), 
+        }))), data.buffer.push('\n\n<div class="container main-content">\n  <h2 class="text-center">Schedule to be announced...</h2>\n  <div id="schedules" '), 
         data.buffer.push(escapeExpression(helpers["bind-attr"].call(depth0, {
             name: "bind-attr",
             hash: {
@@ -24687,7 +24687,7 @@ App.Venue.FIXTURES = [], function() {
             types: [],
             contexts: [],
             data: data
-        }))), data.buffer.push('\n\n<div class="container main-content">\n  <p class="lead">Shows subject to change...</p>\n  <div class="row">\n'), 
+        }))), data.buffer.push('\n\n<div class="container main-content">\n  <h2 class="text-center">Shows to be announced...</h2>\n  <div class="row">\n'), 
         stack1 = helpers.each.call(depth0, "show", "in", "controller", {
             name: "each",
             hash: {},
@@ -24720,7 +24720,7 @@ App.Venue.FIXTURES = [], function() {
             types: [],
             contexts: [],
             data: data
-        }))), data.buffer.push('\n\n<div class="container main-content sponsors-container text-center">\n  <p class="lead">Sponsors to be announced...</p>\n</div><!-- container -->\n'), 
+        }))), data.buffer.push('\n\n<div class="container main-content sponsors-container text-center">\n  <h2 class="text-center">Sponsors to be announced...</h2>\n</div><!-- container -->\n'), 
         buffer;
     },
     useData: !0
@@ -24819,7 +24819,7 @@ App.Venue.FIXTURES = [], function() {
             types: [],
             contexts: [],
             data: data
-        }))), data.buffer.push('\n\n<div class="container main-content">\n  <p class="lead">Venues to be decided...</p>\n</div>\n\n\n'), 
+        }))), data.buffer.push('\n\n<div class="container main-content">\n  <h2 class="text-center">Venues to be decided...</h2>\n</div>\n\n\n'), 
         buffer;
     },
     useData: !0
