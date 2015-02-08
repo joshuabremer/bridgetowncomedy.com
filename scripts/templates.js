@@ -552,7 +552,7 @@ Ember.TEMPLATES["partials/_header"] = Ember.Handlebars.template({"1":function(de
 },"useData":true});
 
 Ember.TEMPLATES["partials/_news"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
-  data.buffer.push("\n<div class=\"newspost\" style=\"margin-top:50px;\">\n  <div class=\"newspost-content\">\n    <p>Submissions for the 2015 Bridgetown Comedy Festival, taking place May 7 - 10, are now open! Visit http://bridgetown.festivalthing.com to apply to perform as a standup comic or to submit your themed show or podcast for consideration. Submissions are open until February 1st, but if you apply by January 11th you save $5 off of the $25 submission fee, so put those videos together and show us what you've got!</p>\n  </div>\n</div>\n\n\n\n\n\n");
+  data.buffer.push("\n<div class=\"newspost\" style=\"margin-top:50px;\">\n  <div class=\"newspost-content\">\n    <p>Submissions for the 2015 Bridgetown Comedy Festival, taking place May 7 - 10, are now closed. Thanks to everyone who submitted. We're hunkering down for a couple of weeks to look over all the great comedy you sent our way and looking forward to putting together an incredible lineup for this year's fest!</p>\n  </div>\n</div>\n\n\n\n\n\n");
   },"useData":true});
 
 Ember.TEMPLATES["partials/_performer_box"] = Ember.Handlebars.template({"1":function(depth0,helpers,partials,data) {
