@@ -40,9 +40,7 @@ PerformerBuilder = ObjectBuilder.extend({
 
       performerObj[key].Twitter = performerObj[key].Twitter.replace("@", "");
 
-
       performerObj[key].SortOrder = parseInt(performerObj[key].SortOrder,10) || 99999;
-
     }
 
     performerObj = util.sortArray(performerObj,"SortOrder");

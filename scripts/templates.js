@@ -161,13 +161,39 @@ Ember.TEMPLATES["loading"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0-
 },"useData":true});
 
 Ember.TEMPLATES["performer"] = Ember.Handlebars.template({"1":function(depth0,helpers,partials,data) {
+  var stack1, escapeExpression=this.escapeExpression, buffer = '';
+  data.buffer.push("        <a class=\"btn btn-default\" target=\"_blank\" ");
+  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
+    'href': ("model.Website")
+  },"hashTypes":{'href': "ID"},"hashContexts":{'href': depth0},"types":[],"contexts":[],"data":data})));
+  data.buffer.push(">View Website of ");
+  stack1 = helpers._triageMustache.call(depth0, "model.Name", {"name":"_triageMustache","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data});
+  if (stack1 != null) { data.buffer.push(stack1); }
+  data.buffer.push(" <i class=\"fa fa-external-link\"></i></a>\n");
+  return buffer;
+},"3":function(depth0,helpers,partials,data) {
+  var stack1, escapeExpression=this.escapeExpression, buffer = '';
+  data.buffer.push("      <a class=\"twitter-timeline\" ");
+  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
+    'href': ("model.twitterUrl")
+  },"hashTypes":{'href': "ID"},"hashContexts":{'href': depth0},"types":[],"contexts":[],"data":data})));
+  data.buffer.push(" ");
+  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
+    'data-screen-name': ("model.Twitter")
+  },"hashTypes":{'data-screen-name': "ID"},"hashContexts":{'data-screen-name': depth0},"types":[],"contexts":[],"data":data})));
+  data.buffer.push(" data-widget-id=\"432300245716713474\">Tweets by ");
+  stack1 = helpers._triageMustache.call(depth0, "model.Twitter", {"name":"_triageMustache","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data});
+  if (stack1 != null) { data.buffer.push(stack1); }
+  data.buffer.push("</a>\n");
+  return buffer;
+},"5":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, buffer = '';
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "event", "event", {"name":"link-to","hash":{
     'classNames': ("list-group-item")
-  },"hashTypes":{'classNames': "STRING"},"hashContexts":{'classNames': depth0},"fn":this.program(2, data),"inverse":this.noop,"types":["STRING","ID"],"contexts":[depth0,depth0],"data":data}));
+  },"hashTypes":{'classNames': "STRING"},"hashContexts":{'classNames': depth0},"fn":this.program(6, data),"inverse":this.noop,"types":["STRING","ID"],"contexts":[depth0,depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   return buffer;
-},"2":function(depth0,helpers,partials,data) {
+},"6":function(depth0,helpers,partials,data) {
   var stack1, escapeExpression=this.escapeExpression, helperMissing=helpers.helperMissing, buffer = '';
   data.buffer.push("            <strong>");
   data.buffer.push(escapeExpression(helpers._triageMustache.call(depth0, "event.Name", {"name":"_triageMustache","hash":{
@@ -184,23 +210,23 @@ Ember.TEMPLATES["performer"] = Ember.Handlebars.template({"1":function(depth0,he
   data.buffer.push(escapeExpression(((helpers.getTime || (depth0 && depth0.getTime) || helperMissing).call(depth0, "event.end_time", {"name":"getTime","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data}))));
   data.buffer.push(")\n");
   return buffer;
-},"4":function(depth0,helpers,partials,data) {
+},"8":function(depth0,helpers,partials,data) {
   data.buffer.push("          <li class=\"list-group-item\">No shows scheduled yet...</li>\n");
-  },"6":function(depth0,helpers,partials,data) {
+  },"10":function(depth0,helpers,partials,data) {
   var stack1, buffer = '';
   data.buffer.push("      <ul class=\"list-group\">\n        <li class=\"list-group-item active\" style=\"background:#695b53;\">\n        <h4 class=\"list-group-item-heading\" style=\"background:#695b53;color:white\">Show MC</h4>\n        </li>\n");
-  stack1 = helpers.each.call(depth0, "event", "in", "mc_events", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(7, data),"inverse":this.program(4, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
+  stack1 = helpers.each.call(depth0, "event", "in", "mc_events", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(11, data),"inverse":this.program(8, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("\n      </ul>\n");
   return buffer;
-},"7":function(depth0,helpers,partials,data) {
+},"11":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, buffer = '';
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "event", "event.id", {"name":"link-to","hash":{
     'classNames': ("list-group-item")
-  },"hashTypes":{'classNames': "STRING"},"hashContexts":{'classNames': depth0},"fn":this.program(2, data),"inverse":this.noop,"types":["STRING","ID"],"contexts":[depth0,depth0],"data":data}));
+  },"hashTypes":{'classNames': "STRING"},"hashContexts":{'classNames': depth0},"fn":this.program(6, data),"inverse":this.noop,"types":["STRING","ID"],"contexts":[depth0,depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   return buffer;
-},"9":function(depth0,helpers,partials,data) {
+},"13":function(depth0,helpers,partials,data) {
   data.buffer.push("← All Performers");
   },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, escapeExpression=this.escapeExpression, buffer = '';
@@ -215,25 +241,20 @@ Ember.TEMPLATES["performer"] = Ember.Handlebars.template({"1":function(depth0,he
   data.buffer.push(escapeExpression(helpers._triageMustache.call(depth0, "Bio", {"name":"_triageMustache","hash":{
     'unescaped': ("true")
   },"hashTypes":{'unescaped': "STRING"},"hashContexts":{'unescaped': depth0},"types":["ID"],"contexts":[depth0],"data":data})));
-  data.buffer.push("\n      </p>\n      <p>\n      <a class=\"twitter-timeline\" ");
-  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
-    'href': ("model.twitterUrl")
-  },"hashTypes":{'href': "ID"},"hashContexts":{'href': depth0},"types":[],"contexts":[],"data":data})));
-  data.buffer.push(" ");
-  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
-    'data-screen-name': ("model.Twitter")
-  },"hashTypes":{'data-screen-name': "ID"},"hashContexts":{'data-screen-name': depth0},"types":[],"contexts":[],"data":data})));
-  data.buffer.push(" data-widget-id=\"432300245716713474\">Tweets by ");
-  stack1 = helpers._triageMustache.call(depth0, "model.Twitter", {"name":"_triageMustache","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data});
+  data.buffer.push("\n      </p>\n      <p>\n");
+  stack1 = helpers['if'].call(depth0, "model.Website", {"name":"if","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.noop,"types":["ID"],"contexts":[depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
-  data.buffer.push("</a>\n      </p>\n      <ul class=\"list-group\">\n        <li class=\"list-group-item active\" style=\"background:#695b53;\">\n        <h4 class=\"list-group-item-heading\" style=\"background:#695b53;color:white\">Shows</h4>\n        </li>\n");
-  stack1 = helpers.each.call(depth0, "event", "in", "sortedEvents", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.program(4, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
+  data.buffer.push("\n");
+  stack1 = helpers['if'].call(depth0, "model.Twitter", {"name":"if","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(3, data),"inverse":this.noop,"types":["ID"],"contexts":[depth0],"data":data});
+  if (stack1 != null) { data.buffer.push(stack1); }
+  data.buffer.push("      </p>\n      <ul class=\"list-group\">\n        <li class=\"list-group-item active\" style=\"background:#695b53;\">\n        <h4 class=\"list-group-item-heading\" style=\"background:#695b53;color:white\">Shows</h4>\n        </li>\n");
+  stack1 = helpers.each.call(depth0, "event", "in", "sortedEvents", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(5, data),"inverse":this.program(8, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("\n      </ul>\n");
-  stack1 = helpers['if'].call(depth0, "isAnMC", {"name":"if","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(6, data),"inverse":this.noop,"types":["ID"],"contexts":[depth0],"data":data});
+  stack1 = helpers['if'].call(depth0, "isAnMC", {"name":"if","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(10, data),"inverse":this.noop,"types":["ID"],"contexts":[depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("      <p>\n        ");
-  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "performers", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(9, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
+  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "performers", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(13, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("\n      </p>\n    </div>\n  </div>\n</div>\n\n\n\n\n\n");
   return buffer;
