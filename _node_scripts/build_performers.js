@@ -85,6 +85,10 @@ PerformerBuilder = ObjectBuilder.extend({
 
       fs.appendFileSync( filePath, util.htmlToText(performerObj[key].Bio));
     }
+  },
+
+  createHeadshots: function() {
+     //curl -z zak_toscani_headshot.jpg http://bridgetown.festivalthing.com/sites/default/files/images/performers/zak_toscani_headshot.jpg -o zak_toscani_headshot.jpg
   }
 });
 

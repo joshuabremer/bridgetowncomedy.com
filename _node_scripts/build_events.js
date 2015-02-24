@@ -26,7 +26,7 @@ function processEventData() {
 function createEventPages() {
   var eventObj = festivalData.getEventObject();
   var rootPath = "./event/";
-  wrench.rmdirSyncRecursive( "./event", false );
+  wrench.rmdirSyncRecursive( "./event", true );
   fs.mkdirSync( "./event" );
 
   for ( var key in eventObj ) {

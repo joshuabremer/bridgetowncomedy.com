@@ -43,7 +43,7 @@ function processVenueData() {
 function createVenuePages() {
   var venueObj = festivalData.getVenueObject();
   var rootPath = "./venue/";
-  wrench.rmdirSyncRecursive( "./venue", false );
+  wrench.rmdirSyncRecursive( "./venue", true );
   fs.mkdirSync( "./venue" );
 
   for ( var key in venueObj ) {
