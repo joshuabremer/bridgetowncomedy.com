@@ -35,6 +35,7 @@ Q.all([
   a.buildFixtures();
   var b = new PerformerBuilder();
   b.buildFixtures();
+  b.createHeadshots();
 }).catch(function(error) {
   console.error(error.stack);
 })

@@ -1,4 +1,5 @@
 var http = require("http");
+var exec = require('child_process').exec;
 var fs = require("fs");
 var easyimg = require("easyimage");
 var smushit = require("node-smushit");
@@ -6,6 +7,7 @@ var util = require( "./utilities" );
 var festivalData = require( "./festival-data" );
 var wrench = require('wrench');
 var ObjectBuilder = require( "./object_builder" );
+var curl = require('node-curl');
 
 var ShowBuilder;
 
@@ -88,7 +90,72 @@ PerformerBuilder = ObjectBuilder.extend({
   },
 
   createHeadshots: function() {
-     //curl -z zak_toscani_headshot.jpg http://bridgetown.festivalthing.com/sites/default/files/images/performers/zak_toscani_headshot.jpg -o zak_toscani_headshot.jpg
+    var performerObj = festivalData.getPerformerObject();
+
+    for ( var key in performerObj ) {
+      var item = performerObj[key];
+      this.buildImageFromURL ( item.Name, item.PhotoUrl, "performer" )
+    }
+     // curl -z tmp/aaronweaver.jpg http://localhost:4000/img/performer-images/performer-aaronweaver-300x300.jpg -o tmp/aaronweaver.jpg
+  },
+
+  buildImageFromURL: function ( name, url, prefix ) {
+    var _this = this;
+    var filename = url.replace(/^.*[\\\/]/, "");
+
+    var _this = this;
+    var filename = url.replace(/^.*[\\\/]/, "");
+    var file = fs.createWriteStream("tmp/" + filename);
+
+    var request = http.get(url, function(response) {
+      console.log("Created: " + "tmp/" + filename);
+      response.pipe(file);
+      response.on("end", function () {
+        _this.buildThumbnail("tmp/" + filename, "img/performer-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
+      });
+    });
+    request.on("error", function(e) {
+      console.log("Got error: " + e.message);
+    });
+    // console.log('curl -z tmp/' + filename + ' ' + url + ' -o tmp/' + filename)
+    // exec('curl -z tmp/' + filename + ' ' + url + ' -o tmp/' + filename,
+    //   function (error, stdout, stderr) {
+    //     if (error !== null) {
+    //       console.log('exec error: ' + error);
+    //       return;
+    //     }
+    //     // If the file is new, make new images
+    //     if ( stderr.indexOf("--:--:-- --:--:-- --:--:--") === -1 ) {
+    //       _this.buildThumbnail("tmp/" + filename, "img/performer-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
+    //     }
+    // });
+  },
+
+  buildThumbnail: function ( imgSrc, imgDest, fill ) {
+    console.log( imgSrc, imgDest, fill)
+    fill = fill || false;
+    easyimg.thumbnail(
+      {
+        src: imgSrc,
+        dst: imgDest,
+        width: 300,
+        height: 300,
+        x:0,
+        y:0,
+        fill: fill
+      },
+      function(err, image) {
+       if (err) {
+        console.log("Error resizing: " + imgSrc);
+        return;
+       }
+       //smushit.smushit(imgDest);
+       console.log("Resized and cropped: " + image.width + " x " + image.height + " | " + imgDest);
+       // fs.unlink(imgSrc, function() {
+       //  console.log("Deleted tmp file: " + imgSrc);
+       // });
+      }
+    );
   }
 });
 

@@ -36,7 +36,8 @@
     "ent": "~2.0.0",
     "ember-template-compiler": "~1.9.0-alpha",
     "handlebars": "~2.0.0",
-    "grunt-ember-templates": "~0.5.0-alpha"
+    "grunt-ember-templates": "~0.5.0-alpha",
+    "node-curl": "~0.3.3"
   },
   "repository": {
     "type": "git",
