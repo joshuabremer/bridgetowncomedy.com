@@ -262,17 +262,17 @@ Ember.TEMPLATES["performer"] = Ember.Handlebars.template({"1":function(depth0,he
 
 Ember.TEMPLATES["performers"] = Ember.Handlebars.template({"1":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, buffer = '';
-  data.buffer.push("    <div class=\"col-xs-6 col-sm-6 col-sm-4 col-md-3 col-lg-2 performer-box\">\n      <div class=\"performer-thumbnail\">\n");
+  data.buffer.push("      <div class=\"col-xs-6 col-sm-6 col-sm-4 col-md-3 col-lg-2 performer-box\">\n        <div class=\"performer-thumbnail\">\n");
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "performer", "performer", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(2, data),"inverse":this.noop,"types":["STRING","ID"],"contexts":[depth0,depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
-  data.buffer.push("      </div>\n      <legend>\n");
+  data.buffer.push("        </div>\n        <legend>\n");
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "performer", "performer", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(4, data),"inverse":this.noop,"types":["STRING","ID"],"contexts":[depth0,depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
-  data.buffer.push("      </legend>\n    </div>\n");
+  data.buffer.push("        </legend>\n      </div>\n");
   return buffer;
 },"2":function(depth0,helpers,partials,data) {
   var escapeExpression=this.escapeExpression, buffer = '';
-  data.buffer.push("        <img class=\"img-responsive\" width=\"300\" height=\"300\" ");
+  data.buffer.push("          <img class=\"img-responsive\" width=\"300\" height=\"300\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
     'src': ("performer.headshot300")
   },"hashTypes":{'src': "STRING"},"hashContexts":{'src': depth0},"types":[],"contexts":[],"data":data})));
@@ -280,19 +280,21 @@ Ember.TEMPLATES["performers"] = Ember.Handlebars.template({"1":function(depth0,h
   return buffer;
 },"4":function(depth0,helpers,partials,data) {
   var escapeExpression=this.escapeExpression, buffer = '';
-  data.buffer.push("          ");
+  data.buffer.push("            ");
   data.buffer.push(escapeExpression(helpers._triageMustache.call(depth0, "performer.Name", {"name":"_triageMustache","hash":{
     'unescaped': ("true")
   },"hashTypes":{'unescaped': "STRING"},"hashContexts":{'unescaped': depth0},"types":["ID"],"contexts":[depth0],"data":data})));
   data.buffer.push("\n");
   return buffer;
-},"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
+},"6":function(depth0,helpers,partials,data) {
+  data.buffer.push("      <h2 class=\"text-center\">Performers to be announced...</h2>\n");
+  },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, escapeExpression=this.escapeExpression, buffer = '';
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Performers")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n <h2 class=\"text-center\">Performers to be announced...</h2>\n  <div class=\"row\">\n");
-  stack1 = helpers.each.call(depth0, "performer", "in", "controller", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.noop,"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
+  data.buffer.push("\n\n<div class=\"container main-content\">\n  <div class=\"row\">\n");
+  stack1 = helpers.each.call(depth0, "performer", "in", "controller", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.program(6, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("  </div>\n</div>\n");
   return buffer;
