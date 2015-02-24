@@ -4,19 +4,21 @@
 
     <div class="col-sm-4 text-center">
       <p><img class="img-responsive performer-headshot" {{bind-attr src="headshot300" }} /></p>
+      <p>
+        {{#if model.Website}}
+          <a class="btn btn-default" target="_blank" style="white-space:normal" {{bind-attr href=model.Website}}>View Website of {{model.Name}} <i class="fa fa-external-link"></i></a>
+        {{/if}}
+      </p>
+      <p>
+        {{#if model.Twitter}}
+          <a class="twitter-timeline" {{bind-attr href=model.twitterUrl}} {{bind-attr data-screen-name=model.Twitter}} data-widget-id="432300245716713474">Tweets by {{model.Twitter}}</a>
+        {{/if}}
+      </p>
+      </p>
     </div>
     <div class="col-sm-8">
       <p>
         {{{ Bio }}}
-      </p>
-      <p>
-      {{#if model.Website}}
-        <a class="btn btn-default" target="_blank" {{bind-attr href=model.Website}}>View Website of {{model.Name}} <i class="fa fa-external-link"></i></a>
-      {{/if}}
-
-      {{#if model.Twitter}}
-      <a class="twitter-timeline" {{bind-attr href=model.twitterUrl}} {{bind-attr data-screen-name=model.Twitter}} data-widget-id="432300245716713474">Tweets by {{model.Twitter}}</a>
-      {{/if}}
       </p>
       <ul class="list-group">
         <li class="list-group-item active" style="background:#695b53;">

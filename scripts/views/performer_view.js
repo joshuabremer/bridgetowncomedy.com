@@ -1,0 +1,12 @@
+App.PerformerView = Ember.View.extend({
+  didInsertElement: function() {
+      // Twitter show
+      var js,
+      fjs = document.getElementsByTagName("script")[0],
+      p = /^http:/.test(document.location) ? 'http' : 'https';
+      js = document.createElement("script");
+      js.id = "twitter-wjs";
+      js.src = p + "://platform.twitter.com/widgets.js?" + new Date().getTime();
+      fjs.parentNode.insertBefore(js, fjs);
+    }
+});
