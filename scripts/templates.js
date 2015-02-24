@@ -215,7 +215,18 @@ Ember.TEMPLATES["performer"] = Ember.Handlebars.template({"1":function(depth0,he
   data.buffer.push(escapeExpression(helpers._triageMustache.call(depth0, "Bio", {"name":"_triageMustache","hash":{
     'unescaped': ("true")
   },"hashTypes":{'unescaped': "STRING"},"hashContexts":{'unescaped': depth0},"types":["ID"],"contexts":[depth0],"data":data})));
-  data.buffer.push("\n      </p>\n\n      <ul class=\"list-group\">\n        <li class=\"list-group-item active\" style=\"background:#695b53;\">\n        <h4 class=\"list-group-item-heading\" style=\"background:#695b53;color:white\">Shows</h4>\n        </li>\n");
+  data.buffer.push("\n      </p>\n      <p>\n      <a class=\"twitter-timeline\" ");
+  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
+    'href': ("model.twitterUrl")
+  },"hashTypes":{'href': "ID"},"hashContexts":{'href': depth0},"types":[],"contexts":[],"data":data})));
+  data.buffer.push(" ");
+  data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
+    'data-screen-name': ("model.Twitter")
+  },"hashTypes":{'data-screen-name': "ID"},"hashContexts":{'data-screen-name': depth0},"types":[],"contexts":[],"data":data})));
+  data.buffer.push(" data-widget-id=\"432300245716713474\">Tweets by ");
+  stack1 = helpers._triageMustache.call(depth0, "model.Twitter", {"name":"_triageMustache","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data});
+  if (stack1 != null) { data.buffer.push(stack1); }
+  data.buffer.push("</a>\n      </p>\n      <ul class=\"list-group\">\n        <li class=\"list-group-item active\" style=\"background:#695b53;\">\n        <h4 class=\"list-group-item-heading\" style=\"background:#695b53;color:white\">Shows</h4>\n        </li>\n");
   stack1 = helpers.each.call(depth0, "event", "in", "sortedEvents", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.program(4, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("\n      </ul>\n");

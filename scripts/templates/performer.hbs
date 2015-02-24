@@ -9,7 +9,9 @@
       <p>
         {{{ Bio }}}
       </p>
-
+      <p>
+      <a class="twitter-timeline" {{bind-attr href=model.twitterUrl}} {{bind-attr data-screen-name=model.Twitter}} data-widget-id="432300245716713474">Tweets by {{model.Twitter}}</a>
+      </p>
       <ul class="list-group">
         <li class="list-group-item active" style="background:#695b53;">
         <h4 class="list-group-item-heading" style="background:#695b53;color:white">Shows</h4>

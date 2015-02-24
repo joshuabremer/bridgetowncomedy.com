@@ -8,6 +8,7 @@ var festivalData = require( "./festival-data" );
 var wrench = require('wrench');
 var ObjectBuilder = require( "./object_builder" );
 var curl = require('node-curl');
+var colors = require('colors');
 
 var ShowBuilder;
 
@@ -36,6 +37,8 @@ PerformerBuilder = ObjectBuilder.extend({
       performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2014/g, "&#x2014;");
       performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00e9/g, "&#x00e9;");
       performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00e1/g, "&#x00e1;");
+
+      performerObj[key].Twitter = performerObj[key].Twitter.replace("@", "");
 
 
       performerObj[key].SortOrder = parseInt(performerObj[key].SortOrder,10) || 99999;
@@ -108,14 +111,15 @@ PerformerBuilder = ObjectBuilder.extend({
     var file = fs.createWriteStream("tmp/" + filename);
 
     var request = http.get(url, function(response) {
-      console.log("Created: " + "tmp/" + filename);
+      //console.log("Created: " + "tmp/" + filename);
       response.pipe(file);
       response.on("end", function () {
         _this.buildThumbnail("tmp/" + filename, "img/performer-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
       });
     });
     request.on("error", function(e) {
-      console.log("Got error: " + e.message);
+      var errMsg = "Got error: " + e.message;
+      console.log(errMsg.red);
     });
     // console.log('curl -z tmp/' + filename + ' ' + url + ' -o tmp/' + filename)
     // exec('curl -z tmp/' + filename + ' ' + url + ' -o tmp/' + filename,
@@ -132,30 +136,32 @@ PerformerBuilder = ObjectBuilder.extend({
   },
 
   buildThumbnail: function ( imgSrc, imgDest, fill ) {
-    console.log( imgSrc, imgDest, fill)
+    //console.log( imgSrc, imgDest, fill)
     fill = fill || false;
-    easyimg.thumbnail(
-      {
-        src: imgSrc,
-        dst: imgDest,
-        width: 300,
-        height: 300,
-        x:0,
-        y:0,
-        fill: fill
-      },
-      function(err, image) {
-       if (err) {
-        console.log("Error resizing: " + imgSrc);
-        return;
-       }
-       //smushit.smushit(imgDest);
-       console.log("Resized and cropped: " + image.width + " x " + image.height + " | " + imgDest);
-       // fs.unlink(imgSrc, function() {
-       //  console.log("Deleted tmp file: " + imgSrc);
-       // });
-      }
-    );
+    easyimg.convert({ src: imgSrc, dst: imgDest, quality: 80 }, function (file) {
+      easyimg.thumbnail(
+        {
+          src: imgDest,
+          dst: imgDest,
+          width: 300,
+          height: 300,
+          x: 0,
+          y: 0,
+          fill: fill
+        },
+        function(err, image) {
+         if (err) {
+          var errMsg = "Error resizing: " + imgDest;
+          console.log(errMsg.red);
+          return;
+         }
+         //smushit.smushit(imgDest);
+         //console.log("Resized and cropped: " + image.width + " x " + image.height + " | " + imgDest);
+         // fs.unlink(imgSrc, function() {
+         //  console.log("Deleted tmp file: " + imgSrc);
+         // });
+      });
+    });
   }
 });
 
