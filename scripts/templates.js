@@ -408,13 +408,15 @@ Ember.TEMPLATES["shows"] = Ember.Handlebars.template({"1":function(depth0,helper
   },"hashTypes":{'unescaped': "STRING"},"hashContexts":{'unescaped': depth0},"types":["ID"],"contexts":[depth0],"data":data})));
   data.buffer.push("\n");
   return buffer;
-},"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
+},"6":function(depth0,helpers,partials,data) {
+  data.buffer.push("      <h2 class=\"text-center\">Shows to be announced...</h2>\n");
+  },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, escapeExpression=this.escapeExpression, buffer = '';
   data.buffer.push(escapeExpression(((helpers['page-title-banner'] || (depth0 && depth0['page-title-banner']) || helperMissing).call(depth0, {"name":"page-title-banner","hash":{
     'title': ("Shows")
   },"hashTypes":{'title': "STRING"},"hashContexts":{'title': depth0},"types":[],"contexts":[],"data":data}))));
-  data.buffer.push("\n\n<div class=\"container main-content\">\n  <h2 class=\"text-center\">Shows to be announced...</h2>\n  <div class=\"row\">\n");
-  stack1 = helpers.each.call(depth0, "show", "in", "controller", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.noop,"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
+  data.buffer.push("\n\n<div class=\"container main-content\">\n\n  <div class=\"row\">\n");
+  stack1 = helpers.each.call(depth0, "show", "in", "controller", {"name":"each","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(1, data),"inverse":this.program(6, data),"types":["ID","ID","ID"],"contexts":[depth0,depth0,depth0],"data":data});
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("  </div>\n</div>\n");
   return buffer;

@@ -31,8 +31,11 @@ Q.all([
 ]).then(function() {
   buildVenues();
   buildEvents();
+
   var a = new ShowBuilder();
   a.buildFixtures();
+  a.createHeadshots();
+
   var b = new PerformerBuilder();
   b.buildFixtures();
   b.createHeadshots();

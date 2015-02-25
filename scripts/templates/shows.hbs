@@ -1,7 +1,7 @@
 {{page-title-banner title="Shows"}}
 
 <div class="container main-content">
-  <h2 class="text-center">Shows to be announced...</h2>
+
   <div class="row">
     {{#each show in controller}}
     <div class="col-xs-6 col-sm-6 col-sm-4 col-md-3 col-lg-2 performer-box">
@@ -16,6 +16,8 @@
         {{/link-to}}
       </legend>
     </div>
+    {{else}}
+      <h2 class="text-center">Shows to be announced...</h2>
     {{/each}}
   </div>
 </div>
