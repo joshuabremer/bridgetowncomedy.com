@@ -37,6 +37,8 @@ PerformerBuilder = ObjectBuilder.extend({
       performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2014/g, "&#x2014;");
       performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00e9/g, "&#x00e9;");
       performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00e1/g, "&#x00e1;");
+      performerObj[key].SortOrder = performerObj[key].Position;
+
 
       performerObj[key].Twitter = performerObj[key].Twitter.replace("@", "");
 
