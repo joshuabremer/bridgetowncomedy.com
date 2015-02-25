@@ -161,15 +161,12 @@ Ember.TEMPLATES["loading"] = Ember.Handlebars.template({"compiler":[6,">= 2.0.0-
 },"useData":true});
 
 Ember.TEMPLATES["performer"] = Ember.Handlebars.template({"1":function(depth0,helpers,partials,data) {
-  var stack1, escapeExpression=this.escapeExpression, buffer = '';
+  var escapeExpression=this.escapeExpression, buffer = '';
   data.buffer.push("          <a class=\"btn btn-default\" target=\"_blank\" style=\"white-space:normal\" ");
   data.buffer.push(escapeExpression(helpers['bind-attr'].call(depth0, {"name":"bind-attr","hash":{
     'href': ("model.Website")
   },"hashTypes":{'href': "ID"},"hashContexts":{'href': depth0},"types":[],"contexts":[],"data":data})));
-  data.buffer.push(">View Website of ");
-  stack1 = helpers._triageMustache.call(depth0, "model.Name", {"name":"_triageMustache","hash":{},"hashTypes":{},"hashContexts":{},"types":["ID"],"contexts":[depth0],"data":data});
-  if (stack1 != null) { data.buffer.push(stack1); }
-  data.buffer.push(" <i class=\"fa fa-external-link\"></i></a>\n");
+  data.buffer.push(">View Website <i class=\"fa fa-external-link\"></i></a>\n");
   return buffer;
 },"3":function(depth0,helpers,partials,data) {
   var stack1, escapeExpression=this.escapeExpression, buffer = '';
@@ -549,6 +546,8 @@ Ember.TEMPLATES["partials/_header"] = Ember.Handlebars.template({"1":function(de
   },"11":function(depth0,helpers,partials,data) {
   data.buffer.push("<span>2013 Press</span>");
   },"13":function(depth0,helpers,partials,data) {
+  data.buffer.push("<span>Sponsors</span>");
+  },"15":function(depth0,helpers,partials,data) {
   data.buffer.push("<span>Contact</span>");
   },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
   var stack1, helperMissing=helpers.helperMissing, buffer = '';
@@ -570,14 +569,17 @@ Ember.TEMPLATES["partials/_header"] = Ember.Handlebars.template({"1":function(de
   data.buffer.push("</li>\n        <li class=\"header-color1 hidden-sm\">");
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "press", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(11, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
+  data.buffer.push("</li>\n        <li class=\"header-color2 hidden-sm\">");
+  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "sponsors", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(13, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
+  if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("</li>\n        <li class=\"header-color3 hidden-sm\">");
-  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "contact", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(13, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
+  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "contact", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(15, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("</li>\n        <li class=\"dropdown visible-sm \">\n          <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">\n            More Info <span class=\"caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\">\n            <li class=\"header-color5\">");
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "press", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(11, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("</li>\n            <li class=\"header-color2\">");
-  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "contact", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(13, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
+  stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "contact", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(15, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
   if (stack1 != null) { data.buffer.push(stack1); }
   data.buffer.push("</li>\n            <li class=\"header-color3\">");
   stack1 = ((helpers['link-to'] || (depth0 && depth0['link-to']) || helperMissing).call(depth0, "faqs", {"name":"link-to","hash":{},"hashTypes":{},"hashContexts":{},"fn":this.program(9, data),"inverse":this.noop,"types":["STRING"],"contexts":[depth0],"data":data}));
