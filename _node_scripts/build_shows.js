@@ -61,6 +61,78 @@ ShowBuilder = ObjectBuilder.extend({
 
       fs.appendFileSync( filePath, util.htmlToText(showObj[key].Bio));
     }
+  },
+
+  createHeadshots: function() {
+    var showObj = festivalData.getShowObject();
+
+    for ( var key in showObj ) {
+      var item = showObj[key];
+      this.buildImageFromURL ( item.Name, item.PhotoUrl, "show" )
+    }
+     // curl -z tmp/aaronweaver.jpg http://localhost:4000/img/show-images/show-aaronweaver-300x300.jpg -o tmp/aaronweaver.jpg
+  },
+
+  buildImageFromURL: function ( name, url, prefix ) {
+    var _this = this;
+    var filename = url.replace(/^.*[\\\/]/, "");
+
+    var _this = this;
+    var filename = url.replace(/^.*[\\\/]/, "");
+    var file = fs.createWriteStream("tmp/" + filename);
+
+    var request = http.get(url, function(response) {
+      //console.log("Created: " + "tmp/" + filename);
+      response.pipe(file);
+      response.on("end", function () {
+        _this.buildThumbnail("tmp/" + filename, "img/show-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
+      });
+    });
+    request.on("error", function(e) {
+      var errMsg = "Got error: " + e.message;
+      console.log(errMsg.red);
+    });
+    // console.log('curl -z tmp/' + filename + ' ' + url + ' -o tmp/' + filename)
+    // exec('curl -z tmp/' + filename + ' ' + url + ' -o tmp/' + filename,
+    //   function (error, stdout, stderr) {
+    //     if (error !== null) {
+    //       console.log('exec error: ' + error);
+    //       return;
+    //     }
+    //     // If the file is new, make new images
+    //     if ( stderr.indexOf("--:--:-- --:--:-- --:--:--") === -1 ) {
+    //       _this.buildThumbnail("tmp/" + filename, "img/show-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
+    //     }
+    // });
+  },
+
+  buildThumbnail: function ( imgSrc, imgDest, fill ) {
+    //console.log( imgSrc, imgDest, fill)
+    fill = fill || false;
+    easyimg.convert({ src: imgSrc, dst: imgDest, quality: 80 }, function (file) {
+      easyimg.thumbnail(
+        {
+          src: imgDest,
+          dst: imgDest,
+          width: 300,
+          height: 300,
+          x: 0,
+          y: 0,
+          fill: fill
+        },
+        function(err, image) {
+         if (err) {
+          var errMsg = "Error resizing: " + imgDest;
+          console.log(errMsg.red);
+          return;
+         }
+         //smushit.smushit(imgDest);
+         //console.log("Resized and cropped: " + image.width + " x " + image.height + " | " + imgDest);
+         // fs.unlink(imgSrc, function() {
+         //  console.log("Deleted tmp file: " + imgSrc);
+         // });
+      });
+    });
   }
 });
 
