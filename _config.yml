@@ -13,7 +13,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, spec]
+exclude: ['CNAME','tmp','node_modules', 'package.json', 'npm-debug.log', 'Gruntfile.js', 'spec','config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
 
 collections:
   event:

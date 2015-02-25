@@ -12,12 +12,14 @@ cropSponsorImages();
 function cropSponsorImages() {
   var dir = './img/sponsor-images';
   var files = fs.readdirSync(dir);
-  for(var i in files){
-      if (!files.hasOwnProperty(i)) continue;
-      var fullPath = dir+'/'+files[i];
-      if (!fs.statSync(fullPath).isDirectory()){
-        buildThumbnail(dir + '/' + files[i],'./img/sponsor-' + files[i]);
-      }
+  for (var i in files) {
+    if ( !files.hasOwnProperty(i) ) continue;
+    if ( files[i].indexOf( "sponsor-" ) !== -1 ) continue;
+
+    var fullPath = dir + '/' + files[i];
+    if (!fs.statSync(fullPath).isDirectory()) {
+      buildThumbnail(dir + '/' + files[i],'./img/sponsor-images/sponsor-' + files[i]);
+    }
   }
 }
 
@@ -36,7 +38,7 @@ function buildThumbnail(imgSrc, imgDest, fill) {
       console.log("Error resizing: " + imgSrc);
       return;
      }
-     smushit.smushit(imgDest);
+     //smushit.smushit(imgDest);
      console.log("Resized and cropped: " + image.width + " x " + image.height + " | " + imgDest);
      // fs.unlink(imgSrc, function() {
      //  console.log("Deleted tmp file: " + imgSrc);

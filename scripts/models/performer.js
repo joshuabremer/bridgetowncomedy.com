@@ -9,6 +9,10 @@
 
     Name: DS.attr('string'),
 
+    Twitter: DS.attr('string'),
+
+    Website: DS.attr('string'),
+
     PhotoUrl: DS.attr('string'),
 
     SortOrder: DS.attr('number'),
@@ -17,11 +21,15 @@
 
     slug: function() {
       return sluggify(this.get('Name'));
-    }.property('Name'),
+  }.property('Name'),
 
     Bio: DS.attr('string'),
 
     pageUrl: DS.attr('string'),
+
+    twitterUrl: function() {
+      return "https://twitter.com/" + this.get("Twitter").replace("@", "");
+    }.property("Twitter"),
 
     headshot300: function() {
       return '/img/performer-images/performer-' + cleanStr(this.get('Name')) + '-300x300.jpg';
