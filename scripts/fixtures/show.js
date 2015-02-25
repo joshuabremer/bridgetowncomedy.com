@@ -61,6 +61,16 @@ App.Show.FIXTURES = [
   "events": []
  },
  {
+  "Name": "Dr. Katz, Professional Therapist: a 20th Anniversary Celebration",
+  "Copy": "",
+  "Bio": "The Bridgetown Comedy Festival is proud to present a live production of Dr. Katz, Professional Therapist in celebration of the 20th anniversary of the Comedy Central debut of the groundbreaking animated program that showcased dozens of comedy legends including Conan O&#039;Brien, Ray Romano, Louis CK, Dave Chappelle and Mitch Hedberg. For the live presentation, host Jonathan Katz welcomes special guests Janeane Garofalo (24, Mr. Show, The Ben Stiller Show), Andy Kindler (The Late Show with David Letterman, Last Comic Standing), Dana Gould (The Simpsons), Brendon Small (Metalocalypse, Home Movies) and surprise guests.\r\n\r\nTickets available at https://www.ticketfly.com/purchase/event/796489",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/drkatz.jpg",
+  "SubmittedId": "10354",
+  "id": "10354",
+  "pageUrl": "10354-dr-katz-professional-therapist-a-20th-anniversary-celebration",
+  "events": []
+ },
+ {
   "Name": "Funny Over Everything",
   "Copy": "The Funny Over Everything comedy showcase is a monthly series showcasing some of the best, most innovative up-and-coming stand-up comedians that the nation has to offer. Past performers include Moshe Kasher, Ron Funches, Hannibal Buress, Jerrod Carmichael, Doug Benson, Peter Serafenowitz, Sean Patton, Beth Stelling, Nate Bargatze, Emily Heller, Ian Karmel, Timmy Williams, Sean Jordan and Shane Torres.\r\n",
   "Bio": "A standup showcase of some of the top, somewhat unknown to the mainstream, comics in North America. Hosted by Sean Jordan, and featuring sketch by Phil Schallberger. ",
@@ -138,16 +148,6 @@ App.Show.FIXTURES = [
   "SubmittedId": "10212",
   "id": "10212",
   "pageUrl": "10212-talk-show-the-game-show",
-  "events": []
- },
- {
-  "Name": "TEST",
-  "Copy": "",
-  "Bio": "",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/199623_316235271820926_4336403_n.jpg",
-  "SubmittedId": "10338",
-  "id": "10338",
-  "pageUrl": "10338-test",
   "events": []
  },
  {
