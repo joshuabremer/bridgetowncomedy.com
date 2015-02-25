@@ -842,7 +842,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Jen Seaman",
-  "Bio": "<p>Jen Seaman brings to the stage an imaginatively whimsical and sometimes dark (well, let’s be honest, most of the time dark) style of humor for over seven years now. Seaman has performed at a variety of festivals including SF Sketchfest, Bumbershoot (Seattle), She-Devil Comedy Festival (New York), and the Women in Comedy Festival (Boston).<br />\nShe was recently featured on FOX&quot;s Laughs and was a judge’s favorite on Season 6 of NBC’s America’s Got Talent, which took her to Vegas. Seaman can been seen on Comedy Central’s AtomTV and was recently named Seattle’s Best Comedian by Seattle Weekly.<br />\nHer bizarre upbringing, tales of a baby-obsessed mother and an unwavering desire to stay independent all play a part in making this sweet 5’1’’ spitfire one of the most unique stand-up comedians around!<br />\nWhen not on stage or writing Seaman can be found indulging in her other passion, baking, for her web series, “The Filling is Mutual.” “The Filling is Mutual” is a unique combination of sweets and laughs in which she and a fellow comedian use jokes as an inspiration for the creation of delicious treats.</p>\n",
+  "Bio": "<p>Jen Seaman brings to the stage an imaginatively whimsical and sometimes dark (well, let’s be honest, most of the time dark) style of humor for over seven years now. Seaman has performed at a variety of festivals including SF Sketchfest, Bumbershoot (Seattle), She-Devil Comedy Festival (New York), and the Women in Comedy Festival (Boston). </p>\n<p>She was recently featured on FOX&quot;s Laughs and was a judge’s favorite on Season 6 of NBC’s America’s Got Talent, which took her to Vegas. Seaman can been seen on Comedy Central’s AtomTV and was recently named Seattle’s Best Comedian by Seattle Weekly.</p>\n<p>Her bizarre upbringing, tales of a baby-obsessed mother and an unwavering desire to stay independent all play a part in making this sweet 5’1’’ spitfire one of the most unique stand-up comedians around!<br />\nWhen not on stage or writing Seaman can be found indulging in her other passion, baking, for her web series, “The Filling is Mutual.” “The Filling is Mutual” is a unique combination of sweets and laughs in which she and a fellow comedian use jokes as an inspiration for the creation of delicious treats.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jenseaman.jpeg",
   "PerformerId": "10082",
   "Twitter": "jenseaman",
@@ -912,7 +912,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Langston Kerman",
-  "Bio": "<p>Langston Kerman is a Brooklyn based comic who just performed as a finalist at the 11th Annual Stand Up NBC Finale Showcase at the Hollywood Improv in LA. He hosts The Fancy Show, a weekly standup night on Tuesdays in Brooklyn and has performed at UCB, IO and other venues all over the country. Last year he was a finalist in the Boston Comedy Festival. He is a fresh face who is hilarious. Below are a few links to Langston’s stand-up</p>\n",
+  "Bio": "<p>Langston Kerman is a Brooklyn based comic who just performed as a finalist at the 11th Annual Stand Up NBC Finale Showcase at the Hollywood Improv in LA. He hosts The Fancy Show, a weekly standup night on Tuesdays in Brooklyn and has performed at UCB, IO and other venues all over the country. Last year he was a finalist in the Boston Comedy Festival. He is a fresh face who is hilarious.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/langston.jpg",
   "PerformerId": "9243",
   "Twitter": "",
@@ -940,7 +940,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Jerron Horton",
-  "Bio": "<p>Jerron Horton is a stand up comedian from Atlanta, GA whom currently resides in Hollywood.  He is a funny guy that made the right career choice.</p>\n",
+  "Bio": "<p>Jerron Horton is a stand up comedian from Atlanta, GA who currently resides in Hollywood.  He is a funny guy that made the right career choice.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jh_small.jpg",
   "PerformerId": "9382",
   "Twitter": "jerronhorton",
@@ -1066,7 +1066,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Ismael Loutfi",
-  "Bio": "<p>Ismael Loutfi is a sweet boy. Just look at that face. You probably want to bring him home to mom. Underneath that sweetness lies a deeply acerbic sense of humor, the sort of thing you might develop growing up a Muslim in Ocala, Fl. Now living in Atlanta, GA Ismael has quickly become a favorite of the city’s exploding comedy scene. He’s a regular at the Laughing Skull Lounge and Atlanta Improv, and has been featured on The Fest in Gainesville alongside Chris Gethard.</p>\n",
+  "Bio": "<p>Ismael Loutfi is a sweet boy. Just look at that face. You probably want to bring him home to mom. Underneath that sweetness lies a deeply acerbic sense of humor, the sort of thing you might develop growing up a Muslim in Ocala, Fl. Now living in Atlanta, GA, Ismael has quickly become a favorite of the city’s exploding comedy scene. He’s a regular at the Laughing Skull Lounge and Atlanta Improv, and has been featured on The Fest in Gainesville alongside Chris Gethard.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/pic.jpg",
   "PerformerId": "10128",
   "Twitter": "Ismaelian",
@@ -1122,7 +1122,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Jeff Scheen",
-  "Bio": "<p>Jeff Scheen is a comedian and writer who grew up in remote Holly, Michigan and began his career in Detroit. Since moving to Chicago, Jeff has become a regular at the Chicago Laugh Factory, Zanies, and several independent comedian run shows including his own &quot;This Weeks Show&quot; in Wrigleyville.<br />\n     His off beat humor goes along nicely with his expressive yet creepy face. Growing up in northern Michigan surrounded by trees and dirt roads will make any kid a weirdo and Jeff has no problem telling you about it. Jeff has showcased at numerous theaters and festivals including The Cleveland Comedy Festival, Laugh your Asheville off in North Carolina, and Laughfest in Grand rapids Michigan.</p>\n",
+  "Bio": "<p>Jeff Scheen is a comedian and writer who grew up in remote Holly, Michigan and began his career in Detroit. Since moving to Chicago, Jeff has become a regular at the Chicago Laugh Factory, Zanies, and several independent comedian run shows including his own &quot;This Weeks Show&quot; in Wrigleyville. </p>\n<p>     His off beat humor goes along nicely with his expressive yet creepy face. Growing up in northern Michigan surrounded by trees and dirt roads will make any kid a weirdo and Jeff has no problem telling you about it. Jeff has showcased at numerous theaters and festivals including The Cleveland Comedy Festival, Laugh your Asheville Off in North Carolina, and Laughfest in Grand Rapids Michigan.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jeff_scheen.jpg",
   "PerformerId": "9177",
   "Twitter": "sexmascheen",
@@ -1150,7 +1150,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Jeffrey Jay",
-  "Bio": "<p>Jeffrey Jay is a comedy writer for the Feast of Fun podcast, host of the Two Black Women podcast, and a nationally touring college comedian and public speaker. He has been featured in The Advocate as one of  “The top 5 Transgender Comedians” and “7 LGBT Comics You Shouldn’t Have missed in 2011″, has been see on the CW morning show The Eye Opener, and a Finalist in The 2013 Funniest Comic in Texas. He has been featured in the Dallas Comedy Festival and in a currently airing national Hyundai Commercial.</p>\n",
+  "Bio": "<p>Jeffrey Jay is a comedy writer for the Feast of Fun podcast, host of the Two Black Women podcast, and a nationally touring college comedian and public speaker. He has been featured in The Advocate as one of  “The top 5 Transgender Comedians” and “7 LGBT Comics You Shouldn’t Have Missed in 2011,″ has been see on the CW morning show The Eye Opener, and was a finalist in The 2013 Funniest Comic in Texas. He has been featured in the Dallas Comedy Festival and in a currently airing national Hyundai commercial.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot2_0.jpg",
   "PerformerId": "9439",
   "Twitter": "heyjeffreyjay",
@@ -1164,7 +1164,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Jessica Sele",
-  "Bio": "<p>Jessica Sele is a deeply weird human being and stand-up comedian living in Oakland, CA. She frequently performs up and down the west coast and sometimes in Fargo. Jessica co-produces a popular weekly show every Thursday in San Francisco in the Cine Cave at Lost Weekend Video called the Mission Position and can also be seen at the San Francisco Punchline, or at most other regular comedy shows in the bay area. She has also performed in venues such as The Great American Music Hall, The Oakland Metropolitan Opera House and The Chapel. Her subject material ranges from sexuality to living in the end times to mental health issues and their related substance abuse habits, etc… Jessica’s comedy is often described as personal, emotionally raw, incisive and hilarious.</p>\n",
+  "Bio": "<p>Jessica Sele is a deeply weird human being and stand-up comedian living in Oakland, CA. She frequently performs up and down the west coast and sometimes in Fargo. Jessica co-produces a popular weekly show every Thursday in San Francisco in the Cine Cave at Lost Weekend Video called the \"Mission Position,\" and can also be seen at the San Francisco Punchline or at most other regular comedy shows in the bay area. </p>\n<p>She has also performed in venues such as The Great American Music Hall, The Oakland Metropolitan Opera House and The Chapel. Her subject material ranges from sexuality to living in the end times to mental health issues and their related substance abuse habits, etc. Jessica’s comedy is often described as personal, emotionally raw, incisive and hilarious.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jessica-headshot.jpg",
   "PerformerId": "9598",
   "Twitter": "",
@@ -1192,7 +1192,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Joel Kim Booster",
-  "Bio": "<p>Joel Kim Booster is a Chicago bred, Brooklyn based comedian and writer. His comedy can be seen at comedy clubs, colleges and bar basements all over the country. Recently named by Paper Magazine as one of their &quot;10 Comedians You Need to Know.&quot; He writes regularly for sites like The Toast, Reductress, Decider and others. Previously he served as a co-writer and guest star on the camp comedy webseries Kam Kardashian. The series premiered at SXSW in 2013 and continues to get written about on various blogs, if you&#039;re into that.</p>\n",
+  "Bio": "<p>Joel Kim Booster is a Chicago bred, Brooklyn based comedian and writer. His comedy can be seen at comedy clubs, colleges and bar basements all over the country. He was recently named by Paper Magazine as one of their &quot;10 Comedians You Need to Know.&quot; He writes regularly for sites like The Toast, Reductress, Decider and others. Previously he served as a co-writer and guest star on the camp comedy webseries Kam Kardashian. The series premiered at SXSW in 2013 and continues to get written about on various blogs, if you&#039;re into that.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joel_kim_booster.jpg",
   "PerformerId": "9552",
   "Twitter": "ihatejoelkim",
