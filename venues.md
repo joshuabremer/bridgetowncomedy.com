@@ -9,7 +9,7 @@ description: Come join us on East Burnside for the Bridgetown Comedy Festival in
 
 ### Kill Rock Stars Stage at Doug Fir Lounge
 
-  [http://www.dougfirlounge.com/](http://www.dougfirlounge.com/)
+  [www.dougfirlounge.com](http://www.dougfirlounge.com/)
 
 830 E. Burnside St., Portland, OR
 
@@ -28,7 +28,7 @@ description: Come join us on East Burnside for the Bridgetown Comedy Festival in
 
 ### Revolution Hall (Washington High)
 
-  [www.revolutionhallpdx.com/](http://www.revolutionhallpdx.com/)
+  [www.revolutionhallpdx.com](http://www.revolutionhallpdx.com/)
 
 Suite #110, 1300 SE Stark St, Portland, OR
 
@@ -63,7 +63,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 ### Bunk
 
-  [www.bunksandwiches.com/bunkbar/](http://www.bunksandwiches.com/bunkbar/)
+  [www.bunksandwiches.com/bunkbar](http://www.bunksandwiches.com/bunkbar/)
 
 1028 SE Water, Portland, OR
 
@@ -89,7 +89,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 ### Boogie Burgers
 
-  [www.boogiesburgersandbrew.com/](http://www.boogiesburgersandbrew.com/)
+  [www.boogiesburgersandbrew.com](http://www.boogiesburgersandbrew.com/)
 
 910 E Burnside St, Portland, OR
 
