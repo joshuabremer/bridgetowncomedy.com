@@ -5,7 +5,7 @@ App.Performer.FIXTURES = [
   "Bio": "<p>I started doing standup in 1981, when there weren’t so many jokes. I quickly learned that my comedy wasn’t for everybody, it was for everybody else. The Improv in New York City was my first home. There, being funny onstage was important, but even more so was being funny at the bar with the other comics. In the early days, some of the comedians had a standing bet on how long I’d last on stage. No one guessed it would be thirty-three years. </p>\n<p>My earliest credit was being musical director for Robin Williams, which worked until people realized that he was not a musician. Around that time, the movie House Of Games was released, written by David Mamet, based on a story by the two of us. A few years later, I played a sleazy comedian in his movie, Things Change – a stretch? </p>\n<p>I made my debut on Late Night with David Letterman in 1985 and have returned eight times since. I always pretend to leave something behind. </p>\n<p>Soon, I did The Tonight Show with Johnny Carson – twice, Leno twice, and Conan seven times, but the work that really attracted attention was an animated series I created with Tom Snyder for Comedy Central called Dr. Katz: Professional Therapist. I played the title role and won an Emmy. The show won a Peabody Award. And then Hollywood took an interest: first NBC, then Dreamworks, followed by Paramount where I created a show called Raising Dad, which aired on the WB network. </p>\n<p>I’ve had roles in many animated shows, including Home Movies, Bob’s Burgers, Adventure Time and Explosion Bus, but probably more people have seen me as the social worker in Eddie Murphy’s film Daddy Day Care than in any other role. </p>\n<p>Currently I am working on a book with David Mamet called the The Home for Unfortunate Animals and happen to be living in one, too. </p>\n<p>You can hear me on my podcast Hey, We’re Back on WKATZ.com.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dr_katz_live.jpg",
   "PerformerId": "10349",
-  "Twitter": "KatzOnEarth",
+  "Twitter": "jonathan_katz",
   "Website": "http://www.jonathankatz.com/",
   "Position": "1",
   "id": "10349",
@@ -63,7 +63,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Neil Hamburger",
   "Bio": "<p>America’s Funnyman Neil Hamburger is the hardest working comedian in existence,  performing up to 399 shows a year internationally to critical acclaim and audience  bewilderment.  He’s toured as the hand-picked opener for Tenacious D, Tim &amp; Eric, and  Faith No More, and his TV credits include Fox News’ Red Eye, Tim and Eric Awesome  Show, Tom Green Live, and Jimmy Kimmel Live. On his 2011 UK tour Neil played to  packed houses at the Edinburgh Fringe and completed a 10-show stint at London’s Soho  Theatre. His most recent album “Live At Third Man” was produced by Jack White in  Nashville; an earlier Hamburger album was among SPIN’s “40 Greatest Comedy Albums  Of All Time.”</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/neil_hamburger_photo.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/neil_hamburger_photo_0.jpg",
   "PerformerId": "10312",
   "Twitter": "NeilHamburger",
   "Website": "http://www.americasfunnyman.com",
@@ -168,7 +168,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Tone Bell",
   "Bio": "<p>Tone Bell is best known for starring in the NBC multi-camera comedy \"Whitney\" as RJ, Alex's (Chris D'Elia) old high school friend who has moved back to Chicago to bartend after a recent divorce. Born and raised in Atlanta, the stand-up comedian began his career in Dallas, where he was voted one of the Funniest Comics in Texas. Bell's real-life brand of comedy has seen him succeed on both the comedy festival circuit as well as previously on NBC as the winner of the Stand Up For Diversity program. Tone recently was a guest on The Late Late Show with Craig Ferguson and was also featured on the Spike TV special \"Eddie Murphy: One Night Only\" and E!’s “Love You Mean It”.  He currently tours around the country performing at colleges and clubs. Tone recently starred in a single-camera comedy pilot for Fox, has also appeared on Comedy Central’s “Key and Peele,” and hosted MTV's \"Jerks with Cameras.\"  Tone can next be seen starring in the new NBC comedy pilot \"Bad Judge,\" which was recently picked up to series.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/tone.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/tone_bell-3445.jpg",
   "PerformerId": "10287",
   "Twitter": "toneBell",
   "Website": "http://www.tonebell.com",
@@ -228,7 +228,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Michael Kosta",
   "Bio": "<p>Michael Kosta is a stand-up comedian who was most recently seen on Fox Sports 1’s flagship series, Crowd Goes Wild.  Kosta and Regis Philbin lead a panel of sports experts in a lighthearted look at the daily happenings in the world of sports. Kosta started out as an athlete; he is quick to point out that he was once-ranked number 864 in the world in professional tennis and earned over $11,000 on tour.  Don&#039;t laugh, that&#039;s $11,000 more than you made as a pro athlete.</p>\n<p>He will next be seen on E!’s The Comments Section, executive produced by Joel McHale and K.P. Anderson (The Soup). The show will focus on deconstructing the often snarky comments on popular websites. </p>\n<p>Kosta gained attention as a comedian when he broke out of the HBO Comedy and Arts Festival in Aspen.  He quickly relocated to Los Angeles where he began his television career; he made regular appearances on The Tonight Show with Jay Leno &amp; Chelsea Lately before both those hosts drowned in their money and ended their shows.  He has performed on Conan, @Midnight, the Just for Laughs Festival in Montreal and also starred in his own comedy special, Comedy Central Presents: Michael Kosta.  As a host, Michael acted as a know-it-all correspondent for E!’s spinoff of The Soup, entitled The Soup Investigates, and was recently seen guest hosting the hit G4 series, Attack of The Show; that stint ended after Kosta caused the show as well as the network to be cancelled (the media says that the network was being reformatted, but we know better).</p>\n<p>His other TV credits include TruTV’s The Smoking Gun Presents, Showtime’s Live Nude Comedy and Michael also hosted the 63rd Annual Emmy Awards’ Backstage Live show.<br />\nKosta has also shot pilots with MTV, NBC, E! and developed a late night talk show with Comedy Central and recently developed his own scripted pilot based on his life, produced by Fox. All of those projects were colossal failures.</p>\n<p>In the sports world, Kosta hosted Fox Sports Network’s CCHA All Access, a hockey show in Detroit, for which he won two “Michigan Emmys” as performer/host. Those are like regular Emmys, but smaller and a lot less prestigious.  He is also the author of a book titled “101 Tips for Winning More Tennis Matches” which earns him quarterly royalty checks of around $110.</p>\n<p>Michael lives in Los Angeles where he hopes to someday become famous and forget the little people.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/michael_kosta_-_headshot.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/michael_kosta_-_headshot_0.jpg",
   "PerformerId": "9755",
   "Twitter": "michaelkosta",
   "Website": "http://www.michaelkosta.com/",
@@ -257,8 +257,8 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Ian Karmel",
-  "Bio": "<p>Ian Karmel is a homegrown Portland comedian whose style zig-zags between the eclectic and the universal. Ian is currently a writer on CBS’ The Late Late Show with James Corden, previously he was writer and roundtable regular on E!’s Chelsea Lately. In 2014, Karmel made his late night TV debut on TBS' Conan and was featured on Comedy Central’s Adam Devine’s House Party Season 2. In 2013, Ian was invited to the prestigious Just for Laughs Festival in Montreal, where he was a breakout stand up in the New Faces category. Ian’s other television credits include IFC’s Portlandia and the Travel Channel’s Best Sandwich in America, as well as a post-game analyst and commentator for the Portland Trailblazers. </p>\n<p>His debut album is set to release in 2015 from Portland based label Kill Rock Stars. Ian’s unique perspective helped him win the 2011 Funniest Person in Portland and has given him the opportunity to headline at various venues and festivals throughout America including the Bridgetown Comedy Festival and Moontower Comedy Festival in Austin. His training includes The Groundlings and the Upright Citizens Brigade and he is a regular contributor for the Portland Mercury in which is he currently writes the highly anticipated weekly column “Everything as F*ck”. He currently lives in Los Angeles.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/karmelheadshot-438x288_0.jpg",
+  "Bio": "<p>Ian Karmel is a homegrown Portland comedian whose style zig-zags between the eclectic and the universal. Ian is currently a writer on CBS’ The Late Late Show with James Corden, previously he was writer and roundtable regular on E!’s Chelsea Lately. In 2014, Karmel made his late night TV debut on TBS' Conan and was featured on Comedy Central’s Adam Devine’s House Party Season 2. In 2013, Ian was invited to the prestigious Just for Laughs Festival in Montreal, where he was a breakout stand up in the New Faces category. Ian’s other television credits include IFC’s Portlandia and the Travel Channel’s Best Sandwich in America, as well as a post-game analyst and commentator for the Portland Trailblazers. </p>\n<p>His debut album is set to release in 2015 from Portland based label Kill Rock Stars. Ian’s unique perspective helped him win the 2011 Funniest Person in Portland and has given him the opportunity to headline at various venues and festivals throughout America including the Bridgetown Comedy Festival and Moontower Comedy Festival in Austin. His training includes The Groundlings and the Upright Citizens Brigade and he is a regular contributor for the Portland Mercury in which is he currently writes the highly anticipated weekly column “Everything as F*ck”. He currently lives in Los Angeles.</p>\n<p>(photo credit Nicole Clemetson)</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ian_karmel_credit_nicolle_clemetson_3.jpg",
   "PerformerId": "10315",
   "Twitter": "iankarmel",
   "Website": "http://iankarmel.com/",
@@ -303,7 +303,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Kira Soltanovich",
   "Bio": "<p>Kira Soltanovich grew up in San Francisco during a time when there were bad neighborhoods, cheap coffee and it wasn’t ironic to ride the cable cars. She began her career in comedy back in 1998 right after asking her immigrant Russian parents if they were supportive of her desire to become a stand up comedian. After her mother and father confessed “It’s not like you’re smart enough to be a doctor,” Kira took that as their blessing to pursue her dreams and she’s never looked back.<br />\n <br />\nShe was a series regular on the hidden camera show Girls Behaving Badly for 4 seasons, and was a correspondent on The Tonight Show with Jay Leno for over 8 years.<br />\n <br />\nKira has appeared on Jimmy Kimmel Live, Last Call with Carson Daly, Hell’s Kitchen, Last Comic Standing, Set List TV, Nick Mom, Hello Ross! and The World Stands Up. She has written and performed with Joan Rivers, Scott Baio, Selena Gomez and Justin Bieber. And if that doesn’t impress you, I don’t know what will.</p>\n<p>She’s been a writer on How’d You Get So Rich? for TV Land, Raising Whitley on Oxygen and Prankstars on Disney.  Currently Kira is a Series Regular on How To Be A Grownup for TruTV.<br />\n <br />\nHer half hour Showtime special, Here Comes Trouble, won Best Stand Up Special by a Soviet.*<br />\n <br />\nKira’s four year old son inspired her to have her very own podcast. On The Kira Soltanovich Show, Kira interviews other fellow comedians who have kids and they discuss all things comedy and colic related.</p>\n<p>*There is no such award.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kira_soltanovich_headshot.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kira_soltanovich_headshot_0.jpg",
   "PerformerId": "9919",
   "Twitter": "kiracomedy",
   "Website": "http://www.kiracomedy.com",
@@ -362,7 +362,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Phoebe Robinson",
-  "Bio": "<p>Phoebe Robinson is a stand up comedian, writer, and actor who both TimeOut NY and Flavorpill have named one of the top ten comics working in NYC. Most recently, she appeared on Comedy Central’s Broad City, NBC’s Last Comic Standing and the Today show, and is a writer on MTV’s hit talking head show Girl Code.</p>\n<p>When not working in television, Ms. Robinson is a writer for Glamour.com and contributes to The New York Times, bitch magazine, xoJane.com, VH1.com, Refinery 29.com, Decider.com, VanityFair.com, and TheDailyBeast.com. Her blog Blaria (aka Black Daria), which is rapidly approaching 150,000 views, has been featured on The Huffington Post, and has launched a podcast as well as a monthly stand up show at UCB East that she co-hosts with The Daily Show’s Jessica Williams and it has consistently sold out since its inception nearly a year ago.</p>\n<p>She recently just finished opening for The Daily Show’s Wyatt Cenac and Broad City on their comedy tours and is currently a staff writer on Fuse’s upcoming daily late night pop culture talk show. Follow her on Instragram at blariaakaphoeberobinson if you want to pictures of her afro in various weird shapes.</p>\n",
+  "Bio": "<p>Phoebe Robinson is a stand-up comedian, writer, and actor who both TimeOut NY and Flavorpill.com have named one of the top ten comics working in NYC. Most recently, she appeared on NBC’s Late Night with Seth Meyers, Comedy Central’s Broad City, NBC’s Last Comic Standing and the Today show, and is a writer on MTV’s hit talking head show Girl Code.</p>\n<p>When not working on television, Ms. Robinson is a writer for Glamour.com and contributes to The New York Times, bitch magazine, xoJane.com, VH1.com, Refinery 29.com, Decider.com, VanityFair.com, and TheDailyBeast.com. Her blog Blaria (aka Black Daria), which is rapidly approaching 150,000 views, has been featured on The Huffington Post, and has launched a podcast as well as a monthly stand-up show at Union Hall that she co-hosts with The Daily Show’s Jessica Williams. It has consistently sold out since its inception nearly a year ago.</p>\n<p>She recently just finished opening for The Daily Show’s Wyatt Cenac and Broad City on their comedy tours and is currently a staff writer on Fuse’s upcoming daily late night pop culture talk show.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/phoebe_robinson_closeup_headshot_5.9.11_small.jpg",
   "PerformerId": "10043",
   "Twitter": "PRobinsonComedy",
@@ -483,7 +483,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Matt Peters",
   "Bio": "<p>Best known for his HILARIOUS role on Netflix&#039;s ORANGE IS THE NEW BLACK!  He plays Joel Luschek.  Season 3 just wrapped and will be premiering in Spring/Summer 2015. </p>\n<p>Matt Peters is a Los Angeles based comedian, actor and writer. As an actor, Peters has been seen on Showtime&#039;s WEEDS, G4TV&#039;s Attack of the Show, and elsewhere. Most notably, he has a recurring role on the well-received Netflix series, Orange is the New Black. Additionally, he hosts the popular bi-weekly comedy show, BLAM! BLAM! BLAM! that takes place at the infamous R Bar in Los Angeles.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_peters.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_peters_0.jpg",
   "PerformerId": "9545",
   "Twitter": "mattpeters",
   "Website": "",
@@ -632,7 +632,7 @@ App.Performer.FIXTURES = [
  },
  {
   "Name": "Matt Kirshen",
-  "Bio": "<p>London born Matt Kirshen's precision wit has earned him an impressive reputation on the international comedy circuit. Most recently his appearances on Late Night with Jimmy Fallon, The Late Late Show with Craig Ferguson, Paul Provenza’s Green Room, and as a finalist on NBC's \"Last Comic Standing\" has earned him a whole new host of fans in the United States and a surprising number of other countries worldwide.</p>\n<p>He has also recorded a half-hour special for the World Stands Up, Comedy Central, and has acclaimed festival appearances at Montreal, Edinburgh, Kilkenny, Glastonbury, Reading, Leeds, Bermuda, and Amsterdam.</p>\n<p>His debut CD, \"I Guess We'll Never Know\" was named in Punchline Magazine's top 10 albums of 2009, and his hit appearance at the 2008 Just For Laughs festival in Montreal resulted in no fewer than four of his gags appearing in the Montreal Gazette's roundup of their best jokes of the fest.</p>\n<p>Matt has appeared in and written for numerous television shows in the UK, including a charity gala featuring Jimmy Fallon, which resulted in Jimmy himself requesting Matt to open for him in a college tour to promote his new Late Night hosting slot.</p>\n<p>His youthful looks disguise a veteran comic with almost a decade of experience, and a wealth of smart, funny and relatable material, making him a firm favorite with college audiences. While it's his prime-time NBC appearances that most American comedy fans will recognize him from, they are often surprised at the breadth and scope of his material, described by one reviewer as \"intelligent, but with the emphasis firmly on the funny\"</p>\n",
+  "Bio": "<p>London born Matt Kirshen's precision wit has earned him an impressive reputation on the international comedy circuit. More recently his appearances on Late Night with Jimmy Fallon, The Late Late Show with Craig Ferguson, Paul Provenza’s Green Room, The Nerdist and as a finalist on NBC's Last Comic Standing has earned him a whole new host of fans in the United States and a surprising number of other countries worldwide. </p>\n<p>He has also recorded a half-hour special for the World Stands Up, Comedy Central, and has acclaimed festival appearances in Montreal, Edinburgh, Kilkenny, Glastonbury, Reading, Leeds, Bermuda, and San Francisco amongst many others. </p>\n<p>His debut CD, \"I Guess We'll Never Know\" was named in Punchline Magazine's top 10 albums of 2009 and his hit appearance at the 2008 Just For Laughs festival in Montreal resulted in no fewer than 4 of his gags appearing in the Montreal Gazette's round up of their best jokes of the fest. </p>\n<p>Matt has appeared in and written for numerous television shows in the UK, including a charity gala featuring Jimmy Fallon, which resulted in Jimmy himself requesting Matt to open for him in a college tour to promote his new Late Night hosting slot. </p>\n<p>His youthful looks disguise a veteran comic with over a decade of experience, and a wealth of smart, funny and relatable material, making him a firm favorite with all audiences. While it's his prime-time NBC appearances that many comedy fans will recognize him from, they are often surprised at the breadth and scope of his material, described by one reviewer as \"intelligent, but with the emphasis firmly on the funny.\"</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kirshen_matt-1429.jpg",
   "PerformerId": "10343",
   "Twitter": "mattkirshen",
@@ -1173,7 +1173,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Ever Mainard ",
   "Bio": "<p>Ever&#039;s spontaneous characters, quick-witted anecdotes, and quirky mannerisms will have you laughing well after her performance.  Her background in improv gives her the ability to create visceral and borderline cathartic moments in her crowd work and off-the-cuff riffs.</p>\n<p>Featured on CNN, Jezebel and WBEZ, Ever Mainard has appeared on The Todd Glass Show, Daily Motion with Andy Daily, and has been in: RIOT LA (2015),San Francisco Sketchfest (2014), Just For Laughs Festival (2012, 2013), Bridgetown Comedy Festival (2012, Best of Bridgetown, Best of Chicago), Chicago Sketchfest, Chicago Women&#039;s Funny Festival (2012, Headliner), and many others.  She has worked with national headliners such as Ian Karmel, Jerrod Carmichael, Moshe Kasher, Maria Bamford, and Matt Braunger. </p>\n<p>Along with Louis C.K. and John Mulaney- Ever was listed as one of the Top Five Comics who could (successfully) tell a rape joke. </p>\n<p>Ever lives and works in Los Angeles, but she got her comedic start in Chicago where she was one of the city&#039;s best stand-ups and a cast member of the esteemed Chicago Underground Comedy.  She is also the co-founder/host/and producer of the multi-city show, The Shit Show.  Chicago Magazine credits her being one of the top 100 comics, Metromix/ Redeye says she&#039;s one of the Top Seven Acts to Watch in 2012, and Gaper&#039;s Block called her one of The Most Influential Women in Chicago Comedy.</p>\n<p>Ever is currently coordinating a tour of the northwest and is producing and hosting the LA branch of the critically acclaimed, The Shit Show and Last Book Review!</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/superss_ever_0.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/superss_ever_0_0.jpg",
   "PerformerId": "9427",
   "Twitter": "evermainard",
   "Website": "http://www.evermainard.com",
@@ -1278,7 +1278,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Anthony Lopez",
   "Bio": "<p>Anthony Lopez is a writer, comedian and a friend. He has written for the Gotham Independent Film Awards and the popular Portland based live talk show &quot;Late Night Action&quot;. He has performed at the Bridgetown Comedy Festival, Bumbershoot, UCB East, and is a regular at several comedy clubs throughout the Northwest. He was recently a finalist in the Portland Funniest Person Contest and is a host of the popular weekly showcase, &quot;Earthquake Hurricane.&quot;</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/tumblr_n4s3ocdqoh1s46y2co1_500.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/anthony_lopez.jpg",
   "PerformerId": "9953",
   "Twitter": "anthonylopezpt2",
   "Website": "",
@@ -1338,7 +1338,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Jeff Scheen",
   "Bio": "<p>Jeff Scheen is a comedian and writer who grew up in remote Holly, Michigan and began his career in Detroit. Since moving to Chicago, Jeff has become a regular at the Chicago Laugh Factory, Zanies, and several independent comedian run shows including his own &quot;This Weeks Show&quot; in Wrigleyville. </p>\n<p>     His off beat humor goes along nicely with his expressive yet creepy face. Growing up in northern Michigan surrounded by trees and dirt roads will make any kid a weirdo and Jeff has no problem telling you about it. Jeff has showcased at numerous theaters and festivals including The Cleveland Comedy Festival, Laugh your Asheville Off in North Carolina, and Laughfest in Grand Rapids Michigan.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jeff_scheen.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jeff_scheen_0.jpg",
   "PerformerId": "9177",
   "Twitter": "sexmascheen",
   "Website": "http://Jeffscheen.com",
@@ -1443,7 +1443,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Kevin Saucier",
   "Bio": "<p>Kevin Saucier likes to tell jokes and rollerblade, and he does both as often as he can. He produces a show called SHAKE with comedian Shalewa Sharpe, and can be seen regularly at the Laughing Skull Lounge and the Improv Comedy Club in Atlanta, Georgia.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_6042.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kevinsaucier.jpg",
   "PerformerId": "9977",
   "Twitter": "sosure",
   "Website": "http://sosure.tumblr.com",
@@ -1563,7 +1563,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Samaria Sam Jay Johnson ",
   "Bio": "<p>When asked how long she has been doing comedy Samaria (Sam Jay) Johnson smiles and replies “For as long as I could speak.&quot; Hailing from Boston, MA, a city that is no stranger to comedic prowess, a place that can lay claim to the comedic talents of Jay Leno, Louis C.K., Conan O&#039;Brien and many others, Sam Jay is setting her own stage. Some would say the fact that she’s female, African American, and a lesbian has allowed her to stand out in a male-dominated industry. But it is moreso how she can take these experiences and make them not only funny but relatable. Witty, candid, and raw, she is bringing about a brand of comedy that has yet to be seen. Provoking audiences by pushing their thinking while still giving her sets the feel of a barroom conversation with one of your funniest friends, her familiar personality on and off stage has allowed her to build quite the buzz in and around Boston comedy circles. Her 2013 invite to Laugh Your Asheville Off Comedy Festival and her 2014 acceptance into the Women In Comedy Festival, along with her recent trip to the Stand Up NBC 2014 NYC semifinals , her recent showing in RiotLA as well as an invite to the HBO/ABFF 2014 comedy wings semifinals, has the industry talking about this young lady.  Opening for power house/veteran acts like Hannibal Burress (Comedy Central), and Rob Stapleton (Comedy Central) has not only helped this rising star hone her skills but has allowed her to branch out, booking shows up and down the east coast.  Performing at comedic institutions from Gotham NYC, Comedy Store LA, Ice House LA, to the Comedy Studio in Cambridge, MA, Sam Johnson is wowing audiences and building her fan base.  Her fresh, unique and warm approach makes Sam Jay a comedian worth seeing and one you will be talking about long after you do.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/10338349_10154258101530226_6060590881161151474_n.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/samaria.jpg",
   "PerformerId": "9978",
   "Twitter": "SamJayComic",
   "Website": "http://jokesanddreams.com",
@@ -1593,7 +1593,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Zak Toscani",
   "Bio": "<p>Zak is a stand-up comedian who lives in Portland, OR. He has performed at the Bumbershoot Music &amp; Arts Festival, San Francisco Sketchfest and the Bridgetown Comedy Festival. You may have also seen him perform at Helium Comedy Club, Go Bananas, the Tacoma Comedy Club, and Seattle&#039;s Comedy Underground as well as other stages both intimate and large.</p>\n<p>In the three short years he has been performing, he has been lucky enough to share the stage with Jon Dore, Kyle Kinane, Pete Holmes, and TJ Miller to name a few. His style melts like an artisan cheese into both the honest and the silly, much like Dom DeLuise&#039;s lasagna recipe.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/zak_toscani_headshot.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/zak_toscani_headshot_0.jpg",
   "PerformerId": "9164",
   "Twitter": "ZakToscani",
   "Website": "http://about.me/ZakToscani",
@@ -1608,7 +1608,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Ray Marshall",
   "Bio": "<p>Ray Marshall is a New York based stand up comedian and writer. He has entertained audiences at Caroline’s, The Comic Strip, Gotham Comedy Club, Stand Up New York and various other top venues in NYC and the Tri-state area. He was a New York Semi Finalist in the 2012 NBC Stand up for Diversity Competition and has appeared on Comedy Time TV twice. He credits growing up in New York City with helping him to mold an analytical, laid back on stage persona that has entertained diverse audiences across the Country.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ray-marshall-bodyguard_photo_2.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ray-marshall-bodyguard_photo_2_0.jpg",
   "PerformerId": "9692",
   "Twitter": "MARSHALLCOMIC",
   "Website": "http://bridgetown.festivalthing.com/N/A",
@@ -1636,15 +1636,15 @@ App.Performer.FIXTURES = [
   "mc_events": []
  },
  {
-  "Name": "Mark james heath (Mjh)",
+  "Name": "Mark James Heath",
   "Bio": "<p>Mark James Heath is a  comedian, writer, and actor who hails from Chicago, IL now making his home in Toronto. Alumni from NBC&#039;s Stand Up for Diversity Initiative, he was spotted by Mark Breslin when opening up for Hannibal Buress. He now plays clubs, colleges, fundraisers, theatres, and private/corporate functions all over the U.S. and Canada.  </p>\n<p>A Hiphop nerd, Mjh has a poetic sensibility and dynamic rhythm that capture any audiences&#039; ear and attention. His unique observations and experience as a husband and father give him a range of insights from politics to potty training to pop culture. Mjh is an old soul with a young energy, who approaches subjects with an open mind and a southern charm.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mjh2.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mjh2_0.jpg",
   "PerformerId": "9787",
   "Twitter": "Mjh708",
   "Website": "",
   "Position": "110",
   "id": "9787",
-  "pageUrl": "9787-mark-james-heath-mjh",
+  "pageUrl": "9787-mark-james-heath",
   "ExcludeFromList": false,
   "SortOrder": 110,
   "events": [],
@@ -1788,7 +1788,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Matt Pharr",
   "Bio": "<p>For the past ten years Atlanta-born comedian Matt Pharr has been honing his stand-up skills around the south and up the east coast. Getting his start in rockabilly/punk rock clubs, it&#039;s not surprising that hints of the southern outlaw spirit shine through in his performances. Matt&#039;s sense of humor and rebellious nature came together when he and his friends opened an illegal comedy club/speakeasy in an abandoned church in Atlanta, paying off local law enforcement, and bringing in some of the best comics in the country to perform.  </p>\n<p>With Matt&#039;s easygoing demeanor, he tackles divisive topics such as police brutality, abortion, and drugs in a way that allows the audience to laugh regardless of their stance on an issue. It&#039;s not all heavy topics, though. Matt stacks the deck by alternating between silly and important subject matter. It&#039;s not at all uncommon for a bit about police murdering an unarmed person to be followed by a joke about how the city of Dubai should add the prefix &quot;shooby&quot; to its name. </p>\n<p>Although raised in poverty by a single mother, Matt feels as though he has had some advantages, especially when it comes to comedy. &quot;When your mom has a drinking problem and your dad did some stints in mental institutions, there&#039;s a pretty fine chance that you&#039;re going to be funnier than most people,&quot; he says. </p>\n<p>On his recent move to Los Angeles: &quot;I rode across the country, bringing with me my only possessions: a motorcycle, some T-shirts, a gun, and one bullet. Sometimes, when you follow your dreams, you end up with a motorcycle, some T-shirts, a gun, and one bullet.&quot;</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/341450_10150371050497024_202205871_o_1.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mattpharr.jpg",
   "PerformerId": "9479",
   "Twitter": "mattpharrcomic",
   "Website": "",
@@ -1818,7 +1818,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Rob Schultz",
   "Bio": "<p>Rob Schultz is a stand-up comedian in Los Angeles, CA who has performed at SF Sketchfest in 2013-15, the 2013 Sacramento Comedy Festival, a fish restaurant in Portland, OR, and at various Los Angeles landmarks with his traveling monthly show The Hike Mic. </p>\n<p>He is also the co-host of the weekly Gangbusters! Comedy Enjoyment Show, a submissions editor of the daily humor magazine TheHiggsWeldon.com, a member of the Upright Citizens Brigade&#039;s LA Digital group, and a video editor with credits on feature films, cable TV, and all manner of shorts and web things. And he still feels super lazy.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rob-bruin.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rob-bruin_0.jpg",
   "PerformerId": "9182",
   "Twitter": "greenglassdoor",
   "Website": "http://www.normalwebsite.com",
@@ -1848,7 +1848,7 @@ App.Performer.FIXTURES = [
  {
   "Name": "Caitlin Weierhauser",
   "Bio": "<p>Caitlin Weierhauser spent her childhood in an Ewok tree fort with her rubber band cross-bow, her wolf, and her budding resentment of The Man. She grew up to be a feminist, atheist, and vegan liar that creates safe spaces for queer comedy.<br />\nCaitlin is a member of Lez Stand Up, has performed on All Jane No Dick Comedy Festival, Grrrl Front, Not Enough! Fest, and won The Moth StorySLAM in December. She was recently included in the AfterEllen list of &quot;40 Hot Queer Ladies in Comedy,&quot; and plans to take down the patriarchy by Christmas.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/portrait_-_caitlin_weierhauser_85000.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/caitlinw.jpg",
   "PerformerId": "9972",
   "Twitter": "grapetheist",
   "Website": "",
