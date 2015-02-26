@@ -2,10 +2,11 @@
 layout: page
 title: Venues
 permalink: /venues/
-description: Come join us on East Burnside for the Bridgetown Comedy Festival in 2015!
+description: "Come join us on East Burnside for the Bridgetown Comedy Festival in 2015!"
+published: true
 ---
 
-  ![](/img/venue-images/venue-doug-fir.png)
+![](/img/venue-images/venue-doug-fir.png)
 
 ### Kill Rock Stars Stage at Doug Fir Lounge
 
@@ -16,7 +17,7 @@ description: Come join us on East Burnside for the Bridgetown Comedy Festival in
 
   ![](/img/venue-images/venue-bossanova.png)
 
-### Mailchimp Stage at Bossanova Ballroom
+### MailChimp Stage at Bossanova Ballroom
 
   [www.bossanovaballroom.com](http://www.bossanovaballroom.com)
 
@@ -92,8 +93,3 @@ Suite #110, 1300 SE Stark St, Portland, OR
   [www.boogiesburgersandbrew.com](http://www.boogiesburgersandbrew.com/)
 
 910 E Burnside St, Portland, OR
-
-
-
-
-
