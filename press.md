@@ -166,35 +166,46 @@ DailyDot.com
 
 **Walking the Room**
 
-[https://soundcloud.com/walking-the-room/148-gallaghers-suicide-note](https://soundcloud.com/walking-the-room/148-gallaghers-suicide-note) (live show featuring guests Paul Gilmartin, Todd Glass, and Gallagher)[https://soundcloud.com/walking-the-room/147-moshe-kasher-at-bridgetown](https://soundcloud.com/walking-the-room/147-moshe-kasher-at-bridgetown) (with guest Moshe Kasher)
+[https://soundcloud.com/walking-the-room/148-gallaghers-suicide-note](https://soundcloud.com/walking-the-room/148-gallaghers-suicide-note)  
+(live show featuring guests Paul Gilmartin, Todd Glass, and Gallagher)
+
+[https://soundcloud.com/walking-the-room/147-moshe-kasher-at-bridgetown](https://soundcloud.com/walking-the-room/147-moshe-kasher-at-bridgetown)  
+(with guest Moshe Kasher)
 
 **The Paul Goebel Show**
 
-[http://www.thekingoftv.com/podcast/2013/04/23/episode-346-w-myq-kaplan-xander-deveaux-gallagher](http://www.thekingoftv.com/podcast/2013/04/23/episode-346-w-myq-kaplan-xander-deveaux-gallagher/) (final episode, featuring guests Myq Kaplan, Xander Deveaux, and Gallagher)
+[http://www.thekingoftv.com/podcast/2013/04/23/episode-346-w-myq-kaplan-xander-deveaux-gallagher](http://www.thekingoftv.com/podcast/2013/04/23/episode-346-w-myq-kaplan-xander-deveaux-gallagher/)  
+(final episode, featuring guests Myq Kaplan, Xander Deveaux, and Gallagher)
 
 **Probably Science**
 
-[http://probablyscience.tumblr.com/post/48664764618/episode-66-with-peter-serafinowicz-and-gallagher](http://probablyscience.tumblr.com/post/48664764618/episode-66-with-peter-serafinowicz-and-gallagher) (with guests Peter Serafinowicz and Gallagher)
+[http://probablyscience.tumblr.com/post/48664764618/episode-66-with-peter-serafinowicz-and-gallagher](http://probablyscience.tumblr.com/post/48664764618/episode-66-with-peter-serafinowicz-and-gallagher)  
+(with guests Peter Serafinowicz and Gallagher)
 
 **Put Your Hands Together**
 
-[http://castroller.com/podcasts/PutYourHands/3527529](http://castroller.com/podcasts/PutYourHands/3527529) (Cameron Esposito hosts Reggie Watts, Karen Kilgariff, Seth Herzog, Ben Kronberg, Andy Wood, and Rhea Butcher)
+[http://castroller.com/podcasts/PutYourHands/3527529](http://castroller.com/podcasts/PutYourHands/3527529)  
+(Cameron Esposito hosts Reggie Watts, Karen Kilgariff, Seth Herzog, Ben Kronberg, Andy Wood, and Rhea Butcher)
 
 **The Mental Illness Happy Hour**
 
-[http://mentalpod.com/Karen-Kilgariff-podcast](http://mentalpod.com/Karen-Kilgariff-podcast) (host Paul Gilmartin talks to Karen Kilgariff)
+[http://mentalpod.com/Karen-Kilgariff-podcast](http://mentalpod.com/Karen-Kilgariff-podcast)  
+(host Paul Gilmartin talks to Karen Kilgariff)
 
 **The JV Club**
 
-[http://www.nerdist.com/2013/05/the-jv-club-60-live-from-bridgetown](http://www.nerdist.com/2013/05/the-jv-club-60-live-from-bridgetown/) (Janet Varney interviews Natasha Leggero and Karen Kilgariff)
+[http://www.nerdist.com/2013/05/the-jv-club-60-live-from-bridgetown](http://www.nerdist.com/2013/05/the-jv-club-60-live-from-bridgetown/)  
+(Janet Varney interviews Natasha Leggero and Karen Kilgariff)
 
 **Who Charted?**
 
-[http://www.earwolf.com/episode/42613-two-charted-64](http://www.earwolf.com/episode/42613-two-charted-64/) (Howard and Kulap give a Bridgetown recap)
+[http://www.earwolf.com/episode/42613-two-charted-64](http://www.earwolf.com/episode/42613-two-charted-64/)  
+(Howard and Kulap give a Bridgetown recap)
 
 **Shanrock's Triviopodogy**
 
-[http://www.patiohpatino.com/wp-content/uploads/2013/05/Trivipodigy_Ep12-FINAL-CUT.mp3](http://www.patiohpatino.com/wp-content/uploads/2013/05/Trivipodigy_Ep12-FINAL-CUT.mp3) (guest host Kenny Sessler interviews Veronica Heath and Paul Goebel, the champions of the 2013 Comedy Cup Quiz at Bridgetown.)
+[http://www.patiohpatino.com/wp-content/uploads/2013/05/Trivipodigy_Ep12-FINAL-CUT.mp3](http://www.patiohpatino.com/wp-content/uploads/2013/05/Trivipodigy_Ep12-FINAL-CUT.mp3)  
+(guest host Kenny Sessler interviews Veronica Heath and Paul Goebel, the champions of the 2013 Comedy Cup Quiz at Bridgetown.)
 
 **FunEmployment Radio**
 
