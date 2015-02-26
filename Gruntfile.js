@@ -99,6 +99,19 @@ module.exports = function(grunt) {
       }
     },
 
+    template: {
+        'process-html-template': {
+            options: {
+                data: {
+                    fingerprint: new Date().getTime()
+                }
+            },
+            files: {
+                '_includes/footer.html': ['_includes/footer.tpl']
+            }
+        }
+    },
+
     shell: {
       gitpush: {
         command: function () {
@@ -128,7 +141,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-template');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-jekyll');
-  grunt.registerTask('default', ['clean','emberTemplates','uglify', 'jekyll']);
+  grunt.registerTask('default', ['clean','emberTemplates','uglify', 'template', 'jekyll']);
 
 
 };
