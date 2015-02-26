@@ -1,9 +1,11 @@
 ---
 layout: default
+title: Home
+permalink: /
 ---
 
 
-Content block
+Bridgetown Comedy Festival, happening Portland, OR, May 7th - May 10th!
 
 
 
