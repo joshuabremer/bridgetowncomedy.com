@@ -1,0 +1,1 @@
+<script src="/scripts/application.js?_=<%= fingerprint %>"></script>
