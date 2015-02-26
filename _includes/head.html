@@ -6,7 +6,13 @@
   <meta property="og:title" content="{{ page.title }} - {{ site.title }}"/>
   <meta property="og:url" content="{{ site.url }}{{page.url}}"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:description" content="{{ page.content }}"/>
+
+  {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}"/>
+  {% else %}
+    <meta property="og:description" content="{{ page.content }}"/>
+  {% endif %}
+
 
   {% if page.featuredimage %}
   <meta property="og:image" content="{{ site.url }}{{page.featuredimage}}"/>
@@ -16,27 +22,37 @@
 
   <meta itemprop="name" content="{{ site.title }}"/>
   <meta itemprop="url" content="{{ site.url }}"/>
-  <meta itemprop="description" content="{{ page.content }}"/>
 
-  {% if page.featuredimage %}
-  <meta itemprop="thumbnailUrl" content="{{ site.url }}{{page.featuredimage}}"/>
+  {% if page.description %}
+    <meta itemprop="description" content="{{ page.description }}"/>
   {% else %}
-  <meta itemprop="thumbnailUrl" content="{{ site.url }}/img/facebook-image.png"/>
+    <meta itemprop="description" content="{{ page.content }}"/>
   {% endif %}
 
   {% if page.featuredimage %}
-  <link rel="image_src" href="{{ site.url }}{{page.featuredimage}}"/>
+    <meta itemprop="thumbnailUrl" content="{{ site.url }}{{page.featuredimage}}"/>
   {% else %}
-  <link rel="image_src" href="{{ site.url }}/img/facebook-image.png"/>
+    <meta itemprop="thumbnailUrl" content="{{ site.url }}/img/facebook-image.png"/>
   {% endif %}
 
   {% if page.featuredimage %}
-  <link itemprop="image" content="{{ site.url }}{{page.featuredimage}}"/>
+    <link rel="image_src" href="{{ site.url }}{{page.featuredimage}}"/>
   {% else %}
-  <link itemprop="image" content="{{ site.url }}/img/facebook-image.png"/>
+    <link rel="image_src" href="{{ site.url }}/img/facebook-image.png"/>
   {% endif %}
 
-  <meta name="description" content="{{ page.content }}" />
+  {% if page.featuredimage %}
+    <link itemprop="image" content="{{ site.url }}{{page.featuredimage}}"/>
+  {% else %}
+    <link itemprop="image" content="{{ site.url }}/img/facebook-image.png"/>
+  {% endif %}
+
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+  {% else %}
+    <meta name="description" content="{{ page.content }}" />
+  {% endif %}
+
   <meta name="viewport" content="width=device-width">
   <link href="//fonts.googleapis.com/css?family=Fjalla+One|Cantarell:400,400italic,700italic,700" rel="stylesheet" type="text/css" />
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
