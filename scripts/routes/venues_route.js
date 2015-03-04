@@ -6,7 +6,9 @@
       var _this = this;
 
       return $.ajax("/venues")
-        .then(function(data) { return $(data).find("#jekyll-content").html()
+        .then(function(data) {
+          debugger;
+          return $(data).find("#jekyll-content").html()
       });
     },
     title: 'Venue'

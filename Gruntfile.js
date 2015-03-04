@@ -6,8 +6,10 @@ module.exports = function(grunt) {
     uglify: {
       options: {
         banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n',
-        mangle: true,
-        beautify: false,
+        mangle: false,
+        beautify: true,
+        // mangle: true,
+        // beautify: false,
         drop_debugger: false,
         drop_console: false,
         //compress: true
@@ -78,8 +80,12 @@ module.exports = function(grunt) {
           templateName: function(sourceFile){
             var newSource = sourceFile.replace('scripts/templates/','');
             return newSource.replace('.hbs','');
-          }
+          },
+          templateCompilerPath: 'scripts/vendor/ember-template-compiler.js',
+          handlebarsPath: 'scripts/vendor/handlebars.js',
+          templateNamespace: 'HTMLBars'
         },
+
         files: {
           'scripts/templates.js': [
             'scripts/templates/*.hbs',
@@ -132,7 +138,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-sass');
-  grunt.loadNpmTasks('grunt-ember-template-compiler');
   grunt.loadNpmTasks('grunt-ember-templates');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-jasmine');

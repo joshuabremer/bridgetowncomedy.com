@@ -1,9 +1,12 @@
 {{page-title-banner title=model.Name}}
+
 <div class="container single-performer main-content">
   <div class="row">
 
     <div class="col-sm-4 text-center">
-      <p><img class="img-responsive performer-headshot" {{bind-attr src="headshot300" }} /></p>
+      <p>
+        <img class="img-responsive performer-headshot" {{bind-attr src="headshot300" }} />
+      </p>
       <p>
         {{#if model.Website}}
           <a class="btn btn-default" target="_blank" style="white-space:normal" {{bind-attr href=model.Website}}>View Website <i class="fa fa-external-link"></i></a>
@@ -13,7 +16,6 @@
         {{#if model.Twitter}}
           <a class="twitter-timeline" {{bind-attr href=model.twitterUrl}} {{bind-attr data-screen-name=model.Twitter}} data-widget-id="432300245716713474">Tweets by {{model.Twitter}}</a>
         {{/if}}
-      </p>
       </p>
     </div>
     <div class="col-sm-8">
