@@ -6,7 +6,8 @@ var app = new EmberApp();
 
 
 app.import('bower_components/spinjs/spin.js');
-app.import('bower_components/moment/moment.js')
+app.import('bower_components/moment/moment.js');
+app.import('vendor/bootstrap.js');
 // Use `app.import` to add additional libraries to the generated
 // output files.
 //
