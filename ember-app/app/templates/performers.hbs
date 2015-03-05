@@ -1,0 +1,22 @@
+{{page-title-banner title="Performers"}}
+
+<div class="container main-content">
+  <div class="row">
+    {{#each performer in model}}
+      <div class="col-xs-6 col-sm-6 col-sm-4 col-md-3 col-lg-2 performer-box">
+        <div class="performer-thumbnail">
+          {{#link-to "performer" performer }}
+          <img class="img-responsive" width="300" height="300" {{bind-attr src="performer.headshot300" }} />
+          {{/link-to}}
+        </div>
+        <legend>
+          {{#link-to "performer" performer }}
+            {{{ performer.Name }}}
+          {{/link-to}}
+        </legend>
+      </div>
+    {{ else }}
+      <h2 class="text-center">Performers to be announced...</h2>
+    {{/each}}
+  </div>
+</div>

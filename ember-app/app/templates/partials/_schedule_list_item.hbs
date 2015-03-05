@@ -1,0 +1,54 @@
+<li {{bind-attr data-start-time="start_time"}} {{bind-attr class=":schedule-list__item :list-group-item weekday"}}>
+  <div class="container-fluid">
+    <div class="row">
+     <div class="col-sm-4">
+        <p class="lead">
+          {{#if show}}
+            {{#link-to "show" show }}{{{ show.Name }}}{{/link-to}}
+          {{else}}
+            {{#link-to "event" this }}{{{ Name }}}{{/link-to}}
+          {{/if}}
+          <br/>
+          <small>({{getWeekday start_time}} <span style="white-space:nowrap">{{getTime start_time}} - </span>
+          <span style="white-space:nowrap">{{getTime end_time}}</span>)</small>
+        </p>
+        <p>Price: {{Cost}}</p>
+      </div>
+      <div class="col-xs-5 col-sm-4">
+        <p>{{#link-to 'venue' venue.pageUrl}}
+          <span class="schedule-list__item-venue-label label label-default">
+            {{venue.Name}}
+          </span>
+          {{/link-to}}
+        </p>
+      </div>
+      <div class="col-xs-7 col-sm-4">
+        <ul class="schedule-list__performer-list">
+
+        {{#each performer in sortedPerformers }}
+
+            <li>
+              {{#link-to "performer" performer }}
+              <span class="label label-default schedule__label-performer">
+                {{{unbound performer.Name}}}
+              </span>
+              {{/link-to}}
+            </li>
+
+        {{/each}}
+        {{#each emcee in emcees}}
+            <li><strong>MC: </strong>
+              {{#link-to "performer" emcee }}
+              <span class="label label-default schedule__label-performer">
+                {{{unbound emcee.Name}}}
+              </span>
+              {{/link-to}}
+            </li>
+         {{/each}}
+        </ul>
+        &nbsp;
+      </div>
+    </div>
+  </div>
+</li>
+

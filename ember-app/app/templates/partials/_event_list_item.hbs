@@ -1,0 +1,14 @@
+
+<p>
+  <strong>{{event.Name}}</strong>
+</p>
+<ul>
+  {{#each performer in event.performers}}
+  	<li>
+      {{#link-to "performer" performer }}
+        {{ performer.Name }}
+      {{/link-to}}
+    </li>
+  {{/each}}
+</ul>
+

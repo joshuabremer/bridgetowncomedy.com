@@ -1,0 +1,23 @@
+{{page-title-banner title="Shows"}}
+
+<div class="container main-content">
+
+  <div class="row">
+    {{#each show in controller}}
+    <div class="col-xs-6 col-sm-6 col-sm-4 col-md-3 col-lg-2 performer-box">
+      <div class="performer-thumbnail">
+        {{#link-to "show" show }}
+        <img class="img-responsive" width="300" height="300" {{bind-attr src="show.headshot300" }} />
+        {{/link-to}}
+      </div>
+      <legend>
+        {{#link-to "show" show }}
+          {{{ show.Name }}}
+        {{/link-to}}
+      </legend>
+    </div>
+    {{else}}
+      <h2 class="text-center">Shows to be announced...</h2>
+    {{/each}}
+  </div>
+</div>

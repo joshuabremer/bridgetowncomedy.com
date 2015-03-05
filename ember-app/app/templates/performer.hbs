@@ -1,0 +1,65 @@
+{{page-title-banner title=model.Name}}
+
+<div class="container single-performer main-content">
+  <div class="row">
+
+    <div class="col-sm-4 text-center">
+      <p>
+        <img class="img-responsive performer-headshot" {{bind-attr src="headshot300" }} />
+      </p>
+      <p>
+        {{#if model.Website}}
+          <a class="btn btn-default" target="_blank" style="white-space:normal" {{bind-attr href=model.Website}}>View Website <i class="fa fa-external-link"></i></a>
+        {{/if}}
+      </p>
+      <p>
+        {{#if model.Twitter}}
+          <a class="twitter-timeline" {{bind-attr href=model.twitterUrl}} {{bind-attr data-screen-name=model.Twitter}} data-widget-id="432300245716713474">Tweets by {{model.Twitter}}</a>
+        {{/if}}
+      </p>
+    </div>
+    <div class="col-sm-8">
+      <p>
+        {{{ Bio }}}
+      </p>
+      <ul class="list-group">
+        <li class="list-group-item active" style="background:#695b53;">
+        <h4 class="list-group-item-heading" style="background:#695b53;color:white">Shows</h4>
+        </li>
+        {{#each event in sortedEvents}}
+          {{#link-to "event" event classNames="list-group-item"}}
+            <strong>{{{event.Name}}}</strong> - {{event.venue.Name}}
+              <br /> ({{niceDate event.start_time}} {{getTime event.start_time}} - {{getTime event.end_time}})
+          {{/link-to}}
+        {{else}}
+          <li class="list-group-item">No shows scheduled yet...</li>
+        {{/each}}
+
+      </ul>
+      {{#if isAnMC}}
+      <ul class="list-group">
+        <li class="list-group-item active" style="background:#695b53;">
+        <h4 class="list-group-item-heading" style="background:#695b53;color:white">Show MC</h4>
+        </li>
+        {{#each event in mc_events}}
+          {{#link-to "event" event.id classNames="list-group-item"}}
+            <strong>{{{event.Name}}}</strong> - {{event.venue.Name}}
+              <br /> ({{niceDate event.start_time}} {{getTime event.start_time}} - {{getTime event.end_time}})
+          {{/link-to}}
+        {{else}}
+          <li class="list-group-item">No shows scheduled yet...</li>
+        {{/each}}
+
+      </ul>
+      {{/if}}
+      <p>
+        {{#link-to "performers"}}← All Performers{{/link-to}}
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+

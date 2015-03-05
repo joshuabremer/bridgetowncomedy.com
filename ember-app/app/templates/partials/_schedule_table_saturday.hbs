@@ -1,0 +1,31 @@
+<table class="schedule-table">
+  <thead>
+  <tr>
+  <th style="display:none;">Venue</th>
+  {{{scheduleTableHeaderRow "Saturday"}}}
+  </tr>
+  </thead>
+  <tbody>
+  {{#each venue in controller.venues}}
+   <tr>
+    <th>{{venue.Name}}</th>
+      {{#each event in venue.saturdayEvents}}
+        <td class="schedule-table__cell" {{bind-attr data-start-time="event.start_time"}} {{bind-attr data-end-time="event.end_time"}}>
+        <strong>{{{event.Name}}} - {{event.Cost}}</strong>
+        <br />
+        {{getTime event.start_time}} - {{getTime event.end_time}}
+        <br />
+        {{#each performer in event.sortedPerformers}}
+          {{#link-to "performer" performer classNames="comma-list" }}
+          {{{performer.Name}}}
+          {{/link-to}}
+        {{/each}}
+        {{#if event.emcee }}
+          {{#link-to "performer" event.emcee }}<span class="label label-default schedule__label-performer">MC: {{event.emcee.Name}}</span>{{/link-to}}
+        {{/if}}
+        </td>
+      {{/each}}  
+    </tr>
+  {{/each}}
+  </tbody>
+</table>

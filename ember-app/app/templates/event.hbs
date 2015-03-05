@@ -1,0 +1,49 @@
+{{page-title-banner title=model.Name}}
+
+<div class="container single-performer main-content">
+  <p class="lead">
+    {{niceDate start_time}}<br/>
+    {{getTime start_time}} - {{getTime end_time}}
+  </p>
+  <p>{{#link-to 'venue' venue}}
+    <span class="schedule-list__item-venue-label label label-default">{{venue.Name}}</span>
+    {{/link-to}}
+  </p>
+  <p>
+    {{{ googleMapLink venue.address }}}
+  </p>
+
+  {{#if show}}
+    <div class="row">
+      <div class="col-sm-4">
+        <p>
+          <img class="img-responsive performer-headshot" {{bind-attr src="show.headshot300" }} />
+        </p>
+      </div>
+
+      <div class="col-sm-8">
+        <p>
+          {{{ show.Copy }}}
+        </p>
+      </div>
+    </div>
+  {{/if}}
+
+  <ul class="list-group">
+    <li class="list-group-item active" style="background:#695b53;">
+    <h4 class="list-group-item-heading" style="background:#695b53;color:white">Performers</h4>
+    </li>
+    {{#each performer in sortedPerformers}}
+
+      {{#link-to "performer" performer classNames="list-group-item"}}
+        {{{performer.Name}}}
+      {{/link-to}}
+
+    {{/each}}
+    {{#each emcee in emcees}}
+      {{#link-to "performer" emcee classNames="list-group-item" }}
+        <strong>MC: </strong> {{{emcee.Name}}}
+      {{/link-to}}
+     {{/each}}
+  </ul>
+</div>

@@ -1,0 +1,364 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Base Mobile Stylesheet
+
+Be light and don't over style since everything here will be
+loaded by mobile devices. You want to keep it as minimal as
+possible. This is called at the top of the main stylsheet
+and will be used across all viewports.
+
+******************************************************************/
+
+
+$color1: rgba(#67923d,0.95);
+$color2: rgba(#695b53,0.95);
+$color3: rgba(#448184,0.95);
+$color4: rgba(#8dd1aa,0.95);
+$color5: rgba(#89e894,0.95);
+
+// Squarespace cleanup
+.row.sqs-row {
+  margin:0;
+}
+[class*=sqs-col] .sqs-block {
+  padding:0;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  background:black;
+  font-family: 'Cantarell', sans-serif;
+}
+
+img {
+  max-width:100%;
+}
+h1,.h1 {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+// h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+// .h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: 700;
+}
+
+.main {
+  //@extend .container;
+  // padding-left:0;
+  // padding-right:0;
+  // background-color: #E6E6E6;
+  // background: rgba(250,250,250,.94);
+  // color:#6c6c6c;
+  // padding-bottom:20px;
+  margin-top: 80px;
+}
+
+.main-content {
+  // @extend .container;
+  // padding-left:0;
+  // padding-right:0;
+  background-color: #E6E6E6;
+  background: rgba(250,250,250,.94);
+  color:#6c6c6c;
+  padding-bottom:20px;
+  padding-top: 20px;
+}
+
+
+// HEADER
+.navbar-fixed-top {
+  border-bottom: 1px solid #333;
+  box-shadow: 3px 2px 5px rgba(0,0,0,.3);
+}
+
+.navbar-brand {
+  line-height: 45px;
+  padding:0;
+  margin-right: 30px;
+}
+.navbar-brand-logo {
+  width: 170px;
+  max-width:100%;
+}
+
+.navbar {
+  .navbar-nav > li > a {
+    padding-left:13px;
+    padding-right:13px;
+  }
+  .navbar-nav > li > a.active {
+    color:white;
+  }
+  .nav li span {
+    padding-bottom:3px;
+  }
+  .header-color1 span {
+    border-bottom: 3px $color1 solid;
+  }
+
+  .header-color2 span {
+    border-bottom: 3px $color2 solid;
+  }
+
+  .header-color3 span {
+    border-bottom: 3px $color3 solid;
+  }
+
+  .header-color4 span {
+    border-bottom: 3px $color4 solid;
+  }
+
+  .header-color5 span {
+    border-bottom: 3px $color5 solid;
+  }
+}
+
+// JUMBOTRON
+.jumbotron {
+  color:white;
+  //background-image: url('../img/header-lights-bg.png');
+  background-size:cover;
+  background-color: #67923d; // default
+  &.jumbotron-page-header {
+    margin-bottom:0;
+  }
+  &.jumbotron-default {
+    background:transparent;
+    color:#333;
+  }
+  &.jumbotron-minor {
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+  &.jumbotron-tiny {
+    padding-top:10px;
+    padding-bottom:10px;
+    h2 {
+      margin-top:10px;
+      margin-bottom:10px;
+    }
+  }
+  &.jumbotron-color-1 {
+    background-color: $color1;
+  }
+  &.jumbotron-color-2 {
+    background-color: $color2;
+  }
+  &.jumbotron-color-3 {
+    background-color: $color3;
+  }
+  &.jumbotron-color-4 {
+    background-color: $color4;
+  }
+  &.jumbotron-color-5 {
+    background-color: $color5;
+  }
+  .header-logo {
+    .img-responsive {
+      max-width:100%;
+      margin:0 auto;
+    }
+  }
+}
+//INDEX
+.jumbotron-index {
+  background: #89e894;
+  color:white;
+}
+
+// PERFORMERS
+.jumbotron-performers {
+  background: #008080;
+  color:white;
+}
+.performer-box {
+  img {
+    border:2px solid #999;
+  }
+  legend {
+    height: 3em;
+    overflow: hidden;
+    border:0;
+    text-align:left;
+  }
+}
+
+.single-performer {
+  .performer-headshot {
+    border:2px solid #999;
+  }
+}
+
+// SPONSORS
+
+.sponsors-container {
+  img {
+    margin-bottom:20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+// VENUE PAGE
+
+//Map width
+
+iframe, object, embed{max-width: 100%;}
+
+// SCHEDULE PAGE
+
+.schedule__label-performer {
+    white-space:normal;
+    margin-bottom: 2px;
+    display: inline-block;
+    &:hover {
+      background-color: #777;
+    }
+  }
+
+
+// SCHEDULE TABLE
+
+.schedule-table {
+  table-layout: fixed;
+  .schedule-table__time-header {
+    width:150px;
+    max-width:150px;
+    white-space: nowrap;
+    overflow: auto;
+  }
+  .schedule-table__cell {
+    background:#67923d;
+    color:white;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    box-shadow:3px 3px 3px rgba(0,0,0,.2);
+  }
+
+  .comma-list {
+    text-decoration:none;
+  }
+  .comma-list:after {
+    content: ','
+  }
+
+  .comma-list:last-of-type:after {
+      content:''
+  }
+
+}
+
+
+// SCHEDULE LIST
+
+.schedule-list .list-group{
+  list-style:none;
+  h3 {
+    margin:0;
+  }
+}
+
+.schedule-list__item {
+  //.row {
+  //  display: table;
+  //  width: 100%;
+  //}
+  //div[class*="col-"] {
+  //  display:table-cell;
+  //  vertical-align: middle;
+  //}
+}
+
+.schedule-list__performer-list {
+  padding-left:0;
+  list-style:none;
+}
+
+.schedule-list__item-venue-label  {
+  display:inline-block;
+  white-space:normal;
+  line-height:1.4em;
+}
+
+.schedule-list__spacer {
+  background-color: #999;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.schedule-list__item-date {
+  display:inline;
+}
+
+.filter-items .schedule-list__item,
+.filter-items .schedule-list__spacer {
+  display:none;
+}
+
+.filter-thursday .schedule-list__item.thursday,
+.filter-thursday .schedule-list__spacer.thursday {
+  display:block;
+}
+
+.filter-friday .schedule-list__item.friday,
+.filter-friday .schedule-list__spacer.friday {
+  display:block;
+}
+
+.filter-saturday .schedule-list__item.saturday,
+.filter-saturday .schedule-list__spacer.saturday {
+  display:block;
+}
+
+.filter-sunday .schedule-list__item.sunday,
+.filter-sunday .schedule-list__spacer.sunday {
+  display:block;
+}
+
+// FOOTER
+
+.site-footer {
+  text-align:center;
+  background: black;
+  border-top: 1px solid #444;
+  margin-top: 20px;
+  padding-top: 20px;
+  color:#BBB;
+  font-size:.85em;
+  .social {
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  .social-buttons li {
+    display: inline-block;
+    line-height: 1;
+    padding: 5px 8px;
+    list-style:none;
+    }
+    .footer-links {
+      margin-top: 1em;
+      padding-left: 0;
+      color: #999;
+    }
+    .footer-links li {
+      display: inline;
+      padding: 0 2px;
+    }
+}

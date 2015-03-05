@@ -1,0 +1,40 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+       {{#link-to 'index'}} <span class="navbar-brand"><img class="navbar-brand-logo" src="/img/logo-long-inverse.png?1" /></span>{{/link-to}}
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="header-color1">{{#link-to 'performers'}}<span>Performers</span>{{/link-to}}</li>
+        <li class="header-color2">{{#link-to 'shows'}}<span>Shows</span>{{/link-to}}</li>
+{{!--         <li class="header-color3">{{#link-to 'schedule'}}<span>Schedule</span>{{/link-to}}</li> --}}
+        <li class="header-color4">{{#link-to 'venues'}}<span>Venues</span>{{/link-to}}</li>
+        <li class="header-color5 hidden-sm">{{#link-to 'faqs'}}<span>FAQs</span>{{/link-to}}</li>
+        <li class="header-color1 hidden-sm">{{#link-to 'press'}}<span>Press</span>{{/link-to}}</li>
+        <li class="header-color2 hidden-sm">{{#link-to 'sponsors'}}<span>Sponsors</span>{{/link-to}}</li>
+        <li class="header-color3 hidden-sm">{{#link-to 'contact'}}<span>Contact</span>{{/link-to}}</li>
+        <li class="dropdown visible-sm ">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            More Info <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            <li class="header-color5">{{#link-to 'press'}}<span>Press</span>{{/link-to}}</li>
+            <li class="header-color1">{{#link-to 'sponsors'}}<span>Sponsors</span>{{/link-to}}</li>
+            <li class="header-color2">{{#link-to 'contact'}}<span>Contact</span>{{/link-to}}</li>
+            <li class="header-color3">{{#link-to 'faqs'}}<span>FAQs</span>{{/link-to}}</li>
+          </ul>
+        </li>
+      </ul>
+      <div class="navbar-form navbar-right">
+        <strong>
+          <a class="btn btn-default" target="_blank" href="http://bridgetown2015.eventbrite.com">Tickets</a>
+        </strong>
+      </div>
+    </div><!--/.navbar-collapse -->
+  </div>
+</div>

@@ -1,0 +1,29 @@
+
+<div class="jumbotron jumbotron-bg1 jumbotron-dark jumbotron-performers jumbotron-color-2  jumbotron-page-header">
+  <div class="container">
+    <div class="row centered">
+      <div class="col-lg-8 col-lg-offset-2">
+      <h1>Shows</h1>
+      </div>
+    </div><!-- row -->
+  </div><!-- container -->
+</div><!-- headerwrap -->
+<div class="container main-content">
+  <p class="lead">Shows subject to change...</p>
+  <div class="row">
+    {{#each show in controller}}
+    <div class="col-xs-6 col-sm-6 col-sm-4 col-md-3 col-lg-2 performer-box">
+      <div class="performer-thumbnail">
+        {{#link-to "show" show }}
+        <img class="lazy img-responsive" width="300" height="300" {{bind-attr data-original="show.headshot300" }} />
+        {{/link-to}}
+      </div>
+      <legend>
+        {{#link-to "show" show }}
+          {{{ show.Name }}}
+        {{/link-to}}
+      </legend>
+    </div>
+    {{/each}}
+  </div>
+</div>

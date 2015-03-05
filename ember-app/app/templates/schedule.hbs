@@ -1,0 +1,43 @@
+{{page-title-banner title="Schedule"}}
+
+<div class="container main-content">
+  <h2 class="text-center">Schedule to be announced...</h2>
+{{!--       <p><button type="button" class="btn btn-default" {{action "filterGrid"}}><i class="fa fa-th"></i> Show Grid View</button>
+      <button type="button" class="btn btn-default" {{action "filterList"}}><i class="fa fa-list"></i> Show List View</button></p> --}}
+  <div id="schedules" {{bind-attr class="scheduleClass"}}>
+    {{!--   {{partial "partials/schedule_table"}} --}}
+    <p>
+      <a target="_blank" href="https://www.google.com/calendar/embed?src=ij2h1kcsksapda46r4e8qr2atc%40group.calendar.google.com&ctz=America/Los_Angeles"><img src="/img/add-to-google-calendar.gif" /></a>
+    </p>
+
+
+    <div class="schedule-list">
+      <div class="text-left">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-6 col-sm-3">
+              <button type="button" style="margin: 0em 0em 0.5em;" class="btn btn-default btn-block" {{action "filterThursday"}}>Thursday</button>
+            </div>
+            <div class="col-xs-6 col-sm-3">
+              <button type="button" style="margin: 0em 0em 0.5em;" class="btn btn-default  btn-block" {{action "filterFriday"}}>Friday</button>
+            </div>
+            <div class="col-xs-6 col-sm-3">
+              <button type="button" style="margin: 0em 0em 0.5em;" class="btn btn-default  btn-block" {{action "filterSaturday"}}>Saturday</button>
+            </div>
+            <div class="col-xs-6 col-sm-3">
+              <button type="button" style="margin: 0em 0em 0.5em;" class="btn btn-default  btn-block" {{action "filterSunday"}}>Sunday</button>
+            </div>
+          </div>
+        </div>
+        <ul class="list-group">
+          {{cloaked-collection cloakView=App.ScheduleListItemView content=controller.events preservesContext=true defaultHeight=218}}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+

@@ -1,0 +1,36 @@
+  <div class="jumbotron jumbotron-minor jumbotron-color-1  jumbotron-page-header">
+    <div class="container">
+      <div class="row centered">
+        <div class="col-lg-8 col-lg-offset-2">
+        <h1>{{collection.title}}</h1>
+        </div>
+      </div><!-- row -->
+    </div><!-- container -->
+  </div><!-- headerwrap -->
+
+<div class="container main-content">
+  <table>
+  <thead>
+    <th>name</th>
+    <th>start_time</th>
+    <th>end_time</th>
+    <th>price</th>
+  </thead>
+  <tbody>
+    {{#each event in controller}}
+    <tr>
+      <td>{{ event.name }}</td>
+      <td>{{ event.start_time }}</td>
+      <td>{{ event.end_time }}</td>
+      <td>{{ event.price }}</td>
+      <td>{{#linkTo "event" event }}view{{/linkTo}}</td>
+    </tr>
+    {{/each}}
+  </tbody>
+</table>
+</div>
+
+
+
+
+
