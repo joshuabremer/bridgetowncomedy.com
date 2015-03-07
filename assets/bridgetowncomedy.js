@@ -11481,7 +11481,7 @@ catch(err) {
 if (runningTests) {
   require("bridgetowncomedy/tests/test-helper");
 } else {
-  require("bridgetowncomedy/app")["default"].create({"name":"bridgetowncomedy","version":"0.0.0.7f3a7479"});
+  require("bridgetowncomedy/app")["default"].create({"name":"bridgetowncomedy","version":"0.0.0."});
 }
 
 /* jshint ignore:end */
