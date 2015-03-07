@@ -1,0 +1,3 @@
+[submodule "bridgetown-ember"]
+	path = bridgetown-ember
+	url = git@github.com:joshuabremer/bridgetown-ember.git
