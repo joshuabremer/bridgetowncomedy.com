@@ -733,7 +733,12 @@ define('bridgetowncomedy/routes/contact', ['exports', 'ember'], function (export
 
   exports['default'] = Ember['default'].Route.extend({
     model: function model() {
-      return $.ajax("/contact").then(function (data) {
+      var host = "http://www.bridgetowncomedy.com";
+      if (window.location.host === "localhost:4000") {
+        host = "http://localhost:4000";
+      }
+
+      return Ember['default'].$.ajax(host + "/contact").then(function (data) {
         return $(data).find("#jekyll-content").html();
       });
     },
@@ -757,7 +762,11 @@ define('bridgetowncomedy/routes/faqs', ['exports', 'ember'], function (exports, 
   exports['default'] = Ember['default'].Route.extend({
     model: function model() {
 
-      return $.ajax("/faqs").then(function (data) {
+      var host = "http://www.bridgetowncomedy.com";
+      if (window.location.host === "localhost:4000") {
+        host = "http://localhost:4000";
+      }
+      return Ember['default'].$.ajax(host + "/faqs").then(function (data) {
         return $(data).find("#jekyll-content").html();
       });
     },
@@ -822,7 +831,12 @@ define('bridgetowncomedy/routes/press', ['exports', 'ember'], function (exports,
   exports['default'] = Ember['default'].Route.extend({
     model: function model() {
 
-      return $.ajax("/press").then(function (data) {
+      var host = "http://www.bridgetowncomedy.com";
+      if (window.location.host === "localhost:4000") {
+        host = "http://localhost:4000";
+      }
+
+      return Ember['default'].$.ajax(host + "/press").then(function (data) {
         return $(data).find("#jekyll-content").html();
       });
     },
@@ -877,7 +891,12 @@ define('bridgetowncomedy/routes/venues', ['exports', 'ember'], function (exports
   exports['default'] = Ember['default'].Route.extend({
     model: function model() {
 
-      return $.ajax("/venues").then(function (data) {
+      var host = "http://www.bridgetowncomedy.com";
+      if (window.location.host === "localhost:4000") {
+        host = "http://localhost:4000";
+      }
+
+      return Ember['default'].$.ajax(host + "/venues/").then(function (data) {
         return $(data).find("#jekyll-content").html();
       });
     },
