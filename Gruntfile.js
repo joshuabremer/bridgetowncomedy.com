@@ -35,13 +35,10 @@ module.exports = function(grunt) {
           command += "cd bridgetown-ember;";
           command += "git co master;";
           command += "git pull origin master;";
-          command += "ember build;";
+          command += 'ember build --environment="production";';
           command += "cd ../;";
-          command += "rm -r ./assets;";
-          command += "cp -r ./bridgetown-ember/dist/assets ./assets;";
-
-          command += "rm -r ./img;";
-          command += "cp -r ./bridgetown-ember/dist/img ./img;";
+          command += "rsync -rnv --size-only --delete ./bridgetown-ember/dist/assets/ ./assets;";
+          command += "rsync -rnv --size-only --delete ./bridgetown-ember/dist/img/ ./img;";
           return command;
         },
 
@@ -60,7 +57,7 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-template');
-  grunt.registerTask('default', ['clean','emberTemplates','uglify', 'template', 'jekyll']);
+  grunt.registerTask('deploy', ['shell:build_ember','template']);
 
 
 };
