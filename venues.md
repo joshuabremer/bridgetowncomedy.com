@@ -6,7 +6,9 @@ description: "Come join us on East Burnside for the Bridgetown Comedy Festival i
 published: true
 ---
 
-![](/img/venue-images/venue-doug-fir.png)
+<a target="_blank" href="http://www.dougfirlounge.com/">
+  <img src="/img/venue-images/venue-doug-fir.png" />
+</a>
 
 ### Kill Rock Stars Stage at Doug Fir Lounge
 
@@ -15,7 +17,9 @@ published: true
 830 E. Burnside St., Portland, OR
 
 
-  ![](/img/venue-images/venue-bossanova.png)
+  <a target="_blank" href="http://www.bossanovaballroom.com">
+    <img src="/img/venue-images/venue-bossanova.png" />
+  </a>
 
 ### MailChimp Stage at Bossanova Ballroom
 
@@ -25,7 +29,9 @@ published: true
 
 
 
-  ![](/img/venue-images/venue-revolution-hall.png)
+  <a target="_blank" href="http://www.revolutionhallpdx.com/">
+    <img src="/img/venue-images/venue-revolution-hall.png" />
+  </a>
 
 ### Revolution Hall (Washington High)
 
@@ -38,7 +44,9 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 
 
-  ![](/img/venue-images/venue-norse.png)
+  <a target="_blank" href="http://www.norsehall.org">
+    <img src="/img/venue-images/venue-norse.png" />
+  </a>
 
 ### Norse Hall
 
@@ -50,7 +58,9 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 
 
-  ![](/img/venue-images/venue-rotture.png)
+  <a target="_blank" href="http://www.rotture.com">
+    <img src="/img/venue-images/venue-rotture.png" />
+  </a>
 
 ### Rotture
 
@@ -60,7 +70,9 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 
 
-  ![](/img/venue-images/venue-bunk-bar.png)
+  <a target="_blank" href="http://www.bunksandwiches.com/bunkbar/">
+    <img src="/img/venue-images/venue-bunk-bar.png" />
+  </a>
 
 ### Bunk
 
@@ -68,11 +80,12 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 1028 SE Water, Portland, OR
 
-  ![](/img/venue-images/venue-sandy-hut.png)
 
 
 
-
+  <a target="_blank" href="https://www.facebook.com/thesandyhut">
+    <img src="/img/venue-images/venue-sandy-hut.png" />
+  </a>
 
 
 ### Sandy Hut
@@ -86,7 +99,9 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 
 
-  ![](/img/venue-images/venue-boogie-burgers.png)
+  <a target="_blank" href="http://www.boogiesburgersandbrew.com/">
+    <img src="/img/venue-images/venue-boogie-burgers.png" />
+  </a>
 
 ### Boogie Burgers
 
