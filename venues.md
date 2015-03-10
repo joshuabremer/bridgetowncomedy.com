@@ -103,7 +103,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
     <img src="/img/venue-images/venue-boogie-burgers.png" />
   </a>
 
-### Boogie Burgers
+### Boogie's Burgers and Brew
 
   [www.boogiesburgersandbrew.com](http://www.boogiesburgersandbrew.com/)
 
