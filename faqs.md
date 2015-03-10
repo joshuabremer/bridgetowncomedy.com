@@ -2,15 +2,16 @@
 layout: page
 title: FAQs
 permalink: /faqs/
-description: All your questions answered for the Bridgetown Comedy Festival in 2015!
+description: "All your questions answered for the Bridgetown Comedy Festival in 2015!"
+published: true
 ---
 
 **Can I buy individual show tickets?**
 
-Yes! Well, sort of. This year we are selling individual show tickets to the Dr. Katz, Professional Therapist 20th Anniversary Celebration on May 7th at Revolution Hall. Apart from that, we only sell full festival passes in advance. The standard festival pass grants admission to all Bridgetown shows EXCEPT Dr. Katz, and the deluxe festival pass grants admission to all Bridgetown shows INCLUDING Dr. Katz. Apart from that, If you want to attend a single show, you can pay admission as you enter (doors open 30 minutes prior to showtime). This has been Bridgetown’s policy in an attempt to avoid penalizing full weekend pass-holders. This way, no matter how popular a single show may be, those with festival passes and those who only want to attend one show have an equal chance at getting in by lining up beforehand.
+Yes! Well, sort of. This year we are selling [individual show tickets to the Dr. Katz, Professional Therapist 20th Anniversary Celebration](https://www.ticketfly.com/purchase/event/796489) on May 7th at Revolution Hall. Apart from that, [we only sell full festival passes in advance](http://www.eventbrite.com/e/2015-bridgetown-comedy-festival-may-7-10-tickets-15878613360). The standard festival pass grants admission to all Bridgetown shows EXCEPT Dr. Katz, and the deluxe festival pass grants admission to all Bridgetown shows INCLUDING Dr. Katz. Apart from that, If you want to attend a single show, you can pay admission as you enter (doors open 30 minutes prior to showtime). This has been Bridgetown’s policy in an attempt to avoid penalizing full weekend pass-holders. This way, no matter how popular a single show may be, those with festival passes and those who only want to attend one show have an equal chance at getting in by lining up beforehand.
 
 Note: Individual show tickets are only valid for a single show. They do not grant access for the following shows in the same venue.
-</p>
+
 
 **So I bought a festival pass. What now? Where do I pick it up?**
 
