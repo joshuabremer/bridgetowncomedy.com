@@ -7,7 +7,7 @@ published: true
 ---
 
 <h3>Want to Volunteer this year?</h3>
-Volunteer Applications are open for [Bridgetown Comedy Festival](https://www.facebook.com/bridgetowncomedy).
+Volunteer Applications are open for [Bridgetown Comedy Festival](https://www.facebook.com/bridgetowncomedy)!
 
 <h3> Tickets on sale!</h3>
 <h3>
