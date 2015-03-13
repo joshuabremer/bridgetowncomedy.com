@@ -20,7 +20,7 @@ function processEventData() {
   addMCsIfTheyExist();
   writeEventsToFixtures();
   createEventPages();
-  console.log("Finished: " + "./scripts/fixtures/event.js");
+  console.log("Finished: " + "./scripts/event.js");
 }
 
 function createEventPages() {
@@ -106,7 +106,7 @@ function addMCsIfTheyExist() {
 }
 
 function writeEventsToFixtures() {
-  fs.writeFileSync( "./scripts/fixtures/event.js","/*jshint -W100 */\nApp.Event.FIXTURES = ","utf8" );
-  fs.appendFileSync( "./scripts/fixtures/event.js", festivalData.getEventData(),{encoding:"utf8" });
-  fs.appendFileSync( "./scripts/fixtures/event.js",";");
+  fs.writeFileSync( "./scripts/event.js","/*jshint -W100 */\nApp.Event.FIXTURES = ","utf8" );
+  fs.appendFileSync( "./scripts/event.js", festivalData.getEventData(),{encoding:"utf8" });
+  fs.appendFileSync( "./scripts/event.js",";");
 }

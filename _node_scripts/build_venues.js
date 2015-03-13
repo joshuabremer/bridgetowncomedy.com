@@ -33,11 +33,11 @@ var addresses = {
 function processVenueData() {
   normalizeVenueData();
   addEventIds();
-  fs.writeFileSync("./scripts/fixtures/venue.js","/*jshint -W100 */\nApp.Venue.FIXTURES = ","utf8");
-  fs.appendFileSync("./scripts/fixtures/venue.js",festivalData.getVenueData(),{encoding:"utf8"});
-  fs.appendFileSync("./scripts/fixtures/venue.js",";");
+  fs.writeFileSync("./scripts/venue.js","/*jshint -W100 */\nApp.Venue.FIXTURES = ","utf8");
+  fs.appendFileSync("./scripts/venue.js",festivalData.getVenueData(),{encoding:"utf8"});
+  fs.appendFileSync("./scripts/venue.js",";");
   createVenuePages();
-  console.log("Finished: " + "./scripts/fixtures/venue.js");
+  console.log("Finished: " + "./scripts/venue.js");
 }
 
 function createVenuePages() {

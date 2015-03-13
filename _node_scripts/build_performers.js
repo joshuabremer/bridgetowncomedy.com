@@ -14,7 +14,7 @@ var ShowBuilder;
 
 PerformerBuilder = ObjectBuilder.extend({
   TMP_PATH: festivalData.tmpPerformersPath,
-  FIXTURES_PATH: "./scripts/fixtures/performer.js",
+  FIXTURES_PATH: "./scripts/performer.js",
 
   normalizeData: function() {
     var performerObj = festivalData.getPerformerObject();

@@ -11,7 +11,7 @@ var ShowBuilder;
 
 ShowBuilder = ObjectBuilder.extend({
   TMP_PATH: festivalData.tmpShowsPath,
-  FIXTURES_PATH: "./scripts/fixtures/show.js",
+  FIXTURES_PATH: "./scripts/show.js",
 
   normalizeData: function() {
     var showObj = festivalData.getShowObject();
