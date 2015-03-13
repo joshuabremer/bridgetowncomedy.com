@@ -7,7 +7,6 @@ var util = require( "./utilities" );
 var festivalData = require( "./festival-data" );
 var wrench = require('wrench');
 var ObjectBuilder = require( "./object_builder" );
-var curl = require('node-curl');
 var colors = require('colors');
 
 var ShowBuilder;
