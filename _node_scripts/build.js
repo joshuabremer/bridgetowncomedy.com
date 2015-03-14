@@ -6,42 +6,12 @@ var festivalData = require( "./festival-data" );
 var Q = require( "q" );
 var util = require( "./utilities" );
 
-TMP_EVENTS_PATH = festivalData.tmpEventsPath;
-FESTIVALTHING_EVENTS_URL = "http://127.0.0.1:4000/fixtures/festivalthing-events.json";
+var a = new ShowBuilder();
+a.createStaticPages();
 
-TMP_VENUES_PATH = festivalData.tmpVenuesPath;
-FESTIVALTHING_VENUE_URL = "http://127.0.0.1:4000/fixtures/festivalthing-venues.json";
+var b = new PerformerBuilder();
+b.createStaticPages();
 
-TMP_SCHEDULE_PATH = festivalData.tmpSchedulePath;
-FESTIVALTHING_SCHEDULE_URL = "http://127.0.0.1:4000/fixtures/festivalthing-schedule.json";
-
-TMP_PERFORMERS_PATH = festivalData.tmpPerformersPath;
-FESTIVALTHING_PERFORMERS_URL = "http://127.0.0.1:4000/fixtures/festivalthing-performers.json";
-
-TMP_SHOWS_PATH = festivalData.tmpShowsPath;
-FESTIVALTHING_SHOWS_URL = "http://127.0.0.1:4000/fixtures/festivalthing-shows.json";
-
-
-Q.all([
-  util.requestJsonAndSave( FESTIVALTHING_VENUE_URL, TMP_VENUES_PATH ),
-  util.requestJsonAndSave( FESTIVALTHING_EVENTS_URL, TMP_EVENTS_PATH),
-  util.requestJsonAndSave( FESTIVALTHING_SCHEDULE_URL, TMP_SCHEDULE_PATH),
-  util.requestJsonAndSave( FESTIVALTHING_PERFORMERS_URL, TMP_PERFORMERS_PATH),
-  util.requestJsonAndSave( FESTIVALTHING_SHOWS_URL, TMP_SHOWS_PATH)
-]).then(function() {
-  buildVenues();
-  buildEvents();
-
-  var a = new ShowBuilder();
-  a.buildFixtures();
-  a.createHeadshots();
-
-  var b = new PerformerBuilder();
-  b.buildFixtures();
-  b.createHeadshots();
-}).catch(function(error) {
-  console.error(error.stack);
-})
 
 
 

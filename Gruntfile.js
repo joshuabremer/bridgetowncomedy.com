@@ -37,8 +37,10 @@ module.exports = function(grunt) {
           command += "git pull origin master;";
           command += 'ember build;';
           command += "cd ../;";
+          command += "rsync -rv --size-only --delete ./bridgetown-ember/dist/festival-json/ ./festival-json;";
           command += "rsync -rv --size-only --delete ./bridgetown-ember/dist/assets/ ./assets;";
           command += "rsync -rv --size-only --delete ./bridgetown-ember/dist/img/ ./img;";
+          command += "node _node_scripts/build.js;"
           return command;
         },
 
