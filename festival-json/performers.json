@@ -1903,20 +1903,5 @@
   "SortOrder": 127,
   "events": [],
   "mc_events": []
- },
- {
-  "Name": "PLACE HOLDER",
-  "Bio": "<p>Place Holder has been representing open spaces on shows for over ten years. It has held slots that were eventually filled by Jen Kirkman, Andy Kindler, Maria Bamford, Dan Gould and many many more.</p>\n<p>Place has been described as a \"a useful fiction\" by Developer Quarterly.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/unknown-comic.jpg",
-  "PerformerId": "10429",
-  "Twitter": "",
-  "Website": "",
-  "Position": "128",
-  "id": "10429",
-  "pageUrl": "10429-place-holder",
-  "ExcludeFromList": false,
-  "SortOrder": 128,
-  "events": [],
-  "mc_events": []
  }
 ]
