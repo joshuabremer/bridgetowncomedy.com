@@ -35,7 +35,7 @@ module.exports = function(grunt) {
           command += "cd bridgetown-ember;";
           command += "git co master;";
           command += "git pull origin master;";
-          command += 'ember build;';
+          command += 'ember build --environment="production";';
           command += "cd ../;";
           command += "rsync -rv --size-only --delete ./bridgetown-ember/dist/festival-json/ ./festival-json;";
           command += "rsync -rv --size-only --delete ./bridgetown-ember/dist/assets/ ./assets;";
