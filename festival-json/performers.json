@@ -165,21 +165,6 @@
   "mc_events": []
  },
  {
-  "Name": "Tone Bell",
-  "Bio": "<p>Tone Bell is best known for starring in the NBC multi-camera comedy \"Whitney\" as RJ, Alex's (Chris D'Elia) old high school friend who has moved back to Chicago to bartend after a recent divorce. Born and raised in Atlanta, the stand-up comedian began his career in Dallas, where he was voted one of the Funniest Comics in Texas. Bell's real-life brand of comedy has seen him succeed on both the comedy festival circuit as well as previously on NBC as the winner of the Stand Up For Diversity program. Tone recently was a guest on The Late Late Show with Craig Ferguson and was also featured on the Spike TV special \"Eddie Murphy: One Night Only\" and E!’s “Love You Mean It”.  He currently tours around the country performing at colleges and clubs. Tone recently starred in a single-camera comedy pilot for Fox, has also appeared on Comedy Central’s “Key and Peele,” and hosted MTV's \"Jerks with Cameras.\"  Tone can next be seen starring in the new NBC comedy pilot \"Bad Judge,\" which was recently picked up to series.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/tone_bell-3445.jpg",
-  "PerformerId": "10287",
-  "Twitter": "toneBell",
-  "Website": "http://www.tonebell.com",
-  "Position": "12",
-  "id": "10287",
-  "pageUrl": "10287-tone-bell",
-  "ExcludeFromList": false,
-  "SortOrder": 12,
-  "events": [],
-  "mc_events": []
- },
- {
   "Name": "Michelle Buteau",
   "Bio": "<p>Michelle can be seen every weekday morning as co-host of VH1’s Big Morning Buzz along with Nick Lachey. Previously she had a recurring role on the Fox sitcom Enlisted and was a series regular on VH1’s Best Week Ever. Her other  television appearances include the The Late Late Show with Craig Ferguson, Lopez Tonight, @midnight, Key and Peele, Totally Biased with W. Kamau Bell, Gotham Comedy Live and Last Comic Standing. As a comedian, she has toured the country performing at colleges, clubs and comedy festivals.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/michelle_buteau.jpg",
@@ -1052,7 +1037,7 @@
  {
   "Name": "Josh Johnson",
   "Bio": "<p>Josh Johnson is a comedian/writer based in Chicago. He currently writes for Empire News as well as The Whiskey Journal, and as a stand-up, performs across the country in colleges and festivals. He’s performed at the New Orleans Comedy Festival, Snubfest, Orlando  Indie Comedy Festival, Big-Little Comedy Festival, and Epic Fest. He was also a semi-finalist in NBC's Stand Up Diversity Showcase and is currently an ensemble member of Under The Gun Theater in Chicago.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/couch.jpeg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/josh_johnson.jpg",
   "PerformerId": "10214",
   "Twitter": "",
   "Website": "http://joshjohnson.com",
@@ -1856,6 +1841,36 @@
   "pageUrl": "9846-david-mascorro",
   "ExcludeFromList": false,
   "SortOrder": 126,
+  "events": [],
+  "mc_events": []
+ },
+ {
+  "Name": "Whitney Streed",
+  "Bio": "<p>Whitney Streed is a comedian because if she was not, her incessant punning would have no artistic or monetary value whatsoever. Whitney performs stand-up comedy all around the Pacific Northwest and has featured for Maria Bamford, Rob Delaney, Jackie Kashian, and other rad folks. Festival appearances include Seattle Sketchfest, All Jane No Dick in Portland, and the Salt Lake City Comedy Carnivale, as well as Portland's Bridgetown Comedy Festival both as a performer and, since 2012, a producer. Whitney hosts and produces shows all over Portland and can seen playing a feminist and potential home-buyer on three seasons of IFC’s hit show \"Portlandia.\"</p>\n<p>Whitney Streed cares about you and wants you to be happy.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/11024782_922068181157653_8363221811099224183_n.jpg",
+  "PerformerId": "10666",
+  "Twitter": "whitneystreed",
+  "Website": "",
+  "Position": "129",
+  "id": "10666",
+  "pageUrl": "10666-whitney-streed",
+  "ExcludeFromList": false,
+  "SortOrder": 129,
+  "events": [],
+  "mc_events": []
+ },
+ {
+  "Name": "Whitney Streed",
+  "Bio": "<p>Whitney Streed is a comedian because if she was not, her incessant punning would have no artistic or monetary value whatsoever. Whitney performs stand-up comedy all around the Pacific Northwest and has featured for Maria Bamford, Rob Delaney, Jackie Kashian, and other rad folks. Festival appearances include Seattle Sketchfest, All Jane No Dick in Portland, and the Salt Lake City Comedy Carnivale, as well as Portland's Bridgetown Comedy Festival both as a performer and, since 2012, a producer. Whitney hosts and produces shows all over Portland and can seen playing a feminist and potential home-buyer on three seasons of IFC’s hit show \"Portlandia.\"</p>\n<p>Whitney Streed cares about you and wants you to be happy.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/11024782_922068181157653_8363221811099224183_n.jpg",
+  "PerformerId": "10666",
+  "Twitter": "whitneystreed",
+  "Website": "",
+  "Position": "130",
+  "id": "10666",
+  "pageUrl": "10666-whitney-streed",
+  "ExcludeFromList": false,
+  "SortOrder": 130,
   "events": [],
   "mc_events": []
  }
