@@ -77,7 +77,9 @@ PerformerBuilder = ObjectBuilder.extend({
       var dirPath = rootPath + performerObj[key].pageUrl;
       var filePath = dirPath + "/index.html";
 
-      fs.mkdirSync( dirPath );
+      if (!fs.existsSync(dirPath)){
+        fs.mkdirSync(dirPath);
+      }
       fs.openSync( filePath, 'w');
 
       fs.appendFileSync( filePath, "---\n");
