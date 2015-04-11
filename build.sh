@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# Exit on any error
+set -e
+
 cd bridgetown-ember;
 git checkout master;
 
@@ -19,8 +24,13 @@ else
     exit 1
 fi
 
-git add .;
-git commit -am "Updated site";
+if [ -z "$(git status --porcelain)" ]; then
+  echo "No changes!"
+  #exit 1
+else
+  git add .;
+  git commit -am "Updated site";
+fi
 
 echo "\n\n\n\n======================================"
 echo "Files changed:"
