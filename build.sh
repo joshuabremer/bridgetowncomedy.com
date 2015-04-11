@@ -43,7 +43,7 @@ fi
 
 bower install;
 
-if ember build  ; then
+if ember build --environment="production"  ; then
     echo "Command succeeded"
 else
     echo "Ember build failed"
