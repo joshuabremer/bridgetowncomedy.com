@@ -562,7 +562,7 @@ define('bridgetowncomedy/initializers/load-fixtures', ['exports', 'bridgetowncom
       if (!config['default'].FIXTURES.enabled) {
         return;
       }
-
+      debugger;
       Object.keys(require._eak_seen).forEach(function (service) {
         var podFixtureRegexp, modelPath, modelInstance, fixturePath, fixtures, isPodFixture;
 
