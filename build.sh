@@ -31,7 +31,7 @@ else
   numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
   commitdiff=$(git diff-tree --no-commit-id --name-status -r HEAD);
   git add .;
-  git commit -am "Updated site ${numberfileschanges} files changed\n\n#{commitdiff}";
+  git commit -am "Updated site ${numberfileschanges} files changed\n\n${commitdiff}";
 fi
 
 echo "\n\n\n\n======================================"
@@ -107,6 +107,6 @@ echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styl
 numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
 commitdiff=$(git diff-tree --no-commit-id --name-status -r HEAD;)
 git add .;
-git commit -am "Updated site ${numberfileschanges} files changes\n\n#{commitdiff}";
+git commit -am "Updated site ${numberfileschanges} files changes\n\n${commitdiff}";
 
 git push origin gh-pages;
