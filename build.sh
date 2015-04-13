@@ -28,8 +28,10 @@ if [ -z "$(git status --porcelain)" ]; then
   echo "No changes!"
   #exit 1
 else
+  numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
+  commitdiff=$(git diff-tree --no-commit-id --name-status -r HEAD);
   git add .;
-  git commit -am "Updated site";
+  git commit -am "Updated site ${numberfileschanges} files changed\n\n#{commitdiff}";
 fi
 
 echo "\n\n\n\n======================================"
@@ -78,8 +80,6 @@ echo "\n\n\n\n======================================"
 echo "Building Jekyll Pages..."
 echo "======================================\n\n"
 node _node_scripts/build.js;
-git add .;
-git commit -am "Updated site";
 
 
 echo "\n\n\n\n======================================"
@@ -104,5 +104,9 @@ echo "<!-- This file was generated with build.sh -->\n\n" > _includes/styles.htm
 echo "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/styles.html
 echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
 
+numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
+commitdiff=$(git diff-tree --no-commit-id --name-status -r HEAD;)
+git add .;
+git commit -am "Updated site ${numberfileschanges} files changes\n\n#{commitdiff}";
 
 git push origin gh-pages;
