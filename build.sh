@@ -3,7 +3,20 @@
 # Exit on any error
 set -e
 
-trap 'mail -s "Deploy Error" joshua.bremer@gmail.com < /dev/null' INT TERM EXIT
+error_mail () {
+  TODAY=$(date +'%Y-%m-%d-%H:%M:%S')
+   mail -s "Deploy Error ${TODAY}" joshua.bremer@gmail.com < /dev/null
+}
+
+trap "echo 'Received signal EXIT'" 0 # EXIT
+trap "echo 'Received signal HUP';error_mail" 1 # HUP
+trap "echo 'Received signal INT';error_mail" 2 # INT
+trap "echo 'Received signal QUIT';error_mail" 3 # QUIT
+trap "echo 'Received signal PIPE';error_mail" 13 # PIPE
+trap "echo 'Received signal TERM';error_mail" 15 # TERM
+
+
+
 
 dir=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
 echo "${dir}"
