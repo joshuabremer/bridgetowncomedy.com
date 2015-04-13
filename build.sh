@@ -28,9 +28,9 @@ if [ -z "$(git status --porcelain)" ]; then
   echo "No changes!"
   #exit 1
 else
-  numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
-  commitdiff=$(git --no-pager diff --name-status);
   git add .;
+  numberfileschanges=$(git diff --cached --numstat | wc -l);
+  commitdiff=$(git --no-pager diff --name-status;);
   git commit -a -m "Updated site - ${numberfileschanges} files changed" -m "${commitdiff}";
 fi
 
@@ -104,9 +104,9 @@ echo "<!-- This file was generated with build.sh -->\n\n" > _includes/styles.htm
 echo "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/styles.html
 echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
 
-numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
-commitdiff=$(git --no-pager diff --name-status;);
 git add .;
+numberfileschanges=$(git diff --cached --numstat | wc -l);
+commitdiff=$(git --no-pager diff --name-status;);
 git commit -a -m "Updated site - ${numberfileschanges} files changes" -m "${commitdiff}";
 
 git push origin gh-pages;
