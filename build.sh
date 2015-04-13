@@ -2,6 +2,12 @@
 
 # Exit on any error
 set -e
+realpath () {
+  [[ $1 = /* ]] && echo "$1" || echo "$PWD/${1#./}"
+}
+dir=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
+echo "${dir}"
+cd "${dir}"
 
 cd bridgetown-ember;
 git checkout master;
