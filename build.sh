@@ -24,7 +24,7 @@ echo "Refreshing Festival Data..."
 echo "======================================\n\n"
 
 if node _node_scripts/build.js ; then
-    echo "Command succeeded"
+    :
 else
     echo "Node Build Failed"
     exit 1
@@ -47,7 +47,7 @@ git --no-pager diff --name-status;
 echo "======================================\n\n"
 
 if git push origin master ; then
-    echo "Command succeeded"
+    :
 else
     echo "Git push failed"
     exit 1
@@ -58,7 +58,7 @@ echo "Building Ember App..."
 echo "======================================\n\n"
 
 if npm install ; then
-    echo "Command succeeded"
+    :
 else
     echo "Are you in the wrong directory?"
     exit 1
@@ -68,7 +68,7 @@ fi
 bower install;
 
 if ember build --environment="production"  ; then
-    echo "Command succeeded"
+    :
 else
     echo "Ember build failed"
     exit 1
