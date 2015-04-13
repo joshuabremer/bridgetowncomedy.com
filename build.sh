@@ -57,7 +57,6 @@ echo "\n\n\n\n======================================"
 echo "Files changed:"
 echo "======================================"
 git --no-pager diff --name-status;
-echo "======================================\n\n"
 
 if git push origin master ; then
     :
