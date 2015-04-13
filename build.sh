@@ -2,9 +2,9 @@
 
 # Exit on any error
 set -e
-realpath () {
-  [[ $1 = /* ]] && echo "$1" || echo "$PWD/${1#./}"
-}
+
+trap 'mail -s "Deploy Error" joshua.bremer@gmail.com < /dev/null' INT TERM EXIT
+
 dir=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
 echo "${dir}"
 cd "${dir}"
