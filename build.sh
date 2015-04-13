@@ -29,15 +29,15 @@ if [ -z "$(git status --porcelain)" ]; then
   #exit 1
 else
   numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
-  commitdiff=$(git diff-tree --no-commit-id --name-status -r HEAD);
+  commitdiff=$(git --no-pager diff --name-status);
   git add .;
-  git commit -am "Updated site ${numberfileschanges} files changed\n\n${commitdiff}";
+  git commit -a -m "Updated site ${numberfileschanges} files changed" -m "${commitdiff}";
 fi
 
 echo "\n\n\n\n======================================"
 echo "Files changed:"
 echo "======================================"
-git diff-tree --no-commit-id --name-status -r HEAD;
+git --no-pager diff --name-status;
 echo "======================================\n\n"
 
 if git push origin master ; then
@@ -85,7 +85,7 @@ node _node_scripts/build.js;
 echo "\n\n\n\n======================================"
 echo "Files changed:"
 echo "======================================"
-git diff-tree --no-commit-id --name-status -r HEAD;
+git --no-pager diff --name-status;
 echo "======================================\n\n"
 
 echo "\n\n\n\n======================================"
@@ -105,8 +105,8 @@ echo "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/s
 echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
 
 numberfileschanges=$(git whatchanged -1 --format=oneline | wc -l);
-commitdiff=$(git diff-tree --no-commit-id --name-status -r HEAD;)
+commitdiff=$(git --no-pager diff --name-status;);
 git add .;
-git commit -am "Updated site ${numberfileschanges} files changes\n\n${commitdiff}";
+git commit -a -m "Updated site ${numberfileschanges} files changes" -m "${commitdiff}";
 
 git push origin gh-pages;
