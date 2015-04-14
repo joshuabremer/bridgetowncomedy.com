@@ -76,8 +76,7 @@ else
     exit 1
 fi
 
-
-bower install;
+bower install --allow-root;
 
 if ember build --environment="production"  ; then
     :
