@@ -6,9 +6,6 @@ description: "Bridgetown Comedy Festival, happening Portland, OR, May 7th - May 
 published: true
 ---
 
-<h3>Want to Volunteer this year?</h3>
-Volunteer Applications are open for [Bridgetown Comedy Festival](http://bridgetown.festivalthing.com/node/add/volunteer-application)!
-
 <h3> Tickets on sale!</h3>
 <h3>
 <a href="http://bridgetown2015.eventbrite.com" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
