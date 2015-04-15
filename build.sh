@@ -22,6 +22,13 @@ dir=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
 echo "${dir}"
 cd "${dir}"
 
+if git pull --ff origin gh-pages ; then
+    echo "."
+else
+    echo "You have local changes that need to be resolved..."
+    exit 1
+fi
+
 cd bridgetown-ember;
 git checkout master;
 
