@@ -17,5 +17,10 @@ Volunteer Applications are open for [Bridgetown Comedy Festival](http://bridgeto
 
 <h3>
 <a href="https://www.ticketfly.com/purchase/event/796489" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
-Dr. Katz, Professional Therapist LIVE tickets!</a>
+Dr. Katz, Professional Therapist LIVE Tickets!</a>
+</h3>
+
+<h3>
+<a href="https://www.ticketfly.com/purchase/event/772911?utm_source=TICKETBUTTON" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
+Live Wire Radio Tickets!</a>
 </h3>
