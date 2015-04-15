@@ -5,7 +5,7 @@ set -e
 
 error_mail () {
   TODAY=$(date +'%Y-%m-%d-%H:%M:%S')
-   mail -s "Deploy Error ${TODAY}" joshua.bremer@gmail.com < /dev/null
+  curl -A 'Mandrill-Curl/1.0' -d '{"key": "2HXCEL43tEMpOaqF6_ODdw","message": {"html": "<p>Deploy Error</p>","text": "Deploy Error","subject": "Deploy Error","from_email": "joshua.bremer@gmail.com","from_name": "Josh Bremer","to": [{"email": "joshua.bremer@gmail.com","name": "Joshua Bremer","type": "to"}]     },"async": false,"ip_pool": "Main Pool"}' 'https://mandrillapp.com/api/1.0/messages/send.json'
 }
 
 trap "echo 'Received signal EXIT'" 0 # EXIT
