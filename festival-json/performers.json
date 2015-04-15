@@ -11,8 +11,13 @@
   "pageUrl": "10349-jonathan-katz",
   "ExcludeFromList": false,
   "SortOrder": 1,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10426",
+   "10428"
+  ],
+  "mc_events": [
+   "10403"
+  ]
  },
  {
   "Name": "Andy Kindler",
@@ -26,8 +31,17 @@
   "pageUrl": "10299-andy-kindler",
   "ExcludeFromList": false,
   "SortOrder": 2,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10403",
+   "10428",
+   "10433",
+   "10439",
+   "10447",
+   "10740"
+  ],
+  "mc_events": [
+   "10426"
+  ]
  },
  {
   "Name": "Janeane Garofalo",
@@ -41,7 +55,16 @@
   "pageUrl": "10293-janeane-garofalo",
   "ExcludeFromList": false,
   "SortOrder": 3,
-  "events": [],
+  "events": [
+   "10403",
+   "10427",
+   "10449",
+   "10460",
+   "10461",
+   "10502",
+   "10741",
+   "10785"
+  ],
   "mc_events": []
  },
  {
@@ -56,8 +79,16 @@
   "pageUrl": "10288-dana-gould",
   "ExcludeFromList": false,
   "SortOrder": 4,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10403",
+   "10430",
+   "10436",
+   "10439",
+   "10460"
+  ],
+  "mc_events": [
+   "10407"
+  ]
  },
  {
   "Name": "Neil Hamburger",
@@ -71,7 +102,13 @@
   "pageUrl": "10312-neil-hamburger",
   "ExcludeFromList": false,
   "SortOrder": 5,
-  "events": [],
+  "events": [
+   "10427",
+   "10428",
+   "10460",
+   "10461",
+   "10731"
+  ],
   "mc_events": []
  },
  {
@@ -86,8 +123,12 @@
   "pageUrl": "10348-jessica-williams",
   "ExcludeFromList": false,
   "SortOrder": 6,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10741"
+  ],
+  "mc_events": [
+   "10425"
+  ]
  },
  {
   "Name": "Dan Harmon",
@@ -101,7 +142,10 @@
   "pageUrl": "10793-dan-harmon",
   "ExcludeFromList": false,
   "SortOrder": 7,
-  "events": [],
+  "events": [
+   "10737",
+   "10741"
+  ],
   "mc_events": []
  },
  {
@@ -116,8 +160,15 @@
   "pageUrl": "10311-kurt-braunohler",
   "ExcludeFromList": false,
   "SortOrder": 8,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10412",
+   "10427",
+   "10678"
+  ],
+  "mc_events": [
+   "10436",
+   "10676"
+  ]
  },
  {
   "Name": "Karen Kilgariff",
@@ -131,7 +182,16 @@
   "pageUrl": "9601-karen-kilgariff",
   "ExcludeFromList": false,
   "SortOrder": 9,
-  "events": [],
+  "events": [
+   "10392",
+   "10404",
+   "10433",
+   "10436",
+   "10448",
+   "10466",
+   "10467",
+   "10736"
+  ],
   "mc_events": []
  },
  {
@@ -146,7 +206,15 @@
   "pageUrl": "10337-matt-braunger",
   "ExcludeFromList": false,
   "SortOrder": 10,
-  "events": [],
+  "events": [
+   "10433",
+   "10448",
+   "10734",
+   "10740",
+   "10758",
+   "10785",
+   "10817"
+  ],
   "mc_events": []
  },
  {
@@ -161,8 +229,17 @@
   "pageUrl": "10342-brendon-small",
   "ExcludeFromList": false,
   "SortOrder": 11,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10403",
+   "10405",
+   "10409",
+   "10453",
+   "10736",
+   "10740"
+  ],
+  "mc_events": [
+   "10427"
+  ]
  },
  {
   "Name": "Jackie Kashian",
@@ -176,8 +253,18 @@
   "pageUrl": "10297-jackie-kashian",
   "ExcludeFromList": false,
   "SortOrder": 12,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10388",
+   "10425",
+   "10455",
+   "10459",
+   "10741",
+   "10764",
+   "10766"
+  ],
+  "mc_events": [
+   "10404"
+  ]
  },
  {
   "Name": "Lance Bangs",
@@ -192,7 +279,9 @@
   "ExcludeFromList": false,
   "SortOrder": 14,
   "events": [],
-  "mc_events": []
+  "mc_events": [
+   "10731"
+  ]
  },
  {
   "Name": "Michelle Buteau",
@@ -206,7 +295,11 @@
   "pageUrl": "9423-michelle-buteau",
   "ExcludeFromList": false,
   "SortOrder": 15,
-  "events": [],
+  "events": [
+   "10672",
+   "10729",
+   "10758"
+  ],
   "mc_events": []
  },
  {
@@ -221,7 +314,17 @@
   "pageUrl": "10313-kyle-kinane",
   "ExcludeFromList": false,
   "SortOrder": 16,
-  "events": [],
+  "events": [
+   "10402",
+   "10409",
+   "10432",
+   "10467",
+   "10502",
+   "10672",
+   "10678",
+   "10706",
+   "10740"
+  ],
   "mc_events": []
  },
  {
@@ -237,7 +340,9 @@
   "ExcludeFromList": false,
   "SortOrder": 18,
   "events": [],
-  "mc_events": []
+  "mc_events": [
+   "10737"
+  ]
  },
  {
   "Name": "Jonah Ray",
@@ -251,7 +356,10 @@
   "pageUrl": "10816-jonah-ray",
   "ExcludeFromList": false,
   "SortOrder": 19,
-  "events": [],
+  "events": [
+   "10439",
+   "10819"
+  ],
   "mc_events": []
  },
  {
@@ -266,7 +374,12 @@
   "pageUrl": "9755-michael-kosta",
   "ExcludeFromList": false,
   "SortOrder": 20,
-  "events": [],
+  "events": [
+   "10451",
+   "10467",
+   "10766",
+   "10817"
+  ],
   "mc_events": []
  },
  {
@@ -281,7 +394,12 @@
   "pageUrl": "9446-kate-berlant",
   "ExcludeFromList": false,
   "SortOrder": 21,
-  "events": [],
+  "events": [
+   "10392",
+   "10453",
+   "10459",
+   "10731"
+  ],
   "mc_events": []
  },
  {
@@ -296,7 +414,14 @@
   "pageUrl": "10315-ian-karmel",
   "ExcludeFromList": false,
   "SortOrder": 22,
-  "events": [],
+  "events": [
+   "10430",
+   "10447",
+   "10672",
+   "10678",
+   "10784",
+   "10788"
+  ],
   "mc_events": []
  },
  {
@@ -311,7 +436,13 @@
   "pageUrl": "9445-beth-stelling",
   "ExcludeFromList": false,
   "SortOrder": 23,
-  "events": [],
+  "events": [
+   "10391",
+   "10419",
+   "10423",
+   "10426",
+   "10672"
+  ],
   "mc_events": []
  },
  {
@@ -326,8 +457,17 @@
   "pageUrl": "10233-baron-vaughn",
   "ExcludeFromList": false,
   "SortOrder": 24,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10407",
+   "10425",
+   "10428",
+   "10448",
+   "10765"
+  ],
+  "mc_events": [
+   "10729",
+   "10728"
+  ]
  },
  {
   "Name": "Kira Soltanovich",
@@ -341,7 +481,10 @@
   "pageUrl": "9919-kira-soltanovich",
   "ExcludeFromList": false,
   "SortOrder": 25,
-  "events": [],
+  "events": [
+   "10460",
+   "10502"
+  ],
   "mc_events": []
  },
  {
@@ -356,8 +499,16 @@
   "pageUrl": "10210-guy-branum",
   "ExcludeFromList": false,
   "SortOrder": 26,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10404",
+   "10423",
+   "10749",
+   "10779"
+  ],
+  "mc_events": [
+   "10433",
+   "10503"
+  ]
  },
  {
   "Name": "Dave Hill",
@@ -371,8 +522,14 @@
   "pageUrl": "9167-dave-hill",
   "ExcludeFromList": false,
   "SortOrder": 27,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10416",
+   "10736",
+   "10784"
+  ],
+  "mc_events": [
+   "10461"
+  ]
  },
  {
   "Name": "Chris Fairbanks",
@@ -386,7 +543,14 @@
   "pageUrl": "10350-chris-fairbanks",
   "ExcludeFromList": false,
   "SortOrder": 28,
-  "events": [],
+  "events": [
+   "10388",
+   "10412",
+   "10420",
+   "10436",
+   "10736",
+   "10749"
+  ],
   "mc_events": []
  },
  {
@@ -401,7 +565,11 @@
   "pageUrl": "10043-phoebe-robinson",
   "ExcludeFromList": false,
   "SortOrder": 29,
-  "events": [],
+  "events": [
+   "10425",
+   "10467",
+   "10728"
+  ],
   "mc_events": []
  },
  {
@@ -416,8 +584,16 @@
   "pageUrl": "9691-ron-lynch",
   "ExcludeFromList": false,
   "SortOrder": 30,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10403",
+   "10426",
+   "10444",
+   "10733",
+   "10736"
+  ],
+  "mc_events": [
+   "10466"
+  ]
  },
  {
   "Name": "Steve Agee",
@@ -431,8 +607,15 @@
   "pageUrl": "10346-steve-agee",
   "ExcludeFromList": false,
   "SortOrder": 31,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10407",
+   "10426",
+   "10427",
+   "10731"
+  ],
+  "mc_events": [
+   "10740"
+  ]
  },
  {
   "Name": "Jay Larson",
@@ -446,7 +629,10 @@
   "pageUrl": "10316-jay-larson",
   "ExcludeFromList": false,
   "SortOrder": 32,
-  "events": [],
+  "events": [
+   "10430",
+   "10502"
+  ],
   "mc_events": []
  },
  {
@@ -461,8 +647,13 @@
   "pageUrl": "9640-ryan-sickler",
   "ExcludeFromList": false,
   "SortOrder": 33,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10418",
+   "10758"
+  ],
+  "mc_events": [
+   "10430"
+  ]
  },
  {
   "Name": "Jacqueline Novak",
@@ -476,8 +667,15 @@
   "pageUrl": "9739-jacqueline-novak",
   "ExcludeFromList": false,
   "SortOrder": 34,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10433",
+   "10439",
+   "10783",
+   "10784"
+  ],
+  "mc_events": [
+   "10779"
+  ]
  },
  {
   "Name": "Joe Zimmerman",
@@ -491,7 +689,12 @@
   "pageUrl": "10044-joe-zimmerman",
   "ExcludeFromList": false,
   "SortOrder": 35,
-  "events": [],
+  "events": [
+   "10392",
+   "10451",
+   "10785",
+   "10817"
+  ],
   "mc_events": []
  },
  {
@@ -506,7 +709,14 @@
   "pageUrl": "10119-matt-mccarthy",
   "ExcludeFromList": false,
   "SortOrder": 36,
-  "events": [],
+  "events": [
+   "10392",
+   "10439",
+   "10453",
+   "10467",
+   "10758",
+   "10788"
+  ],
   "mc_events": []
  },
  {
@@ -521,23 +731,14 @@
   "pageUrl": "9545-matt-peters",
   "ExcludeFromList": false,
   "SortOrder": 37,
-  "events": [],
-  "mc_events": []
- },
- {
-  "Name": "Gary Vider",
-  "Bio": "<p>Gary Vider is a NY based comedian who recently made his late night debut on Conan. He has also been named a “Comic to Watch” by Esquire and was the winner of the 2014 Carolines on Broadway March Madness competition where he beat out 63 of the best young comedians. He placed 2nd in the 2012 Laughing Skull Comedy Festival in Atlanta, Georgia. Gary has had material published in the NY Times and Time Out NY. He can be regularly seen at Carolines on Broadway, Comedy Strip Live, and many other top NYC clubs. He has hosted and presented top comics from VH1, Comedy Central, and Conan.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gary_vider_hs.jpg",
-  "PerformerId": "9881",
-  "Twitter": "GaryVider",
-  "Website": "http://www.garyvider.com/",
-  "Position": "38",
-  "id": "9881",
-  "pageUrl": "9881-gary-vider",
-  "ExcludeFromList": false,
-  "SortOrder": 38,
-  "events": [],
-  "mc_events": []
+  "events": [
+   "10419",
+   "10442",
+   "10765"
+  ],
+  "mc_events": [
+   "10706"
+  ]
  },
  {
   "Name": "Chad Daniels",
@@ -546,12 +747,16 @@
   "PerformerId": "9676",
   "Twitter": "",
   "Website": "http://www.chaddaniels.com",
-  "Position": "39",
+  "Position": "38",
   "id": "9676",
   "pageUrl": "9676-chad-daniels",
   "ExcludeFromList": false,
-  "SortOrder": 39,
-  "events": [],
+  "SortOrder": 38,
+  "events": [
+   "10672",
+   "10706",
+   "10819"
+  ],
   "mc_events": []
  },
  {
@@ -561,12 +766,17 @@
   "PerformerId": "9990",
   "Twitter": "Curtis_Cook",
   "Website": "http://www.curtiscookcomedy.com",
-  "Position": "40",
+  "Position": "39",
   "id": "9990",
   "pageUrl": "9990-curtis-cook",
   "ExcludeFromList": false,
-  "SortOrder": 40,
-  "events": [],
+  "SortOrder": 39,
+  "events": [
+   "10441",
+   "10448",
+   "10502",
+   "10731"
+  ],
   "mc_events": []
  },
  {
@@ -576,13 +786,20 @@
   "PerformerId": "9763",
   "Twitter": "drennondavis",
   "Website": "http://www.drennondavis.com",
-  "Position": "41",
+  "Position": "40",
   "id": "9763",
   "pageUrl": "9763-drennon-davis",
   "ExcludeFromList": false,
-  "SortOrder": 41,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 40,
+  "events": [
+   "10433",
+   "10444",
+   "10466",
+   "10733"
+  ],
+  "mc_events": [
+   "10736"
+  ]
  },
  {
   "Name": "Allen Strickland Williams",
@@ -591,12 +808,18 @@
   "PerformerId": "9093",
   "Twitter": "totallyallen",
   "Website": "http://www.allenstricklandwilliams.com/",
-  "Position": "42",
+  "Position": "41",
   "id": "9093",
   "pageUrl": "9093-allen-strickland-williams",
   "ExcludeFromList": false,
-  "SortOrder": 42,
-  "events": [],
+  "SortOrder": 41,
+  "events": [
+   "10428",
+   "10448",
+   "10466",
+   "10733",
+   "10734"
+  ],
   "mc_events": []
  },
  {
@@ -606,13 +829,20 @@
   "PerformerId": "9505",
   "Twitter": "imlaurahouse",
   "Website": "http://laurahouse.com",
-  "Position": "43",
+  "Position": "42",
   "id": "9505",
   "pageUrl": "9505-laura-house",
   "ExcludeFromList": false,
-  "SortOrder": 43,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 42,
+  "events": [
+   "10411",
+   "10420",
+   "10451",
+   "10455"
+  ],
+  "mc_events": [
+   "10460"
+  ]
  },
  {
   "Name": "Arden Myrin",
@@ -621,13 +851,19 @@
   "PerformerId": "10341",
   "Twitter": "ardenmyrin",
   "Website": "",
-  "Position": "44",
+  "Position": "43",
   "id": "10341",
   "pageUrl": "10341-arden-myrin",
   "ExcludeFromList": false,
-  "SortOrder": 44,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 43,
+  "events": [
+   "10407",
+   "10433",
+   "10706"
+  ],
+  "mc_events": [
+   "10439"
+  ]
  },
  {
   "Name": "Matt Kirshen",
@@ -636,12 +872,19 @@
   "PerformerId": "10343",
   "Twitter": "mattkirshen",
   "Website": "http://www.mattkirshen.com",
-  "Position": "45",
+  "Position": "44",
   "id": "10343",
   "pageUrl": "10343-matt-kirshen",
   "ExcludeFromList": false,
-  "SortOrder": 45,
-  "events": [],
+  "SortOrder": 44,
+  "events": [
+   "10388",
+   "10401",
+   "10448",
+   "10460",
+   "10817",
+   "10819"
+  ],
   "mc_events": []
  },
  {
@@ -651,13 +894,17 @@
   "PerformerId": "10112",
   "Twitter": "CaytonHolland",
   "Website": "http://www.adamisfreakingoutrightnow.com",
-  "Position": "46",
+  "Position": "45",
   "id": "10112",
   "pageUrl": "10112-adam-cayton-holland",
   "ExcludeFromList": false,
-  "SortOrder": 46,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 45,
+  "events": [
+   "10731"
+  ],
+  "mc_events": [
+   "10502"
+  ]
  },
  {
   "Name": "Chris Garcia ",
@@ -666,13 +913,19 @@
   "PerformerId": "10046",
   "Twitter": "_chrisgarcia",
   "Website": "http://chrisgarciacomedy.com/",
-  "Position": "47",
+  "Position": "46",
   "id": "10046",
   "pageUrl": "10046-chris-garcia-",
   "ExcludeFromList": false,
-  "SortOrder": 47,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 46,
+  "events": [
+   "10394",
+   "10439",
+   "10447"
+  ],
+  "mc_events": [
+   "10467"
+  ]
  },
  {
   "Name": "Ben Roy",
@@ -681,12 +934,15 @@
   "PerformerId": "10309",
   "Twitter": "benroy00",
   "Website": "http://www.benroyyellsalot.com",
-  "Position": "48",
+  "Position": "47",
   "id": "10309",
   "pageUrl": "10309-ben-roy",
   "ExcludeFromList": false,
-  "SortOrder": 48,
-  "events": [],
+  "SortOrder": 47,
+  "events": [
+   "10455",
+   "10502"
+  ],
   "mc_events": []
  },
  {
@@ -696,12 +952,17 @@
   "PerformerId": "9564",
   "Twitter": "lizzycooperman",
   "Website": "http://lizzycooperman.com",
-  "Position": "49",
+  "Position": "48",
   "id": "9564",
   "pageUrl": "9564-lizzy-cooperman",
   "ExcludeFromList": false,
-  "SortOrder": 49,
-  "events": [],
+  "SortOrder": 48,
+  "events": [
+   "10416",
+   "10428",
+   "10460",
+   "10779"
+  ],
   "mc_events": []
  },
  {
@@ -711,12 +972,18 @@
   "PerformerId": "9876",
   "Twitter": "maggiemayehaha",
   "Website": "",
-  "Position": "50",
+  "Position": "49",
   "id": "9876",
   "pageUrl": "9876-maggie-maye",
   "ExcludeFromList": false,
-  "SortOrder": 50,
-  "events": [],
+  "SortOrder": 49,
+  "events": [
+   "10391",
+   "10425",
+   "10443",
+   "10448",
+   "10729"
+  ],
   "mc_events": []
  },
  {
@@ -726,12 +993,17 @@
   "PerformerId": "9638",
   "Twitter": "",
   "Website": "",
-  "Position": "51",
+  "Position": "50",
   "id": "9638",
   "pageUrl": "9638-patrick-keane",
   "ExcludeFromList": false,
-  "SortOrder": 51,
-  "events": [],
+  "SortOrder": 50,
+  "events": [
+   "10411",
+   "10412",
+   "10423",
+   "10432"
+  ],
   "mc_events": []
  },
  {
@@ -741,12 +1013,18 @@
   "PerformerId": "9105",
   "Twitter": "djrealsmells",
   "Website": "http://www.djrealsmells.com",
-  "Position": "52",
+  "Position": "51",
   "id": "9105",
   "pageUrl": "9105-dj-real-nick-stargu",
   "ExcludeFromList": false,
-  "SortOrder": 52,
-  "events": [],
+  "SortOrder": 51,
+  "events": [
+   "10394",
+   "10402",
+   "10461",
+   "10736",
+   "10783"
+  ],
   "mc_events": []
  },
  {
@@ -756,13 +1034,19 @@
   "PerformerId": "10317",
   "Twitter": "andytwood",
   "Website": "http://andytwood.com",
-  "Position": "53",
+  "Position": "52",
   "id": "10317",
   "pageUrl": "10317-andy-wood",
   "ExcludeFromList": false,
-  "SortOrder": 53,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 52,
+  "events": [
+   "10427",
+   "10436",
+   "10460"
+  ],
+  "mc_events": [
+   "10401"
+  ]
  },
  {
   "Name": "Ben Bizuneh",
@@ -771,12 +1055,17 @@
   "PerformerId": "10134",
   "Twitter": "benbizuneh",
   "Website": "http://benbizuneh.tumblr.com",
-  "Position": "54",
+  "Position": "53",
   "id": "10134",
   "pageUrl": "10134-ben-bizuneh",
   "ExcludeFromList": false,
-  "SortOrder": 54,
-  "events": [],
+  "SortOrder": 53,
+  "events": [
+   "10412",
+   "10432",
+   "10451",
+   "10766"
+  ],
   "mc_events": []
  },
  {
@@ -786,13 +1075,20 @@
   "PerformerId": "9096",
   "Twitter": "iantherage",
   "Website": "http://www.ianabramson.com/",
-  "Position": "55",
+  "Position": "54",
   "id": "9096",
   "pageUrl": "9096-ian-abramson",
   "ExcludeFromList": false,
-  "SortOrder": 55,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 54,
+  "events": [
+   "10394",
+   "10423",
+   "10426",
+   "10466"
+  ],
+  "mc_events": [
+   "10428"
+  ]
  },
  {
   "Name": "Andrew Orvedahl",
@@ -801,12 +1097,15 @@
   "PerformerId": "10282",
   "Twitter": "TheOrvedahl",
   "Website": "http://www.5unicorns.com",
-  "Position": "56",
+  "Position": "55",
   "id": "10282",
   "pageUrl": "10282-andrew-orvedahl",
   "ExcludeFromList": false,
-  "SortOrder": 56,
-  "events": [],
+  "SortOrder": 55,
+  "events": [
+   "10502",
+   "10817"
+  ],
   "mc_events": []
  },
  {
@@ -816,12 +1115,18 @@
   "PerformerId": "9770",
   "Twitter": "prestonparty",
   "Website": "http://amberpreston.com",
-  "Position": "57",
+  "Position": "56",
   "id": "9770",
   "pageUrl": "9770-amber-preston",
   "ExcludeFromList": false,
-  "SortOrder": 57,
-  "events": [],
+  "SortOrder": 56,
+  "events": [
+   "10404",
+   "10432",
+   "10449",
+   "10450",
+   "10706"
+  ],
   "mc_events": []
  },
  {
@@ -831,13 +1136,17 @@
   "PerformerId": "10318",
   "Twitter": "gregbarris",
   "Website": "http://www.gregbarris.com/",
-  "Position": "58",
+  "Position": "57",
   "id": "10318",
   "pageUrl": "10318-greg-barris",
   "ExcludeFromList": false,
-  "SortOrder": 58,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 57,
+  "events": [
+   "10441"
+  ],
+  "mc_events": [
+   "10453"
+  ]
  },
  {
   "Name": "Bri Pruett",
@@ -846,13 +1155,19 @@
   "PerformerId": "10189",
   "Twitter": "bripruett",
   "Website": "http://www.bripruett.com",
-  "Position": "59",
+  "Position": "58",
   "id": "10189",
   "pageUrl": "10189-bri-pruett",
   "ExcludeFromList": false,
-  "SortOrder": 59,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 58,
+  "events": [
+   "10418",
+   "10420",
+   "10423"
+  ],
+  "mc_events": [
+   "10391"
+  ]
  },
  {
   "Name": "Amy Miller",
@@ -861,13 +1176,19 @@
   "PerformerId": "9079",
   "Twitter": "amymiller",
   "Website": "http://amymillercomedy.com",
-  "Position": "60",
+  "Position": "59",
   "id": "9079",
   "pageUrl": "9079-amy-miller",
   "ExcludeFromList": false,
-  "SortOrder": 60,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 59,
+  "events": [
+   "10443",
+   "10678"
+  ],
+  "mc_events": [
+   "10749",
+   "10448"
+  ]
  },
  {
   "Name": "Andrew Sleighter",
@@ -876,12 +1197,17 @@
   "PerformerId": "9392",
   "Twitter": "andrewsleighter",
   "Website": "http://andrewsleighter.com",
-  "Position": "61",
+  "Position": "60",
   "id": "9392",
   "pageUrl": "9392-andrew-sleighter",
   "ExcludeFromList": false,
-  "SortOrder": 61,
-  "events": [],
+  "SortOrder": 60,
+  "events": [
+   "10443",
+   "10451",
+   "10784",
+   "10785"
+  ],
   "mc_events": []
  },
  {
@@ -891,13 +1217,20 @@
   "PerformerId": "10296",
   "Twitter": "",
   "Website": "",
-  "Position": "62",
+  "Position": "61",
   "id": "10296",
   "pageUrl": "10296-bryan-cook",
   "ExcludeFromList": false,
-  "SortOrder": 62,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 61,
+  "events": [
+   "10409",
+   "10412",
+   "10733",
+   "10819"
+  ],
+  "mc_events": [
+   "10423"
+  ]
  },
  {
   "Name": "Clare O&#039;Kane",
@@ -906,12 +1239,18 @@
   "PerformerId": "9272",
   "Twitter": "babysfirstgun",
   "Website": "http://www.clareokane.com",
-  "Position": "63",
+  "Position": "62",
   "id": "9272",
   "pageUrl": "9272-clare-okane",
   "ExcludeFromList": false,
-  "SortOrder": 63,
-  "events": [],
+  "SortOrder": 62,
+  "events": [
+   "10388",
+   "10416",
+   "10420",
+   "10731",
+   "10749"
+  ],
   "mc_events": []
  },
  {
@@ -921,13 +1260,15 @@
   "PerformerId": "10739",
   "Twitter": "SexNerdSandra",
   "Website": "http://sexnerdsandra.com/about/",
-  "Position": "64",
+  "Position": "63",
   "id": "10739",
   "pageUrl": "10739-sandra-daughtery",
   "ExcludeFromList": false,
-  "SortOrder": 64,
+  "SortOrder": 63,
   "events": [],
-  "mc_events": []
+  "mc_events": [
+   "10402"
+  ]
  },
  {
   "Name": "Derek Sheen",
@@ -936,12 +1277,17 @@
   "PerformerId": "9144",
   "Twitter": "dereksheen",
   "Website": "http://derektime.com",
-  "Position": "65",
+  "Position": "64",
   "id": "9144",
   "pageUrl": "9144-derek-sheen",
   "ExcludeFromList": false,
-  "SortOrder": 65,
-  "events": [],
+  "SortOrder": 64,
+  "events": [
+   "10391",
+   "10467",
+   "10734",
+   "10747"
+  ],
   "mc_events": []
  },
  {
@@ -951,12 +1297,14 @@
   "PerformerId": "9484",
   "Twitter": "ashley_barnhill",
   "Website": "http://ashleybarnhill.flavors.me/",
-  "Position": "66",
+  "Position": "65",
   "id": "9484",
   "pageUrl": "9484-ashley-barnhill",
   "ExcludeFromList": false,
-  "SortOrder": 66,
-  "events": [],
+  "SortOrder": 65,
+  "events": [
+   "10766"
+  ],
   "mc_events": []
  },
  {
@@ -966,12 +1314,17 @@
   "PerformerId": "10070",
   "Twitter": "paulhooper",
   "Website": "http://www.paulhoopercomedy.com",
-  "Position": "67",
+  "Position": "66",
   "id": "10070",
   "pageUrl": "10070-paul-hooper",
   "ExcludeFromList": false,
-  "SortOrder": 67,
-  "events": [],
+  "SortOrder": 66,
+  "events": [
+   "10455",
+   "10746",
+   "10779",
+   "10784"
+  ],
   "mc_events": []
  },
  {
@@ -981,13 +1334,18 @@
   "PerformerId": "9483",
   "Twitter": "dulcesloan",
   "Website": "http://www.dulcesloan.com",
-  "Position": "68",
+  "Position": "67",
   "id": "9483",
   "pageUrl": "9483-dulc-sloan",
   "ExcludeFromList": false,
-  "SortOrder": 68,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 67,
+  "events": [
+   "10728",
+   "10766"
+  ],
+  "mc_events": [
+   "10442"
+  ]
  },
  {
   "Name": "Barbara Gray",
@@ -996,12 +1354,16 @@
   "PerformerId": "10137",
   "Twitter": "BabsGray",
   "Website": "http://www.myjokesareuphere.com",
-  "Position": "69",
+  "Position": "68",
   "id": "10137",
   "pageUrl": "10137-barbara-gray",
   "ExcludeFromList": false,
-  "SortOrder": 69,
-  "events": [],
+  "SortOrder": 68,
+  "events": [
+   "10412",
+   "10442",
+   "10467"
+  ],
   "mc_events": []
  },
  {
@@ -1011,13 +1373,19 @@
   "PerformerId": "9235",
   "Twitter": "WilberWithAnE",
   "Website": "",
-  "Position": "70",
+  "Position": "69",
   "id": "9235",
   "pageUrl": "9235-steven-wilber",
   "ExcludeFromList": false,
-  "SortOrder": 70,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 69,
+  "events": [
+   "10466",
+   "10678",
+   "10764"
+  ],
+  "mc_events": [
+   "10733"
+  ]
  },
  {
   "Name": "Jak Knight",
@@ -1026,12 +1394,17 @@
   "PerformerId": "9212",
   "Twitter": "",
   "Website": "",
-  "Position": "71",
+  "Position": "70",
   "id": "9212",
   "pageUrl": "9212-jak-knight",
   "ExcludeFromList": false,
-  "SortOrder": 71,
-  "events": [],
+  "SortOrder": 70,
+  "events": [
+   "10392",
+   "10409",
+   "10459",
+   "10728"
+  ],
   "mc_events": []
  },
  {
@@ -1041,13 +1414,20 @@
   "PerformerId": "9879",
   "Twitter": "ROBOTCAITLIN",
   "Website": "http://www.caitlingillcomedy@gmail.com",
-  "Position": "72",
+  "Position": "71",
   "id": "9879",
   "pageUrl": "9879-caitlin-gill",
   "ExcludeFromList": false,
-  "SortOrder": 72,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 71,
+  "events": [
+   "10423",
+   "10437",
+   "10453",
+   "10503"
+  ],
+  "mc_events": [
+   "10785"
+  ]
  },
  {
   "Name": "Doogie Horner",
@@ -1056,12 +1436,18 @@
   "PerformerId": "9827",
   "Twitter": "doogiehorner",
   "Website": "http://www.doogiehorner.com",
-  "Position": "73",
+  "Position": "72",
   "id": "9827",
   "pageUrl": "9827-doogie-horner",
   "ExcludeFromList": false,
-  "SortOrder": 73,
-  "events": [],
+  "SortOrder": 72,
+  "events": [
+   "10451",
+   "10747",
+   "10749",
+   "10758",
+   "10779"
+  ],
   "mc_events": []
  },
  {
@@ -1071,12 +1457,17 @@
   "PerformerId": "10214",
   "Twitter": "",
   "Website": "http://joshjohnson.com",
-  "Position": "74",
+  "Position": "73",
   "id": "10214",
   "pageUrl": "10214-josh-johnson",
   "ExcludeFromList": false,
-  "SortOrder": 74,
-  "events": [],
+  "SortOrder": 73,
+  "events": [
+   "10417",
+   "10442",
+   "10729",
+   "10785"
+  ],
   "mc_events": []
  },
  {
@@ -1086,12 +1477,17 @@
   "PerformerId": "9595",
   "Twitter": "",
   "Website": "",
-  "Position": "75",
+  "Position": "74",
   "id": "9595",
   "pageUrl": "9595-billy-prinsell",
   "ExcludeFromList": false,
-  "SortOrder": 75,
-  "events": [],
+  "SortOrder": 74,
+  "events": [
+   "10432",
+   "10450",
+   "10747",
+   "10766"
+  ],
   "mc_events": []
  },
  {
@@ -1101,12 +1497,16 @@
   "PerformerId": "9243",
   "Twitter": "",
   "Website": "",
-  "Position": "76",
+  "Position": "75",
   "id": "9243",
   "pageUrl": "9243-langston-kerman",
   "ExcludeFromList": false,
-  "SortOrder": 76,
-  "events": [],
+  "SortOrder": 75,
+  "events": [
+   "10411",
+   "10728",
+   "10746"
+  ],
   "mc_events": []
  },
  {
@@ -1116,12 +1516,17 @@
   "PerformerId": "9583",
   "Twitter": "krandomthoughts",
   "Website": "http://kristinrand.com",
-  "Position": "77",
+  "Position": "76",
   "id": "9583",
   "pageUrl": "9583-kristin-rand",
   "ExcludeFromList": false,
-  "SortOrder": 77,
-  "events": [],
+  "SortOrder": 76,
+  "events": [
+   "10444",
+   "10447",
+   "10449",
+   "10749"
+  ],
   "mc_events": []
  },
  {
@@ -1131,13 +1536,18 @@
   "PerformerId": "9453",
   "Twitter": "nathanbrannon",
   "Website": "http://nathanbrannon.com",
-  "Position": "78",
+  "Position": "77",
   "id": "9453",
   "pageUrl": "9453-nathan-brannon",
   "ExcludeFromList": false,
-  "SortOrder": 78,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 77,
+  "events": [
+   "10443",
+   "10678"
+  ],
+  "mc_events": [
+   "10765"
+  ]
  },
  {
   "Name": "Jerron Horton",
@@ -1146,13 +1556,19 @@
   "PerformerId": "9382",
   "Twitter": "jerronhorton",
   "Website": "",
-  "Position": "79",
+  "Position": "78",
   "id": "9382",
   "pageUrl": "9382-jerron-horton",
   "ExcludeFromList": false,
-  "SortOrder": 79,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 78,
+  "events": [
+   "10420",
+   "10729",
+   "10746"
+  ],
+  "mc_events": [
+   "10419"
+  ]
  },
  {
   "Name": "Noah Gardenswartz",
@@ -1161,13 +1577,19 @@
   "PerformerId": "9520",
   "Twitter": "noahgcomedy",
   "Website": "http://www.noahgcomedy.com",
-  "Position": "80",
+  "Position": "79",
   "id": "9520",
   "pageUrl": "9520-noah-gardenswartz",
   "ExcludeFromList": false,
-  "SortOrder": 80,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 79,
+  "events": [
+   "10411",
+   "10420",
+   "10672"
+  ],
+  "mc_events": [
+   "10447"
+  ]
  },
  {
   "Name": "Ever Mainard ",
@@ -1176,13 +1598,19 @@
   "PerformerId": "9427",
   "Twitter": "evermainard",
   "Website": "http://www.evermainard.com",
-  "Position": "81",
+  "Position": "80",
   "id": "9427",
   "pageUrl": "9427-ever-mainard-",
   "ExcludeFromList": false,
-  "SortOrder": 81,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 80,
+  "events": [
+   "10437",
+   "10444",
+   "10819"
+  ],
+  "mc_events": [
+   "10817"
+  ]
  },
  {
   "Name": "Gabe Dinger",
@@ -1191,13 +1619,19 @@
   "PerformerId": "9075",
   "Twitter": "GabeDinger",
   "Website": "http://www.GabeDinger.com",
-  "Position": "82",
+  "Position": "81",
   "id": "9075",
   "pageUrl": "9075-gabe-dinger",
   "ExcludeFromList": false,
-  "SortOrder": 82,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 81,
+  "events": [
+   "10418",
+   "10746",
+   "10766"
+  ],
+  "mc_events": [
+   "10432"
+  ]
  },
  {
   "Name": "Troy Walker",
@@ -1206,13 +1640,20 @@
   "PerformerId": "9839",
   "Twitter": "troywalkeresq",
   "Website": "http://www.gershcomedy.com/troy-walker/",
-  "Position": "83",
+  "Position": "82",
   "id": "9839",
   "pageUrl": "9839-troy-walker",
   "ExcludeFromList": false,
-  "SortOrder": 83,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 82,
+  "events": [
+   "10411",
+   "10442",
+   "10455",
+   "10728"
+  ],
+  "mc_events": [
+   "10409"
+  ]
  },
  {
   "Name": "Matt Donaher ",
@@ -1221,12 +1662,16 @@
   "PerformerId": "9208",
   "Twitter": "mattdonaher",
   "Website": "http://www.mattdonaher@gmail.com",
-  "Position": "84",
+  "Position": "83",
   "id": "9208",
   "pageUrl": "9208-matt-donaher-",
   "ExcludeFromList": false,
-  "SortOrder": 84,
-  "events": [],
+  "SortOrder": 83,
+  "events": [
+   "10418",
+   "10436",
+   "10765"
+  ],
   "mc_events": []
  },
  {
@@ -1236,13 +1681,18 @@
   "PerformerId": "10082",
   "Twitter": "jenseaman",
   "Website": "http://jenseaman.com",
-  "Position": "85",
+  "Position": "84",
   "id": "10082",
   "pageUrl": "10082-jen-seaman",
   "ExcludeFromList": false,
-  "SortOrder": 85,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 84,
+  "events": [
+   "10448",
+   "10819"
+  ],
+  "mc_events": [
+   "10449"
+  ]
  },
  {
   "Name": "Lisa Best",
@@ -1251,13 +1701,19 @@
   "PerformerId": "9326",
   "Twitter": "lisabestcomedy",
   "Website": "http://lisabestcomedy.com/",
-  "Position": "86",
+  "Position": "85",
   "id": "9326",
   "pageUrl": "9326-lisa-best",
   "ExcludeFromList": false,
-  "SortOrder": 86,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 85,
+  "events": [
+   "10409",
+   "10449",
+   "10783"
+  ],
+  "mc_events": [
+   "10394"
+  ]
  },
  {
   "Name": "Jason Van Glass",
@@ -1266,12 +1722,17 @@
   "PerformerId": "9780",
   "Twitter": "JasonVanGlass",
   "Website": "http://JasonVanGlass.tumblr.com",
-  "Position": "87",
+  "Position": "86",
   "id": "9780",
   "pageUrl": "9780-jason-van-glass",
   "ExcludeFromList": false,
-  "SortOrder": 87,
-  "events": [],
+  "SortOrder": 86,
+  "events": [
+   "10443",
+   "10450",
+   "10733",
+   "10765"
+  ],
   "mc_events": []
  },
  {
@@ -1281,13 +1742,19 @@
   "PerformerId": "9660",
   "Twitter": "extrememaggie",
   "Website": "http://extrememaggie.com",
-  "Position": "88",
+  "Position": "87",
   "id": "9660",
   "pageUrl": "9660-maggie-faris",
   "ExcludeFromList": false,
-  "SortOrder": 88,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 87,
+  "events": [
+   "10417",
+   "10437",
+   "10503"
+  ],
+  "mc_events": [
+   "10819"
+  ]
  },
  {
   "Name": "Anthony Lopez",
@@ -1296,13 +1763,19 @@
   "PerformerId": "9953",
   "Twitter": "anthonylopezpt2",
   "Website": "",
-  "Position": "89",
+  "Position": "88",
   "id": "9953",
   "pageUrl": "9953-anthony-lopez",
   "ExcludeFromList": false,
-  "SortOrder": 89,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 88,
+  "events": [
+   "10391",
+   "10443",
+   "10444"
+  ],
+  "mc_events": [
+   "10678"
+  ]
  },
  {
   "Name": "Elicia Sanchez",
@@ -1311,12 +1784,17 @@
   "PerformerId": "9341",
   "Twitter": "",
   "Website": "",
-  "Position": "90",
+  "Position": "89",
   "id": "9341",
   "pageUrl": "9341-elicia-sanchez",
   "ExcludeFromList": false,
-  "SortOrder": 90,
-  "events": [],
+  "SortOrder": 89,
+  "events": [
+   "10402",
+   "10678",
+   "10706",
+   "10741"
+  ],
   "mc_events": []
  },
  {
@@ -1326,13 +1804,19 @@
   "PerformerId": "10031",
   "Twitter": "loneilz",
   "Website": "http://www.lucasoneil.com",
-  "Position": "91",
+  "Position": "90",
   "id": "10031",
   "pageUrl": "10031-lucas-oneil",
   "ExcludeFromList": false,
-  "SortOrder": 91,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 90,
+  "events": [
+   "10394",
+   "10409",
+   "10783"
+  ],
+  "mc_events": [
+   "10418"
+  ]
  },
  {
   "Name": "Jessica Sele",
@@ -1341,12 +1825,17 @@
   "PerformerId": "9598",
   "Twitter": "",
   "Website": "",
-  "Position": "92",
+  "Position": "91",
   "id": "9598",
   "pageUrl": "9598-jessica-sele",
   "ExcludeFromList": false,
-  "SortOrder": 92,
-  "events": [],
+  "SortOrder": 91,
+  "events": [
+   "10437",
+   "10450",
+   "10455",
+   "10785"
+  ],
   "mc_events": []
  },
  {
@@ -1356,13 +1845,19 @@
   "PerformerId": "9177",
   "Twitter": "sexmascheen",
   "Website": "http://Jeffscheen.com",
-  "Position": "93",
+  "Position": "92",
   "id": "9177",
   "pageUrl": "9177-jeff-scheen",
   "ExcludeFromList": false,
-  "SortOrder": 93,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 92,
+  "events": [
+   "10394",
+   "10764",
+   "10783"
+  ],
+  "mc_events": [
+   "10417"
+  ]
  },
  {
   "Name": "Adrian McNair",
@@ -1371,12 +1866,17 @@
   "PerformerId": "10101",
   "Twitter": "Adrian_McNair",
   "Website": "",
-  "Position": "94",
+  "Position": "93",
   "id": "10101",
   "pageUrl": "10101-adrian-mcnair",
   "ExcludeFromList": false,
-  "SortOrder": 94,
-  "events": [],
+  "SortOrder": 93,
+  "events": [
+   "10432",
+   "10443",
+   "10450",
+   "10729"
+  ],
   "mc_events": []
  },
  {
@@ -1386,13 +1886,19 @@
   "PerformerId": "9439",
   "Twitter": "heyjeffreyjay",
   "Website": "http://jeffreyjaycomedian.com",
-  "Position": "95",
+  "Position": "94",
   "id": "9439",
   "pageUrl": "9439-jeffrey-jay",
   "ExcludeFromList": false,
-  "SortOrder": 95,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 94,
+  "events": [
+   "10442",
+   "10444",
+   "10706"
+  ],
+  "mc_events": [
+   "10455"
+  ]
  },
  {
   "Name": "Joel Kim Booster",
@@ -1401,12 +1907,17 @@
   "PerformerId": "9552",
   "Twitter": "ihatejoelkim",
   "Website": "http://www.ihatejoelkim.com",
-  "Position": "96",
+  "Position": "95",
   "id": "9552",
   "pageUrl": "9552-joel-kim-booster",
   "ExcludeFromList": false,
-  "SortOrder": 96,
-  "events": [],
+  "SortOrder": 95,
+  "events": [
+   "10441",
+   "10442",
+   "10503",
+   "10779"
+  ],
   "mc_events": []
  },
  {
@@ -1416,12 +1927,17 @@
   "PerformerId": "10025",
   "Twitter": "keviniso",
   "Website": "http://keviniso.tumblr.com/",
-  "Position": "97",
+  "Position": "96",
   "id": "10025",
   "pageUrl": "10025-kevin-iso",
   "ExcludeFromList": false,
-  "SortOrder": 97,
-  "events": [],
+  "SortOrder": 96,
+  "events": [
+   "10447",
+   "10467",
+   "10729",
+   "10747"
+  ],
   "mc_events": []
  },
  {
@@ -1431,12 +1947,15 @@
   "PerformerId": "9324",
   "Twitter": "leahkayjay",
   "Website": "http://www.leahkayajanian.com",
-  "Position": "98",
+  "Position": "97",
   "id": "9324",
   "pageUrl": "9324-leah-kayajanian",
   "ExcludeFromList": false,
-  "SortOrder": 98,
-  "events": [],
+  "SortOrder": 97,
+  "events": [
+   "10412",
+   "10451"
+  ],
   "mc_events": []
  },
  {
@@ -1446,13 +1965,19 @@
   "PerformerId": "9977",
   "Twitter": "sosure",
   "Website": "http://sosure.tumblr.com",
-  "Position": "99",
+  "Position": "98",
   "id": "9977",
   "pageUrl": "9977-kevin-saucier",
   "ExcludeFromList": false,
-  "SortOrder": 99,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 98,
+  "events": [
+   "10441",
+   "10444",
+   "10747"
+  ],
+  "mc_events": [
+   "10783"
+  ]
  },
  {
   "Name": "Ismael Loutfi",
@@ -1461,13 +1986,19 @@
   "PerformerId": "10128",
   "Twitter": "Ismaelian",
   "Website": "",
-  "Position": "100",
+  "Position": "99",
   "id": "10128",
   "pageUrl": "10128-ismael-loutfi",
   "ExcludeFromList": false,
-  "SortOrder": 100,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 99,
+  "events": [
+   "10394",
+   "10455",
+   "10765"
+  ],
+  "mc_events": [
+   "10450"
+  ]
  },
  {
   "Name": "Ryan Conner",
@@ -1476,12 +2007,17 @@
   "PerformerId": "10217",
   "Twitter": "rccomedy",
   "Website": "http://www.ryanconnercomedy.com",
-  "Position": "101",
+  "Position": "100",
   "id": "10217",
   "pageUrl": "10217-ryan-conner",
   "ExcludeFromList": false,
-  "SortOrder": 101,
-  "events": [],
+  "SortOrder": 100,
+  "events": [
+   "10451",
+   "10467",
+   "10784",
+   "10817"
+  ],
   "mc_events": []
  },
  {
@@ -1491,12 +2027,18 @@
   "PerformerId": "9979",
   "Twitter": "syrupmountain",
   "Website": "http://www.shaneisacomedian.com",
-  "Position": "102",
+  "Position": "101",
   "id": "9979",
   "pageUrl": "9979-shane-torres",
   "ExcludeFromList": false,
-  "SortOrder": 102,
-  "events": [],
+  "SortOrder": 101,
+  "events": [
+   "10391",
+   "10425",
+   "10447",
+   "10448",
+   "10672"
+  ],
   "mc_events": []
  },
  {
@@ -1506,13 +2048,19 @@
   "PerformerId": "9790",
   "Twitter": "seansjordan",
   "Website": "http://about.me/seanjordan",
-  "Position": "103",
+  "Position": "102",
   "id": "9790",
   "pageUrl": "9790-sean-jordan",
   "ExcludeFromList": false,
-  "SortOrder": 103,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 102,
+  "events": [
+   "10416",
+   "10749",
+   "10765"
+  ],
+  "mc_events": [
+   "10672"
+  ]
  },
  {
   "Name": "Anthony Calderon",
@@ -1521,12 +2069,17 @@
   "PerformerId": "10181",
   "Twitter": "standupanthony",
   "Website": "http://punchlinefridays.com",
-  "Position": "104",
+  "Position": "103",
   "id": "10181",
   "pageUrl": "10181-anthony-calderon",
   "ExcludeFromList": false,
-  "SortOrder": 104,
-  "events": [],
+  "SortOrder": 103,
+  "events": [
+   "10441",
+   "10747",
+   "10783",
+   "10788"
+  ],
   "mc_events": []
  },
  {
@@ -1536,13 +2089,19 @@
   "PerformerId": "9353",
   "Twitter": "ralphiehardesty",
   "Website": "http://www.ralphiehardesty.com",
-  "Position": "105",
+  "Position": "104",
   "id": "9353",
   "pageUrl": "9353-ralph-hardesty",
   "ExcludeFromList": false,
-  "SortOrder": 105,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 104,
+  "events": [
+   "10503",
+   "10746",
+   "10764"
+  ],
+  "mc_events": [
+   "10411"
+  ]
  },
  {
   "Name": "Scout Durwood",
@@ -1551,12 +2110,17 @@
   "PerformerId": "9661",
   "Twitter": "ladyscoutington",
   "Website": "http://www.scoutdurwood.com",
-  "Position": "106",
+  "Position": "105",
   "id": "9661",
   "pageUrl": "9661-scout-durwood",
   "ExcludeFromList": false,
-  "SortOrder": 106,
-  "events": [],
+  "SortOrder": 105,
+  "events": [
+   "10437",
+   "10442",
+   "10466",
+   "10765"
+  ],
   "mc_events": []
  },
  {
@@ -1566,12 +2130,17 @@
   "PerformerId": "10787",
   "Twitter": "ryleenewton",
   "Website": "",
-  "Position": "107",
+  "Position": "106",
   "id": "10787",
   "pageUrl": "10787-rylee-newton",
   "ExcludeFromList": false,
-  "SortOrder": 107,
-  "events": [],
+  "SortOrder": 106,
+  "events": [
+   "10392",
+   "10449",
+   "10734",
+   "10779"
+  ],
   "mc_events": []
  },
  {
@@ -1581,12 +2150,17 @@
   "PerformerId": "9978",
   "Twitter": "SamJayComic",
   "Website": "http://jokesanddreams.com",
-  "Position": "108",
+  "Position": "107",
   "id": "9978",
   "pageUrl": "9978-samaria-sam-jay-johnson-",
   "ExcludeFromList": false,
-  "SortOrder": 108,
-  "events": [],
+  "SortOrder": 107,
+  "events": [
+   "10437",
+   "10728",
+   "10758",
+   "10788"
+  ],
   "mc_events": []
  },
  {
@@ -1596,12 +2170,14 @@
   "PerformerId": "10825",
   "Twitter": "amandasitko",
   "Website": "",
-  "Position": "109",
+  "Position": "108",
   "id": "10825",
   "pageUrl": "10825-amanda-sitko",
   "ExcludeFromList": false,
-  "SortOrder": 109,
-  "events": [],
+  "SortOrder": 108,
+  "events": [
+   "10406"
+  ],
   "mc_events": []
  },
  {
@@ -1611,13 +2187,19 @@
   "PerformerId": "9164",
   "Twitter": "ZakToscani",
   "Website": "http://about.me/ZakToscani",
-  "Position": "110",
+  "Position": "109",
   "id": "9164",
   "pageUrl": "9164-zak-toscani",
   "ExcludeFromList": false,
-  "SortOrder": 110,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 109,
+  "events": [
+   "10416",
+   "10418",
+   "10420"
+  ],
+  "mc_events": [
+   "10766"
+  ]
  },
  {
   "Name": "Ray Marshall",
@@ -1626,12 +2208,16 @@
   "PerformerId": "9692",
   "Twitter": "MARSHALLCOMIC",
   "Website": "http://bridgetown.festivalthing.com/N/A",
-  "Position": "111",
+  "Position": "110",
   "id": "9692",
   "pageUrl": "9692-ray-marshall",
   "ExcludeFromList": false,
-  "SortOrder": 111,
-  "events": [],
+  "SortOrder": 110,
+  "events": [
+   "10416",
+   "10728",
+   "10785"
+  ],
   "mc_events": []
  },
  {
@@ -1641,12 +2227,17 @@
   "PerformerId": "9703",
   "Twitter": "ParkerPostyeni",
   "Website": "",
-  "Position": "112",
+  "Position": "111",
   "id": "9703",
   "pageUrl": "9703-parker-postyeni",
   "ExcludeFromList": false,
-  "SortOrder": 112,
-  "events": [],
+  "SortOrder": 111,
+  "events": [
+   "10419",
+   "10746",
+   "10784",
+   "10788"
+  ],
   "mc_events": []
  },
  {
@@ -1656,13 +2247,17 @@
   "PerformerId": "10666",
   "Twitter": "whitneystreed",
   "Website": "",
-  "Position": "113",
+  "Position": "112",
   "id": "10666",
   "pageUrl": "10666-whitney-streed",
   "ExcludeFromList": false,
-  "SortOrder": 113,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 112,
+  "events": [
+   "10503"
+  ],
+  "mc_events": [
+   "10734"
+  ]
  },
  {
   "Name": "Eli Newell",
@@ -1671,13 +2266,17 @@
   "PerformerId": "10826",
   "Twitter": "elinewell",
   "Website": "",
-  "Position": "114",
+  "Position": "113",
   "id": "10826",
   "pageUrl": "10826-eli-newell",
   "ExcludeFromList": false,
-  "SortOrder": 114,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 113,
+  "events": [
+   "10406"
+  ],
+  "mc_events": [
+   "10406"
+  ]
  },
  {
   "Name": "T.J. Chambers",
@@ -1686,12 +2285,17 @@
   "PerformerId": "9087",
   "Twitter": "tjchambersLA",
   "Website": "https://www.youtube.com/user/tjchambers27/",
-  "Position": "115",
+  "Position": "114",
   "id": "9087",
   "pageUrl": "9087-tj-chambers",
   "ExcludeFromList": false,
-  "SortOrder": 115,
-  "events": [],
+  "SortOrder": 114,
+  "events": [
+   "10392",
+   "10423",
+   "10747",
+   "10764"
+  ],
   "mc_events": []
  },
  {
@@ -1701,12 +2305,14 @@
   "PerformerId": "10795",
   "Twitter": "ErinMcGathy",
   "Website": "",
-  "Position": "116",
+  "Position": "115",
   "id": "10795",
   "pageUrl": "10795-erin-mcgathy",
   "ExcludeFromList": false,
-  "SortOrder": 116,
-  "events": [],
+  "SortOrder": 115,
+  "events": [
+   "10737"
+  ],
   "mc_events": []
  },
  {
@@ -1716,13 +2322,19 @@
   "PerformerId": "9787",
   "Twitter": "Mjh708",
   "Website": "",
-  "Position": "117",
+  "Position": "116",
   "id": "9787",
   "pageUrl": "9787-mark-james-heath",
   "ExcludeFromList": false,
-  "SortOrder": 117,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 116,
+  "events": [
+   "10419",
+   "10729",
+   "10788"
+  ],
+  "mc_events": [
+   "10451"
+  ]
  },
  {
   "Name": "Matteo Lane",
@@ -1731,12 +2343,17 @@
   "PerformerId": "9662",
   "Twitter": "Matteolane",
   "Website": "",
-  "Position": "118",
+  "Position": "117",
   "id": "9662",
   "pageUrl": "9662-matteo-lane",
   "ExcludeFromList": false,
-  "SortOrder": 118,
-  "events": [],
+  "SortOrder": 117,
+  "events": [
+   "10425",
+   "10428",
+   "10441",
+   "10503"
+  ],
   "mc_events": []
  },
  {
@@ -1746,13 +2363,19 @@
   "PerformerId": "10188",
   "Twitter": "veronicaheath1",
   "Website": "http://veronicaheath.com",
-  "Position": "119",
+  "Position": "118",
   "id": "10188",
   "pageUrl": "10188-veronica-heath",
   "ExcludeFromList": false,
-  "SortOrder": 119,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 118,
+  "events": [
+   "10420",
+   "10734",
+   "10817"
+  ],
+  "mc_events": [
+   "10392"
+  ]
  },
  {
   "Name": "Mac Blake",
@@ -1761,12 +2384,17 @@
   "PerformerId": "9280",
   "Twitter": "macbdazzler",
   "Website": "http://macblakecomedy.com",
-  "Position": "120",
+  "Position": "119",
   "id": "9280",
   "pageUrl": "9280-mac-blake",
   "ExcludeFromList": false,
-  "SortOrder": 120,
-  "events": [],
+  "SortOrder": 119,
+  "events": [
+   "10417",
+   "10420",
+   "10467",
+   "10819"
+  ],
   "mc_events": []
  },
  {
@@ -1776,13 +2404,19 @@
   "PerformerId": "9860",
   "Twitter": "sonideni",
   "Website": "http://sonideni.tumblr.com/about",
-  "Position": "121",
+  "Position": "120",
   "id": "9860",
   "pageUrl": "9860-sonia-denis",
   "ExcludeFromList": false,
-  "SortOrder": 121,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 120,
+  "events": [
+   "10444",
+   "10449",
+   "10729"
+  ],
+  "mc_events": [
+   "10746"
+  ]
  },
  {
   "Name": "Raj Sivaraman",
@@ -1791,13 +2425,19 @@
   "PerformerId": "9799",
   "Twitter": "rajsivaraman",
   "Website": "http://rajsivaraman.com",
-  "Position": "122",
+  "Position": "121",
   "id": "9799",
   "pageUrl": "9799-raj-sivaraman",
   "ExcludeFromList": false,
-  "SortOrder": 122,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 121,
+  "events": [
+   "10416",
+   "10418",
+   "10460"
+  ],
+  "mc_events": [
+   "10420"
+  ]
  },
  {
   "Name": "Nore Davis",
@@ -1806,12 +2446,16 @@
   "PerformerId": "9114",
   "Twitter": "noredavis",
   "Website": "http://noredavis.com",
-  "Position": "123",
+  "Position": "122",
   "id": "9114",
   "pageUrl": "9114-nore-davis",
   "ExcludeFromList": false,
-  "SortOrder": 123,
-  "events": [],
+  "SortOrder": 122,
+  "events": [
+   "10425",
+   "10447",
+   "10728"
+  ],
   "mc_events": []
  },
  {
@@ -1821,13 +2465,20 @@
   "PerformerId": "9808",
   "Twitter": "rana_may",
   "Website": "http://ranamay.com",
-  "Position": "124",
+  "Position": "123",
   "id": "9808",
   "pageUrl": "9808-rana-may",
   "ExcludeFromList": false,
-  "SortOrder": 124,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 123,
+  "events": [
+   "10417",
+   "10731",
+   "10733",
+   "10746"
+  ],
+  "mc_events": [
+   "10764"
+  ]
  },
  {
   "Name": "Sean White",
@@ -1836,13 +2487,19 @@
   "PerformerId": "9116",
   "Twitter": "seanwhitecomedy",
   "Website": "http://seanwhitecomedy.com/",
-  "Position": "125",
+  "Position": "124",
   "id": "9116",
   "pageUrl": "9116-sean-white",
   "ExcludeFromList": false,
-  "SortOrder": 125,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 124,
+  "events": [
+   "10417",
+   "10749",
+   "10788"
+  ],
+  "mc_events": [
+   "10416"
+  ]
  },
  {
   "Name": "Paige Bowman",
@@ -1851,13 +2508,19 @@
   "PerformerId": "9820",
   "Twitter": "paigopolis",
   "Website": "http://paigopolis.tumblr.com",
-  "Position": "126",
+  "Position": "125",
   "id": "9820",
   "pageUrl": "9820-paige-bowman",
   "ExcludeFromList": false,
-  "SortOrder": 126,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 125,
+  "events": [
+   "10423",
+   "10449",
+   "10764"
+  ],
+  "mc_events": [
+   "10441"
+  ]
  },
  {
   "Name": "Dax Jordan",
@@ -1866,13 +2529,20 @@
   "PerformerId": "10820",
   "Twitter": "",
   "Website": "",
-  "Position": "127",
+  "Position": "126",
   "id": "10820",
   "pageUrl": "10820-dax-jordan",
   "ExcludeFromList": false,
-  "SortOrder": 127,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 126,
+  "events": [
+   "10448"
+  ],
+  "mc_events": [
+   "10998",
+   "10445",
+   "10999",
+   "10788"
+  ]
  },
  {
   "Name": "Matt Pharr",
@@ -1881,12 +2551,17 @@
   "PerformerId": "9479",
   "Twitter": "mattpharrcomic",
   "Website": "",
-  "Position": "128",
+  "Position": "127",
   "id": "9479",
   "pageUrl": "9479-matt-pharr",
   "ExcludeFromList": false,
-  "SortOrder": 128,
-  "events": [],
+  "SortOrder": 127,
+  "events": [
+   "10409",
+   "10417",
+   "10706",
+   "10783"
+  ],
   "mc_events": []
  },
  {
@@ -1896,13 +2571,19 @@
   "PerformerId": "9381",
   "Twitter": "bryanyang",
   "Website": "",
-  "Position": "129",
+  "Position": "128",
   "id": "9381",
   "pageUrl": "9381-bryan-yang",
   "ExcludeFromList": false,
-  "SortOrder": 129,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 128,
+  "events": [
+   "10391",
+   "10450",
+   "10785"
+  ],
+  "mc_events": [
+   "10443"
+  ]
  },
  {
   "Name": "Rob Schultz",
@@ -1911,13 +2592,18 @@
   "PerformerId": "9182",
   "Twitter": "greenglassdoor",
   "Website": "http://www.normalwebsite.com",
-  "Position": "130",
+  "Position": "129",
   "id": "9182",
   "pageUrl": "9182-rob-schultz",
   "ExcludeFromList": false,
-  "SortOrder": 130,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 129,
+  "events": [
+   "10450",
+   "10466"
+  ],
+  "mc_events": [
+   "10784"
+  ]
  },
  {
   "Name": "Mitch Mitchell",
@@ -1926,13 +2612,19 @@
   "PerformerId": "9327",
   "Twitter": "ClassyMitch",
   "Website": "",
-  "Position": "131",
+  "Position": "130",
   "id": "9327",
   "pageUrl": "9327-mitch-mitchell",
   "ExcludeFromList": false,
-  "SortOrder": 131,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 130,
+  "events": [
+   "10444",
+   "10733",
+   "10746"
+  ],
+  "mc_events": [
+   "10747"
+  ]
  },
  {
   "Name": "Caitlin Weierhauser",
@@ -1941,13 +2633,19 @@
   "PerformerId": "9972",
   "Twitter": "grapetheist",
   "Website": "",
-  "Position": "132",
+  "Position": "131",
   "id": "9972",
   "pageUrl": "9972-caitlin-weierhauser",
   "ExcludeFromList": false,
-  "SortOrder": 132,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 131,
+  "events": [
+   "10503",
+   "10734",
+   "10764"
+  ],
+  "mc_events": [
+   "10437"
+  ]
  },
  {
   "Name": "David Mascorro",
@@ -1956,12 +2654,18 @@
   "PerformerId": "9846",
   "Twitter": "davidmascorro",
   "Website": "http://www.davidmascorro.com/",
-  "Position": "133",
+  "Position": "132",
   "id": "9846",
   "pageUrl": "9846-david-mascorro",
   "ExcludeFromList": false,
-  "SortOrder": 133,
-  "events": [],
-  "mc_events": []
+  "SortOrder": 132,
+  "events": [
+   "10394",
+   "10419",
+   "10783"
+  ],
+  "mc_events": [
+   "10444"
+  ]
  }
 ]
