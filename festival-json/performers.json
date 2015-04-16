@@ -465,8 +465,8 @@
    "10765"
   ],
   "mc_events": [
-   "10729",
-   "10728"
+   "10728",
+   "10729"
   ]
  },
  {
@@ -1186,8 +1186,8 @@
    "10678"
   ],
   "mc_events": [
-   "10749",
-   "10448"
+   "10448",
+   "10749"
   ]
  },
  {
@@ -2164,17 +2164,36 @@
   "mc_events": []
  },
  {
+  "Name": "Nore Davis",
+  "Bio": "<p>Nore, the young refreshing face of comedy, delivers an energetic performance filled with witty quips and sharp punch lines, combined with an amazing stage presence. Edgy and clean, Nore tells it like it is, speaking to audiences everywhere. Nore is a comedian for the masses, relating to everyone from teens to the mature adult, delivering original content, and leaving no topic unturned.  Nore had the honor of performing as a new face at Montreal&#039;s world famous Just For Laughs Festival in 2014. Most recent credits include &quot;Boardwalk Empire&quot; on HBO, &quot;Inside Amy Schumer&quot; and &quot;The Ruckus&quot; on Comedy Central, &quot;nickmom Night Out&quot; and &quot;Gotham Comedy Live&quot; on AXS TV. This past fall Nore released his debut stand-up album &quot;Home Game&quot; with Rooftop Comedy so check it out! Look out for this rising star, as he reinvents comedy one laugh at a time.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_hr1_davisnore0714.jpg",
+  "PerformerId": "9114",
+  "Twitter": "noredavis",
+  "Website": "http://noredavis.com",
+  "Position": "108",
+  "id": "9114",
+  "pageUrl": "9114-nore-davis",
+  "ExcludeFromList": false,
+  "SortOrder": 108,
+  "events": [
+   "10425",
+   "10447",
+   "10728"
+  ],
+  "mc_events": []
+ },
+ {
   "Name": "Amanda Sitko",
   "Bio": "<p>Amanda Sitko is an actor/writer/improviser who started performing at the Upright Citizens Brigade in 2006. She is a member of the UCB Touring Company and teaches for the UCB Training Center.</p>\n<p>Amanda has appeared on Fuel TV's The Daily Habit as well as a spot on Comedy Central's Mind of Mencia. Amanda co-wrote and performed in the 2 woman sketch show Amanda and Jennie: Best Friends, which went to the SF Sketchfest in 2008. Amanda has written for the 2010 Critics' Choice Awards, Nickelodeon's Mighty B! and MTV's Popzilla. </p>\n<p>Currently, Amanda works with Bruce McCulloch from The Kids In the Hall, developing projects for CBS, ABC, FOX and CTV. Recently, she wrote on Young Drunk Punk which is set to premiere in Canada in January 2015.</p>\n<p>Oh, and she also met her fiancé on OkCupid so she knows a thing or two about online dating.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/amandasitko.png",
   "PerformerId": "10825",
   "Twitter": "amandasitko",
   "Website": "",
-  "Position": "108",
+  "Position": "109",
   "id": "10825",
   "pageUrl": "10825-amanda-sitko",
   "ExcludeFromList": false,
-  "SortOrder": 108,
+  "SortOrder": 109,
   "events": [
    "10406"
   ],
@@ -2187,11 +2206,11 @@
   "PerformerId": "9164",
   "Twitter": "ZakToscani",
   "Website": "http://about.me/ZakToscani",
-  "Position": "109",
+  "Position": "110",
   "id": "9164",
   "pageUrl": "9164-zak-toscani",
   "ExcludeFromList": false,
-  "SortOrder": 109,
+  "SortOrder": 110,
   "events": [
    "10416",
    "10418",
@@ -2208,11 +2227,11 @@
   "PerformerId": "9692",
   "Twitter": "MARSHALLCOMIC",
   "Website": "http://bridgetown.festivalthing.com/N/A",
-  "Position": "110",
+  "Position": "111",
   "id": "9692",
   "pageUrl": "9692-ray-marshall",
   "ExcludeFromList": false,
-  "SortOrder": 110,
+  "SortOrder": 111,
   "events": [
    "10416",
    "10728",
@@ -2227,11 +2246,11 @@
   "PerformerId": "9703",
   "Twitter": "ParkerPostyeni",
   "Website": "",
-  "Position": "111",
+  "Position": "112",
   "id": "9703",
   "pageUrl": "9703-parker-postyeni",
   "ExcludeFromList": false,
-  "SortOrder": 111,
+  "SortOrder": 112,
   "events": [
    "10419",
    "10746",
@@ -2247,11 +2266,11 @@
   "PerformerId": "10666",
   "Twitter": "whitneystreed",
   "Website": "",
-  "Position": "112",
+  "Position": "113",
   "id": "10666",
   "pageUrl": "10666-whitney-streed",
   "ExcludeFromList": false,
-  "SortOrder": 112,
+  "SortOrder": 113,
   "events": [
    "10503"
   ],
@@ -2266,11 +2285,11 @@
   "PerformerId": "10826",
   "Twitter": "elinewell",
   "Website": "",
-  "Position": "113",
+  "Position": "114",
   "id": "10826",
   "pageUrl": "10826-eli-newell",
   "ExcludeFromList": false,
-  "SortOrder": 113,
+  "SortOrder": 114,
   "events": [
    "10406"
   ],
@@ -2285,11 +2304,11 @@
   "PerformerId": "9087",
   "Twitter": "tjchambersLA",
   "Website": "https://www.youtube.com/user/tjchambers27/",
-  "Position": "114",
+  "Position": "115",
   "id": "9087",
   "pageUrl": "9087-tj-chambers",
   "ExcludeFromList": false,
-  "SortOrder": 114,
+  "SortOrder": 115,
   "events": [
    "10392",
    "10423",
@@ -2299,17 +2318,38 @@
   "mc_events": []
  },
  {
+  "Name": "Ken Reid",
+  "Bio": "<p>Ken Reid is a Boston based stand up comedian known for his story telling style. He was the regular Friday Night host at the world famous comedy studio for four years and ran a weekly Thursday night pop culture variety show entitled &quot;Secret Menu&quot; for two years (2013-2015).</p>\n<p>He has recorded albums for SiriusXM Sattelite Radio, performed at the inaugural Nines festival, The 2013 Bridgetown Comedy Festival, The Boston Comedy Festival, The Women in Comedy Festival, all of the editions of the Eugene Mirman Comedy Festival (including the Brooklyn and Cambridge, MA editions) all three Riot LA Comedy Festivals, The Boston AltCom Festival and New York Podcast Festival.</p>\n<p>He has opened for and/or toured with Bob Saget, Patton Oswalt, Louie CK, Todd Barry, Ophira Eisenberg, John Oliver, Kumail Nanjiani, Jen Kirkman, Bruce Campbell, Eugene Mirman, Billy West, Jonathan Katz and more.</p>\n<p>He is also a frequent podcast guest and has appeared on NPR, Ask Me Another, You&#039;re the Expert, Unfictional, The Moth, Risk!, Doug Loves Movies and more.</p>\n<p>In 2014 he started his own podcast &quot;TV Guidance Counselor&quot; to focus on his pop culture/ television knowledge. </p>\n<p>Ken was twice nominated as Best Comedian in Boston by the Boston Phoenix and was voted Best Comic in Boston by CBS4Boston in 2012. He has also been featured in The Improper Bostonian, The New York Times and the Boston Globe.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kentvgc.jpg",
+  "PerformerId": "9238",
+  "Twitter": "kennethwreid",
+  "Website": "http://ikenreid.com",
+  "Position": "116",
+  "id": "9238",
+  "pageUrl": "9238-ken-reid",
+  "ExcludeFromList": false,
+  "SortOrder": 116,
+  "events": [
+   "10391",
+   "10418",
+   "10819"
+  ],
+  "mc_events": [
+   "10405"
+  ]
+ },
+ {
   "Name": "Erin McGathy",
   "Bio": "<p>Erin McGathy is a comedian, writer, and inspiration* living all of the dreams in Los Angeles. As a Navy Kid who moved around a lot, she's willing to do just about anything to make you like her. She's like, SO much fun, you guys!!!</p>\n<p>Erin has proudly performed at the UCB theatre since 2007 with Harold and Maude teams, in sketch shows, variety shows and in other charmingly unclassifiable performances. She is the creator and host of THIS FEELS TERRIBLE: The Love Show, a UCBTLA live show since 2010 and podcast since 2012 (feralaudio.com).</p>\n<p>When she's not doing comedy related things she's making \"Ugly Cakes\" for buddies and mediocre paintings for cold hard cash.</p>\n<p>*JK. What if someone really described herself as an \"inspiration\"???</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/erinmcgathy.png",
   "PerformerId": "10795",
   "Twitter": "ErinMcGathy",
   "Website": "",
-  "Position": "115",
+  "Position": "117",
   "id": "10795",
   "pageUrl": "10795-erin-mcgathy",
   "ExcludeFromList": false,
-  "SortOrder": 115,
+  "SortOrder": 117,
   "events": [
    "10737"
   ],
@@ -2322,11 +2362,11 @@
   "PerformerId": "9787",
   "Twitter": "Mjh708",
   "Website": "",
-  "Position": "116",
+  "Position": "118",
   "id": "9787",
   "pageUrl": "9787-mark-james-heath",
   "ExcludeFromList": false,
-  "SortOrder": 116,
+  "SortOrder": 118,
   "events": [
    "10419",
    "10729",
@@ -2343,11 +2383,11 @@
   "PerformerId": "9662",
   "Twitter": "Matteolane",
   "Website": "",
-  "Position": "117",
+  "Position": "119",
   "id": "9662",
   "pageUrl": "9662-matteo-lane",
   "ExcludeFromList": false,
-  "SortOrder": 117,
+  "SortOrder": 119,
   "events": [
    "10425",
    "10428",
@@ -2357,25 +2397,24 @@
   "mc_events": []
  },
  {
-  "Name": "Veronica Heath",
-  "Bio": "<p>Veronica Heath was born in San Francisco, CA and entered the Portland, OR comedy scene in 2006, with a strong presence. It didn&#039;t take long before she was spreading her neurosis and joy all over the West Coast and opening for some of the best comedians around.</p>\n<p>Veronica has had roles in 3 seasons of the IFC sketch show ‘Portlandia’. In 2007, she finished as a finalist in the Stephen Colbert Portland Amateur Comedy Competition, and she is a six time alum of the Bridgetown Comedy Festival. When she’s not busy getting divorced or fighting rheumatic diseases, you can find her performing at comedy clubs, theaters, casinos, and festivals all over the West Coast and beyond. Additionally, she and one of her writing partners are working on a screenplay for a hopeful Lifetime movie.</p>\n<p>When you think of Veronica Heath, think of an anxious unicorn and top shelf cranberry meets low shelf vodka, and then just let it happen.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/veronica_heath_2.jpg",
-  "PerformerId": "10188",
-  "Twitter": "veronicaheath1",
-  "Website": "http://veronicaheath.com",
-  "Position": "118",
-  "id": "10188",
-  "pageUrl": "10188-veronica-heath",
+  "Name": "Matt Pharr",
+  "Bio": "<p>For the past ten years Atlanta-born comedian Matt Pharr has been honing his stand-up skills around the south and up the east coast. Getting his start in rockabilly/punk rock clubs, it&#039;s not surprising that hints of the southern outlaw spirit shine through in his performances. Matt&#039;s sense of humor and rebellious nature came together when he and his friends opened an illegal comedy club/speakeasy in an abandoned church in Atlanta, paying off local law enforcement, and bringing in some of the best comics in the country to perform.  </p>\n<p>With Matt&#039;s easygoing demeanor, he tackles divisive topics such as police brutality, abortion, and drugs in a way that allows the audience to laugh regardless of their stance on an issue. It&#039;s not all heavy topics, though. Matt stacks the deck by alternating between silly and important subject matter. It&#039;s not at all uncommon for a bit about police murdering an unarmed person to be followed by a joke about how the city of Dubai should add the prefix &quot;shooby&quot; to its name. </p>\n<p>Although raised in poverty by a single mother, Matt feels as though he has had some advantages, especially when it comes to comedy. &quot;When your mom has a drinking problem and your dad did some stints in mental institutions, there&#039;s a pretty fine chance that you&#039;re going to be funnier than most people,&quot; he says. </p>\n<p>On his recent move to Los Angeles: &quot;I rode across the country, bringing with me my only possessions: a motorcycle, some T-shirts, a gun, and one bullet. Sometimes, when you follow your dreams, you end up with a motorcycle, some T-shirts, a gun, and one bullet.&quot;</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mattpharr.jpg",
+  "PerformerId": "9479",
+  "Twitter": "mattpharrcomic",
+  "Website": "",
+  "Position": "120",
+  "id": "9479",
+  "pageUrl": "9479-matt-pharr",
   "ExcludeFromList": false,
-  "SortOrder": 118,
+  "SortOrder": 120,
   "events": [
-   "10420",
-   "10734",
-   "10817"
+   "10409",
+   "10417",
+   "10706",
+   "10783"
   ],
-  "mc_events": [
-   "10392"
-  ]
+  "mc_events": []
  },
  {
   "Name": "Mac Blake",
@@ -2384,11 +2423,11 @@
   "PerformerId": "9280",
   "Twitter": "macbdazzler",
   "Website": "http://macblakecomedy.com",
-  "Position": "119",
+  "Position": "121",
   "id": "9280",
   "pageUrl": "9280-mac-blake",
   "ExcludeFromList": false,
-  "SortOrder": 119,
+  "SortOrder": 121,
   "events": [
    "10417",
    "10420",
@@ -2404,11 +2443,11 @@
   "PerformerId": "9860",
   "Twitter": "sonideni",
   "Website": "http://sonideni.tumblr.com/about",
-  "Position": "120",
+  "Position": "122",
   "id": "9860",
   "pageUrl": "9860-sonia-denis",
   "ExcludeFromList": false,
-  "SortOrder": 120,
+  "SortOrder": 122,
   "events": [
    "10444",
    "10449",
@@ -2425,11 +2464,11 @@
   "PerformerId": "9799",
   "Twitter": "rajsivaraman",
   "Website": "http://rajsivaraman.com",
-  "Position": "121",
+  "Position": "123",
   "id": "9799",
   "pageUrl": "9799-raj-sivaraman",
   "ExcludeFromList": false,
-  "SortOrder": 121,
+  "SortOrder": 123,
   "events": [
    "10416",
    "10418",
@@ -2440,36 +2479,17 @@
   ]
  },
  {
-  "Name": "Nore Davis",
-  "Bio": "<p>Nore, the young refreshing face of comedy, delivers an energetic performance filled with witty quips and sharp punch lines, combined with an amazing stage presence. Edgy and clean, Nore tells it like it is, speaking to audiences everywhere. Nore is a comedian for the masses, relating to everyone from teens to the mature adult, delivering original content, and leaving no topic unturned.  Nore had the honor of performing as a new face at Montreal&#039;s world famous Just For Laughs Festival in 2014. Most recent credits include &quot;Boardwalk Empire&quot; on HBO, &quot;Inside Amy Schumer&quot; and &quot;The Ruckus&quot; on Comedy Central, &quot;nickmom Night Out&quot; and &quot;Gotham Comedy Live&quot; on AXS TV. This past fall Nore released his debut stand-up album &quot;Home Game&quot; with Rooftop Comedy so check it out! Look out for this rising star, as he reinvents comedy one laugh at a time.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_hr1_davisnore0714.jpg",
-  "PerformerId": "9114",
-  "Twitter": "noredavis",
-  "Website": "http://noredavis.com",
-  "Position": "122",
-  "id": "9114",
-  "pageUrl": "9114-nore-davis",
-  "ExcludeFromList": false,
-  "SortOrder": 122,
-  "events": [
-   "10425",
-   "10447",
-   "10728"
-  ],
-  "mc_events": []
- },
- {
   "Name": "Rana May",
   "Bio": "<p>Rana May’s deadpan delivery and punk rock sensibility make her comedy different than anything you might have seen before. She has a self-proclaimed issue with authority – but loves dogs – which is why she is so ambivalent about police dogs. Something she loves and hates wrapped up in such a medium fluffy package.</p>\n<p>Rana has been featured locally in the City Pages and on Minnesota Public Radio. You can see her performing all over the Twin Cities producing and hosting shows under the Kill It! moniker (open mic, comedy-oke, and open mic brunch). You could also catch her reading at the long running Riot Act Reading Series, the Irregular Reading Series, at the Loft Literary Center or doing comedy on various club stages. She’s has opened for national headliners such as Mary Mack, Tim Harmston, and Neil Hamburger.</p>\n<p>Rana is the winner of Rick Bronson’s House of Comedy 2014 Funniest Person with a Day Job Contest.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rana-may-_headshot_1.jpg",
   "PerformerId": "9808",
   "Twitter": "rana_may",
   "Website": "http://ranamay.com",
-  "Position": "123",
+  "Position": "124",
   "id": "9808",
   "pageUrl": "9808-rana-may",
   "ExcludeFromList": false,
-  "SortOrder": 123,
+  "SortOrder": 124,
   "events": [
    "10417",
    "10731",
@@ -2487,11 +2507,11 @@
   "PerformerId": "9116",
   "Twitter": "seanwhitecomedy",
   "Website": "http://seanwhitecomedy.com/",
-  "Position": "124",
+  "Position": "125",
   "id": "9116",
   "pageUrl": "9116-sean-white",
   "ExcludeFromList": false,
-  "SortOrder": 124,
+  "SortOrder": 125,
   "events": [
    "10417",
    "10749",
@@ -2508,11 +2528,11 @@
   "PerformerId": "9820",
   "Twitter": "paigopolis",
   "Website": "http://paigopolis.tumblr.com",
-  "Position": "125",
+  "Position": "126",
   "id": "9820",
   "pageUrl": "9820-paige-bowman",
   "ExcludeFromList": false,
-  "SortOrder": 125,
+  "SortOrder": 126,
   "events": [
    "10423",
    "10449",
@@ -2529,40 +2549,20 @@
   "PerformerId": "10820",
   "Twitter": "",
   "Website": "",
-  "Position": "126",
+  "Position": "127",
   "id": "10820",
   "pageUrl": "10820-dax-jordan",
   "ExcludeFromList": false,
-  "SortOrder": 126,
+  "SortOrder": 127,
   "events": [
    "10448"
   ],
   "mc_events": [
-   "10998",
    "10445",
-   "10999",
-   "10788"
+   "10788",
+   "10998",
+   "10999"
   ]
- },
- {
-  "Name": "Matt Pharr",
-  "Bio": "<p>For the past ten years Atlanta-born comedian Matt Pharr has been honing his stand-up skills around the south and up the east coast. Getting his start in rockabilly/punk rock clubs, it&#039;s not surprising that hints of the southern outlaw spirit shine through in his performances. Matt&#039;s sense of humor and rebellious nature came together when he and his friends opened an illegal comedy club/speakeasy in an abandoned church in Atlanta, paying off local law enforcement, and bringing in some of the best comics in the country to perform.  </p>\n<p>With Matt&#039;s easygoing demeanor, he tackles divisive topics such as police brutality, abortion, and drugs in a way that allows the audience to laugh regardless of their stance on an issue. It&#039;s not all heavy topics, though. Matt stacks the deck by alternating between silly and important subject matter. It&#039;s not at all uncommon for a bit about police murdering an unarmed person to be followed by a joke about how the city of Dubai should add the prefix &quot;shooby&quot; to its name. </p>\n<p>Although raised in poverty by a single mother, Matt feels as though he has had some advantages, especially when it comes to comedy. &quot;When your mom has a drinking problem and your dad did some stints in mental institutions, there&#039;s a pretty fine chance that you&#039;re going to be funnier than most people,&quot; he says. </p>\n<p>On his recent move to Los Angeles: &quot;I rode across the country, bringing with me my only possessions: a motorcycle, some T-shirts, a gun, and one bullet. Sometimes, when you follow your dreams, you end up with a motorcycle, some T-shirts, a gun, and one bullet.&quot;</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mattpharr.jpg",
-  "PerformerId": "9479",
-  "Twitter": "mattpharrcomic",
-  "Website": "",
-  "Position": "127",
-  "id": "9479",
-  "pageUrl": "9479-matt-pharr",
-  "ExcludeFromList": false,
-  "SortOrder": 127,
-  "events": [
-   "10409",
-   "10417",
-   "10706",
-   "10783"
-  ],
-  "mc_events": []
  },
  {
   "Name": "Bryan Yang",
@@ -2586,17 +2586,38 @@
   ]
  },
  {
+  "Name": "Veronica Heath",
+  "Bio": "<p>Veronica Heath was born in San Francisco, CA and entered the Portland, OR comedy scene in 2006, with a strong presence. It didn&#039;t take long before she was spreading her neurosis and joy all over the West Coast and opening for some of the best comedians around.</p>\n<p>Veronica has had roles in 3 seasons of the IFC sketch show ‘Portlandia’. In 2007, she finished as a finalist in the Stephen Colbert Portland Amateur Comedy Competition, and she is a six time alum of the Bridgetown Comedy Festival. When she’s not busy getting divorced or fighting rheumatic diseases, you can find her performing at comedy clubs, theaters, casinos, and festivals all over the West Coast and beyond. Additionally, she and one of her writing partners are working on a screenplay for a hopeful Lifetime movie.</p>\n<p>When you think of Veronica Heath, think of an anxious unicorn and top shelf cranberry meets low shelf vodka, and then just let it happen.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/veronica_heath_2.jpg",
+  "PerformerId": "10188",
+  "Twitter": "veronicaheath1",
+  "Website": "http://veronicaheath.com",
+  "Position": "129",
+  "id": "10188",
+  "pageUrl": "10188-veronica-heath",
+  "ExcludeFromList": false,
+  "SortOrder": 129,
+  "events": [
+   "10420",
+   "10734",
+   "10817"
+  ],
+  "mc_events": [
+   "10392"
+  ]
+ },
+ {
   "Name": "Rob Schultz",
   "Bio": "<p>Rob Schultz is a stand-up comedian in Los Angeles, CA who has performed at SF Sketchfest in 2013-15, the 2013 Sacramento Comedy Festival, a fish restaurant in Portland, OR, and at various Los Angeles landmarks with his traveling monthly show The Hike Mic. </p>\n<p>He is also the co-host of the weekly Gangbusters! Comedy Enjoyment Show, a submissions editor of the daily humor magazine TheHiggsWeldon.com, a member of the Upright Citizens Brigade&#039;s LA Digital group, and a video editor with credits on feature films, cable TV, and all manner of shorts and web things. And he still feels super lazy.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rob-bruin_0.jpg",
   "PerformerId": "9182",
   "Twitter": "greenglassdoor",
   "Website": "http://www.normalwebsite.com",
-  "Position": "129",
+  "Position": "130",
   "id": "9182",
   "pageUrl": "9182-rob-schultz",
   "ExcludeFromList": false,
-  "SortOrder": 129,
+  "SortOrder": 130,
   "events": [
    "10450",
    "10466"
@@ -2612,11 +2633,11 @@
   "PerformerId": "9327",
   "Twitter": "ClassyMitch",
   "Website": "",
-  "Position": "130",
+  "Position": "131",
   "id": "9327",
   "pageUrl": "9327-mitch-mitchell",
   "ExcludeFromList": false,
-  "SortOrder": 130,
+  "SortOrder": 131,
   "events": [
    "10444",
    "10733",
@@ -2633,11 +2654,11 @@
   "PerformerId": "9972",
   "Twitter": "grapetheist",
   "Website": "",
-  "Position": "131",
+  "Position": "132",
   "id": "9972",
   "pageUrl": "9972-caitlin-weierhauser",
   "ExcludeFromList": false,
-  "SortOrder": 131,
+  "SortOrder": 132,
   "events": [
    "10503",
    "10734",
@@ -2654,11 +2675,11 @@
   "PerformerId": "9846",
   "Twitter": "davidmascorro",
   "Website": "http://www.davidmascorro.com/",
-  "Position": "132",
+  "Position": "133",
   "id": "9846",
   "pageUrl": "9846-david-mascorro",
   "ExcludeFromList": false,
-  "SortOrder": 132,
+  "SortOrder": 133,
   "events": [
    "10394",
    "10419",
