@@ -6,7 +6,7 @@ description: "Come join us on East Burnside for the Bridgetown Comedy Festival i
 published: true
 ---
 
-<a target="_blank" href="http://www.dougfirlounge.com/">
+<a href="/venue/10373-kill-rock-stars-stage-at-doug-fir-lounge">
   <img src="/img/venue-images/venue-doug-fir.png" />
 </a>
 
@@ -16,10 +16,12 @@ published: true
 
 830 E. Burnside St., Portland, OR
 
+[View Shows →](/venue/10373-kill-rock-stars-stage-at-doug-fir-lounge)
 
-  <a target="_blank" href="http://www.bossanovaballroom.com">
-    <img src="/img/venue-images/venue-bossanova.png" />
-  </a>
+
+<a href="/venue/10374-mailchimp-stage-at-bossanova-ballroom">
+  <img src="/img/venue-images/venue-bossanova.png" />
+</a>
 
 ### MailChimp Stage at Bossanova Ballroom
 
@@ -27,11 +29,13 @@ published: true
 
 722 E Burnside, Portland, OR
 
+[View Shows →](/venue/10374-mailchimp-stage-at-bossanova-ballroom)
 
 
-  <a target="_blank" href="http://www.revolutionhallpdx.com/">
-    <img src="/img/venue-images/venue-revolution-hall.png" />
-  </a>
+
+<a href="/venue/10384-revolution-hall">
+  <img src="/img/venue-images/venue-revolution-hall.png" />
+</a>
 
 ### Revolution Hall (Washington High)
 
@@ -39,28 +43,27 @@ published: true
 
 Suite #110, 1300 SE Stark St, Portland, OR
 
+[View Shows →](/venue/10384-revolution-hall)
 
 
 
-
-
-  <a target="_blank" href="http://www.norsehall.org">
-    <img src="/img/venue-images/venue-norse.png" />
-  </a>
+<a href="/venue/10375-norse-hall">
+  <img src="/img/venue-images/venue-norse.png" />
+</a>
 
 ### Norse Hall
 
-  [www.norsehall.org](http://www.norsehall.org)
+  [www.norsehall.org](/venue/10375-norse-hall)
 
 111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR
 
+[View Shows for Rotture Lower→](/venue/10377-rotture-lower)
 
 
 
-
-  <a target="_blank" href="http://www.rotture.com">
-    <img src="/img/venue-images/venue-rotture.png" />
-  </a>
+<a href="/venue/10377-rotture-lower">
+  <img src="/img/venue-images/venue-rotture.png" />
+</a>
 
 ### Rotture
 
@@ -68,24 +71,28 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 315 SE 3rd Ave, Portland, OR
 
+[View Shows for Rotture Lower→](/venue/10377-rotture-lower)
+[View Shows for Rotture Upper→](/venue/10376-rotture-upper)
 
 
-  <a target="_blank" href="http://www.bunksandwiches.com/bunkbar/">
-    <img src="/img/venue-images/venue-bunk-bar.png" />
-  </a>
 
-### Bunk
+<a href="/venue/10378-bunk">
+  <img src="/img/venue-images/venue-bunk-bar.png" />
+</a>
+
+### Bunk Bar
 
   [www.bunksandwiches.com/bunkbar](http://www.bunksandwiches.com/bunkbar/)
 
 1028 SE Water, Portland, OR
 
+[View Shows →](/venue/10378-bunk)
 
 
 
-  <a target="_blank" href="https://www.facebook.com/thesandyhut">
-    <img src="/img/venue-images/venue-sandy-hut.png" />
-  </a>
+<a href="/venue/10379-sandy-hut">
+  <img src="/img/venue-images/venue-sandy-hut.png" />
+</a>
 
 
 ### Sandy Hut
@@ -94,17 +101,18 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 1430 NE Sandy Blvd, Portland, OR
 
+[View Shows →](/venue/10379-sandy-hut)
 
 
 
-
-
-  <a target="_blank" href="http://www.boogiesburgersandbrew.com/">
-    <img src="/img/venue-images/venue-boogie-burgers.png" />
-  </a>
+<a href="/venue/10380-boogies-burgers">
+  <img src="/img/venue-images/venue-boogie-burgers.png" />
+</a>
 
 ### Boogie's Burgers and Brew
 
   [www.boogiesburgersandbrew.com](http://www.boogiesburgersandbrew.com/)
 
 910 E Burnside St, Portland, OR
+
+[View Shows →](/venue/10380-boogies-burgers)
