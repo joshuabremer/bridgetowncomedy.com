@@ -2025,7 +2025,7 @@
  {
   "EventId": "10779",
   "VenueId": "10376",
-  "Name": "How To Weep In Public",
+  "Name": "Depression Live!",
   "StartTime": "2015-05-10 20:00:00 to 2015-05-10 21:30:00",
   "EndTime": "2015-05-10 20:00:00 to 2015-05-10 21:30:00",
   "MCId": "9739",
@@ -2037,7 +2037,7 @@
   "venue": "10376",
   "start_time": "2015-05-11T03:00:00.000Z",
   "end_time": "2015-05-11T04:30:00.000Z",
-  "pageUrl": "10779-how-to-weep-in-public",
+  "pageUrl": "10779-depression-live",
   "performers": [
    "9552",
    "10070",
