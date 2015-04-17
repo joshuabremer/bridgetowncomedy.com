@@ -57,7 +57,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR
 
-[View Shows for Rotture Lower→](/venue/10377-rotture-lower)
+[View Shows →](/venue/10375-norse-hall)
 
 
 
@@ -72,6 +72,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
 315 SE 3rd Ave, Portland, OR
 
 [View Shows for Rotture Lower→](/venue/10377-rotture-lower)
+
 [View Shows for Rotture Upper→](/venue/10376-rotture-upper)
 
 
