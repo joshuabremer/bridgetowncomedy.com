@@ -41,11 +41,11 @@
   ]
  },
  {
-  "Name": "Bunk",
+  "Name": "Bunk Bar",
   "VenueId": "10378",
   "id": "10378",
   "address": "1028 SE Water, Portland, OR",
-  "pageUrl": "10378-bunk",
+  "pageUrl": "10378-bunk-bar",
   "events": [
    "10437",
    "10784",
