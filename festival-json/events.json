@@ -1356,7 +1356,7 @@
   "MCId": "10046",
   "Cost": "$20",
   "ShowId": "",
-  "Description": "",
+  "Description": "<p>A stellar lineup of comedians take the stage for one last hurrah!</p>\n",
   "iTunes Url": "",
   "id": "10467",
   "venue": "10374",
@@ -1375,7 +1375,7 @@
    "10217",
    "10119"
   ],
-  "description": "",
+  "description": "<p>A stellar lineup of comedians take the stage for one last hurrah!</p>\n",
   "emcees": [
    10046
   ]
