@@ -1650,7 +1650,7 @@
  {
   "EventId": "10733",
   "VenueId": "10377",
-  "Name": "Steven Wilber and His Many Cat Friends",
+  "Name": "Steven Wilber's Appropriately-Titled Comedy Show",
   "StartTime": "2015-05-07 22:00:00 to 2015-05-07 23:30:00",
   "EndTime": "2015-05-07 22:00:00 to 2015-05-07 23:30:00",
   "MCId": "9235",
@@ -1662,7 +1662,7 @@
   "venue": "10377",
   "start_time": "2015-05-08T05:00:00.000Z",
   "end_time": "2015-05-08T06:30:00.000Z",
-  "pageUrl": "10733-steven-wilber-and-his-many-cat-friends",
+  "pageUrl": "10733-steven-wilbers-appropriately-titled-comedy-show",
   "performers": [
    "9327",
    "9780",
