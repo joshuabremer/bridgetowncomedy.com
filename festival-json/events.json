@@ -608,7 +608,7 @@
    "10043",
    "10233",
    "9662",
-   "10297",
+   "9423",
    "9114",
    "9979",
    "9876"
@@ -696,11 +696,11 @@
   "pageUrl": "10428-7-minutes-in-purgatory",
   "performers": [
    "9093",
-   "9564",
    "9662",
-   "10312",
    "10233",
+   "9564",
    "10349",
+   "10312",
    "10299"
   ],
   "description": "<p>What happens when a comedian doesn't know how the audience is responding? Seven Minutes in Purgatory challenges comedians to perform a seven minute set in a soundproof room while the audience watches a live stream of their set.</p>\n",
@@ -1061,7 +1061,7 @@
   "Name": "Birthday Bunk Bash!",
   "StartTime": "2015-05-10 21:00:00 to 2015-05-10 23:00:00",
   "EndTime": "2015-05-10 21:00:00 to 2015-05-10 23:00:00",
-  "MCId": "9079",
+  "MCId": "9790",
   "Cost": "$15",
   "ShowId": "",
   "Description": "<p>Hey hey it's your birthday! Celebrate the comics who had birthdays during the festival plus many more as we close out the weekend with a bang.</p>\n",
@@ -1075,6 +1075,7 @@
    "9990",
    "10082",
    "10820",
+   "9079",
    "9979",
    "10343",
    "9093",
@@ -1084,7 +1085,7 @@
   ],
   "description": "<p>Hey hey it's your birthday! Celebrate the comics who had birthdays during the festival plus many more as we close out the weekend with a bang.</p>\n",
   "emcees": [
-   9079
+   9790
   ]
  },
  {
@@ -1402,7 +1403,6 @@
    "10309",
    "9990",
    "10316",
-   "9919",
    "10293",
    "10313"
   ],
@@ -1922,11 +1922,13 @@
   "end_time": "2015-05-09T05:00:00.000Z",
   "pageUrl": "10758-comedy-and-cocktails-presents-the-nickel-club",
   "performers": [
-   "9640",
    "9827",
+   "10316",
    "9978",
+   "9640",
+   "9079",
    "10119",
-   "9423",
+   "9739",
    "10337"
   ],
   "description": "<p>What happens when you cross a comedy show with a 1920's speakeasy? Find out at the Nickel Club, where a jazz band and a gorgeous copper still set the mood for a night of exceptional stand up.</p>\n"
@@ -2072,9 +2074,9 @@
    "10031",
    "9177",
    "9326",
+   "9919",
    "9105",
-   "9479",
-   "9739"
+   "9479"
   ],
   "description": "<p>A night of 1000 laughs with some of Bridgetown's finest comedians.</p>\n",
   "emcees": [
