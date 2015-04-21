@@ -2687,5 +2687,35 @@
   "mc_events": [
    "10444"
   ]
+ },
+ {
+  "Name": "Brandy Feit",
+  "Bio": "<p>Here's a bio</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/screen_shot_2015-04-21_at_1.24.58_am.png",
+  "PerformerId": "11045",
+  "Twitter": "",
+  "Website": "",
+  "Position": "134",
+  "id": "11045",
+  "pageUrl": "11045-brandy-feit",
+  "ExcludeFromList": false,
+  "SortOrder": 134,
+  "events": [],
+  "mc_events": []
+ },
+ {
+  "Name": "Brandy Feit",
+  "Bio": "<p>Here's a bio</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/screen_shot_2015-04-21_at_1.24.58_am.png",
+  "PerformerId": "11045",
+  "Twitter": "",
+  "Website": "",
+  "Position": "135",
+  "id": "11045",
+  "pageUrl": "11045-brandy-feit",
+  "ExcludeFromList": false,
+  "SortOrder": 135,
+  "events": [],
+  "mc_events": []
  }
 ]
