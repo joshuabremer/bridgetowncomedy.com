@@ -2700,7 +2700,9 @@
   "pageUrl": "11045-brandy-feit",
   "ExcludeFromList": false,
   "SortOrder": 134,
-  "events": [],
+  "events": [
+   "10758"
+  ],
   "mc_events": []
  },
  {
@@ -2715,7 +2717,9 @@
   "pageUrl": "11045-brandy-feit",
   "ExcludeFromList": false,
   "SortOrder": 135,
-  "events": [],
+  "events": [
+   "10758"
+  ],
   "mc_events": []
  }
 ]
