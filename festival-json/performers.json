@@ -2689,5 +2689,25 @@
   "mc_events": [
    "10444"
   ]
+ },
+ {
+  "Name": "Brad Silnutzer",
+  "Bio": "<p>After being “discovered” at his bus stop in the 3rd grade, Brad Silnutzer became an international superstar (read: was in a series of Ovaltine commercials, that lead everyone to make fun of his for the next 20 years).  Now, ending his long hiatus from entertainment, Brad left his job as a high school teacher and became a Los Angeles-based stand up comedian.    </p>\n<p>Brad performs every night at places ranging from coffee shops to The Hollywood Improv and produces some really neat LA shows: “Brew HaHa: The Comedy Show Drinkng Game”, “The Nickel Club”, “Thomas Time”, and “The Midnight Society”.  People have said of his comedy, &quot;those are some high energy stories&quot; and &quot;he&#039;s my son, but I don&#039;t get it&quot; .  He looks forward to eventually flaming out, and begging Ovaltine to do a retrospective commercial bringing back the boys from the past.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bradnewpic3.jpg",
+  "PerformerId": "9714",
+  "Twitter": "bradlivesdreams",
+  "Website": "",
+  "Position": "134",
+  "id": "9714",
+  "pageUrl": "9714-brad-silnutzer",
+  "ExcludeFromList": false,
+  "SortOrder": 134,
+  "events": [
+   "10411"
+  ],
+  "mc_events": [
+   "10412",
+   "10758"
+  ]
  }
 ]
