@@ -91,21 +91,6 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 
 
-<a href="/venue/10379-sandy-hut">
-  <img src="/img/venue-images/venue-sandy-hut.png" />
-</a>
-
-
-### Sandy Hut
-
-  [www.facebook.com/thesandyhut](https://www.facebook.com/thesandyhut)
-
-1430 NE Sandy Blvd, Portland, OR
-
-[View Shows →](/venue/10379-sandy-hut)
-
-
-
 <a href="/venue/10380-boogies-burgers">
   <img src="/img/venue-images/venue-boogie-burgers.png" />
 </a>
