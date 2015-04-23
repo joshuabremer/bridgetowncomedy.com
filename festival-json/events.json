@@ -1443,7 +1443,9 @@
   "start_time": "2015-05-09T21:00:00.000Z",
   "end_time": "2015-05-10T00:00:00.000Z",
   "pageUrl": "10676-the-k-ohle-with-kurt-braunohler",
-  "performers": [],
+  "performers": [
+   "10816"
+  ],
   "emcees": [
    10311
   ]
