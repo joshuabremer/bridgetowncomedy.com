@@ -93,6 +93,25 @@
   ]
  },
  {
+  "Name": "My Father&#039;s Place",
+  "VenueId": "10379",
+  "id": "10379",
+  "address": "1430 NE Sandy Blvd, Portland, OR",
+  "pageUrl": "10379-my-fathers-place",
+  "events": [
+   "10394",
+   "10998",
+   "10746",
+   "10442",
+   "10445",
+   "10747",
+   "10443",
+   "10999",
+   "10788",
+   "10420"
+  ]
+ },
+ {
   "Name": "New Deal Distillery",
   "VenueId": "10677",
   "id": "10677",
@@ -155,25 +174,6 @@
    "10783",
    "10734",
    "10779"
-  ]
- },
- {
-  "Name": "Sandy Hut",
-  "VenueId": "10379",
-  "id": "10379",
-  "address": "1430 NE Sandy Blvd, Portland, OR",
-  "pageUrl": "10379-sandy-hut",
-  "events": [
-   "10394",
-   "10998",
-   "10746",
-   "10442",
-   "10445",
-   "10747",
-   "10443",
-   "10999",
-   "10788",
-   "10420"
   ]
  },
  {
