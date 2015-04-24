@@ -2216,5 +2216,29 @@
   "emcees": [
    10820
   ]
+ },
+ {
+  "EventId": "11108",
+  "VenueId": "10677",
+  "Name": "Comedy and Cocktails",
+  "StartTime": "2015-06-12 19:30:00 to 2015-06-12 21:30:00",
+  "EndTime": "2015-06-12 19:30:00 to 2015-06-12 21:30:00",
+  "MCId": "10192",
+  "Cost": "",
+  "ShowId": "11107",
+  "Description": "",
+  "iTunes Url": "",
+  "show": "11107",
+  "id": "11108",
+  "venue": "10677",
+  "start_time": "2015-06-13T02:30:00.000Z",
+  "end_time": "2015-06-13T04:30:00.000Z",
+  "pageUrl": "11108-comedy-and-cocktails",
+  "performers": [
+   "11045"
+  ],
+  "emcees": [
+   10192
+  ]
  }
 ]

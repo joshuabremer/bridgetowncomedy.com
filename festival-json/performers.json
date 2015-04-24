@@ -2745,7 +2745,9 @@
   "events": [
    "10758"
   ],
-  "mc_events": []
+  "mc_events": [
+   "11108"
+  ]
  },
  {
   "Name": "Brandy Feit",
@@ -2760,7 +2762,8 @@
   "ExcludeFromList": false,
   "SortOrder": 135,
   "events": [
-   "10758"
+   "10758",
+   "11108"
   ],
   "mc_events": []
  }
