@@ -83,11 +83,11 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 ### My Father's Place
 
-  [myfathersplacepdx.com](http://myfathersplacepdx.com/)
+[myfathersplacepdx.com](http://myfathersplacepdx.com/)
 
-	523 SE Grand Ave, Portland, OR 97214
+523 SE Grand Ave, Portland, OR 97214
 	
-[View Shows →](/venue/10379-my-fathers-place)
+[View Shows for My Father's Place →](/venue/10379-my-fathers-place)
 
 
 
