@@ -630,8 +630,7 @@
   "SortOrder": 32,
   "events": [
    "10430",
-   "10502",
-   "10758"
+   "10502"
   ],
   "mc_events": []
  },
@@ -2710,5 +2709,22 @@
    "10412",
    "10758"
   ]
+ },
+ {
+  "Name": "Jason Traeger",
+  "Bio": "<p>Jason Traeger has been called “the hot, new 40-something face of Portland Stand-up” Two years after his arrival on the scene his friendly, slightly lysergic style earned him a spot as a finalist in Helium Comedy Club&#039;s 2014 Portland&#039;s Funniest Person contest. That same year he was invited to curate and host a night of Stand-up for the TBA:14 Festival, the city&#039;s premiere arts event. During his run hosting the successful “Get up, Stand up” series at Mississippi Studios, he shared the stage with some of the best and brightest comics working today. In addition to his comedy, Traeger is a respected visual artist and photographer. Over the course of two years he collected more than 2,000 of his photos of the scene on his blog <a href=\"http://portlandstandupphotoalbum.tumblr.com/\">http://portlandstandupphotoalbum.tumblr.com/</a>. </p>\n<p>A fixture on the West Coast art and culture scene for decades, Traeger has released his music on Kill Rock Stars and K records. He has exhibited his visual art at the Portland 2010 Biennial and the Tate Modern in London.</p>\n<p>Jason runs a monthly showcase at Valentine&#039;s and co-hosts New Deal Distillery&#039;s Comedy and Cocktails Stand-up series.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_6579_0.jpg",
+  "PerformerId": "10192",
+  "Twitter": "jasontraeger",
+  "Website": "http://jasontraegercomedy.tumblr.com/",
+  "Position": "135",
+  "id": "10192",
+  "pageUrl": "10192-jason-traeger",
+  "ExcludeFromList": false,
+  "SortOrder": 135,
+  "events": [
+   "10758"
+  ],
+  "mc_events": []
  }
 ]
