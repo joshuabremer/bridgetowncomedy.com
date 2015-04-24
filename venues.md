@@ -75,7 +75,22 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 [View Shows for Rotture Upper→](/venue/10376-rotture-upper)
 
+### My Father's Place
 
+  [myfathersplacepdx.com](http://myfathersplacepdx.com/)
+
+<a href="/venue/10379-my-fathers-place">
+  <img src="/img/venue-images/venue-my-fathers-place.png" />
+</a>
+
+
+### Bunk Bar
+
+  [www.bunksandwiches.com/bunkbar](http://www.bunksandwiches.com/bunkbar/)
+
+1028 SE Water, Portland, OR
+
+[View Shows →](/venue/10378-bunk)
 
 <a href="/venue/10378-bunk">
   <img src="/img/venue-images/venue-bunk-bar.png" />
