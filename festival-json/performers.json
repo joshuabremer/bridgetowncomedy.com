@@ -272,11 +272,11 @@
   "PerformerId": "10786",
   "Twitter": "",
   "Website": "",
-  "Position": "14",
+  "Position": "13",
   "id": "10786",
   "pageUrl": "10786-lance-bangs",
   "ExcludeFromList": false,
-  "SortOrder": 14,
+  "SortOrder": 13,
   "events": [],
   "mc_events": [
    "10731"
@@ -289,11 +289,11 @@
   "PerformerId": "9423",
   "Twitter": "michellebuteau",
   "Website": "http://www.michellebuteau.com/",
-  "Position": "15",
+  "Position": "14",
   "id": "9423",
   "pageUrl": "9423-michelle-buteau",
   "ExcludeFromList": false,
-  "SortOrder": 15,
+  "SortOrder": 14,
   "events": [
    "10425",
    "10672",
@@ -308,11 +308,11 @@
   "PerformerId": "10313",
   "Twitter": "kylekinane",
   "Website": "",
-  "Position": "16",
+  "Position": "15",
   "id": "10313",
   "pageUrl": "10313-kyle-kinane",
   "ExcludeFromList": false,
-  "SortOrder": 16,
+  "SortOrder": 15,
   "events": [
    "10402",
    "10409",
@@ -331,11 +331,11 @@
   "PerformerId": "10794",
   "Twitter": "JeffBryanDavis",
   "Website": "",
-  "Position": "18",
+  "Position": "16",
   "id": "10794",
   "pageUrl": "10794-jeff-davis",
   "ExcludeFromList": false,
-  "SortOrder": 18,
+  "SortOrder": 16,
   "events": [],
   "mc_events": [
    "10737"
@@ -348,11 +348,11 @@
   "PerformerId": "10816",
   "Twitter": "jonahray",
   "Website": "",
-  "Position": "19",
+  "Position": "17",
   "id": "10816",
   "pageUrl": "10816-jonah-ray",
   "ExcludeFromList": false,
-  "SortOrder": 19,
+  "SortOrder": 17,
   "events": [
    "10439",
    "10676",
@@ -368,11 +368,11 @@
   "PerformerId": "9755",
   "Twitter": "michaelkosta",
   "Website": "http://www.michaelkosta.com/",
-  "Position": "20",
+  "Position": "18",
   "id": "9755",
   "pageUrl": "9755-michael-kosta",
   "ExcludeFromList": false,
-  "SortOrder": 20,
+  "SortOrder": 18,
   "events": [
    "10451",
    "10467",
@@ -388,11 +388,11 @@
   "PerformerId": "9446",
   "Twitter": "kateberlant",
   "Website": "http://kateberlant.tumblr.com/",
-  "Position": "21",
+  "Position": "19",
   "id": "9446",
   "pageUrl": "9446-kate-berlant",
   "ExcludeFromList": false,
-  "SortOrder": 21,
+  "SortOrder": 19,
   "events": [
    "10392",
    "10453",
@@ -408,11 +408,11 @@
   "PerformerId": "10315",
   "Twitter": "iankarmel",
   "Website": "http://iankarmel.com/",
-  "Position": "22",
+  "Position": "20",
   "id": "10315",
   "pageUrl": "10315-ian-karmel",
   "ExcludeFromList": false,
-  "SortOrder": 22,
+  "SortOrder": 20,
   "events": [
    "10430",
    "10447",
@@ -430,11 +430,11 @@
   "PerformerId": "9445",
   "Twitter": "Bethstelling",
   "Website": "http://www.beth-stelling.squarespace.com/",
-  "Position": "23",
+  "Position": "21",
   "id": "9445",
   "pageUrl": "9445-beth-stelling",
   "ExcludeFromList": false,
-  "SortOrder": 23,
+  "SortOrder": 21,
   "events": [
    "10391",
    "10419",
@@ -451,11 +451,11 @@
   "PerformerId": "10233",
   "Twitter": "barvonblaq",
   "Website": "http://baronvaughn.com",
-  "Position": "24",
+  "Position": "22",
   "id": "10233",
   "pageUrl": "10233-baron-vaughn",
   "ExcludeFromList": false,
-  "SortOrder": 24,
+  "SortOrder": 22,
   "events": [
    "10407",
    "10425",
@@ -475,11 +475,11 @@
   "PerformerId": "9919",
   "Twitter": "kiracomedy",
   "Website": "http://www.kiracomedy.com",
-  "Position": "25",
+  "Position": "23",
   "id": "9919",
   "pageUrl": "9919-kira-soltanovich",
   "ExcludeFromList": false,
-  "SortOrder": 25,
+  "SortOrder": 23,
   "events": [
    "10460",
    "10783"
@@ -493,11 +493,11 @@
   "PerformerId": "10210",
   "Twitter": "guybranum",
   "Website": "http://www.guybranum.com/",
-  "Position": "26",
+  "Position": "24",
   "id": "10210",
   "pageUrl": "10210-guy-branum",
   "ExcludeFromList": false,
-  "SortOrder": 26,
+  "SortOrder": 24,
   "events": [
    "10404",
    "10423",
@@ -516,11 +516,11 @@
   "PerformerId": "9167",
   "Twitter": "mrdavehill",
   "Website": "http://davehillonline.com/",
-  "Position": "27",
+  "Position": "25",
   "id": "9167",
   "pageUrl": "9167-dave-hill",
   "ExcludeFromList": false,
-  "SortOrder": 27,
+  "SortOrder": 25,
   "events": [
    "10416",
    "10736",
@@ -531,17 +531,38 @@
   ]
  },
  {
+  "Name": "Arden Myrin",
+  "Bio": "<p>Arden Myrin is an actress, writer and comedian.  A popular roundtable panelist on Chelsea Lately, Arden appeared on the show over 115 times, proving that all those years she spent reading Us Weekly for “research” were worth it.  On the acting fron, she will appear in the upcoming ABC show Fresh Off the Boat.    Arden was also a cast member on MADtv for four years, where she wrote many of her sketches, and was surprised to be in her underwear on TV a lot. Arden is a frequent guest on Comedy Central’s new hit show @midnight and was one of the first females to “win the Internet.” Arden has appeared on Orange Is the New Black, Key and Peele, Inside Amy Schumer, Suburgatory, Hung, Legit, Reno 911, Quickdraw, Late Night with Conan O’Brien, Psych, The Howard Stern Show, RuPaul’s Drag Race, Party Down, Hot in Cleveland, Legit, Soul Man and Quick Draw, among others.</p>\n<p>Her film credits include Morning Glory, Kinsey, The Lucky Ones and Bubble Boy, and the Sundance movies Bachelorette, Wrong and Wrong Cops.</p>\n<p>As a writer Arden just sold a sitcom to ABC Studios called Playing with Boys about a female comedian living in Brooklyn, and also recently shot a pilot called Hole to Hole for Adult Swim that she wrote with South Park producer Pam Brady. They were the first females to sell a show to this popular network, with Arden serving as co-executive producer, writer and star.</p>\n<p>Arden loves interior design, appearing with her designs on The Nate Berkus four times, as well as being featured on Apartment Therapy.  Mostly Arden loves naps, sledding, and peanut butter.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/arden.jpg",
+  "PerformerId": "10341",
+  "Twitter": "ardenmyrin",
+  "Website": "",
+  "Position": "26",
+  "id": "10341",
+  "pageUrl": "10341-arden-myrin",
+  "ExcludeFromList": false,
+  "SortOrder": 26,
+  "events": [
+   "10407",
+   "10433",
+   "10706"
+  ],
+  "mc_events": [
+   "10439"
+  ]
+ },
+ {
   "Name": "Chris Fairbanks",
   "Bio": "<p>Chris Fairbanks’ album, “Fairbanks!” was named one of Amazon &amp; Amazon MP3s Top Ten of 2010. Fast paced, quirky, and constantly improvising his act, Chris Fairbanks delivers a truly unique self-observational style.</p>\n<p>“He’s a master of controlled nervousness, almost jazz-like spontaneous prose, so free-flowing yet forward-moving it makes one wonder whether this is brilliant scripting or just damned good improv.” –Laughspin.</p>\n<p>Chris has been seen on Conan, Jimmy Kimmel, VH1, Last Comic Standing, and Comedy Central.</p>\n<p>He’s a master of a nervous, almost jazz-like spontaneous prose, so free-flowing yet forward-moving it makes one wonder whether this is brilliant scripting or just damned good improv. -Laughspin</p>\n<p>…not to say he doesn’t deliver some hilarious jokes, it’s rather the real meat of his comedy comes more from something else: seemingly stream of consciousness comedic rambling. -Punchline Magazine</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/fairbanks.jpg",
   "PerformerId": "10350",
   "Twitter": "",
   "Website": "http://chrisfairbanks.com/",
-  "Position": "28",
+  "Position": "27",
   "id": "10350",
   "pageUrl": "10350-chris-fairbanks",
   "ExcludeFromList": false,
-  "SortOrder": 28,
+  "SortOrder": 27,
   "events": [
    "10388",
    "10412",
@@ -553,45 +574,25 @@
   "mc_events": []
  },
  {
-  "Name": "Phoebe Robinson",
-  "Bio": "<p>Phoebe Robinson is a stand-up comedian, writer, and actor who both TimeOut NY and Flavorpill.com have named one of the top ten comics working in NYC. Most recently, she appeared on NBC’s Late Night with Seth Meyers, Comedy Central’s Broad City, NBC’s Last Comic Standing and the Today show, and is a writer on MTV’s hit talking head show Girl Code.</p>\n<p>When not working on television, Ms. Robinson is a writer for Glamour.com and contributes to The New York Times, bitch magazine, xoJane.com, VH1.com, Refinery 29.com, Decider.com, VanityFair.com, and TheDailyBeast.com. Her blog Blaria (aka Black Daria), which is rapidly approaching 150,000 views, has been featured on The Huffington Post, and has launched a podcast as well as a monthly stand-up show at Union Hall that she co-hosts with The Daily Show’s Jessica Williams. It has consistently sold out since its inception nearly a year ago.</p>\n<p>She recently just finished opening for The Daily Show’s Wyatt Cenac and Broad City on their comedy tours and is currently a staff writer on Fuse’s upcoming daily late night pop culture talk show.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/phoebe_robinson_closeup_headshot_5.9.11_small.jpg",
-  "PerformerId": "10043",
-  "Twitter": "PRobinsonComedy",
-  "Website": "http://blaria.com",
-  "Position": "29",
-  "id": "10043",
-  "pageUrl": "10043-phoebe-robinson",
+  "Name": "Jacqueline Novak",
+  "Bio": "<p>Jacqueline Novak is a NYC-based stand up comedian and writer. Her debut stand-up album QUALITY NOTIONS, the culmination of ten years of stand-up, debuted at #2 on iTunes comedy in 2014. Her humorous guide to depression, , HOW TO WEEP IN PUBLIC, a mix of memoir and advice for living a depression-rich life comes out in 2016 from Crown Books. &quot;One of the funniest and most original young comic voices in New ￼York&quot; - Michael Showalter. “Jacqueline Novak&#039;s unapologetic and original comedy is the kind that gives me hope in this ￼business.” -Amy Shumer</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/novak-jacqueline.jpeg",
+  "PerformerId": "9739",
+  "Twitter": "jacquelinenovak",
+  "Website": "http://www.jokesnovak.com",
+  "Position": "28",
+  "id": "9739",
+  "pageUrl": "9739-jacqueline-novak",
   "ExcludeFromList": false,
-  "SortOrder": 29,
+  "SortOrder": 28,
   "events": [
-   "10425",
-   "10467",
-   "10728"
-  ],
-  "mc_events": []
- },
- {
-  "Name": "Ron Lynch",
-  "Bio": "<p>RON LYNCH is considered one of the forefathers of alternative comedy. Ron was part of the Boston comedy scene that spawned such comics as Steven Wright, Paula Poundstone, Bobcat Goldthwait, Marc Maron, and others featured with him in the documentary, &quot;When Comedy Was King.&quot; Ron studied theater in New York and improvisation at Second City Chicago. Presently, he is the host/producer of the popular &quot;Tomorrow!&quot; variety show, now in its tenth year, which occurs every Saturday at midnight in Los Angeles. His act is a blend of characters, improvisation, sounds, and other stuff. His credits include The Sarah Silverman Program (he played all the doctors), Conan, Andy Richter Controls the Universe, and several sitcoms. His voice can be heard on Bob&#039;s Burgers, Adventure Time, Dr. Katz, Tim and Eric, and the cult favorite, Home Movies, where he was Mr. Lynch. Movie credits include &quot;Smashed,&quot; &quot;Murder in the First,&quot; several independents, and many short movies, including a few produced with Louie CK. He plays drums in two bands, both mostly comics, still hasn&#039;t done his taxes, and performed at the Edinburgh Fringe Festival in Scotland this last August!</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rojoly.jpg",
-  "PerformerId": "9691",
-  "Twitter": "ronlynch1",
-  "Website": "https://www.facebook.com/ron.lynch1",
-  "Position": "30",
-  "id": "9691",
-  "pageUrl": "9691-ron-lynch",
-  "ExcludeFromList": false,
-  "SortOrder": 30,
-  "events": [
-   "10403",
-   "10426",
-   "10444",
-   "10733",
-   "10736"
+   "10433",
+   "10439",
+   "10758",
+   "10784"
   ],
   "mc_events": [
-   "10466"
+   "10779"
   ]
  },
  {
@@ -601,11 +602,11 @@
   "PerformerId": "10346",
   "Twitter": "steveagee",
   "Website": "http://steveagee.tumblr.com/",
-  "Position": "31",
+  "Position": "29",
   "id": "10346",
   "pageUrl": "10346-steve-agee",
   "ExcludeFromList": false,
-  "SortOrder": 31,
+  "SortOrder": 29,
   "events": [
    "10407",
    "10426",
@@ -617,22 +618,64 @@
   ]
  },
  {
+  "Name": "Phoebe Robinson",
+  "Bio": "<p>Phoebe Robinson is a stand-up comedian, writer, and actor who both TimeOut NY and Flavorpill.com have named one of the top ten comics working in NYC. Most recently, she appeared on NBC’s Late Night with Seth Meyers, Comedy Central’s Broad City, NBC’s Last Comic Standing and the Today show, and is a writer on MTV’s hit talking head show Girl Code.</p>\n<p>When not working on television, Ms. Robinson is a writer for Glamour.com and contributes to The New York Times, bitch magazine, xoJane.com, VH1.com, Refinery 29.com, Decider.com, VanityFair.com, and TheDailyBeast.com. Her blog Blaria (aka Black Daria), which is rapidly approaching 150,000 views, has been featured on The Huffington Post, and has launched a podcast as well as a monthly stand-up show at Union Hall that she co-hosts with The Daily Show’s Jessica Williams. It has consistently sold out since its inception nearly a year ago.</p>\n<p>She recently just finished opening for The Daily Show’s Wyatt Cenac and Broad City on their comedy tours and is currently a staff writer on Fuse’s upcoming daily late night pop culture talk show.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/phoebe_robinson_closeup_headshot_5.9.11_small.jpg",
+  "PerformerId": "10043",
+  "Twitter": "PRobinsonComedy",
+  "Website": "http://blaria.com",
+  "Position": "30",
+  "id": "10043",
+  "pageUrl": "10043-phoebe-robinson",
+  "ExcludeFromList": false,
+  "SortOrder": 30,
+  "events": [
+   "10425",
+   "10467",
+   "10728"
+  ],
+  "mc_events": []
+ },
+ {
   "Name": "Jay Larson",
   "Bio": "<p>With appearances on TOSH.0, The Late Late show, The Smoking Gun Presents, Conan and his own half hour special on Comedy Central, Jay Larson has come a long way since he moved to Los Angeles in 2000.  After flunking out of college, then finally getting accepted back after many attempts, Jay threw away his diploma to pursue a career in standup comedy.</p>\n<p>After living in a condemned house for 14 months, I mean who hasn’t, Jay started opening for comedy greats such as Nick Swardson, Daniel Tosh and Pablo Fransisco. He soon became known as a comedian with a wacky, original voice who tends to get a little weird. Since those early days Jay has continued climbing the ranks with multiple TV appearances, many internet short films and his first album, “Self-Diagnosed,” available on iTunes. His voice continues to grow as he has delved into the world of interacting with strangers and creating conflict with people he doesn’t know. Jay is a fantastic storyteller, showcased weekly on The Crabfeast Podcast with co-host Ryan Sickler. With TV projects in development, be sure to catch Jay now before he ignores everyone…forever…seriously…he will.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jaylarson.jpg",
   "PerformerId": "10316",
   "Twitter": "jaylarsoncomedy",
   "Website": "http://www.jaylarsoncomedy.com/",
-  "Position": "32",
+  "Position": "31",
   "id": "10316",
   "pageUrl": "10316-jay-larson",
   "ExcludeFromList": false,
-  "SortOrder": 32,
+  "SortOrder": 31,
   "events": [
    "10430",
    "10502"
   ],
   "mc_events": []
+ },
+ {
+  "Name": "Ron Lynch",
+  "Bio": "<p>RON LYNCH is considered one of the forefathers of alternative comedy. Ron was part of the Boston comedy scene that spawned such comics as Steven Wright, Paula Poundstone, Bobcat Goldthwait, Marc Maron, and others featured with him in the documentary, &quot;When Comedy Was King.&quot; Ron studied theater in New York and improvisation at Second City Chicago. Presently, he is the host/producer of the popular &quot;Tomorrow!&quot; variety show, now in its tenth year, which occurs every Saturday at midnight in Los Angeles. His act is a blend of characters, improvisation, sounds, and other stuff. His credits include The Sarah Silverman Program (he played all the doctors), Conan, Andy Richter Controls the Universe, and several sitcoms. His voice can be heard on Bob&#039;s Burgers, Adventure Time, Dr. Katz, Tim and Eric, and the cult favorite, Home Movies, where he was Mr. Lynch. Movie credits include &quot;Smashed,&quot; &quot;Murder in the First,&quot; several independents, and many short movies, including a few produced with Louie CK. He plays drums in two bands, both mostly comics, still hasn&#039;t done his taxes, and performed at the Edinburgh Fringe Festival in Scotland this last August!</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rojoly.jpg",
+  "PerformerId": "9691",
+  "Twitter": "ronlynch1",
+  "Website": "https://www.facebook.com/ron.lynch1",
+  "Position": "32",
+  "id": "9691",
+  "pageUrl": "9691-ron-lynch",
+  "ExcludeFromList": false,
+  "SortOrder": 32,
+  "events": [
+   "10403",
+   "10426",
+   "10444",
+   "10733",
+   "10736"
+  ],
+  "mc_events": [
+   "10466"
+  ]
  },
  {
   "Name": "Ryan Sickler",
@@ -655,39 +698,17 @@
   ]
  },
  {
-  "Name": "Jacqueline Novak",
-  "Bio": "<p>Jacqueline Novak is a NYC-based stand up comedian and writer. Her debut stand-up album QUALITY NOTIONS, the culmination of ten years of stand-up, debuted at #2 on iTunes comedy in 2014. Her humorous guide to depression, , HOW TO WEEP IN PUBLIC, a mix of memoir and advice for living a depression-rich life comes out in 2016 from Crown Books. &quot;One of the funniest and most original young comic voices in New ￼York&quot; - Michael Showalter. “Jacqueline Novak&#039;s unapologetic and original comedy is the kind that gives me hope in this ￼business.” -Amy Shumer</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/novak-jacqueline.jpeg",
-  "PerformerId": "9739",
-  "Twitter": "jacquelinenovak",
-  "Website": "http://www.jokesnovak.com",
-  "Position": "34",
-  "id": "9739",
-  "pageUrl": "9739-jacqueline-novak",
-  "ExcludeFromList": false,
-  "SortOrder": 34,
-  "events": [
-   "10433",
-   "10439",
-   "10758",
-   "10784"
-  ],
-  "mc_events": [
-   "10779"
-  ]
- },
- {
   "Name": "Joe Zimmerman",
   "Bio": "<p>In 2013 Joe Zimmerman made his television debut on Comedy Central&#039;s John Oliver&#039;s New York Stand Up Show, and since then has appeared on The Late Late Show with Craig Ferguson, Season 8 of Last Comic Standing, Nickelodeon, and recorded a Half Hour Special with Comedy Central. He was also chosen as one of the acclaimed New Faces at Just For Laughs Montreal, where he was positively reviewed by the The Spit Take and Time Out NY. In 2014, he recorded his debut solo album, Smiling at Wolves, and Buzzfeed named him one of the comedians you should be paying attention to, saying, &quot;The combination of Joe&#039;s calming vocalization and inventive writing is a thing of magic,&quot; and &quot;You&#039;d be hard pressed to find a more enjoyable show.&quot;</p>\n<p>Praised for an accessible style pairing absurdism with a wide-eyed, aw-shucks demeanor, Joe is an original member of the Beards of Comedy, who toured from 2008-2012 and released two albums (2011&#039;s Cardio Mix with Comedy Central Records &amp; 2009&#039;s Comedy For People with Rooftop Records).</p>\n<p>Currently Joe is touring the country working on his new hour, and has a comedy-science podcast called Universe City with new episodes every Tuesday. Joe grew up in West Virginia and started comedy in North Carolina shortly after graduating from Davidson College. He now lives in New York City where he hosts a weekly Wednesday show in Brooklyn called Hot Crowd.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joezstageoliver.jpg",
   "PerformerId": "10044",
   "Twitter": "joezimmerman",
   "Website": "http://www.zimmermancomedy.com/",
-  "Position": "35",
+  "Position": "34",
   "id": "10044",
   "pageUrl": "10044-joe-zimmerman",
   "ExcludeFromList": false,
-  "SortOrder": 35,
+  "SortOrder": 34,
   "events": [
    "10392",
    "10451",
@@ -703,11 +724,11 @@
   "PerformerId": "10119",
   "Twitter": "mccarthyredhead",
   "Website": "http://en.wikipedia.org/wiki/Matt_McCarthy_%28comedian%29",
-  "Position": "36",
+  "Position": "35",
   "id": "10119",
   "pageUrl": "10119-matt-mccarthy",
   "ExcludeFromList": false,
-  "SortOrder": 36,
+  "SortOrder": 35,
   "events": [
    "10392",
    "10439",
@@ -725,11 +746,11 @@
   "PerformerId": "9545",
   "Twitter": "mattpeters",
   "Website": "",
-  "Position": "37",
+  "Position": "36",
   "id": "9545",
   "pageUrl": "9545-matt-peters",
   "ExcludeFromList": false,
-  "SortOrder": 37,
+  "SortOrder": 36,
   "events": [
    "10419",
    "10442",
@@ -737,6 +758,28 @@
   ],
   "mc_events": [
    "10706"
+  ]
+ },
+ {
+  "Name": "Laura House",
+  "Bio": "<p>Laura House is a comic and writer who first hit showbiz starring as herself on Mtv’s first fully-scripted sit-com, Austin Stories. This brought her from Texas to Hollywood where she played a hillbilly slut opposite Natalie Portman in the film Where the Heart is and stretched her acting chops as a planet of burping robots on Futurama. As a stand-up, she stood out in HBO’s Aspen Comedy Festival and had her network comic premiere in their Best of the Fest, which led to spots on Comedy Central, HBO, and NBC. She has written on shows including Blue Collar TV, the George Lopez Show, the Emmy-winning Samantha Who? and most recently the hit CBS show Mom. She’s had several shows in development including SuperMom at ABC with Barry Sonnenfeld, and LifeBlowz at Fx with Katey Sagal. She’s an LA favorite at stand-up and storytelling shows, teaches meditation and is a certified raw food chef who refuses to stop eating chocolate cake.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/l_house.jpg",
+  "PerformerId": "9505",
+  "Twitter": "imlaurahouse",
+  "Website": "http://laurahouse.com",
+  "Position": "37",
+  "id": "9505",
+  "pageUrl": "9505-laura-house",
+  "ExcludeFromList": false,
+  "SortOrder": 37,
+  "events": [
+   "10411",
+   "10420",
+   "10451",
+   "10455"
+  ],
+  "mc_events": [
+   "10460"
   ]
  },
  {
@@ -759,17 +802,99 @@
   "mc_events": []
  },
  {
+  "Name": "Adam Cayton-Holland",
+  "Bio": "<p>Adam Cayton-Holland (<a href=\"http://www.adamisfreakingoutrightnow.com\">www.adamisfreakingoutrightnow.com</a>) is a national touring comic who has appeared on Conan, @midnight, The Meltdown with Jonah and Kumail, The Pete Holmes Show, Happy Endings and was named one of Esquire’s “25 Comics to Watch.” His podcast, “My Dining Room Table,” and his debut album, “I Don’t Know If I Happy” are both available on iTunes. He has been described as “genial” and “with pretty decent teeth.”</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/pencildick.jpg",
+  "PerformerId": "10112",
+  "Twitter": "CaytonHolland",
+  "Website": "http://www.adamisfreakingoutrightnow.com",
+  "Position": "39",
+  "id": "10112",
+  "pageUrl": "10112-adam-cayton-holland",
+  "ExcludeFromList": false,
+  "SortOrder": 39,
+  "events": [
+   "10731"
+  ],
+  "mc_events": [
+   "10502"
+  ]
+ },
+ {
+  "Name": "Allen Strickland Williams",
+  "Bio": "<p>I was born in Texas, grew up in Florida and went to college in New York. Now I live in Los Angeles writing and telling one-liners. I made my late-night television debut performing stand-up on CONAN this past Fall. I’ve performed at the Hollywood Improv, The Comedy Store, Denver’s Comedy Works and The Punchline in San Francisco. One time, I got a standing ovation for telling a single joke. I’m featured on the Holy Fuck. live comedy album. Buy it. It’s great. I’ve traveled to perform at Fest in Florida, Comedy Carnivale in Salt Lake City and Hell Yes Fest! in New Orleans. I’ve also been on the RIOT Festival in Los Angeles. I am one-fourth of the sketch group WOMEN, which has been featured on Tosh.0 and at the top of L.A. Weekly’s 10 L.A. Comedy Acts to Watch in 2014. I feel compelled to end this bio on a joke, but I won’t.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/asw_suit_of_headshots.jpg",
+  "PerformerId": "9093",
+  "Twitter": "totallyallen",
+  "Website": "http://www.allenstricklandwilliams.com/",
+  "Position": "40",
+  "id": "9093",
+  "pageUrl": "9093-allen-strickland-williams",
+  "ExcludeFromList": false,
+  "SortOrder": 40,
+  "events": [
+   "10428",
+   "10448",
+   "10466",
+   "10733",
+   "10734"
+  ],
+  "mc_events": []
+ },
+ {
+  "Name": "Lizzy Cooperman",
+  "Bio": "<p>Lizzy&#039;s been featured on &quot;The Late Late Show with Craig Ferguson,&quot; and at “New Faces” and “Dating It” at the Just For Laughs comedy festival in Montreal. She&#039;s a winner of the Laugh Across America contest and was also a finalist at the Las Vegas Comedy Festival. She&#039;s written for several shows including &quot;The Dish,&quot; &quot;The Eric Andre Show,&quot; &quot;Streets of Hollywood&quot; and &quot;Naked &amp; Funny.&quot;  She&#039;s currently a writer for The Soup TV.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lizzy_cooperman_headshot_bridgetown.jpg",
+  "PerformerId": "9564",
+  "Twitter": "lizzycooperman",
+  "Website": "http://lizzycooperman.com",
+  "Position": "41",
+  "id": "9564",
+  "pageUrl": "9564-lizzy-cooperman",
+  "ExcludeFromList": false,
+  "SortOrder": 41,
+  "events": [
+   "10416",
+   "10428",
+   "10460",
+   "10779"
+  ],
+  "mc_events": []
+ },
+ {
+  "Name": "Matt Kirshen",
+  "Bio": "<p>London born Matt Kirshen's precision wit has earned him an impressive reputation on the international comedy circuit. More recently his appearances on Late Night with Jimmy Fallon, The Late Late Show with Craig Ferguson, Paul Provenza’s Green Room, The Nerdist and as a finalist on NBC's Last Comic Standing has earned him a whole new host of fans in the United States and a surprising number of other countries worldwide. </p>\n<p>He has also recorded a half-hour special for the World Stands Up, Comedy Central, and has acclaimed festival appearances in Montreal, Edinburgh, Kilkenny, Glastonbury, Reading, Leeds, Bermuda, and San Francisco amongst many others. </p>\n<p>His debut CD, \"I Guess We'll Never Know\" was named in Punchline Magazine's top 10 albums of 2009 and his hit appearance at the 2008 Just For Laughs festival in Montreal resulted in no fewer than 4 of his gags appearing in the Montreal Gazette's round up of their best jokes of the fest. </p>\n<p>Matt has appeared in and written for numerous television shows in the UK, including a charity gala featuring Jimmy Fallon, which resulted in Jimmy himself requesting Matt to open for him in a college tour to promote his new Late Night hosting slot. </p>\n<p>His youthful looks disguise a veteran comic with over a decade of experience, and a wealth of smart, funny and relatable material, making him a firm favorite with all audiences. While it's his prime-time NBC appearances that many comedy fans will recognize him from, they are often surprised at the breadth and scope of his material, described by one reviewer as \"intelligent, but with the emphasis firmly on the funny.\"</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kirshen_matt-1429.jpg",
+  "PerformerId": "10343",
+  "Twitter": "mattkirshen",
+  "Website": "http://www.mattkirshen.com",
+  "Position": "42",
+  "id": "10343",
+  "pageUrl": "10343-matt-kirshen",
+  "ExcludeFromList": false,
+  "SortOrder": 42,
+  "events": [
+   "10388",
+   "10401",
+   "10448",
+   "10460",
+   "10817",
+   "10819"
+  ],
+  "mc_events": []
+ },
+ {
   "Name": "Curtis Cook",
   "Bio": "<p>Curtis Cook is a comic from Cleveland, Ohio now living in Portland, Oregon. He has performed in venues and festivals throughout the country, including the Cleveland Comedy Festival, the Chicago Comedy Exposition, the Big Sky Comedy Festival, and San Francisco’s Sketchfest.</p>\n<p>In addition to performing, Curtis is among the co-hosts of Earthquake Hurricane – a weekly comedy showcase described as one of the best in Portland – and co-hosts a semi-kinda-biweekly podcast titled Black By Popular Demand. He is also a contributing writer for Laugh Staff, and presently holds an undisputed record for 2014’s highest number of consecutive tweets about the 4 Non Blondes.</p>\n<p>The Portland Mercury described his comedy as “sleepy, slam poetry,” and the Willamette Week listed him among 2014&#039;s funniest five comics in PDX.</p>\n<p>He can be followed on twitter at @Curtis_Cook.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_-_curtis_cook.jpg",
   "PerformerId": "9990",
   "Twitter": "Curtis_Cook",
   "Website": "http://www.curtiscookcomedy.com",
-  "Position": "39",
+  "Position": "43",
   "id": "9990",
   "pageUrl": "9990-curtis-cook",
   "ExcludeFromList": false,
-  "SortOrder": 39,
+  "SortOrder": 43,
   "events": [
    "10441",
    "10448",
@@ -785,11 +910,11 @@
   "PerformerId": "9763",
   "Twitter": "drennondavis",
   "Website": "http://www.drennondavis.com",
-  "Position": "40",
+  "Position": "44",
   "id": "9763",
   "pageUrl": "9763-drennon-davis",
   "ExcludeFromList": false,
-  "SortOrder": 40,
+  "SortOrder": 44,
   "events": [
    "10433",
    "10444",
@@ -801,122 +926,17 @@
   ]
  },
  {
-  "Name": "Allen Strickland Williams",
-  "Bio": "<p>I was born in Texas, grew up in Florida and went to college in New York. Now I live in Los Angeles writing and telling one-liners. I made my late-night television debut performing stand-up on CONAN this past Fall. I’ve performed at the Hollywood Improv, The Comedy Store, Denver’s Comedy Works and The Punchline in San Francisco. One time, I got a standing ovation for telling a single joke. I’m featured on the Holy Fuck. live comedy album. Buy it. It’s great. I’ve traveled to perform at Fest in Florida, Comedy Carnivale in Salt Lake City and Hell Yes Fest! in New Orleans. I’ve also been on the RIOT Festival in Los Angeles. I am one-fourth of the sketch group WOMEN, which has been featured on Tosh.0 and at the top of L.A. Weekly’s 10 L.A. Comedy Acts to Watch in 2014. I feel compelled to end this bio on a joke, but I won’t.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/asw_suit_of_headshots.jpg",
-  "PerformerId": "9093",
-  "Twitter": "totallyallen",
-  "Website": "http://www.allenstricklandwilliams.com/",
-  "Position": "41",
-  "id": "9093",
-  "pageUrl": "9093-allen-strickland-williams",
-  "ExcludeFromList": false,
-  "SortOrder": 41,
-  "events": [
-   "10428",
-   "10448",
-   "10466",
-   "10733",
-   "10734"
-  ],
-  "mc_events": []
- },
- {
-  "Name": "Laura House",
-  "Bio": "<p>Laura House is a comic and writer who first hit showbiz starring as herself on Mtv’s first fully-scripted sit-com, Austin Stories. This brought her from Texas to Hollywood where she played a hillbilly slut opposite Natalie Portman in the film Where the Heart is and stretched her acting chops as a planet of burping robots on Futurama. As a stand-up, she stood out in HBO’s Aspen Comedy Festival and had her network comic premiere in their Best of the Fest, which led to spots on Comedy Central, HBO, and NBC. She has written on shows including Blue Collar TV, the George Lopez Show, the Emmy-winning Samantha Who? and most recently the hit CBS show Mom. She’s had several shows in development including SuperMom at ABC with Barry Sonnenfeld, and LifeBlowz at Fx with Katey Sagal. She’s an LA favorite at stand-up and storytelling shows, teaches meditation and is a certified raw food chef who refuses to stop eating chocolate cake.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/l_house.jpg",
-  "PerformerId": "9505",
-  "Twitter": "imlaurahouse",
-  "Website": "http://laurahouse.com",
-  "Position": "42",
-  "id": "9505",
-  "pageUrl": "9505-laura-house",
-  "ExcludeFromList": false,
-  "SortOrder": 42,
-  "events": [
-   "10411",
-   "10420",
-   "10451",
-   "10455"
-  ],
-  "mc_events": [
-   "10460"
-  ]
- },
- {
-  "Name": "Arden Myrin",
-  "Bio": "<p>Arden Myrin is an actress, writer and comedian.  A popular roundtable panelist on Chelsea Lately, Arden appeared on the show over 115 times, proving that all those years she spent reading Us Weekly for “research” were worth it.  On the acting fron, she will appear in the upcoming ABC show Fresh Off the Boat.    Arden was also a cast member on MADtv for four years, where she wrote many of her sketches, and was surprised to be in her underwear on TV a lot. Arden is a frequent guest on Comedy Central’s new hit show @midnight and was one of the first females to “win the Internet.” Arden has appeared on Orange Is the New Black, Key and Peele, Inside Amy Schumer, Suburgatory, Hung, Legit, Reno 911, Quickdraw, Late Night with Conan O’Brien, Psych, The Howard Stern Show, RuPaul’s Drag Race, Party Down, Hot in Cleveland, Legit, Soul Man and Quick Draw, among others.</p>\n<p>Her film credits include Morning Glory, Kinsey, The Lucky Ones and Bubble Boy, and the Sundance movies Bachelorette, Wrong and Wrong Cops.</p>\n<p>As a writer Arden just sold a sitcom to ABC Studios called Playing with Boys about a female comedian living in Brooklyn, and also recently shot a pilot called Hole to Hole for Adult Swim that she wrote with South Park producer Pam Brady. They were the first females to sell a show to this popular network, with Arden serving as co-executive producer, writer and star.</p>\n<p>Arden loves interior design, appearing with her designs on The Nate Berkus four times, as well as being featured on Apartment Therapy.  Mostly Arden loves naps, sledding, and peanut butter.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/arden.jpg",
-  "PerformerId": "10341",
-  "Twitter": "ardenmyrin",
-  "Website": "",
-  "Position": "43",
-  "id": "10341",
-  "pageUrl": "10341-arden-myrin",
-  "ExcludeFromList": false,
-  "SortOrder": 43,
-  "events": [
-   "10407",
-   "10433",
-   "10706"
-  ],
-  "mc_events": [
-   "10439"
-  ]
- },
- {
-  "Name": "Matt Kirshen",
-  "Bio": "<p>London born Matt Kirshen's precision wit has earned him an impressive reputation on the international comedy circuit. More recently his appearances on Late Night with Jimmy Fallon, The Late Late Show with Craig Ferguson, Paul Provenza’s Green Room, The Nerdist and as a finalist on NBC's Last Comic Standing has earned him a whole new host of fans in the United States and a surprising number of other countries worldwide. </p>\n<p>He has also recorded a half-hour special for the World Stands Up, Comedy Central, and has acclaimed festival appearances in Montreal, Edinburgh, Kilkenny, Glastonbury, Reading, Leeds, Bermuda, and San Francisco amongst many others. </p>\n<p>His debut CD, \"I Guess We'll Never Know\" was named in Punchline Magazine's top 10 albums of 2009 and his hit appearance at the 2008 Just For Laughs festival in Montreal resulted in no fewer than 4 of his gags appearing in the Montreal Gazette's round up of their best jokes of the fest. </p>\n<p>Matt has appeared in and written for numerous television shows in the UK, including a charity gala featuring Jimmy Fallon, which resulted in Jimmy himself requesting Matt to open for him in a college tour to promote his new Late Night hosting slot. </p>\n<p>His youthful looks disguise a veteran comic with over a decade of experience, and a wealth of smart, funny and relatable material, making him a firm favorite with all audiences. While it's his prime-time NBC appearances that many comedy fans will recognize him from, they are often surprised at the breadth and scope of his material, described by one reviewer as \"intelligent, but with the emphasis firmly on the funny.\"</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kirshen_matt-1429.jpg",
-  "PerformerId": "10343",
-  "Twitter": "mattkirshen",
-  "Website": "http://www.mattkirshen.com",
-  "Position": "44",
-  "id": "10343",
-  "pageUrl": "10343-matt-kirshen",
-  "ExcludeFromList": false,
-  "SortOrder": 44,
-  "events": [
-   "10388",
-   "10401",
-   "10448",
-   "10460",
-   "10817",
-   "10819"
-  ],
-  "mc_events": []
- },
- {
-  "Name": "Adam Cayton-Holland",
-  "Bio": "<p>Adam Cayton-Holland (<a href=\"http://www.adamisfreakingoutrightnow.com\">www.adamisfreakingoutrightnow.com</a>) is a national touring comic who has appeared on Conan, @midnight, The Meltdown with Jonah and Kumail, The Pete Holmes Show, Happy Endings and was named one of Esquire’s “25 Comics to Watch.” His podcast, “My Dining Room Table,” and his debut album, “I Don’t Know If I Happy” are both available on iTunes. He has been described as “genial” and “with pretty decent teeth.”</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/pencildick.jpg",
-  "PerformerId": "10112",
-  "Twitter": "CaytonHolland",
-  "Website": "http://www.adamisfreakingoutrightnow.com",
-  "Position": "45",
-  "id": "10112",
-  "pageUrl": "10112-adam-cayton-holland",
-  "ExcludeFromList": false,
-  "SortOrder": 45,
-  "events": [
-   "10731"
-  ],
-  "mc_events": [
-   "10502"
-  ]
- },
- {
   "Name": "Chris Garcia ",
   "Bio": "<p>Born and raised in Los Angeles, CA, Chris Garcia started his comedy career in the San Francisco Bay Area where he was named “A Comic To Watch” by the San Jose Mercury News, “One of the 7 Funniest People in San Francisco” by 7x7 Magazine, and a “Rising Comedic Star” by the SF Weekly.<br />\nChris moved back to Los Angeles in the summer of 2012. Since then, he has appeared on NPR’s This American Life, The WTF podcast with Marc Maron, Holy F*ck, UCB, Hot Tub, and The Meltdown with Jonah and Kumail, among other shows. In February of 2013, Chris was profiled as “A Comic’s Comic” in Esquire Magazine.</p>\n<p>Chris has had the honor of working with such comedians as Patton Oswalt, Bill Burr, Marc Maron, Dave Attell, David Cross, Maria Bamford, Reggie Watts, Aziz Ansari, Human Giant, The Kids in the Hall, Bobcat Goldthwait, and Robin Williams. His festival appearances include SF Sketchfest, The Bridgetown Comedy Festival, The Aspen Rooftop Comedy Festival, Riot LA, Outside Lands, the Humboldt Comedy Festival, and The San Francisco Literary Arts Festival.</p>\n<p>As a writer, Chris has worked as the Editor for RooftopComedy.com, and has contributed to MSN, Yahoo, Bing, Nick Mom, Fast Company, Revision 3, and Life &amp; Style Magazine. Chris has also written and recorded music that has been featured on Comedy Central Insider and MTV Tr3s. Chris recently joined the NHMC’s Writers program, an ABC and NBC sponsored intensive scriptwriters workshop that prepares Latinos for writing jobs at the major television networks.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/chrisgarciaheadshot1.jpg",
   "PerformerId": "10046",
   "Twitter": "_chrisgarcia",
   "Website": "http://chrisgarciacomedy.com/",
-  "Position": "46",
+  "Position": "45",
   "id": "10046",
   "pageUrl": "10046-chris-garcia-",
   "ExcludeFromList": false,
-  "SortOrder": 46,
+  "SortOrder": 45,
   "events": [
    "10394",
    "10439",
@@ -933,34 +953,14 @@
   "PerformerId": "10309",
   "Twitter": "benroy00",
   "Website": "http://www.benroyyellsalot.com",
-  "Position": "47",
+  "Position": "46",
   "id": "10309",
   "pageUrl": "10309-ben-roy",
   "ExcludeFromList": false,
-  "SortOrder": 47,
+  "SortOrder": 46,
   "events": [
    "10455",
    "10502"
-  ],
-  "mc_events": []
- },
- {
-  "Name": "Lizzy Cooperman",
-  "Bio": "<p>Lizzy&#039;s been featured on &quot;The Late Late Show with Craig Ferguson,&quot; and at “New Faces” and “Dating It” at the Just For Laughs comedy festival in Montreal. She&#039;s a winner of the Laugh Across America contest and was also a finalist at the Las Vegas Comedy Festival. She&#039;s written for several shows including &quot;The Dish,&quot; &quot;The Eric Andre Show,&quot; &quot;Streets of Hollywood&quot; and &quot;Naked &amp; Funny.&quot;  She&#039;s currently a writer for The Soup TV.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lizzy_cooperman_headshot_bridgetown.jpg",
-  "PerformerId": "9564",
-  "Twitter": "lizzycooperman",
-  "Website": "http://lizzycooperman.com",
-  "Position": "48",
-  "id": "9564",
-  "pageUrl": "9564-lizzy-cooperman",
-  "ExcludeFromList": false,
-  "SortOrder": 48,
-  "events": [
-   "10416",
-   "10428",
-   "10460",
-   "10779"
   ],
   "mc_events": []
  },
@@ -971,11 +971,11 @@
   "PerformerId": "9876",
   "Twitter": "maggiemayehaha",
   "Website": "",
-  "Position": "49",
+  "Position": "47",
   "id": "9876",
   "pageUrl": "9876-maggie-maye",
   "ExcludeFromList": false,
-  "SortOrder": 49,
+  "SortOrder": 47,
   "events": [
    "10391",
    "10425",
@@ -992,11 +992,11 @@
   "PerformerId": "9638",
   "Twitter": "",
   "Website": "",
-  "Position": "50",
+  "Position": "48",
   "id": "9638",
   "pageUrl": "9638-patrick-keane",
   "ExcludeFromList": false,
-  "SortOrder": 50,
+  "SortOrder": 48,
   "events": [
    "10411",
    "10412",
@@ -1012,11 +1012,11 @@
   "PerformerId": "9105",
   "Twitter": "djrealsmells",
   "Website": "http://www.djrealsmells.com",
-  "Position": "51",
+  "Position": "49",
   "id": "9105",
   "pageUrl": "9105-dj-real-nick-stargu",
   "ExcludeFromList": false,
-  "SortOrder": 51,
+  "SortOrder": 49,
   "events": [
    "10394",
    "10402",
@@ -1033,11 +1033,11 @@
   "PerformerId": "10317",
   "Twitter": "andytwood",
   "Website": "http://andytwood.com",
-  "Position": "52",
+  "Position": "50",
   "id": "10317",
   "pageUrl": "10317-andy-wood",
   "ExcludeFromList": false,
-  "SortOrder": 52,
+  "SortOrder": 50,
   "events": [
    "10427",
    "10436",
@@ -1054,11 +1054,11 @@
   "PerformerId": "10134",
   "Twitter": "benbizuneh",
   "Website": "http://benbizuneh.tumblr.com",
-  "Position": "53",
+  "Position": "51",
   "id": "10134",
   "pageUrl": "10134-ben-bizuneh",
   "ExcludeFromList": false,
-  "SortOrder": 53,
+  "SortOrder": 51,
   "events": [
    "10412",
    "10432",
@@ -1074,11 +1074,11 @@
   "PerformerId": "9096",
   "Twitter": "iantherage",
   "Website": "http://www.ianabramson.com/",
-  "Position": "54",
+  "Position": "52",
   "id": "9096",
   "pageUrl": "9096-ian-abramson",
   "ExcludeFromList": false,
-  "SortOrder": 54,
+  "SortOrder": 52,
   "events": [
    "10394",
    "10423",
@@ -1096,11 +1096,11 @@
   "PerformerId": "10282",
   "Twitter": "TheOrvedahl",
   "Website": "http://www.5unicorns.com",
-  "Position": "55",
+  "Position": "53",
   "id": "10282",
   "pageUrl": "10282-andrew-orvedahl",
   "ExcludeFromList": false,
-  "SortOrder": 55,
+  "SortOrder": 53,
   "events": [
    "10502",
    "10817"
@@ -1114,11 +1114,11 @@
   "PerformerId": "9770",
   "Twitter": "prestonparty",
   "Website": "http://amberpreston.com",
-  "Position": "56",
+  "Position": "54",
   "id": "9770",
   "pageUrl": "9770-amber-preston",
   "ExcludeFromList": false,
-  "SortOrder": 56,
+  "SortOrder": 54,
   "events": [
    "10404",
    "10432",
@@ -1135,11 +1135,11 @@
   "PerformerId": "10318",
   "Twitter": "gregbarris",
   "Website": "http://www.gregbarris.com/",
-  "Position": "57",
+  "Position": "55",
   "id": "10318",
   "pageUrl": "10318-greg-barris",
   "ExcludeFromList": false,
-  "SortOrder": 57,
+  "SortOrder": 55,
   "events": [
    "10441"
   ],
@@ -1154,11 +1154,11 @@
   "PerformerId": "10189",
   "Twitter": "bripruett",
   "Website": "http://www.bripruett.com",
-  "Position": "58",
+  "Position": "56",
   "id": "10189",
   "pageUrl": "10189-bri-pruett",
   "ExcludeFromList": false,
-  "SortOrder": 58,
+  "SortOrder": 56,
   "events": [
    "10418",
    "10420",
@@ -1175,11 +1175,11 @@
   "PerformerId": "9079",
   "Twitter": "amymiller",
   "Website": "http://amymillercomedy.com",
-  "Position": "59",
+  "Position": "57",
   "id": "9079",
   "pageUrl": "9079-amy-miller",
   "ExcludeFromList": false,
-  "SortOrder": 59,
+  "SortOrder": 57,
   "events": [
    "10443",
    "10448",
@@ -1197,11 +1197,11 @@
   "PerformerId": "9392",
   "Twitter": "andrewsleighter",
   "Website": "http://andrewsleighter.com",
-  "Position": "60",
+  "Position": "58",
   "id": "9392",
   "pageUrl": "9392-andrew-sleighter",
   "ExcludeFromList": false,
-  "SortOrder": 60,
+  "SortOrder": 58,
   "events": [
    "10443",
    "10451",
@@ -1217,11 +1217,11 @@
   "PerformerId": "10296",
   "Twitter": "",
   "Website": "",
-  "Position": "61",
+  "Position": "59",
   "id": "10296",
   "pageUrl": "10296-bryan-cook",
   "ExcludeFromList": false,
-  "SortOrder": 61,
+  "SortOrder": 59,
   "events": [
    "10409",
    "10412",
@@ -1239,11 +1239,11 @@
   "PerformerId": "9272",
   "Twitter": "babysfirstgun",
   "Website": "http://www.clareokane.com",
-  "Position": "62",
+  "Position": "60",
   "id": "9272",
   "pageUrl": "9272-clare-okane",
   "ExcludeFromList": false,
-  "SortOrder": 62,
+  "SortOrder": 60,
   "events": [
    "10388",
    "10416",
@@ -1260,11 +1260,11 @@
   "PerformerId": "10739",
   "Twitter": "SexNerdSandra",
   "Website": "http://sexnerdsandra.com/about/",
-  "Position": "63",
+  "Position": "61",
   "id": "10739",
   "pageUrl": "10739-sandra-daughtery",
   "ExcludeFromList": false,
-  "SortOrder": 63,
+  "SortOrder": 61,
   "events": [],
   "mc_events": [
    "10402"
@@ -1277,11 +1277,11 @@
   "PerformerId": "9144",
   "Twitter": "dereksheen",
   "Website": "http://derektime.com",
-  "Position": "64",
+  "Position": "62",
   "id": "9144",
   "pageUrl": "9144-derek-sheen",
   "ExcludeFromList": false,
-  "SortOrder": 64,
+  "SortOrder": 62,
   "events": [
    "10391",
    "10467",
@@ -1297,11 +1297,11 @@
   "PerformerId": "9484",
   "Twitter": "ashley_barnhill",
   "Website": "http://ashleybarnhill.flavors.me/",
-  "Position": "65",
+  "Position": "63",
   "id": "9484",
   "pageUrl": "9484-ashley-barnhill",
   "ExcludeFromList": false,
-  "SortOrder": 65,
+  "SortOrder": 63,
   "events": [
    "10766"
   ],
@@ -1314,11 +1314,11 @@
   "PerformerId": "10070",
   "Twitter": "paulhooper",
   "Website": "http://www.paulhoopercomedy.com",
-  "Position": "66",
+  "Position": "64",
   "id": "10070",
   "pageUrl": "10070-paul-hooper",
   "ExcludeFromList": false,
-  "SortOrder": 66,
+  "SortOrder": 64,
   "events": [
    "10455",
    "10746",
@@ -1334,11 +1334,11 @@
   "PerformerId": "9483",
   "Twitter": "dulcesloan",
   "Website": "http://www.dulcesloan.com",
-  "Position": "67",
+  "Position": "65",
   "id": "9483",
   "pageUrl": "9483-dulc-sloan",
   "ExcludeFromList": false,
-  "SortOrder": 67,
+  "SortOrder": 65,
   "events": [
    "10728",
    "10766"
@@ -1354,11 +1354,11 @@
   "PerformerId": "10137",
   "Twitter": "BabsGray",
   "Website": "http://www.myjokesareuphere.com",
-  "Position": "68",
+  "Position": "66",
   "id": "10137",
   "pageUrl": "10137-barbara-gray",
   "ExcludeFromList": false,
-  "SortOrder": 68,
+  "SortOrder": 66,
   "events": [
    "10412",
    "10442",
@@ -1373,11 +1373,11 @@
   "PerformerId": "9235",
   "Twitter": "WilberWithAnE",
   "Website": "",
-  "Position": "69",
+  "Position": "67",
   "id": "9235",
   "pageUrl": "9235-steven-wilber",
   "ExcludeFromList": false,
-  "SortOrder": 69,
+  "SortOrder": 67,
   "events": [
    "10466",
    "10678",
@@ -1394,11 +1394,11 @@
   "PerformerId": "9212",
   "Twitter": "",
   "Website": "",
-  "Position": "70",
+  "Position": "68",
   "id": "9212",
   "pageUrl": "9212-jak-knight",
   "ExcludeFromList": false,
-  "SortOrder": 70,
+  "SortOrder": 68,
   "events": [
    "10392",
    "10409",
@@ -1414,11 +1414,11 @@
   "PerformerId": "9879",
   "Twitter": "ROBOTCAITLIN",
   "Website": "http://www.caitlingillcomedy@gmail.com",
-  "Position": "71",
+  "Position": "69",
   "id": "9879",
   "pageUrl": "9879-caitlin-gill",
   "ExcludeFromList": false,
-  "SortOrder": 71,
+  "SortOrder": 69,
   "events": [
    "10423",
    "10437",
@@ -1436,11 +1436,11 @@
   "PerformerId": "9827",
   "Twitter": "doogiehorner",
   "Website": "http://www.doogiehorner.com",
-  "Position": "72",
+  "Position": "70",
   "id": "9827",
   "pageUrl": "9827-doogie-horner",
   "ExcludeFromList": false,
-  "SortOrder": 72,
+  "SortOrder": 70,
   "events": [
    "10747",
    "10749",
@@ -1456,11 +1456,11 @@
   "PerformerId": "10214",
   "Twitter": "",
   "Website": "http://joshjohnson.com",
-  "Position": "73",
+  "Position": "71",
   "id": "10214",
   "pageUrl": "10214-josh-johnson",
   "ExcludeFromList": false,
-  "SortOrder": 73,
+  "SortOrder": 71,
   "events": [
    "10417",
    "10442",
@@ -1476,11 +1476,11 @@
   "PerformerId": "9595",
   "Twitter": "",
   "Website": "",
-  "Position": "74",
+  "Position": "72",
   "id": "9595",
   "pageUrl": "9595-billy-prinsell",
   "ExcludeFromList": false,
-  "SortOrder": 74,
+  "SortOrder": 72,
   "events": [
    "10432",
    "10450",
@@ -1496,11 +1496,11 @@
   "PerformerId": "9243",
   "Twitter": "",
   "Website": "",
-  "Position": "75",
+  "Position": "73",
   "id": "9243",
   "pageUrl": "9243-langston-kerman",
   "ExcludeFromList": false,
-  "SortOrder": 75,
+  "SortOrder": 73,
   "events": [
    "10411",
    "10728",
@@ -1515,11 +1515,11 @@
   "PerformerId": "9583",
   "Twitter": "krandomthoughts",
   "Website": "http://kristinrand.com",
-  "Position": "76",
+  "Position": "74",
   "id": "9583",
   "pageUrl": "9583-kristin-rand",
   "ExcludeFromList": false,
-  "SortOrder": 76,
+  "SortOrder": 74,
   "events": [
    "10444",
    "10447",
@@ -1535,11 +1535,11 @@
   "PerformerId": "9453",
   "Twitter": "nathanbrannon",
   "Website": "http://nathanbrannon.com",
-  "Position": "77",
+  "Position": "75",
   "id": "9453",
   "pageUrl": "9453-nathan-brannon",
   "ExcludeFromList": false,
-  "SortOrder": 77,
+  "SortOrder": 75,
   "events": [
    "10443",
    "10678"
@@ -1555,11 +1555,11 @@
   "PerformerId": "9382",
   "Twitter": "jerronhorton",
   "Website": "",
-  "Position": "78",
+  "Position": "76",
   "id": "9382",
   "pageUrl": "9382-jerron-horton",
   "ExcludeFromList": false,
-  "SortOrder": 78,
+  "SortOrder": 76,
   "events": [
    "10420",
    "10729",
@@ -1570,17 +1570,37 @@
   ]
  },
  {
+  "Name": "Scout Durwood",
+  "Bio": "<p>Scout Durwood, also known as “Lady Scoutington,” is an acclaimed chanteuse and comedienne who was recently named one of The Huffington Post&#039;s “20 Burlesque Stars to Know,” Funny Not Slutty’s “10 Women Who Rock Comedy” and Stand Up Talk’s “Five Awesome Women’s Musical Comedy Acts.” Originally from Mission Hills, Kansas, Scout worked as a cabaret singer in New York City before heading to Los Angeles to pursue a career in mainstream comedy. As a stand-up comic, Scout has toured nationally and is known for her unique blend of storytelling, music and whimsy, spreading laughter and joy wherever she and her ukulele may roam. Scout is the author of four solo shows, including the one-woman musical, “Hi, How Can I Help You?” which debuted at the Edinburgh Festival Fringe. She is a Moth StorySLAM Champion whose work has been featured on MTV, “The Howard Stern Show” and “The Mindy Project.” Scout recently recorded her debut comedy EP which she hopes to release this spring.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/scout_durwood_1143.jpg",
+  "PerformerId": "9661",
+  "Twitter": "ladyscoutington",
+  "Website": "http://www.scoutdurwood.com",
+  "Position": "77",
+  "id": "9661",
+  "pageUrl": "9661-scout-durwood",
+  "ExcludeFromList": false,
+  "SortOrder": 77,
+  "events": [
+   "10437",
+   "10442",
+   "10466",
+   "10765"
+  ],
+  "mc_events": []
+ },
+ {
   "Name": "Noah Gardenswartz",
   "Bio": "<p>Noah Gardenswartz was born and raised in Denver, Colorado, but spent years cutting his comedy teeth in the diverse rooms of Atlanta, Georgia. Noah now lives in Brooklyn, New York, and when he’s not touring, he performs all around the city, and co-hosts a monthly show called “Comedy Freaknik” at The Creek and the Cave. His comedy has been featured on TBS, Oxygen, Nat Geo TV, and in VICE Magazine. In 2012, Noah was named a semi-finalist in NBC’s “Stand Up For Diversity,” and in 2014 he was selected as one of the “New Faces” at the Montreal Just For Laughs Comedy Festival.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ng_headshot.jpg",
   "PerformerId": "9520",
   "Twitter": "noahgcomedy",
   "Website": "http://www.noahgcomedy.com",
-  "Position": "79",
+  "Position": "78",
   "id": "9520",
   "pageUrl": "9520-noah-gardenswartz",
   "ExcludeFromList": false,
-  "SortOrder": 79,
+  "SortOrder": 78,
   "events": [
    "10411",
    "10420",
@@ -1597,11 +1617,11 @@
   "PerformerId": "9427",
   "Twitter": "evermainard",
   "Website": "http://www.evermainard.com",
-  "Position": "80",
+  "Position": "79",
   "id": "9427",
   "pageUrl": "9427-ever-mainard-",
   "ExcludeFromList": false,
-  "SortOrder": 80,
+  "SortOrder": 79,
   "events": [
    "10437",
    "10444",
@@ -1612,38 +1632,17 @@
   ]
  },
  {
-  "Name": "Gabe Dinger",
-  "Bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Bumbershoot, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was the first comedian to perform at a high security prison in the state of Oregon. The Portland Mercury has called him a “Punchline machine”.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gabe_dinger.jpg",
-  "PerformerId": "9075",
-  "Twitter": "GabeDinger",
-  "Website": "http://www.GabeDinger.com",
-  "Position": "81",
-  "id": "9075",
-  "pageUrl": "9075-gabe-dinger",
-  "ExcludeFromList": false,
-  "SortOrder": 81,
-  "events": [
-   "10418",
-   "10746",
-   "10766"
-  ],
-  "mc_events": [
-   "10432"
-  ]
- },
- {
   "Name": "Troy Walker",
   "Bio": "<p>If you haven&#039;t heard yet, the Denver comedy scene is blowing up and comedian Troy Walker is one of the most talented local rising stars.</p>\n<p>Troy Walker has quickly become one of Denver&#039;s most sought-after comedians, a designation he&#039;d dismiss with a modest scoff, despite its accuracy. A regular at Comedy Works, Walker has won the Comedy Works &quot;New Faces&quot; contest twice.</p>\n<p>Walker has had the pleasure of opening for some of the most prominent comedians in the country and also serves as a fine ambassador of Denver comedy at national and local comedy festivals including The Aspen Rooftop Comedy Festival, The Great American Comedy Festival, The Laughing Skull Comedy Festival, Portland&#039;s Bridgetown Comedy Festival, The Telluride Comedy Festival, and most recently as one of Just for Laughs Montreal&#039;s New Faces of Comedy.</p>\n<p>After witnessing his storytelling abilities and commanding presence on-stage it should come as no surprise that he&#039;s also a licensed attorney who graduated from The University of Denver&#039;s Sturm College of Law.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/troy_11.jpg",
   "PerformerId": "9839",
   "Twitter": "troywalkeresq",
   "Website": "http://www.gershcomedy.com/troy-walker/",
-  "Position": "82",
+  "Position": "80",
   "id": "9839",
   "pageUrl": "9839-troy-walker",
   "ExcludeFromList": false,
-  "SortOrder": 82,
+  "SortOrder": 80,
   "events": [
    "10411",
    "10442",
@@ -1661,11 +1660,11 @@
   "PerformerId": "9208",
   "Twitter": "mattdonaher",
   "Website": "http://www.mattdonaher@gmail.com",
-  "Position": "83",
+  "Position": "81",
   "id": "9208",
   "pageUrl": "9208-matt-donaher-",
   "ExcludeFromList": false,
-  "SortOrder": 83,
+  "SortOrder": 81,
   "events": [
    "10418",
    "10436",
@@ -1674,45 +1673,66 @@
   "mc_events": []
  },
  {
-  "Name": "Jen Seaman",
-  "Bio": "<p>Jen Seaman brings to the stage an imaginatively whimsical and sometimes dark (well, let’s be honest, most of the time dark) style of humor for over seven years now. Seaman has performed at a variety of festivals including SF Sketchfest, Bumbershoot (Seattle), She-Devil Comedy Festival (New York), and the Women in Comedy Festival (Boston). </p>\n<p>She was recently featured on FOX&quot;s Laughs and was a judge’s favorite on Season 6 of NBC’s America’s Got Talent, which took her to Vegas. Seaman can been seen on Comedy Central’s AtomTV and was recently named Seattle’s Best Comedian by Seattle Weekly.</p>\n<p>Her bizarre upbringing, tales of a baby-obsessed mother and an unwavering desire to stay independent all play a part in making this sweet 5’1’’ spitfire one of the most unique stand-up comedians around!<br />\nWhen not on stage or writing Seaman can be found indulging in her other passion, baking, for her web series, “The Filling is Mutual.” “The Filling is Mutual” is a unique combination of sweets and laughs in which she and a fellow comedian use jokes as an inspiration for the creation of delicious treats.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jenseaman.jpeg",
-  "PerformerId": "10082",
-  "Twitter": "jenseaman",
-  "Website": "http://jenseaman.com",
-  "Position": "84",
-  "id": "10082",
-  "pageUrl": "10082-jen-seaman",
+  "Name": "Jessica Sele",
+  "Bio": "<p>Jessica Sele is a deeply weird human being and stand-up comedian living in Oakland, CA. She frequently performs up and down the west coast and sometimes in Fargo. Jessica co-produces a popular weekly show every Thursday in San Francisco in the Cine Cave at Lost Weekend Video called the \"Mission Position,\" and can also be seen at the San Francisco Punchline or at most other regular comedy shows in the bay area. </p>\n<p>She has also performed in venues such as The Great American Music Hall, The Oakland Metropolitan Opera House and The Chapel. Her subject material ranges from sexuality to living in the end times to mental health issues and their related substance abuse habits, etc. Jessica’s comedy is often described as personal, emotionally raw, incisive and hilarious.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jessica-headshot.jpg",
+  "PerformerId": "9598",
+  "Twitter": "",
+  "Website": "",
+  "Position": "82",
+  "id": "9598",
+  "pageUrl": "9598-jessica-sele",
   "ExcludeFromList": false,
-  "SortOrder": 84,
+  "SortOrder": 82,
   "events": [
-   "10448",
-   "10819"
+   "10437",
+   "10450",
+   "10455",
+   "10785"
+  ],
+  "mc_events": []
+ },
+ {
+  "Name": "Sean Jordan",
+  "Bio": "<p>In 2014 Sean was named the funniest person in Portland by the Willamette Week magazine--it&#039;s been a very good year. He was also a finalist in the 2014 Portland’s Funniest Person contest, The Tacoma Comedy contest and The Wenatchee Comedy Festival.  Sean has become a nationally touring comic, having traveled all over doing stand up at some of the best clubs in the country, including ACME Comedy Club in Minneapolis, Helium Comedy Club in Portland, Zanies in Nashville and Chicago and the Dallas Improv, to name a few.  Sean has also been a part of the Bridgetown Comedy Festival, The Bumbershoot Comedy and Arts Festival, The Wenatchee Comedy Festival and Cromfest.  If you’re a podcast fan then you may have heard him on the Crabfeast, The Benson Interruption or as a regular guest on Doug Benson’s podcast Doug Loves Movies.  Sean also produces and performs in the #1 independent comedy showcase in Portland, Funny Over Everything.  Happy all the time, loves to skateboard and eat burritos and/or pizza, that best describes Sean. :)  SOUTH DAKOTA!</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/greenshirt1.jpg",
+  "PerformerId": "9790",
+  "Twitter": "seansjordan",
+  "Website": "http://about.me/seanjordan",
+  "Position": "83",
+  "id": "9790",
+  "pageUrl": "9790-sean-jordan",
+  "ExcludeFromList": false,
+  "SortOrder": 83,
+  "events": [
+   "10416",
+   "10749",
+   "10765"
   ],
   "mc_events": [
-   "10449"
+   "10448",
+   "10672"
   ]
  },
  {
-  "Name": "Lisa Best",
-  "Bio": "<p>Lisa Best is one of the exciting fresh faces making a name for herself in the Los Angeles comedy scene.  The Portland Monthly wrote that Lisa &quot;has a flair for turning embarrassing stories into comedy gold.&quot;  Lisa can be seen in sketches for Comedy Central and Funny or Die, as well as starring in the film &quot;Something Funny.&quot;  She has also been in some other things she was proud of until her parents asked &quot;What&#039;s that?&quot;, or &quot;But did you get paid?&quot; and &quot;Stop using our HBO Go password.&quot;</p>\n<p>Lisa performs standup comedy throughout Los Angeles, as well as in clubs, colleges, comic book conventions and homeless shelters around the country. With her quirky perspective and captivating knack for story-telling, Lisa is riveting audiences once stage at a time, forcing audience members to leave her shows saying &quot;the girl who looks like a little boy was good.&quot;</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dsc_5832.jpg",
-  "PerformerId": "9326",
-  "Twitter": "lisabestcomedy",
-  "Website": "http://lisabestcomedy.com/",
-  "Position": "85",
-  "id": "9326",
-  "pageUrl": "9326-lisa-best",
+  "Name": "Ryan Conner",
+  "Bio": "<p>I&#039;m from Washington DC, and now live in Los Angeles. I tour nationally as a stand-up and write for MTV&#039;s Ridiculousness. Let&#039;s be friends.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ryanconner_0.jpg",
+  "PerformerId": "10217",
+  "Twitter": "rccomedy",
+  "Website": "http://www.ryanconnercomedy.com",
+  "Position": "84",
+  "id": "10217",
+  "pageUrl": "10217-ryan-conner",
   "ExcludeFromList": false,
-  "SortOrder": 85,
+  "SortOrder": 84,
   "events": [
-   "10409",
-   "10449",
-   "10783"
+   "10451",
+   "10467",
+   "10784",
+   "10817"
   ],
-  "mc_events": [
-   "10394"
-  ]
+  "mc_events": []
  },
  {
   "Name": "Jason Van Glass",
@@ -1721,11 +1741,11 @@
   "PerformerId": "9780",
   "Twitter": "JasonVanGlass",
   "Website": "http://JasonVanGlass.tumblr.com",
-  "Position": "86",
+  "Position": "85",
   "id": "9780",
   "pageUrl": "9780-jason-van-glass",
   "ExcludeFromList": false,
-  "SortOrder": 86,
+  "SortOrder": 85,
   "events": [
    "10443",
    "10450",
@@ -1733,6 +1753,27 @@
    "10765"
   ],
   "mc_events": []
+ },
+ {
+  "Name": "Lisa Best",
+  "Bio": "<p>Lisa Best is one of the exciting fresh faces making a name for herself in the Los Angeles comedy scene.  The Portland Monthly wrote that Lisa &quot;has a flair for turning embarrassing stories into comedy gold.&quot;  Lisa can be seen in sketches for Comedy Central and Funny or Die, as well as starring in the film &quot;Something Funny.&quot;  She has also been in some other things she was proud of until her parents asked &quot;What&#039;s that?&quot;, or &quot;But did you get paid?&quot; and &quot;Stop using our HBO Go password.&quot;</p>\n<p>Lisa performs standup comedy throughout Los Angeles, as well as in clubs, colleges, comic book conventions and homeless shelters around the country. With her quirky perspective and captivating knack for story-telling, Lisa is riveting audiences once stage at a time, forcing audience members to leave her shows saying &quot;the girl who looks like a little boy was good.&quot;</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dsc_5832.jpg",
+  "PerformerId": "9326",
+  "Twitter": "lisabestcomedy",
+  "Website": "http://lisabestcomedy.com/",
+  "Position": "86",
+  "id": "9326",
+  "pageUrl": "9326-lisa-best",
+  "ExcludeFromList": false,
+  "SortOrder": 86,
+  "events": [
+   "10409",
+   "10449",
+   "10783"
+  ],
+  "mc_events": [
+   "10394"
+  ]
  },
  {
   "Name": "Maggie Faris",
@@ -1797,17 +1838,36 @@
   "mc_events": []
  },
  {
+  "Name": "Michael Eagle aka Open Mike Eagle",
+  "Bio": "<p>Michael Eagle grew up in Chicago, listening to alt-rock on q101 and taping underground rap shows on WHPK. He also occasionally snuck and ordered music videos on the Box. He went to college at Southern Illinois university and battled everybody everywhere and freestyled all the time. He graduated with a degree in Psychology, but somehow it never occurred to him to go to Scribble Jam.</p>\n<p>Mike moved to LA and linked up with Project Blowed. He toured with Busdriver, Aceyalone, and Abstract Rude. He started a rap group called Thirsty Fish with Dumbfoundead and Psychosiz and the Swim Team with Alpha MC, VerBS, Sahtyre and more. He worked as a teacher during this time and usually had a hangover.</p>\n<p>He put out his first solo album in 2010 with Mush Records. He put out his second LP with Hellfyre Club/Alpha Pup and his third with Fake Four Inc. He’s toured with Blu, Aesop Rock, Dessa, Homeboy Sandman, Ceschi, Moka Only, Louis Logic, and more.</p>\n<p>In 2012 he participated in and co-authored a study with the National Institutes of Health where he freestyled in an MRI machine to study the brain activity that occurs during improvisational rap. Articles were published on nature.com, wired.com, discovery.com, nbc.com, npr.org and more. The articles have become famous for the unabashed racism in each of their comment sections.</p>\n<p>In 2013 he was the first rapper to appear as a guest on Marc Maron’s WTF podcast. He’s also appeared on the Paul F. Tompkins show, Hannibal Burress’s comedy show, the Eric Andre live show, and the WITS show produced by American Public Media.</p>\n<p>He produced the first “Mike Eagle Show” in January of 2014. It was a night of rap and comedy lauded by LA Weekly &#039;as something they look forward to seeing more of’. He too thought they could have written something nicer.</p>\n<p>His most recent work is alongside Busdriver, Nocando, milo, and more under the guise of Hellfyre Club. Their 2013 mixtape “Dorner Vs Tookie” was praised by Pitchfork, the Chicago Reader, LA Weekly and more.<br />\nHe was named Impose Magazine’s Rapper of the Year for 2013. The rapper of the whole entire year.</p>\n<p>His new album is &#039;Dark Comedy.&#039; Its 45 minutes of attempting to giggle at the abyss. It features raps from Hannibal Burress and Das Racist’s Kool A.D., beats from Jeremiah Jae, Dibia$e, Busdriver and more. Its his first release on Mello Music Group.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/open_mike_eagle_andy_j-scott-71.jpg",
+  "PerformerId": "10223",
+  "Twitter": "mike_eagle",
+  "Website": "http://mikeeagle.net",
+  "Position": "90",
+  "id": "10223",
+  "pageUrl": "10223-michael-eagle-aka-open-mike-eagle",
+  "ExcludeFromList": false,
+  "SortOrder": 90,
+  "events": [
+   "10728"
+  ],
+  "mc_events": [
+   "10459"
+  ]
+ },
+ {
   "Name": "Lucas O&#039;Neil",
   "Bio": "<p>A Chicago-based stand-up comic who performs regularly in showcases around the city—especially showcases in record shops and bookstores. A trained actor and improvisor, Lucas began stand-up in college, and after a brief period of actually earning a living as a copywriter, he committed to stand-up full-time. And the rest is poverty.  Funny poverty.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lucas-oneil2_copy.jpg",
   "PerformerId": "10031",
   "Twitter": "loneilz",
   "Website": "http://www.lucasoneil.com",
-  "Position": "90",
+  "Position": "91",
   "id": "10031",
   "pageUrl": "10031-lucas-oneil",
   "ExcludeFromList": false,
-  "SortOrder": 90,
+  "SortOrder": 91,
   "events": [
    "10394",
    "10409",
@@ -1818,24 +1878,24 @@
   ]
  },
  {
-  "Name": "Jessica Sele",
-  "Bio": "<p>Jessica Sele is a deeply weird human being and stand-up comedian living in Oakland, CA. She frequently performs up and down the west coast and sometimes in Fargo. Jessica co-produces a popular weekly show every Thursday in San Francisco in the Cine Cave at Lost Weekend Video called the \"Mission Position,\" and can also be seen at the San Francisco Punchline or at most other regular comedy shows in the bay area. </p>\n<p>She has also performed in venues such as The Great American Music Hall, The Oakland Metropolitan Opera House and The Chapel. Her subject material ranges from sexuality to living in the end times to mental health issues and their related substance abuse habits, etc. Jessica’s comedy is often described as personal, emotionally raw, incisive and hilarious.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jessica-headshot.jpg",
-  "PerformerId": "9598",
-  "Twitter": "",
-  "Website": "",
-  "Position": "91",
-  "id": "9598",
-  "pageUrl": "9598-jessica-sele",
+  "Name": "Jen Seaman",
+  "Bio": "<p>Jen Seaman brings to the stage an imaginatively whimsical and sometimes dark (well, let’s be honest, most of the time dark) style of humor for over seven years now. Seaman has performed at a variety of festivals including SF Sketchfest, Bumbershoot (Seattle), She-Devil Comedy Festival (New York), and the Women in Comedy Festival (Boston). </p>\n<p>She was recently featured on FOX&quot;s Laughs and was a judge’s favorite on Season 6 of NBC’s America’s Got Talent, which took her to Vegas. Seaman can been seen on Comedy Central’s AtomTV and was recently named Seattle’s Best Comedian by Seattle Weekly.</p>\n<p>Her bizarre upbringing, tales of a baby-obsessed mother and an unwavering desire to stay independent all play a part in making this sweet 5’1’’ spitfire one of the most unique stand-up comedians around!<br />\nWhen not on stage or writing Seaman can be found indulging in her other passion, baking, for her web series, “The Filling is Mutual.” “The Filling is Mutual” is a unique combination of sweets and laughs in which she and a fellow comedian use jokes as an inspiration for the creation of delicious treats.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jenseaman.jpeg",
+  "PerformerId": "10082",
+  "Twitter": "jenseaman",
+  "Website": "http://jenseaman.com",
+  "Position": "92",
+  "id": "10082",
+  "pageUrl": "10082-jen-seaman",
   "ExcludeFromList": false,
-  "SortOrder": 91,
+  "SortOrder": 92,
   "events": [
-   "10437",
-   "10450",
-   "10455",
-   "10785"
+   "10448",
+   "10819"
   ],
-  "mc_events": []
+  "mc_events": [
+   "10449"
+  ]
  },
  {
   "Name": "Jeff Scheen",
@@ -1844,11 +1904,11 @@
   "PerformerId": "9177",
   "Twitter": "sexmascheen",
   "Website": "http://Jeffscheen.com",
-  "Position": "92",
+  "Position": "93",
   "id": "9177",
   "pageUrl": "9177-jeff-scheen",
   "ExcludeFromList": false,
-  "SortOrder": 92,
+  "SortOrder": 93,
   "events": [
    "10394",
    "10764",
@@ -1865,11 +1925,11 @@
   "PerformerId": "10101",
   "Twitter": "Adrian_McNair",
   "Website": "",
-  "Position": "93",
+  "Position": "94",
   "id": "10101",
   "pageUrl": "10101-adrian-mcnair",
   "ExcludeFromList": false,
-  "SortOrder": 93,
+  "SortOrder": 94,
   "events": [
    "10432",
    "10443",
@@ -1879,17 +1939,38 @@
   "mc_events": []
  },
  {
+  "Name": "Gabe Dinger",
+  "Bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Bumbershoot, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was the first comedian to perform at a high security prison in the state of Oregon. The Portland Mercury has called him a “Punchline machine”.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gabe_dinger.jpg",
+  "PerformerId": "9075",
+  "Twitter": "GabeDinger",
+  "Website": "http://www.GabeDinger.com",
+  "Position": "95",
+  "id": "9075",
+  "pageUrl": "9075-gabe-dinger",
+  "ExcludeFromList": false,
+  "SortOrder": 95,
+  "events": [
+   "10418",
+   "10746",
+   "10766"
+  ],
+  "mc_events": [
+   "10432"
+  ]
+ },
+ {
   "Name": "Jeffrey Jay",
   "Bio": "<p>Jeffrey Jay is a comedy writer for the Feast of Fun podcast, host of the Two Black Women podcast, and a nationally touring college comedian and public speaker. He has been featured in The Advocate as one of  “The top 5 Transgender Comedians” and “7 LGBT Comics You Shouldn’t Have Missed in 2011,″ has been see on the CW morning show The Eye Opener, and was a finalist in The 2013 Funniest Comic in Texas. He has been featured in the Dallas Comedy Festival and in a currently airing national Hyundai commercial.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot2_0.jpg",
   "PerformerId": "9439",
   "Twitter": "heyjeffreyjay",
   "Website": "http://jeffreyjaycomedian.com",
-  "Position": "94",
+  "Position": "96",
   "id": "9439",
   "pageUrl": "9439-jeffrey-jay",
   "ExcludeFromList": false,
-  "SortOrder": 94,
+  "SortOrder": 96,
   "events": [
    "10442",
    "10444",
@@ -1906,11 +1987,11 @@
   "PerformerId": "9552",
   "Twitter": "ihatejoelkim",
   "Website": "http://www.ihatejoelkim.com",
-  "Position": "95",
+  "Position": "97",
   "id": "9552",
   "pageUrl": "9552-joel-kim-booster",
   "ExcludeFromList": false,
-  "SortOrder": 95,
+  "SortOrder": 97,
   "events": [
    "10441",
    "10442",
@@ -1926,11 +2007,11 @@
   "PerformerId": "10025",
   "Twitter": "keviniso",
   "Website": "http://keviniso.tumblr.com/",
-  "Position": "96",
+  "Position": "98",
   "id": "10025",
   "pageUrl": "10025-kevin-iso",
   "ExcludeFromList": false,
-  "SortOrder": 96,
+  "SortOrder": 98,
   "events": [
    "10447",
    "10467",
@@ -1946,11 +2027,11 @@
   "PerformerId": "9324",
   "Twitter": "leahkayjay",
   "Website": "http://www.leahkayajanian.com",
-  "Position": "97",
+  "Position": "99",
   "id": "9324",
   "pageUrl": "9324-leah-kayajanian",
   "ExcludeFromList": false,
-  "SortOrder": 97,
+  "SortOrder": 99,
   "events": [
    "10412",
    "10451"
@@ -1964,11 +2045,11 @@
   "PerformerId": "9977",
   "Twitter": "sosure",
   "Website": "http://sosure.tumblr.com",
-  "Position": "98",
+  "Position": "100",
   "id": "9977",
   "pageUrl": "9977-kevin-saucier",
   "ExcludeFromList": false,
-  "SortOrder": 98,
+  "SortOrder": 100,
   "events": [
    "10441",
    "10444",
@@ -1985,11 +2066,11 @@
   "PerformerId": "10128",
   "Twitter": "Ismaelian",
   "Website": "",
-  "Position": "99",
+  "Position": "101",
   "id": "10128",
   "pageUrl": "10128-ismael-loutfi",
   "ExcludeFromList": false,
-  "SortOrder": 99,
+  "SortOrder": 101,
   "events": [
    "10394",
    "10455",
@@ -2000,37 +2081,17 @@
   ]
  },
  {
-  "Name": "Ryan Conner",
-  "Bio": "<p>I&#039;m from Washington DC, and now live in Los Angeles. I tour nationally as a stand-up and write for MTV&#039;s Ridiculousness. Let&#039;s be friends.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ryanconner_0.jpg",
-  "PerformerId": "10217",
-  "Twitter": "rccomedy",
-  "Website": "http://www.ryanconnercomedy.com",
-  "Position": "100",
-  "id": "10217",
-  "pageUrl": "10217-ryan-conner",
-  "ExcludeFromList": false,
-  "SortOrder": 100,
-  "events": [
-   "10451",
-   "10467",
-   "10784",
-   "10817"
-  ],
-  "mc_events": []
- },
- {
   "Name": "Shane Torres",
   "Bio": "<p>Shane Torres is a stand up comedian and writer. You may have seen him in the background on &quot;Last Comic Standing&quot; or acting on IFC’s &quot;Comedy Bang Bang&quot; in 2013. He was part of Montreal Just For Laugh’s New Faces that same year. Shane was also one of Comedy Central’s Comics to Watch in 2012. Shane has performed at festivals all over the country, including Bridgetown Comedy Festival, Bumbershoot Music and Arts Festival, and many more.</p>\n<p>He is the creator of the podcast radio show &quot;Help Wanted.&quot; Shane has also contributed writing to Laughspin, the Portland Mercury, and Nailed Magazine. He also hates writing bios.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/images.jpg",
   "PerformerId": "9979",
   "Twitter": "syrupmountain",
   "Website": "http://www.shaneisacomedian.com",
-  "Position": "101",
+  "Position": "102",
   "id": "9979",
   "pageUrl": "9979-shane-torres",
   "ExcludeFromList": false,
-  "SortOrder": 101,
+  "SortOrder": 102,
   "events": [
    "10391",
    "10425",
@@ -2039,28 +2100,6 @@
    "10672"
   ],
   "mc_events": []
- },
- {
-  "Name": "Sean Jordan",
-  "Bio": "<p>In 2014 Sean was named the funniest person in Portland by the Willamette Week magazine--it&#039;s been a very good year. He was also a finalist in the 2014 Portland’s Funniest Person contest, The Tacoma Comedy contest and The Wenatchee Comedy Festival.  Sean has become a nationally touring comic, having traveled all over doing stand up at some of the best clubs in the country, including ACME Comedy Club in Minneapolis, Helium Comedy Club in Portland, Zanies in Nashville and Chicago and the Dallas Improv, to name a few.  Sean has also been a part of the Bridgetown Comedy Festival, The Bumbershoot Comedy and Arts Festival, The Wenatchee Comedy Festival and Cromfest.  If you’re a podcast fan then you may have heard him on the Crabfeast, The Benson Interruption or as a regular guest on Doug Benson’s podcast Doug Loves Movies.  Sean also produces and performs in the #1 independent comedy showcase in Portland, Funny Over Everything.  Happy all the time, loves to skateboard and eat burritos and/or pizza, that best describes Sean. :)  SOUTH DAKOTA!</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/greenshirt1.jpg",
-  "PerformerId": "9790",
-  "Twitter": "seansjordan",
-  "Website": "http://about.me/seanjordan",
-  "Position": "102",
-  "id": "9790",
-  "pageUrl": "9790-sean-jordan",
-  "ExcludeFromList": false,
-  "SortOrder": 102,
-  "events": [
-   "10416",
-   "10749",
-   "10765"
-  ],
-  "mc_events": [
-   "10448",
-   "10672"
-  ]
  },
  {
   "Name": "Anthony Calderon",
@@ -2104,37 +2143,17 @@
   ]
  },
  {
-  "Name": "Scout Durwood",
-  "Bio": "<p>Scout Durwood, also known as “Lady Scoutington,” is an acclaimed chanteuse and comedienne who was recently named one of The Huffington Post&#039;s “20 Burlesque Stars to Know,” Funny Not Slutty’s “10 Women Who Rock Comedy” and Stand Up Talk’s “Five Awesome Women’s Musical Comedy Acts.” Originally from Mission Hills, Kansas, Scout worked as a cabaret singer in New York City before heading to Los Angeles to pursue a career in mainstream comedy. As a stand-up comic, Scout has toured nationally and is known for her unique blend of storytelling, music and whimsy, spreading laughter and joy wherever she and her ukulele may roam. Scout is the author of four solo shows, including the one-woman musical, “Hi, How Can I Help You?” which debuted at the Edinburgh Festival Fringe. She is a Moth StorySLAM Champion whose work has been featured on MTV, “The Howard Stern Show” and “The Mindy Project.” Scout recently recorded her debut comedy EP which she hopes to release this spring.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/scout_durwood_1143.jpg",
-  "PerformerId": "9661",
-  "Twitter": "ladyscoutington",
-  "Website": "http://www.scoutdurwood.com",
-  "Position": "105",
-  "id": "9661",
-  "pageUrl": "9661-scout-durwood",
-  "ExcludeFromList": false,
-  "SortOrder": 105,
-  "events": [
-   "10437",
-   "10442",
-   "10466",
-   "10765"
-  ],
-  "mc_events": []
- },
- {
   "Name": "Rylee Newton",
   "Bio": "<p>Rylee Newton is a standup comedian from Portland, Oregon. She has performed on Comedy Central's Premium Blend, Jimmy Kimmel Live and at the US Comedy Arts Festival in Apsen, CO. She currently resides in Los Angeles, where she performs for children who do not \"get it.\"</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/b-town_old.jpg",
   "PerformerId": "10787",
   "Twitter": "ryleenewton",
   "Website": "",
-  "Position": "106",
+  "Position": "105",
   "id": "10787",
   "pageUrl": "10787-rylee-newton",
   "ExcludeFromList": false,
-  "SortOrder": 106,
+  "SortOrder": 105,
   "events": [
    "10392",
    "10449",
@@ -2150,11 +2169,11 @@
   "PerformerId": "9978",
   "Twitter": "SamJayComic",
   "Website": "http://jokesanddreams.com",
-  "Position": "107",
+  "Position": "106",
   "id": "9978",
   "pageUrl": "9978-samaria-sam-jay-johnson-",
   "ExcludeFromList": false,
-  "SortOrder": 107,
+  "SortOrder": 106,
   "events": [
    "10437",
    "10728",
@@ -2170,11 +2189,11 @@
   "PerformerId": "9114",
   "Twitter": "noredavis",
   "Website": "http://noredavis.com",
-  "Position": "108",
+  "Position": "107",
   "id": "9114",
   "pageUrl": "9114-nore-davis",
   "ExcludeFromList": false,
-  "SortOrder": 108,
+  "SortOrder": 107,
   "events": [
    "10419",
    "10425",
@@ -2190,11 +2209,11 @@
   "PerformerId": "10825",
   "Twitter": "amandasitko",
   "Website": "",
-  "Position": "109",
+  "Position": "108",
   "id": "10825",
   "pageUrl": "10825-amanda-sitko",
   "ExcludeFromList": false,
-  "SortOrder": 109,
+  "SortOrder": 108,
   "events": [
    "10406"
   ],
@@ -2207,11 +2226,11 @@
   "PerformerId": "9164",
   "Twitter": "ZakToscani",
   "Website": "http://about.me/ZakToscani",
-  "Position": "110",
+  "Position": "109",
   "id": "9164",
   "pageUrl": "9164-zak-toscani",
   "ExcludeFromList": false,
-  "SortOrder": 110,
+  "SortOrder": 109,
   "events": [
    "10416",
    "10418",
@@ -2228,11 +2247,11 @@
   "PerformerId": "9692",
   "Twitter": "MARSHALLCOMIC",
   "Website": "http://bridgetown.festivalthing.com/N/A",
-  "Position": "111",
+  "Position": "110",
   "id": "9692",
   "pageUrl": "9692-ray-marshall",
   "ExcludeFromList": false,
-  "SortOrder": 111,
+  "SortOrder": 110,
   "events": [
    "10416",
    "10728",
@@ -2247,11 +2266,11 @@
   "PerformerId": "9703",
   "Twitter": "ParkerPostyeni",
   "Website": "",
-  "Position": "112",
+  "Position": "111",
   "id": "9703",
   "pageUrl": "9703-parker-postyeni",
   "ExcludeFromList": false,
-  "SortOrder": 112,
+  "SortOrder": 111,
   "events": [
    "10419",
    "10746",
@@ -2267,11 +2286,11 @@
   "PerformerId": "10666",
   "Twitter": "whitneystreed",
   "Website": "",
-  "Position": "113",
+  "Position": "112",
   "id": "10666",
   "pageUrl": "10666-whitney-streed",
   "ExcludeFromList": false,
-  "SortOrder": 113,
+  "SortOrder": 112,
   "events": [
    "10503"
   ],
@@ -2286,11 +2305,11 @@
   "PerformerId": "10826",
   "Twitter": "elinewell",
   "Website": "",
-  "Position": "114",
+  "Position": "113",
   "id": "10826",
   "pageUrl": "10826-eli-newell",
   "ExcludeFromList": false,
-  "SortOrder": 114,
+  "SortOrder": 113,
   "events": [
    "10406"
   ],
@@ -2305,11 +2324,11 @@
   "PerformerId": "9087",
   "Twitter": "tjchambersLA",
   "Website": "https://www.youtube.com/user/tjchambers27/",
-  "Position": "115",
+  "Position": "114",
   "id": "9087",
   "pageUrl": "9087-tj-chambers",
   "ExcludeFromList": false,
-  "SortOrder": 115,
+  "SortOrder": 114,
   "events": [
    "10392",
    "10423",
@@ -2325,11 +2344,11 @@
   "PerformerId": "9238",
   "Twitter": "kennethwreid",
   "Website": "http://ikenreid.com",
-  "Position": "116",
+  "Position": "115",
   "id": "9238",
   "pageUrl": "9238-ken-reid",
   "ExcludeFromList": false,
-  "SortOrder": 116,
+  "SortOrder": 115,
   "events": [
    "10391",
    "10418",
@@ -2346,11 +2365,11 @@
   "PerformerId": "10795",
   "Twitter": "ErinMcGathy",
   "Website": "",
-  "Position": "117",
+  "Position": "116",
   "id": "10795",
   "pageUrl": "10795-erin-mcgathy",
   "ExcludeFromList": false,
-  "SortOrder": 117,
+  "SortOrder": 116,
   "events": [
    "10737"
   ],
@@ -2363,11 +2382,11 @@
   "PerformerId": "9787",
   "Twitter": "Mjh708",
   "Website": "",
-  "Position": "118",
+  "Position": "117",
   "id": "9787",
   "pageUrl": "9787-mark-james-heath",
   "ExcludeFromList": false,
-  "SortOrder": 118,
+  "SortOrder": 117,
   "events": [
    "10419",
    "10729",
@@ -2384,11 +2403,11 @@
   "PerformerId": "9662",
   "Twitter": "Matteolane",
   "Website": "",
-  "Position": "119",
+  "Position": "118",
   "id": "9662",
   "pageUrl": "9662-matteo-lane",
   "ExcludeFromList": false,
-  "SortOrder": 119,
+  "SortOrder": 118,
   "events": [
    "10425",
    "10428",
@@ -2404,11 +2423,11 @@
   "PerformerId": "9479",
   "Twitter": "mattpharrcomic",
   "Website": "",
-  "Position": "120",
+  "Position": "119",
   "id": "9479",
   "pageUrl": "9479-matt-pharr",
   "ExcludeFromList": false,
-  "SortOrder": 120,
+  "SortOrder": 119,
   "events": [
    "10409",
    "10417",
@@ -2424,11 +2443,11 @@
   "PerformerId": "9280",
   "Twitter": "macbdazzler",
   "Website": "http://macblakecomedy.com",
-  "Position": "121",
+  "Position": "120",
   "id": "9280",
   "pageUrl": "9280-mac-blake",
   "ExcludeFromList": false,
-  "SortOrder": 121,
+  "SortOrder": 120,
   "events": [
    "10417",
    "10420",
@@ -2444,11 +2463,11 @@
   "PerformerId": "9860",
   "Twitter": "sonideni",
   "Website": "http://sonideni.tumblr.com/about",
-  "Position": "122",
+  "Position": "121",
   "id": "9860",
   "pageUrl": "9860-sonia-denis",
   "ExcludeFromList": false,
-  "SortOrder": 122,
+  "SortOrder": 121,
   "events": [
    "10444",
    "10449",
@@ -2465,11 +2484,11 @@
   "PerformerId": "9799",
   "Twitter": "rajsivaraman",
   "Website": "http://rajsivaraman.com",
-  "Position": "123",
+  "Position": "122",
   "id": "9799",
   "pageUrl": "9799-raj-sivaraman",
   "ExcludeFromList": false,
-  "SortOrder": 123,
+  "SortOrder": 122,
   "events": [
    "10416",
    "10418",
@@ -2486,11 +2505,11 @@
   "PerformerId": "9808",
   "Twitter": "rana_may",
   "Website": "http://ranamay.com",
-  "Position": "124",
+  "Position": "123",
   "id": "9808",
   "pageUrl": "9808-rana-may",
   "ExcludeFromList": false,
-  "SortOrder": 124,
+  "SortOrder": 123,
   "events": [
    "10417",
    "10731",
@@ -2508,11 +2527,11 @@
   "PerformerId": "9116",
   "Twitter": "seanwhitecomedy",
   "Website": "http://seanwhitecomedy.com/",
-  "Position": "125",
+  "Position": "124",
   "id": "9116",
   "pageUrl": "9116-sean-white",
   "ExcludeFromList": false,
-  "SortOrder": 125,
+  "SortOrder": 124,
   "events": [
    "10417",
    "10749",
@@ -2529,11 +2548,11 @@
   "PerformerId": "9820",
   "Twitter": "paigopolis",
   "Website": "http://paigopolis.tumblr.com",
-  "Position": "126",
+  "Position": "125",
   "id": "9820",
   "pageUrl": "9820-paige-bowman",
   "ExcludeFromList": false,
-  "SortOrder": 126,
+  "SortOrder": 125,
   "events": [
    "10423",
    "10449",
@@ -2550,11 +2569,11 @@
   "PerformerId": "10820",
   "Twitter": "",
   "Website": "",
-  "Position": "127",
+  "Position": "126",
   "id": "10820",
   "pageUrl": "10820-dax-jordan",
   "ExcludeFromList": false,
-  "SortOrder": 127,
+  "SortOrder": 126,
   "events": [
    "10448"
   ],
@@ -2572,11 +2591,11 @@
   "PerformerId": "9381",
   "Twitter": "bryanyang",
   "Website": "",
-  "Position": "128",
+  "Position": "127",
   "id": "9381",
   "pageUrl": "9381-bryan-yang",
   "ExcludeFromList": false,
-  "SortOrder": 128,
+  "SortOrder": 127,
   "events": [
    "10391",
    "10450",
@@ -2587,38 +2606,17 @@
   ]
  },
  {
-  "Name": "Veronica Heath",
-  "Bio": "<p>Veronica Heath was born in San Francisco, CA and entered the Portland, OR comedy scene in 2006, with a strong presence. It didn&#039;t take long before she was spreading her neurosis and joy all over the West Coast and opening for some of the best comedians around.</p>\n<p>Veronica has had roles in 3 seasons of the IFC sketch show ‘Portlandia’. In 2007, she finished as a finalist in the Stephen Colbert Portland Amateur Comedy Competition, and she is a six time alum of the Bridgetown Comedy Festival. When she’s not busy getting divorced or fighting rheumatic diseases, you can find her performing at comedy clubs, theaters, casinos, and festivals all over the West Coast and beyond. Additionally, she and one of her writing partners are working on a screenplay for a hopeful Lifetime movie.</p>\n<p>When you think of Veronica Heath, think of an anxious unicorn and top shelf cranberry meets low shelf vodka, and then just let it happen.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/veronica_heath_2.jpg",
-  "PerformerId": "10188",
-  "Twitter": "veronicaheath1",
-  "Website": "http://veronicaheath.com",
-  "Position": "129",
-  "id": "10188",
-  "pageUrl": "10188-veronica-heath",
-  "ExcludeFromList": false,
-  "SortOrder": 129,
-  "events": [
-   "10420",
-   "10734",
-   "10817"
-  ],
-  "mc_events": [
-   "10392"
-  ]
- },
- {
   "Name": "Rob Schultz",
   "Bio": "<p>Rob Schultz is a stand-up comedian in Los Angeles, CA who has performed at SF Sketchfest in 2013-15, the 2013 Sacramento Comedy Festival, a fish restaurant in Portland, OR, and at various Los Angeles landmarks with his traveling monthly show The Hike Mic. </p>\n<p>He is also the co-host of the weekly Gangbusters! Comedy Enjoyment Show, a submissions editor of the daily humor magazine TheHiggsWeldon.com, a member of the Upright Citizens Brigade&#039;s LA Digital group, and a video editor with credits on feature films, cable TV, and all manner of shorts and web things. And he still feels super lazy.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/rob-bruin_0.jpg",
   "PerformerId": "9182",
   "Twitter": "greenglassdoor",
   "Website": "http://www.normalwebsite.com",
-  "Position": "130",
+  "Position": "128",
   "id": "9182",
   "pageUrl": "9182-rob-schultz",
   "ExcludeFromList": false,
-  "SortOrder": 130,
+  "SortOrder": 128,
   "events": [
    "10450",
    "10466"
@@ -2634,11 +2632,11 @@
   "PerformerId": "9327",
   "Twitter": "ClassyMitch",
   "Website": "",
-  "Position": "131",
+  "Position": "129",
   "id": "9327",
   "pageUrl": "9327-mitch-mitchell",
   "ExcludeFromList": false,
-  "SortOrder": 131,
+  "SortOrder": 129,
   "events": [
    "10444",
    "10733",
@@ -2655,11 +2653,11 @@
   "PerformerId": "9972",
   "Twitter": "grapetheist",
   "Website": "",
-  "Position": "132",
+  "Position": "130",
   "id": "9972",
   "pageUrl": "9972-caitlin-weierhauser",
   "ExcludeFromList": false,
-  "SortOrder": 132,
+  "SortOrder": 130,
   "events": [
    "10503",
    "10734",
@@ -2676,11 +2674,11 @@
   "PerformerId": "9846",
   "Twitter": "davidmascorro",
   "Website": "http://www.davidmascorro.com/",
-  "Position": "133",
+  "Position": "131",
   "id": "9846",
   "pageUrl": "9846-david-mascorro",
   "ExcludeFromList": false,
-  "SortOrder": 133,
+  "SortOrder": 131,
   "events": [
    "10394",
    "10419",
@@ -2697,11 +2695,11 @@
   "PerformerId": "9714",
   "Twitter": "bradlivesdreams",
   "Website": "",
-  "Position": "134",
+  "Position": "132",
   "id": "9714",
   "pageUrl": "9714-brad-silnutzer",
   "ExcludeFromList": false,
-  "SortOrder": 134,
+  "SortOrder": 132,
   "events": [
    "10411"
   ],
@@ -2711,39 +2709,58 @@
   ]
  },
  {
+  "Name": "Veronica Heath",
+  "Bio": "<p>Veronica Heath was born in San Francisco, CA and entered the Portland, OR comedy scene in 2006, with a strong presence. It didn&#039;t take long before she was spreading her neurosis and joy all over the West Coast and opening for some of the best comedians around.</p>\n<p>Veronica has had roles in 3 seasons of the IFC sketch show ‘Portlandia’. In 2007, she finished as a finalist in the Stephen Colbert Portland Amateur Comedy Competition, and she is a six time alum of the Bridgetown Comedy Festival. When she’s not busy getting divorced or fighting rheumatic diseases, you can find her performing at comedy clubs, theaters, casinos, and festivals all over the West Coast and beyond. Additionally, she and one of her writing partners are working on a screenplay for a hopeful Lifetime movie.</p>\n<p>When you think of Veronica Heath, think of an anxious unicorn and top shelf cranberry meets low shelf vodka, and then just let it happen.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/veronica_heath_2.jpg",
+  "PerformerId": "10188",
+  "Twitter": "veronicaheath1",
+  "Website": "http://veronicaheath.com",
+  "Position": "133",
+  "id": "10188",
+  "pageUrl": "10188-veronica-heath",
+  "ExcludeFromList": false,
+  "SortOrder": 133,
+  "events": [
+   "10420",
+   "10734",
+   "10817"
+  ],
+  "mc_events": [
+   "10392"
+  ]
+ },
+ {
   "Name": "Jason Traeger",
   "Bio": "<p>Jason Traeger has been called “the hot, new 40-something face of Portland Stand-up” Two years after his arrival on the scene his friendly, slightly lysergic style earned him a spot as a finalist in Helium Comedy Club&#039;s 2014 Portland&#039;s Funniest Person contest. That same year he was invited to curate and host a night of Stand-up for the TBA:14 Festival, the city&#039;s premiere arts event. During his run hosting the successful “Get up, Stand up” series at Mississippi Studios, he shared the stage with some of the best and brightest comics working today. In addition to his comedy, Traeger is a respected visual artist and photographer. Over the course of two years he collected more than 2,000 of his photos of the scene on his blog <a href=\"http://portlandstandupphotoalbum.tumblr.com/\">http://portlandstandupphotoalbum.tumblr.com/</a>. </p>\n<p>A fixture on the West Coast art and culture scene for decades, Traeger has released his music on Kill Rock Stars and K records. He has exhibited his visual art at the Portland 2010 Biennial and the Tate Modern in London.</p>\n<p>Jason runs a monthly showcase at Valentine&#039;s and co-hosts New Deal Distillery&#039;s Comedy and Cocktails Stand-up series.</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_6579_0.jpg",
   "PerformerId": "10192",
   "Twitter": "jasontraeger",
   "Website": "http://jasontraegercomedy.tumblr.com/",
-  "Position": "135",
+  "Position": "134",
   "id": "10192",
   "pageUrl": "10192-jason-traeger",
   "ExcludeFromList": false,
-  "SortOrder": 135,
+  "SortOrder": 134,
   "events": [
    "10758"
   ],
   "mc_events": []
  },
  {
-  "Name": "Michael Eagle aka Open Mike Eagle",
-  "Bio": "<p>Michael Eagle grew up in Chicago, listening to alt-rock on q101 and taping underground rap shows on WHPK. He also occasionally snuck and ordered music videos on the Box. He went to college at Southern Illinois university and battled everybody everywhere and freestyled all the time. He graduated with a degree in Psychology, but somehow it never occurred to him to go to Scribble Jam.</p>\n<p>Mike moved to LA and linked up with Project Blowed. He toured with Busdriver, Aceyalone, and Abstract Rude. He started a rap group called Thirsty Fish with Dumbfoundead and Psychosiz and the Swim Team with Alpha MC, VerBS, Sahtyre and more. He worked as a teacher during this time and usually had a hangover.</p>\n<p>He put out his first solo album in 2010 with Mush Records. He put out his second LP with Hellfyre Club/Alpha Pup and his third with Fake Four Inc. He’s toured with Blu, Aesop Rock, Dessa, Homeboy Sandman, Ceschi, Moka Only, Louis Logic, and more.</p>\n<p>In 2012 he participated in and co-authored a study with the National Institutes of Health where he freestyled in an MRI machine to study the brain activity that occurs during improvisational rap. Articles were published on nature.com, wired.com, discovery.com, nbc.com, npr.org and more. The articles have become famous for the unabashed racism in each of their comment sections.</p>\n<p>In 2013 he was the first rapper to appear as a guest on Marc Maron’s WTF podcast. He’s also appeared on the Paul F. Tompkins show, Hannibal Burress’s comedy show, the Eric Andre live show, and the WITS show produced by American Public Media.</p>\n<p>He produced the first “Mike Eagle Show” in January of 2014. It was a night of rap and comedy lauded by LA Weekly &#039;as something they look forward to seeing more of’. He too thought they could have written something nicer.</p>\n<p>His most recent work is alongside Busdriver, Nocando, milo, and more under the guise of Hellfyre Club. Their 2013 mixtape “Dorner Vs Tookie” was praised by Pitchfork, the Chicago Reader, LA Weekly and more.<br />\nHe was named Impose Magazine’s Rapper of the Year for 2013. The rapper of the whole entire year.</p>\n<p>His new album is &#039;Dark Comedy.&#039; Its 45 minutes of attempting to giggle at the abyss. It features raps from Hannibal Burress and Das Racist’s Kool A.D., beats from Jeremiah Jae, Dibia$e, Busdriver and more. Its his first release on Mello Music Group.</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/open_mike_eagle_andy_j-scott-71.jpg",
-  "PerformerId": "10223",
-  "Twitter": "mike_eagle",
-  "Website": "http://mikeeagle.net",
-  "Position": "136",
-  "id": "10223",
-  "pageUrl": "10223-michael-eagle-aka-open-mike-eagle",
+  "Name": "Brandy Feit",
+  "Bio": "<p>Brandy Feit was named after the song “Brandy (you’re a fine girl)” by Looking Glass in Chicago, Illinois. Her earliest memories were at 3 years old and includes her blowing out her big bird birthday cake and her panic attack at age 4. She quit smoking at age 7. She wanted to do standup comedy since third grade and being called funny is still the best compliment she could ever hear. She studied nonprofit management &amp; public affairs at Indiana University and she wishes she studied journalism if anything at all, but she thought that was practical at the time. Follow your dreams kids. She greatly cocktails and works in the spirits industry. She aspires to be famous or at least revered in some way so she can sleep with younger men and live abroad if her potential husband dies too prematurely. She has never killed anyone.</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/imgres.jpg",
+  "PerformerId": "11045",
+  "Twitter": "bfeit",
+  "Website": "",
+  "Position": "135",
+  "id": "11045",
+  "pageUrl": "11045-brandy-feit",
   "ExcludeFromList": false,
-  "SortOrder": 136,
+  "SortOrder": 135,
   "events": [
-   "10728"
+   "10758"
   ],
-  "mc_events": [
-   "10459"
-  ]
+  "mc_events": []
  }
 ]
