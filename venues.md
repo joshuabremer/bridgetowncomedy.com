@@ -87,7 +87,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
 
 523 SE Grand Ave, Portland, OR 97214
 	
-[View Shows for My Father's Place →](/venue/10379-my-fathers-place)
+[View Shows →](/venue/10379-my-fathers-place)
 
 
 
