@@ -2094,6 +2094,13 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
 
   /*jshint -W100 */
   exports['default'] = [{
+    Name: "Audible Stage at Norse Hall",
+    VenueId: "10375",
+    id: "10375",
+    address: "111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR",
+    pageUrl: "10375-audible-stage-at-norse-hall",
+    events: ["10426", "10436", "10439", "10672"]
+  }, {
     Name: "Boogie&#039;s Burgers",
     VenueId: "10380",
     id: "10380",
@@ -2142,13 +2149,6 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
     address: "900 SE Salmon St, Portland, OR 97214",
     pageUrl: "10677-new-deal-distillery",
     events: ["10758", "11108"]
-  }, {
-    Name: "Norse Hall",
-    VenueId: "10375",
-    id: "10375",
-    address: "111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR",
-    pageUrl: "10375-norse-hall",
-    events: ["10426", "10436", "10439", "10672"]
   }, {
     Name: "Revolution Hall",
     VenueId: "10384",
