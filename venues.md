@@ -51,7 +51,7 @@ Suite #110, 1300 SE Stark St, Portland, OR
   <img src="/img/venue-images/venue-norse.png" />
 </a>
 
-### Norse Hall
+### Audible Stage at Norse Hall
 
   [www.norsehall.org](/venue/10375-norse-hall)
 
