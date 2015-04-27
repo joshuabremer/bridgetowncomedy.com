@@ -1106,7 +1106,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
     MCId: "10112",
     Cost: "$20",
     ShowId: "10111",
-    Description: "<p>Join the three boys from Denver who are MEGA HUGE STARTS BUT STILL WITH HUMBLE ATTITUDES AND GOOD TIME VIBES, and their cast of comics for an evening of mile-high laughter.</p>\n",
+    Description: "<p>Join the three boys from Denver who are MEGA HUGE STARS BUT STILL HAVE HUMBLE ATTITUDES AND GOOD TIME VIBES and their cast of comics for an evening of mile-high laughter.</p>\n",
     "iTunes Url": "",
     show: "10111",
     id: "10502",
