@@ -2139,7 +2139,7 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
     Name: "My Father&#039;s Place",
     VenueId: "10379",
     id: "10379",
-    address: "1430 NE Sandy Blvd, Portland, OR",
+    address: "523 SE Grand Ave 97214",
     pageUrl: "10379-my-fathers-place",
     events: ["10394", "10998", "10746", "10442", "10445", "10747", "10443", "10999", "10788", "10420"]
   }, {
