@@ -2108,13 +2108,6 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
     pageUrl: "10380-boogies-burgers",
     events: ["10411", "10441", "10450", "10451", "10416", "10417", "10418", "10419", "10444"]
   }, {
-    Name: "MailChimp Stage at Bossanova Ballroom",
-    VenueId: "10374",
-    id: "10374",
-    address: "722 E Burnside, Portland, OR",
-    pageUrl: "10374-mailchimp-stage-at-bossanova-ballroom",
-    events: ["10706", "10460", "10433", "10502", "10423", "10383", "10430", "10449", "10736", "10466", "10401", "10737", "10785", "10467"]
-  }, {
     Name: "Bunk Bar",
     VenueId: "10378",
     id: "10378",
@@ -2122,19 +2115,26 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
     pageUrl: "10378-bunk-bar",
     events: ["10437", "10784", "10459", "10447", "10503", "10412", "10448"]
   }, {
-    Name: "Kill Rock Stars Stage at Doug Fir Lounge",
-    VenueId: "10373",
-    id: "10373",
-    address: "830 E. Burnside St., Portland, OR",
-    pageUrl: "10373-kill-rock-stars-stage-at-doug-fir-lounge",
-    events: ["10766", "10729", "10740", "10427", "10425", "10678", "10402", "10404", "10407", "10428", "10731", "10817", "10405", "10406", "10388", "10409", "10461"]
-  }, {
     Name: "Guardian Games",
     VenueId: "10763",
     id: "10763",
     address: "345 SE Taylor St, Portland, OR 97214",
     pageUrl: "10763-guardian-games",
     events: ["10764"]
+  }, {
+    Name: "Kill Rock Stars Stage at Kill Rock Stars Stage at Doug Fir Lounge",
+    VenueId: "10373",
+    id: "10373",
+    address: "830 E. Burnside St., Portland, OR",
+    pageUrl: "10373-kill-rock-stars-stage-at-kill-rock-stars-stage-at-doug-fir-lounge",
+    events: ["10766", "10729", "10740", "10427", "10425", "10678", "10402", "10404", "10407", "10428", "10731", "10817", "10405", "10406", "10388", "10409", "10461"]
+  }, {
+    Name: "MailChimp Stage at MailChimp Stage at Bossanova Ballroom",
+    VenueId: "10374",
+    id: "10374",
+    address: "722 E Burnside, Portland, OR",
+    pageUrl: "10374-mailchimp-stage-at-mailchimp-stage-at-bossanova-ballroom",
+    events: ["10706", "10460", "10433", "10502", "10423", "10383", "10430", "10449", "10736", "10466", "10401", "10737", "10785", "10467"]
   }, {
     Name: "My Father&#039;s Place",
     VenueId: "10379",
