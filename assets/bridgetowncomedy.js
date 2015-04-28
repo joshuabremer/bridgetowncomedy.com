@@ -1574,7 +1574,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
     emcees: [9879]
   }, {
     EventId: "10788",
-    VenueId: "10379",
+    VenueId: "10380",
     Name: "Yo Momma's Day Brunch",
     StartTime: "2015-05-10 15:00:00 to 2015-05-10 16:30:00",
     EndTime: "2015-05-10 15:00:00 to 2015-05-10 16:30:00",
@@ -1584,7 +1584,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
     Description: "<p>A celebration of one-liners in honor of yo momma. Champagne encouraged.</p>\n",
     "iTunes Url": "",
     id: "10788",
-    venue: "10379",
+    venue: "10380",
     start_time: "2015-05-10T22:00:00.000Z",
     end_time: "2015-05-10T23:30:00.000Z",
     pageUrl: "10788-yo-mommas-day-brunch",
@@ -2074,29 +2074,16 @@ define('bridgetowncomedy/fixtures/show', ['exports'], function (exports) {
     iTunesUrl: "",
     events: ["11108"]
   }, {
-    Name: "Comedy and Cocktails",
-    Copy: "New Deal Distillery  presents Comedy and Cocktails, a monthly stand-up showcase featuring top comic talent from Portland and beyond. Hosts Brandy Feit and Jason Traeger oversee the fun on the little stage in front of the distillery’s beautiful towering copper still. Join us for fine locally-crafted spirits and laughs. The series runs every 2nd Friday, March through August.\r\n\r\nhttp://www.newdealdistillery.com/",
-    Bio: "New Deal Distillery  presents Comedy and Cocktails, a monthly stand-up showcase featuring top comic talent from Portland and beyond. Hosts Brandy Feit and Jason Traeger oversee the fun on the little stage in front of the distillery’s beautiful towering copper still. Join us for fine locally-crafted spirits and laughs. The series runs every 2nd Friday, March through August.\r\n\r\nhttp://www.newdealdistillery.com/\r\n\r\n\r\n\r\n\r\n\r\n",
-    PhotoUrl: "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/unnamed_0.png",
-    SubmittedId: "11107",
-    Position: "29",
-    "iTunes Url": "",
-    id: "11107",
-    pageUrl: "11107-comedy-and-cocktails",
-    SortOrder: 29,
-    iTunesUrl: "",
-    events: ["11108"]
-  }, {
     Name: "Live Wire!",
     Copy: "Live Wire is radio variety for the attention span challenged. It&#039;s music from up-and-coming bands, original comedy, performance and scintillating interviews with writers, filmmakers, comedians and people who think cool thoughts. Hosted by Luke Burbank (Wait Wait Don&#039;t Tell Me, Too Beautiful to Live), the show is taped in front of a live audience and airs on public radio stations around the country. The Bridgetown edition features Janeane Garofalo, &quot;Fight Club&quot; author Chuck Palahniuk, Jackie Kashian, Dan Harmon, music from Helio Sequence and surprise guests.\r\n&lt;a href=&quot;https://www.ticketfly.com/purchase/event/772911?utm_source=TICKETBUTTON&quot;&gt;Tickets&lt;/a&gt;",
     Bio: "Live Wire is radio variety for the attention span challenged. It&#039;s music from up-and-coming bands, original comedy, performance and scintillating interviews with writers, filmmakers, comedians and people who think cool thoughts. Hosted by Luke Burbank (Wait Wait Don&#039;t Tell Me, Too Beautiful to Live), the show is taped in front of a live audience and airs on public radio stations around the country. The Bridgetown edition features Janeane Garofalo, &quot;Fight Club&quot; author Chuck Palahniuk, Jackie Kashian, Dan Harmon, music from Helio Sequence and surprise guests.\r\n&lt;a href=&quot;https://www.ticketfly.com/purchase/event/772911?utm_source=TICKETBUTTON&quot;&gt;Tickets&lt;/a&gt;",
     PhotoUrl: "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/live-wire-logo_0.png",
     SubmittedId: "11127",
-    Position: "30",
+    Position: "29",
     "iTunes Url": "",
     id: "11127",
     pageUrl: "11127-live-wire",
-    SortOrder: 30,
+    SortOrder: 29,
     iTunesUrl: "",
     events: ["10741"]
   }];
@@ -2120,7 +2107,7 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
     id: "10380",
     address: "910 E Burnside St, Portland, OR",
     pageUrl: "10380-boogies-burgers",
-    events: ["10411", "10441", "10450", "10451", "10416", "10417", "10418", "10419", "10444"]
+    events: ["10411", "10441", "10450", "10451", "10416", "10417", "10418", "10419", "10788", "10444"]
   }, {
     Name: "Bunk Bar",
     VenueId: "10378",
@@ -2155,7 +2142,7 @@ define('bridgetowncomedy/fixtures/venue', ['exports'], function (exports) {
     id: "10379",
     address: "523 SE Grand Ave 97214",
     pageUrl: "10379-my-fathers-place",
-    events: ["10394", "10998", "10746", "10442", "10445", "10747", "10443", "10999", "10788", "10420"]
+    events: ["10394", "10998", "10746", "10442", "10445", "10747", "10443", "10999", "10420"]
   }, {
     Name: "New Deal Distillery",
     VenueId: "10677",
