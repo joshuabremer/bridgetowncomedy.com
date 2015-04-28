@@ -1049,7 +1049,6 @@
    "10343",
    "9093",
    "9876",
-   "10233",
    "10337"
   ],
   "emcees": [
@@ -1276,6 +1275,7 @@
   "performers": [
    "10312",
    "9105",
+   "10233",
    "10293"
   ],
   "emcees": [
@@ -1698,7 +1698,7 @@
   "MCId": "10794",
   "Cost": "$30",
   "ShowId": "11000",
-  "Description": "<p>Self destructive writer Dan Harmon (\"Community,\" \"Rick and Morty,\" \"Heat Vision and Jack\") claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis (\"Whose Line is it Anyway\") as his Comptroller.</p>\n",
+  "Description": "<p>Self destructive writer Dan Harmon (\"Community,\" \"Rick and Morty,\" \"Heat Vision and Jack\") claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis (\"Whose Line is it Anyway?\") as his Comptroller.</p>\n",
   "iTunes Url": "https://itunes.apple.com/us/podcast/harmontown/id542228532?mt=2",
   "show": "11000",
   "id": "10737",
