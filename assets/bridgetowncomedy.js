@@ -1917,15 +1917,15 @@ define('bridgetowncomedy/fixtures/show', ['exports'], function (exports) {
     iTunesUrl: "",
     events: ["10433"]
   }, {
-    Name: "The Mike Eagle Show/Secret Skin Live",
+    Name: "Secret Skin with Open Mike Eagle",
     Copy: "What happens when Open Mike Eagle brings together comics, hip-hop artists, and writers in a room? Music, conversation, and comedy. This is The Mike Eagle Show: Secret Skin live. After the success of Secret Skin on the Infinite Guest Podcast Network, Open Mike Eagle is bringing the live experience to the stage with special guests.",
     Bio: "Open Mike Eagle is an L.A. based hip-hop artist. On Secret Skin, he and his guests examine what’s really going on behind the face that comics and hip-hop artists put on for the public. The in-jokes. The heavy stuff. The tour stories. The day-to-day struggles and absurdities of being a working musician. The Secret Skin.\r\n\r\nDeveloping from the Mike Eagle variety shows that took place in LA, Seattle, San Francisco, New York, and Atlanta, Mike Eagle&#039;s Secret Skin Live combines the comedy and rap performances of his live show with a quick-fire interview format that allows each performer to illuminate their story in a way that their peformance might not allow. Interviews are edited together to create special live episodes of the Secret Skin podcast\r\n\r\npast stand up guests: Hannibal Buress, James Adomian, Cameron Esposito, Chris Gethard, Baron Vaughn, Greer Barnes and many more\r\n",
-    PhotoUrl: "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/vip-access-to-mike-eagle.jpg",
+    PhotoUrl: "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/secret_skin_live_2_bridgetown.jpg",
     SubmittedId: "10230",
     Position: "17",
     "iTunes Url": "",
     id: "10230",
-    pageUrl: "10230-the-mike-eagle-showsecret-skin-live",
+    pageUrl: "10230-secret-skin-with-open-mike-eagle",
     SortOrder: 17,
     iTunesUrl: "",
     events: ["10459"]
