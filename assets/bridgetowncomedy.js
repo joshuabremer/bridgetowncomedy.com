@@ -1008,7 +1008,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
   }, {
     EventId: "10459",
     VenueId: "10378",
-    Name: "The Mike Eagle Show/Secret Skin Live",
+    Name: "Secret Skin with Open Mike Eagle",
     StartTime: "2015-05-08 21:00:00 to 2015-05-08 22:30:00",
     EndTime: "2015-05-08 21:00:00 to 2015-05-08 22:30:00",
     MCId: "10223",
@@ -1021,7 +1021,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
     venue: "10378",
     start_time: "2015-05-09T04:00:00.000Z",
     end_time: "2015-05-09T05:30:00.000Z",
-    pageUrl: "10459-the-mike-eagle-showsecret-skin-live",
+    pageUrl: "10459-secret-skin-with-open-mike-eagle",
     performers: ["9212", "9446", "10816", "10297"],
     emcees: [10223]
   }, {
