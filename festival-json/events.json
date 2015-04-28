@@ -761,7 +761,6 @@
   "pageUrl": "10433-talk-show-the-game-show",
   "performers": [
    "9601",
-   "10299",
    "9739",
    "10337",
    "9763",
@@ -2090,7 +2089,7 @@
  },
  {
   "EventId": "10788",
-  "VenueId": "10379",
+  "VenueId": "10380",
   "Name": "Yo Momma's Day Brunch",
   "StartTime": "2015-05-10 15:00:00 to 2015-05-10 16:30:00",
   "EndTime": "2015-05-10 15:00:00 to 2015-05-10 16:30:00",
@@ -2100,7 +2099,7 @@
   "Description": "<p>A celebration of one-liners in honor of yo momma. Champagne encouraged.</p>\n",
   "iTunes Url": "",
   "id": "10788",
-  "venue": "10379",
+  "venue": "10380",
   "start_time": "2015-05-10T22:00:00.000Z",
   "end_time": "2015-05-10T23:30:00.000Z",
   "pageUrl": "10788-yo-mommas-day-brunch",
