@@ -1364,7 +1364,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
     MCId: "10429",
     Cost: "$30",
     ShowId: "",
-    Description: "<p>Live Wire is radio variety for the attention span challenged. It's music from up-and-coming bands, original comedy, performance and scintillating interviews with writers, filmmakers, comedians and people who think cool thoughts. Hosted by Luke Burbank (Wait Wait Don't Tell Me, Too Beautiful to Live), the show is taped in front of a live audience and airs on public radio stations around the country. <a href=\"https://www.ticketfly.com/purchase/event/772911?utm_source=TICKETBUTTON\">Tickets</a></p>\n",
+    Description: "<p>Live Wire is radio variety for the attention span challenged. It's music from up-and-coming bands, original comedy, performance and scintillating interviews with writers, filmmakers, comedians and people who think cool thoughts. Hosted by Luke Burbank (Wait Wait Don't Tell Me, Too Beautiful to Live), the show is taped in front of a live audience and airs on public radio stations around the country. The Bridgetown edition features Janeane Garofalo, \"Fight Club\" author Chuck Palahniuk, Jackie Kashian, Dan Harmon, music from Helio Sequence and surprise guests.<br /><a href=\"https://www.ticketfly.com/purchase/event/772911?utm_source=TICKETBUTTON\">Tickets</a></p>\n",
     "iTunes Url": "",
     id: "10741",
     venue: "10384",
