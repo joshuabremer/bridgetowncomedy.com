@@ -312,7 +312,7 @@ define('bridgetowncomedy/fixtures/event', ['exports'], function (exports) {
     MCId: "10317",
     Cost: "$15",
     ShowId: "10372",
-    Description: "<p>The hit podcast in which professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing) and Andy Wood (Jason Nash Is Married, MOCKpocalypse), with special guests from the world of science and comedy</p>\n",
+    Description: "<p>The hit podcast in which professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing) and Andy Wood (Jason Nash Is Married, MOCKpocalypse), with special guests from the world of science and comedy. For the 2015 Bridgetown edition, the hosts welcome \"Sex at Dawn\" author Christopher Ryan to talk about the prehistoric origins of modern sexuality.</p>\n",
     "iTunes Url": "https://itunes.apple.com/us/podcast/probably-science/id497735695",
     show: "10372",
     id: "10401",
@@ -1945,7 +1945,7 @@ define('bridgetowncomedy/fixtures/show', ['exports'], function (exports) {
     events: ["10459"]
   }, {
     Name: "Probably Science",
-    Copy: "The hit podcast in which three professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing), Andy Wood (Jason Nash Is Married, MOCKpocalypse), Jesse Case (Just For Laughs, Live At Gotham, Last Comic Standing), with special guests from the world of science and comedy.\r\n\r\nPast guests have included Chris Hardwick, Karen Gillan, Rhys Darby, Peter Serafinowicz, Gallagher (sorry about that one), The Sklar Brothers and TJ Miller, not to mention actual scientists such as Dr. Sean Carroll and Dr. Janna Levin and astronaut Chris Hadfield.\r\n\r\nIt&#039;s the most topical, up-to-date, half-assed science, delivered straight to you in bite-sized comedy chunks.",
+    Copy: "The hit podcast in which three professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing), Andy Wood (Jason Nash Is Married, MOCKpocalypse), Jesse Case (Just For Laughs, Live At Gotham, Last Comic Standing), with special guests from the world of science and comedy.\r\n\r\nPast guests have included Chris Hardwick, Karen Gillan, Rhys Darby, Peter Serafinowicz, Gallagher (sorry about that one), The Sklar Brothers and TJ Miller, not to mention actual scientists such as Dr. Sean Carroll and Dr. Janna Levin and astronaut Chris Hadfield.\r\n\r\nIt&#039;s the most topical, up-to-date, half-assed science, delivered straight to you in bite-sized comedy chunks. For the 2015 Bridgetown edition, the hosts welcome &quot;Sex at Dawn&quot; author Christopher Ryan to talk about the prehistoric origins of modern sexuality.",
     Bio: "The hit podcast in which three professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing), Andy Wood (Jason Nash Is Married, MOCKpocalypse), Jesse Case (Just For Laughs, Live At Gotham, Last Comic Standing), with special guests from the world of science and comedy.\r\n\r\nPast guests have included Chris Hardwick, Karen Gillan, Rhys Darby, Peter Serafinowicz, Gallagher (sorry about that one), The Sklar Brothers and TJ Miller, not to mention actual scientists such as Dr. Sean Carroll and Dr. Janna Levin and astronaut Chris Hadfield.\r\n\r\nIt&#039;s the most topical, up-to-date, half-assed science, delivered straight to you in bite-sized comedy chunks.",
     PhotoUrl: "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/probablysciencesallyart.jpg",
     SubmittedId: "10372",
@@ -12225,7 +12225,7 @@ define('bridgetowncomedy/templates/show', ['exports'], function (exports) {
         var morph4 = dom.createMorphAt(dom.childAt(element3, [6]),0,1);
         inline(env, morph0, context, "page-title-banner", [], {"title": get(env, context, "model.Name")});
         element(env, element2, context, "bind-attr", [], {"src": "headshot300"});
-        content(env, morph1, context, "Bio");
+        content(env, morph1, context, "Copy");
         block(env, morph2, context, "if", [get(env, context, "iTunesUrl")], {}, child0, null);
         block(env, morph3, context, "each", [get(env, context, "sortedEvents")], {"keyword": "event"}, child1, child2);
         block(env, morph4, context, "link-to", ["shows"], {}, child3, null);
