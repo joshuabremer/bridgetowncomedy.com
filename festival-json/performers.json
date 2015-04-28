@@ -208,6 +208,7 @@
   "events": [
    "10433",
    "10448",
+   "10676",
    "10706",
    "10734",
    "10740",
@@ -461,7 +462,7 @@
    "10407",
    "10425",
    "10428",
-   "10448",
+   "10461",
    "10765"
   ],
   "mc_events": [
@@ -1007,7 +1008,7 @@
   "mc_events": []
  },
  {
-  "Name": "DJ REAL (Nick Stargu)",
+  "Name": "DJ REAL ",
   "Bio": "<p>Nick Stargu is a musician, comedian, and writer who is best know for his musical comedy act, DJ REAL, which has been featured in the San Francisco Sketch Festival, the Bridgetown Comedy Festival, the San Francisco Comedy Competition, and more. And he&#039;s opened for Devo! Nick is also one half of festival favorite Imaginary Radio with Drennon Davis. They have appeared together at SXSW, and the Funny or Die Oddball Festival. </p>\n<p>“…DJ REAL was a very strange, and strangely wonderful combination of lo-fi recording artist and Andy Kaufman comedian…” – SF Weekly</p>\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/majik-bad-lowrez.jpg",
   "PerformerId": "9105",
@@ -1015,7 +1016,7 @@
   "Website": "http://www.djrealsmells.com",
   "Position": "49",
   "id": "9105",
-  "pageUrl": "9105-dj-real-nick-stargu",
+  "pageUrl": "9105-dj-real-",
   "ExcludeFromList": false,
   "SortOrder": 49,
   "events": [
