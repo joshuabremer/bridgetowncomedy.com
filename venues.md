@@ -6,6 +6,9 @@ description: "Come join us on East Burnside for the Bridgetown Comedy Festival i
 published: true
 ---
 
+<iframe src="https://www.google.com/maps/d/embed?mid=zFy_pBh586PU.kRbpURgWK14Q" width="100%" height="480"></iframe>
+
+
 <a href="/venue/10373-kill-rock-stars-stage-at-doug-fir-lounge">
   <img src="/img/venue-images/venue-doug-fir.png" />
 </a>
