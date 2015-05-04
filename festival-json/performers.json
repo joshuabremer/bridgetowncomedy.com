@@ -1223,7 +1223,9 @@
   "pageUrl": "11138-jennie-pierson",
   "ExcludeFromList": false,
   "SortOrder": 59,
-  "events": [],
+  "events": [
+   "10406"
+  ],
   "mc_events": []
  },
  {
@@ -2327,9 +2329,7 @@
   "pageUrl": "10826-eli-newell",
   "ExcludeFromList": false,
   "SortOrder": 114,
-  "events": [
-   "10406"
-  ],
+  "events": [],
   "mc_events": [
    "10406"
   ]
@@ -2780,6 +2780,23 @@
   "events": [
    "10758",
    "11108"
+  ],
+  "mc_events": []
+ },
+ {
+  "Name": "Philip Schallberger",
+  "Bio": "<p>this is a bio</p>\n",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/2q_0.jpg",
+  "PerformerId": "11139",
+  "Twitter": "",
+  "Website": "",
+  "Position": "137",
+  "id": "11139",
+  "pageUrl": "11139-philip-schallberger",
+  "ExcludeFromList": false,
+  "SortOrder": 137,
+  "events": [
+   "10672"
   ],
   "mc_events": []
  }
