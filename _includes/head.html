@@ -79,27 +79,31 @@
 
   /**
  * Track JS error details in Universal Analytics
+ * Cribbed from: http://code.vikaskbh.com/ga_error_tracking/error.js
  */
 
-  function trackJavaScriptError(error) {
+  window.onerror = function(){
+  "use strict";
+    var errors = Array.prototype.slice.apply(arguments);
+
+    var error_message = errors[0];
+    var error_url = errors[1];
+    var error_line = errors[2];
+    var error_column = errors[3]+1;
+
+    var line_string   = isNaN(error_line) ? "" : " (line: " + error_line + "";
+    var column_string = isNaN(error_column) ? "" : ", column: " + error_column + ")";
+    var error_event = "[" + error_message + "][" + error_url +  line_string + column_string + "]";
     ga('send', 'exception', {
-      'exDescription': error.stack,
+      'exDescription': error_event,
       'exFatal': false
     });
-  }
-
-  /**
-   * Cross-browser event listener
-   */
-
-  if (window.addEventListener) {
-    window.addEventListener('error', trackJavaScriptError, false);
-  } else if (window.attachEvent) {
-    window.attachEvent('onerror', trackJavaScriptError);
-  } else {
-    window.onerror = trackJavaScriptError;
-  }
+    return true;
+}
 
 
+</script>
+<script>
+jaskdjlkasd
 </script>
 </head>
