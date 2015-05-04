@@ -85,8 +85,8 @@ fi
 
 bower install --allow-root;
 
-# if ember build --environment="production"  ; then
-if ember build  ; then
+if ember build --environment="production"  ; then
+#if ember build  ; then
     :
 else
     echo "Ember build failed"
