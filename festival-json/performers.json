@@ -1021,7 +1021,7 @@
   "ExcludeFromList": false,
   "SortOrder": 49,
   "events": [
-   "10394",
+   "10392",
    "10402",
    "10461",
    "10736",
@@ -2158,7 +2158,6 @@
   "events": [
    "10392",
    "10449",
-   "10734",
    "10779"
   ],
   "mc_events": []
@@ -2783,23 +2782,6 @@
   "events": [
    "10758",
    "11108"
-  ],
-  "mc_events": []
- },
- {
-  "Name": "Philip Schallberger",
-  "Bio": "<p>this is a bio</p>\n",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/2q_0.jpg",
-  "PerformerId": "11139",
-  "Twitter": "",
-  "Website": "",
-  "Position": "137",
-  "id": "11139",
-  "pageUrl": "11139-philip-schallberger",
-  "ExcludeFromList": false,
-  "SortOrder": 137,
-  "events": [
-   "10672"
   ],
   "mc_events": []
  }
