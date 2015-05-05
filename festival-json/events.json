@@ -8,7 +8,7 @@
   "MCId": "",
   "Cost": "$0",
   "ShowId": "",
-  "Description": "<p>The comedy landscape has undergone tremendous changes in the last ten years, not just with the advent of Twitter, Podcast Networks, Vine, Tumblr, YouTube, Instagram and Facebook, but with how the art form is produced and shared with a broad audience. Digital media has opened up countless avenues for comedians to expand their reach and refine their voice. What are some of the most valuable methods for getting your work out there and building an audience? What are the potential pitfalls of this Brave New World? In this panel discussion, performers are joined by producers and industry reps for an in depth discussion on how digital media and unconventional distribution can assist, and possibly improve, today's generation of comics and writers.</p>\n<p>Panel Members:<br />\nBrian Volk-Weiss : President of Production, NWE/Comedy Dynamics<br />\nJordy Ellner : Senior Director, Talent &amp; Digital Development, Comedy Central<br />\nKesila Childers : Vice President of Digital Media, Bunnim Murray Productions<br />\nAllen Strickland-Williams : Women, Conan<br />\nAndrew Orvedahl and Ben Roy : Grawlix, Those Who Can't</p>\n<p>Facilitated by Bri Pruett</p>\n",
+  "Description": "<p>The comedy landscape has undergone tremendous changes in the last ten years, not just with the advent of Twitter, Podcast Networks, Vine, Tumblr, YouTube, Instagram and Facebook, but with how the art form is produced and shared with a broad audience. Digital media has opened up countless avenues for comedians to expand their reach and refine their voice. What are some of the most valuable methods for getting your work out there and building an audience? What are the potential pitfalls of this Brave New World? In this panel discussion, performers are joined by producers and industry reps for an in depth discussion on how digital media and unconventional distribution can assist, and possibly improve, today's generation of comics and writers.</p>\n<p>Panel Members:<br />\nBrian Volk-Weiss : President of Production, Comedy Dynamics<br />\nJordy Ellner : Senior Director, Talent &amp; Digital Development, Comedy Central<br />\nKesila Childers : Vice President of Digital Media, Bunnim Murray Productions<br />\nAllen Strickland-Williams : Women, Conan<br />\nAndrew Orvedahl and Ben Roy : Grawlix, Those Who Can't</p>\n<p>Facilitated by Bri Pruett</p>\n",
   "iTunes Url": "",
   "id": "10383",
   "venue": "10374",
@@ -58,12 +58,12 @@
   "end_time": "2015-05-08T04:30:00.000Z",
   "pageUrl": "10391-lets-do-it-with-bri-pruett",
   "performers": [
-   "9953",
    "9381",
-   "9144",
+   "9953",
    "9876",
-   "9238",
+   "9144",
    "9979",
+   "9238",
    "9445"
   ],
   "emcees": [
@@ -87,13 +87,13 @@
   "end_time": "2015-05-08T05:00:00.000Z",
   "pageUrl": "10392-in-the-heath-of-the-night-with-veronica-heath",
   "performers": [
-   "9212",
-   "10044",
-   "10666",
-   "10119",
    "9087",
+   "10666",
    "9105",
+   "9212",
    "10787",
+   "10119",
+   "10044",
    "9446"
   ],
   "emcees": [
@@ -117,11 +117,11 @@
   "end_time": "2015-05-08T04:30:00.000Z",
   "pageUrl": "10394-grand-illusions",
   "performers": [
-   "10128",
-   "9177",
-   "9096",
    "9846",
+   "9177",
+   "10128",
    "10031",
+   "9096",
    "10046"
   ],
   "emcees": [
@@ -197,10 +197,10 @@
   "pageUrl": "10403-dr-katz-professional-therapist-a-20th-anniversary-celebration",
   "performers": [
    "10299",
-   "10288",
+   "9691",
    "10293",
    "10342",
-   "9691"
+   "10288"
   ],
   "emcees": [
    10349
@@ -354,11 +354,11 @@
   "pageUrl": "10411-hit-the-books",
   "performers": [
    "9714",
-   "9839",
-   "9505",
    "9520",
    "9484",
-   "9638"
+   "9638",
+   "9839",
+   "9505"
   ],
   "emcees": [
    9353
@@ -822,8 +822,8 @@
    "9427",
    "9661",
    "9978",
-   "9660",
-   "9879"
+   "9879",
+   "9660"
   ],
   "emcees": [
    9972
@@ -876,10 +876,10 @@
   "pageUrl": "10441-boogie-down",
   "performers": [
    "10181",
-   "9990",
    "9552",
    "10318",
    "9977",
+   "9990",
    "9662"
   ],
   "emcees": [
@@ -1242,11 +1242,11 @@
   "end_time": "2015-05-08T06:30:00.000Z",
   "pageUrl": "10460-peace-out",
   "performers": [
-   "10317",
    "9799",
    "10312",
-   "10343",
+   "10317",
    "9564",
+   "10343",
    "9919",
    "10288",
    "10293"
@@ -1503,9 +1503,9 @@
   "end_time": "2015-05-08T04:30:00.000Z",
   "pageUrl": "10706-busted",
   "performers": [
-   "9770",
-   "9439",
    "9341",
+   "9439",
+   "9770",
    "9479",
    "10341",
    "9676",
@@ -1562,13 +1562,13 @@
   "end_time": "2015-05-08T05:30:00.000Z",
   "pageUrl": "10729-new-negroes-redux",
   "performers": [
+   "9860",
    "10025",
    "9382",
+   "9787",
    "10101",
    "10214",
-   "9860",
    "9876",
-   "9787",
    "9839"
   ],
   "emcees": [
@@ -1625,9 +1625,9 @@
    "9780",
    "9808",
    "10296",
-   "9763",
-   "9601",
    "9093",
+   "9601",
+   "9763",
    "9691"
   ],
   "emcees": [
@@ -1843,11 +1843,11 @@
   "performers": [
    "9116",
    "9583",
-   "9272",
    "9827",
+   "9272",
    "9790",
-   "10350",
-   "10210"
+   "10210",
+   "10350"
   ],
   "emcees": [
    9079
@@ -1960,9 +1960,9 @@
   "end_time": "2015-05-08T03:30:00.000Z",
   "pageUrl": "10766-festival-kick-off-at-the-doug-fir",
   "performers": [
+   "9484",
    "10134",
    "9595",
-   "9484",
    "9075",
    "9483",
    "9755",
@@ -2051,9 +2051,9 @@
   "performers": [
    "9703",
    "9392",
-   "10070",
-   "9739",
    "10217",
+   "9739",
+   "10070",
    "9167",
    "10315"
   ],
