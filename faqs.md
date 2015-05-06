@@ -14,6 +14,7 @@ Apart from that, If you want to attend a single show, you can pay admission as y
 
 Note: Individual show tickets are only valid for a single show. They do not grant access for the following shows in the same venue.
 <br>
+<br>
 
 **So I bought a festival pass. What now? Where do I pick it up?**
 
