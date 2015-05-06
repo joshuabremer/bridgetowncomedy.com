@@ -40,11 +40,11 @@ published: true
   <img src="/img/venue-images/venue-revolution-hall.png" />
 </a>
 
-### Revolution Hall (Washington High)
+### Revolution Hall
 
   [www.revolutionhallpdx.com](http://www.revolutionhallpdx.com/)
 
-Suite #110, 1300 SE Stark St, Portland, OR
+1300 SE Stark St, Portland, OR
 
 [View Shows →](/venue/10384-revolution-hall)
 
