@@ -577,7 +577,7 @@
   "Name": "Blaria",
   "StartTime": "2015-05-08 21:00:00 to 2015-05-08 22:30:00",
   "EndTime": "2015-05-08 21:00:00 to 2015-05-08 22:30:00",
-  "MCId": "10348",
+  "MCId": "",
   "Cost": "$25",
   "ShowId": "10042",
   "Description": "<p>Let comedians Phoebe Robinson &amp; Jessica Williams delight you with this stand up show based on the popular blog of the same name with some of the best comics from around the country.</p>\n",
@@ -589,6 +589,7 @@
   "end_time": "2015-05-09T05:30:00.000Z",
   "pageUrl": "10425-blaria",
   "performers": [
+   "10348",
    "10043",
    "9662",
    "9876",
@@ -596,9 +597,6 @@
    "9114",
    "10233",
    "9423"
-  ],
-  "emcees": [
-   10348
   ]
  },
  {
