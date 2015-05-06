@@ -14,6 +14,7 @@ Apart from that, If you want to attend a single show, you can pay admission as y
 
 Note: Individual show tickets are only valid for a single show. They do not grant access for the following shows in the same venue.
 
+
 **So I bought a festival pass. What now? Where do I pick it up?**
 
 If you bought a standard festival pass, deluxe festival pass or Golden Ticket VIP pass, you will get a wristband to wear throughout the weekend that grants you admission to shows. Your wristband and must be worn at all times -- if you remove or lose it, you will need to purchase a new one. To pick up your festival wristband, please bring a printout of your Eventbrite receipt, or show your receipt on your smartphone, or just show a valid photo ID for the name used for your order at any of the 2015 Bridgetown Comedy Festival venues (ONLY DURING THE FESTIVAL -- the venues will have will call for Bridgetown passes set up half an hour before shows begin). [This year's Bridgetown venues are listed here on a handy map](http://www.bridgetowncomedy.com/venues).
