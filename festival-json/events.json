@@ -1188,11 +1188,10 @@
   "performers": [
    "9839",
    "9598",
-   "9505",
    "10128",
-   "10070",
    "10309",
-   "10297"
+   "10070",
+   "9505"
   ],
   "emcees": [
    9439
@@ -1259,8 +1258,8 @@
   "EventId": "10461",
   "VenueId": "10373",
   "Name": "Meet Me in the Bathroom and Tell Me All your Secrets",
-  "StartTime": "2015-05-10 21:00:00 to 2015-05-10 22:30:00",
-  "EndTime": "2015-05-10 21:00:00 to 2015-05-10 22:30:00",
+  "StartTime": "2015-05-10 21:30:00 to 2015-05-10 23:00:00",
+  "EndTime": "2015-05-10 21:30:00 to 2015-05-10 23:00:00",
   "MCId": "9167",
   "Cost": "$25",
   "ShowId": "10045",
@@ -1269,8 +1268,8 @@
   "show": "10045",
   "id": "10461",
   "venue": "10373",
-  "start_time": "2015-05-11T04:00:00.000Z",
-  "end_time": "2015-05-11T05:30:00.000Z",
+  "start_time": "2015-05-11T04:30:00.000Z",
+  "end_time": "2015-05-11T06:00:00.000Z",
   "pageUrl": "10461-meet-me-in-the-bathroom-and-tell-me-all-your-secrets",
   "performers": [
    "10312",
@@ -1697,7 +1696,7 @@
   "StartTime": "2015-05-10 16:00:00 to 2015-05-10 18:00:00",
   "EndTime": "2015-05-10 16:00:00 to 2015-05-10 18:00:00",
   "MCId": "10794",
-  "Cost": "$30",
+  "Cost": "$25",
   "ShowId": "11000",
   "Description": "<p>Self destructive writer Dan Harmon (\"Community,\" \"Rick and Morty,\" \"Heat Vision and Jack\") claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis (\"Whose Line is it Anyway?\") as his Comptroller.</p>\n",
   "iTunes Url": "https://itunes.apple.com/us/podcast/harmontown/id542228532?mt=2",
