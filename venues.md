@@ -17,7 +17,7 @@ published: true
 
   [www.dougfirlounge.com](http://www.dougfirlounge.com/)
 
-830 E. Burnside St., Portland, OR
+830 E Burnside Street, Portland, OR 97214
 
 [View Shows →](/venue/10373-kill-rock-stars-stage-at-doug-fir-lounge)
 
@@ -30,7 +30,7 @@ published: true
 
   [www.bossanovaballroom.com](http://www.bossanovaballroom.com)
 
-722 E Burnside, Portland, OR
+722 E Burnside Street, Portland, OR 97214
 
 [View Shows →](/venue/10374-mailchimp-stage-at-bossanova-ballroom)
 
@@ -44,7 +44,7 @@ published: true
 
   [www.revolutionhallpdx.com](http://www.revolutionhallpdx.com/)
 
-1300 SE Stark St, Portland, OR
+1300 SE Stark Street, Portland, OR 97214
 
 [View Shows →](/venue/10384-revolution-hall)
 
@@ -58,7 +58,7 @@ published: true
 
   [www.norsehall.org](/venue/10375-norse-hall)
 
-111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR
+111 NE 11th Avenue (at NE Couch Street), Portland, OR 97232
 
 [View Shows →](/venue/10375-norse-hall)
 
@@ -72,14 +72,14 @@ published: true
 
   [www.rotture.com](http://www.rotture.com)
 
-315 SE 3rd Ave, Portland, OR
+315 SE 3rd Avenue, Portland, OR 97214
 
 [View Shows for Rotture Lower→](/venue/10377-rotture-lower)
 
 [View Shows for Rotture Upper→](/venue/10376-rotture-upper)
 
 
-
+n
 <a href="/venue/10379-my-fathers-place">
   <img src="/img/venue-images/venue-my-fathers-place.png" />
 </a>
@@ -88,7 +88,7 @@ published: true
 
 [myfathersplacepdx.com](http://myfathersplacepdx.com/)
 
-523 SE Grand Ave, Portland, OR 97214
+523 SE Grand Avenue, Portland, OR 97214
 	
 [View Shows →](/venue/10379-my-fathers-place)
 
@@ -102,7 +102,7 @@ published: true
 
   [www.bunksandwiches.com/bunkbar](http://www.bunksandwiches.com/bunkbar/)
 
-1028 SE Water, Portland, OR
+1028 SE Water Street, Portland, OR 97214
 
 [View Shows →](/venue/10378-bunk)
 
@@ -116,6 +116,6 @@ published: true
 
   [www.boogiesburgersandbrew.com](http://www.boogiesburgersandbrew.com/)
 
-910 E Burnside St, Portland, OR
+910 E Burnside Street, Portland, OR 97214
 
 [View Shows →](/venue/10380-boogies-burgers)
