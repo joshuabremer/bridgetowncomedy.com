@@ -14,11 +14,9 @@ Note: Individual show tickets are only valid for a single show. They do not gran
 
 **I heard Obama is visiting Portland on Thursday and Friday. What gives?**
 
-Bad timing, right? We're hoping POTUS doesn't interfere with Bridgetown transportation too much, but who knows? Here are tips on avoiding Secret Service-related traffic problems:
+Bad timing, right? We're hoping POTUS doesn't interfere with Bridgetown transportation too much, but who knows? If you're looking for tips on avoiding Secret Service-related traffic problems, here's the [OregonLive writeup about Obama's visit](http://www.oregonlive.com/commuting/index.ssf/2015/05/obama_portland_visit_traffic_t.html) and [here's KATU's article](http://www.katu.com/politics/President-Barack-Obama-visit-to-Portland-this-week-to-cause-traffic-delays-302676791.html).
 
-http://www.oregonlive.com/commuting/index.ssf/2015/05/obama_portland_visit_traffic_t.html
 
-http://www.katu.com/politics/President-Barack-Obama-visit-to-Portland-this-week-to-cause-traffic-delays-302676791.html
 
 **So I bought a festival pass. What now? Where do I pick it up?**
 
