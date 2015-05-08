@@ -24,6 +24,12 @@ Note that we'll also allow early will call pickup on Wednesday, May 6th at Analo
 <br>
 <br>
 
+**Where does the K Ohle Bus pick people up for Saturday's show?**
+
+We'll be having people line up at Boogie's Burgers & Brew at 910 E. Burnside St. to get on the bus for The K Ohle With Kurt Braunohler. With a 2:00 start time, we recommend lining up at least half an hour early. The bus fits fewer than 50 people, so it's going to be a bit tough to get on, but we'll seat people according to the line that forms. Standard and deluxe passes grant admission to the bus, or people can pay the admission fee as they board until the bus hits capacity and shepherds you to parts unknown!
+<br>
+<br>
+
 **I heard Obama is visiting Portland on Thursday and Friday. What gives?**
 
 Bad timing, right? We're hoping POTUS doesn't interfere with Bridgetown transportation too much, but who knows? If you're looking for tips on avoiding Secret Service-related traffic problems, here's the [OregonLive writeup about Obama's visit](http://www.oregonlive.com/commuting/index.ssf/2015/05/obama_portland_visit_traffic_t.html) and [here's KATU's article](http://www.katu.com/politics/President-Barack-Obama-visit-to-Portland-this-week-to-cause-traffic-delays-302676791.html).
