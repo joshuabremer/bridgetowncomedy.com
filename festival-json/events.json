@@ -2215,5 +2215,34 @@
   "emcees": [
    10192
   ]
+ },
+ {
+  "EventId": "11148",
+  "VenueId": "10380",
+  "Name": "Boogie's Last Stand",
+  "StartTime": "2015-05-10 19:30:00 to 2015-05-10 21:00:00",
+  "EndTime": "2015-05-10 19:30:00 to 2015-05-10 21:00:00",
+  "MCId": "9846",
+  "Cost": "",
+  "ShowId": "",
+  "Description": "",
+  "iTunes Url": "",
+  "id": "11148",
+  "venue": "10380",
+  "start_time": "2015-05-11T02:30:00.000Z",
+  "end_time": "2015-05-11T04:00:00.000Z",
+  "pageUrl": "11148-boogies-last-stand",
+  "performers": [
+   "9327",
+   "9977",
+   "9439",
+   "9583",
+   "9953",
+   "9427",
+   "9691"
+  ],
+  "emcees": [
+   9846
+  ]
  }
 ]
