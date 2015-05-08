@@ -1200,7 +1200,8 @@
   "ExcludeFromList": false,
   "SortOrder": 55,
   "events": [
-   "10441"
+   "10441",
+   "10442"
   ],
   "mc_events": [
    "10453"
@@ -2263,6 +2264,7 @@
   "SortOrder": 105,
   "events": [
    "10392",
+   "10416",
    "10449",
    "10779"
   ],
