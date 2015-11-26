@@ -39,38 +39,38 @@ else
     exit 1
 fi
 
-echo "\n\n\n\n======================================"
-echo "Refreshing Festival Data..."
-echo "======================================\n\n"
+# echo "\n\n\n\n======================================"
+# echo "Refreshing Festival Data..."
+# echo "======================================\n\n"
 
-if node _node_scripts/build.js ; then
-    :
-else
-    echo "Node Build Failed"
-    exit 1
-fi
+# if node _node_scripts/build.js ; then
+#     :
+# else
+#     echo "Node Build Failed"
+#     exit 1
+# fi
 
-if [ -z "$(git status --porcelain)" ]; then
-  echo "No changes!"
-  #exit 1
-else
-  git add .;
-  numberfileschanges=$(git diff --cached --numstat | wc -l);
-  commitdiff=$(git --no-pager diff --name-status;);
-  git commit -a -m "Updated site - ${numberfileschanges} files changed" -m "${commitdiff}";
-fi
+# if [ -z "$(git status --porcelain)" ]; then
+#   echo "No changes!"
+#   #exit 1
+# else
+#   git add .;
+#   numberfileschanges=$(git diff --cached --numstat | wc -l);
+#   commitdiff=$(git --no-pager diff --name-status;);
+#   git commit -a -m "Updated site - ${numberfileschanges} files changed" -m "${commitdiff}";
+# fi
 
-echo "\n\n\n\n======================================"
-echo "Files changed:"
-echo "======================================"
-git --no-pager diff --name-status;
+# echo "\n\n\n\n======================================"
+# echo "Files changed:"
+# echo "======================================"
+# git --no-pager diff --name-status;
 
-if git push origin master ; then
-    :
-else
-    echo "Git push failed"
-    exit 1
-fi
+# if git push origin master ; then
+#     :
+# else
+#     echo "Git push failed"
+#     exit 1
+# fi
 
 echo "\n\n\n\n======================================"
 echo "Building Ember App..."
@@ -98,13 +98,13 @@ cd ./../;
 echo "\n\n\n\n======================================"
 echo "Syncing Images..."
 echo "======================================\n\n"
-rsync -rv --size-only --delete ./bridgetown-ember/dist/festival-json/ ./festival-json;
+rsync -rv --size-only --delete ./bridgetown-ember/dist/api/ ./api;
 rsync -rv --size-only --delete ./bridgetown-ember/dist/assets/ ./assets;
 rsync -rv --size-only --delete ./bridgetown-ember/dist/img/ ./img;
-echo "\n\n\n\n======================================"
-echo "Building Jekyll Pages..."
-echo "======================================\n\n"
-node _node_scripts/build.js;
+# echo "\n\n\n\n======================================"
+# echo "Building Jekyll Pages..."
+# echo "======================================\n\n"
+# node _node_scripts/build.js;
 
 
 echo "\n\n\n\n======================================"
