@@ -1,24 +1,20 @@
-var http = require('http');
-var exec = require('child_process').exec;
-var fs = require('fs');
-var easyimg = require('easyimage');
-var smushit = require('node-smushit');
-var util = require('./utilities');
-var festivalData = require('./festival-data');
-var wrench = require('wrench');
-var ObjectBuilder = require('./object_builder');
-var colors = require('colors');
+const fs = require('fs');
+const util = require('./utilities');
+const festivalData = require('./festival-data');
+const wrench = require('wrench');
+const ObjectBuilder = require('./object-builder');
 
 
-PerformerBuilder = ObjectBuilder.extend({
+const PerformerBuilder = ObjectBuilder.extend({
   TMP_PATH: festivalData.tmpPerformersPath,
   API_PATH: '../api/performers.json',
 
   normalizeData: function() {
-    var performerObj = festivalData.getPerformerObject();
+    var key,
+        performerObj = festivalData.getPerformerObject();
 
 
-    for (var key in performerObj) {
+    for (key in performerObj) {
       // Delete PLACE HOLDER
       if (performerObj[key].Name === 'PLACE HOLDER') {
         var index = performerObj.indexOf(performerObj[key]);
@@ -29,7 +25,7 @@ PerformerBuilder = ObjectBuilder.extend({
       }
     }
 
-    for (var key in performerObj) {
+    for (key in performerObj) {
       performerObj[key].id = performerObj[key].PerformerId;
 
       // Create page URLs
@@ -63,11 +59,10 @@ PerformerBuilder = ObjectBuilder.extend({
 
   addRelationships: function() {
     var performerObj = festivalData.getPerformerObject();
-    var scheduleObj = festivalData.getScheduleObject();
 
     for (var key in performerObj) {
-      performerObj[key].events = festivalData.getEventsForPerformer(performerObj[key].id)
-      performerObj[key].mc_events = festivalData.getMCEventsForPerformer(performerObj[key].id)
+      performerObj[key].events = festivalData.getEventsForPerformer(performerObj[key].id);
+      performerObj[key].mc_events = festivalData.getMCEventsForPerformer(performerObj[key].id);
     }
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, null, ' '), 'utf8');
   },
@@ -84,7 +79,6 @@ PerformerBuilder = ObjectBuilder.extend({
     fs.mkdirSync('./performer');
 
     for (var key in performerObj) {
-      var fileName = util.convertToSlug(performerObj[key].Name);
       var dirPath = rootPath + performerObj[key].pageUrl;
       var filePath = dirPath + '/index.html';
 
@@ -108,12 +102,12 @@ PerformerBuilder = ObjectBuilder.extend({
   },
 
   createHeadshots: function() {
-    var performerObj = festivalData.getPerformerObject();
+    // var performerObj = festivalData.getPerformerObject();
 
-    for (var key in performerObj) {
-      var item = performerObj[key];
+    // for (var key in performerObj) {
+    //   var item = performerObj[key];
       //this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'performer');
-    }
+    // }
   // curl -z tmp/aaronweaver.jpg http://localhost:4000/img/performer-images/performer-aaronweaver-300x300.jpg -o tmp/aaronweaver.jpg
   }
 });

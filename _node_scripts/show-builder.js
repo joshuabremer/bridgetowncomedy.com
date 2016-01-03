@@ -1,13 +1,9 @@
-const http = require('http');
 const fs = require('fs');
-const easyimg = require('easyimage');
-const smushit = require('node-smushit');
 const util = require('./utilities');
 const festivalData = require('./festival-data');
 const wrench = require('wrench');
-const request = require('request');
 
-const ObjectBuilder = require('./object_builder');
+const ObjectBuilder = require('./object-builder');
 
 const ShowBuilder = ObjectBuilder.extend({
   TMP_PATH: festivalData.tmpShowsPath,
@@ -28,10 +24,9 @@ const ShowBuilder = ObjectBuilder.extend({
 
   addRelationships: function() {
     var showObj = festivalData.getShowObject();
-    var eventObj = festivalData.getEventData();
 
     for (var key in showObj) {
-      showObj[key].events = festivalData.getEventsForShow(showObj[key].id)
+      showObj[key].events = festivalData.getEventsForShow(showObj[key].id);
     }
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, null, ' '), 'utf8');
   },
@@ -48,7 +43,6 @@ const ShowBuilder = ObjectBuilder.extend({
     fs.mkdirSync('./show');
 
     for (var key in showObj) {
-      var fileName = util.convertToSlug(showObj[key].Name);
       var dirPath = rootPath + showObj[key].pageUrl;
       var filePath = dirPath + '/index.html';
 
@@ -71,12 +65,12 @@ const ShowBuilder = ObjectBuilder.extend({
   },
 
   createHeadshots: function() {
-    var showObj = festivalData.getShowObject();
+    // var showObj = festivalData.getShowObject();
 
-    for (var key in showObj) {
-      var item = showObj[key];
+    // for (var key in showObj) {
+      //var item = showObj[key];
       // this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'show')
-    }
+    // }
   }
 });
 

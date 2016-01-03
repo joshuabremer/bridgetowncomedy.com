@@ -1,7 +1,4 @@
-var http = require('http');
 var fs = require('fs');
-var stripBom = require('strip-bom');
-var util = require('./utilities');
 
 function FestivalData() {
   this.tmpEventsPath = __dirname + '/tmp/events.json';
@@ -13,43 +10,43 @@ function FestivalData() {
 
 FestivalData.prototype.getEventObject = function() {
   return JSON.parse(this.getEventData());
-}
+};
 
 FestivalData.prototype.getEventData = function() {
   return fs.readFileSync(this.tmpEventsPath, 'utf8');
-}
+};
 
 FestivalData.prototype.getVenueObject = function() {
   return JSON.parse(this.getVenueData());
-}
+};
 
 FestivalData.prototype.getVenueData = function() {
   return fs.readFileSync(this.tmpVenuesPath, 'utf8');
-}
+};
 
 FestivalData.prototype.getPerformerObject = function() {
   return JSON.parse(this.getPerformerData());
-}
+};
 
 FestivalData.prototype.getPerformerData = function() {
   return fs.readFileSync(this.tmpPerformersPath, 'utf8');
-}
+};
 
 FestivalData.prototype.getShowObject = function() {
   return JSON.parse(this.getShowData());
-}
+};
 
 FestivalData.prototype.getShowData = function() {
   return fs.readFileSync(this.tmpShowsPath, 'utf8');
-}
+};
 
 FestivalData.prototype.getScheduleObject = function() {
   return JSON.parse(this.getScheduleData());
-}
+};
 
 FestivalData.prototype.getScheduleData = function() {
   return fs.readFileSync(this.tmpSchedulePath, 'utf8');
-}
+};
 
 FestivalData.prototype.getPerformersForEvents = function(id) {
   var scheduleObj = this.getScheduleObject();
@@ -63,11 +60,10 @@ FestivalData.prototype.getPerformersForEvents = function(id) {
     }
   }
   return returnArray;
-}
+};
 
 FestivalData.prototype.getDescriptionForEvent = function(id) {
   var scheduleObj = this.getScheduleObject();
-  var returnArray = [];
   for (var key in scheduleObj) {
     var idCheck = parseInt(scheduleObj[key].EventId, 10);
 
@@ -76,7 +72,7 @@ FestivalData.prototype.getDescriptionForEvent = function(id) {
     }
   }
   return '';
-}
+};
 
 FestivalData.prototype.getEventsForPerformer = function(id) {
   var scheduleObj = this.getScheduleObject();
@@ -88,7 +84,7 @@ FestivalData.prototype.getEventsForPerformer = function(id) {
     }
   }
   return returnArray;
-}
+};
 
 FestivalData.prototype.getMCEventsForPerformer = function(id) {
   var eventObj = this.getEventObject();
@@ -100,7 +96,7 @@ FestivalData.prototype.getMCEventsForPerformer = function(id) {
     }
   }
   return returnArray;
-}
+};
 
 FestivalData.prototype.doesEventExistForId = function(id) {
   var eventObj = this.getEventObject();
@@ -113,7 +109,7 @@ FestivalData.prototype.doesEventExistForId = function(id) {
     }
   }
   return false;
-}
+};
 
 FestivalData.prototype.getEventsForShow = function(id) {
   var eventObj = this.getEventObject();
@@ -125,7 +121,7 @@ FestivalData.prototype.getEventsForShow = function(id) {
     }
   }
   return returnArray;
-}
+};
 
 FestivalData.prototype.doesPerformerExistForId = function(id) {
 
@@ -139,7 +135,7 @@ FestivalData.prototype.doesPerformerExistForId = function(id) {
     }
   }
   return false;
-}
+};
 
 FestivalData.prototype.doesEventExistForId = function(id) {
   var eventObj = this.getEventObject();
@@ -152,6 +148,6 @@ FestivalData.prototype.doesEventExistForId = function(id) {
     }
   }
   return false;
-}
+};
 
 module.exports = new FestivalData();

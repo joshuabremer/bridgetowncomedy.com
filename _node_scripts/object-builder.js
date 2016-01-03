@@ -1,13 +1,10 @@
-var http = require("http");
-var fs = require("fs");
-var easyimg = require("easyimage");
-var smushit = require("node-smushit");
-var util = require("./utilities");
-var festivalData = require("./festival-data");
-var wrench = require("wrench");
-var Class = require("./class_inheritance.js");
+const http = require('http');
+const fs = require('fs');
+const easyimg = require('easyimage');
+const util = require('./utilities');
+const Class = require('./lib/class-inheritance.js');
 
-var ObjectBuilder = Class.extend({
+const ObjectBuilder = Class.extend({
   TMP_PATH: null,
   FIXTURES_PATH: null,
 
@@ -16,14 +13,14 @@ var ObjectBuilder = Class.extend({
     this.addRelationships();
     this.writeToFixtureFile();
     //this.createStaticPages();
-    console.log("Finished: " + this.API_PATH);
+    console.log('Finished: ' + this.API_PATH);
   },
 
-  normalizeData: function(filepath) {
+  normalizeData: function(/*filepath*/) {
     // Override this...
   },
 
-  addRelationships: function(filepath) {
+  addRelationships: function(/*filepath*/) {
     // Override this...
   },
 
@@ -42,7 +39,7 @@ var ObjectBuilder = Class.extend({
       dst: imgDest,
       quality: 80
     })
-      .then(function(file) {
+      .then(function(/*file*/) {
         easyimg.thumbnail({
           src: imgDest,
           dst: imgDest,
@@ -52,16 +49,16 @@ var ObjectBuilder = Class.extend({
           y: 0,
           fill: fill
         },
-          function(err, image) {
+          function(err/*, image*/) {
             if (err) {
-              var errMsg = "Error resizing: " + imgDest;
+              var errMsg = 'Error resizing: ' + imgDest;
               console.log(errMsg.red);
               return;
             }
           //smushit.smushit(imgDest);
-          //console.log("Resized and cropped: " + image.width + " x " + image.height + " | " + imgDest);
+          //console.log('Resized and cropped: ' + image.width + ' x ' + image.height + ' | ' + imgDest);
           // fs.unlink(imgSrc, function() {
-          //  console.log("Deleted tmp file: " + imgSrc);
+          //  console.log('Deleted tmp file: ' + imgSrc);
           // });
           })
           .catch(function(err) {
@@ -72,11 +69,8 @@ var ObjectBuilder = Class.extend({
 
   buildImageFromURL: function(name, url, prefix) {
     var _this = this;
-    var filename = url.replace(/^.*[\\\/]/, "");
-
-    var _this = this;
-    var filename = url.replace(/^.*[\\\/]/, "");
-    var file = fs.createWriteStream("tmp/" + filename);
+    var filename = url.replace(/^.*[\\\/]/, '');
+    var file = fs.createWriteStream('tmp/' + filename);
 
     var request = http.get(url, function(response) {
       //console.log("Created: " + "tmp/" + filename);
@@ -86,49 +80,48 @@ var ObjectBuilder = Class.extend({
         _this.buildThumbnail("tmp/" + filename, "public/img/" + prefix + "-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
       });
     });
-    request.on("error", function(e) {
-      var errMsg = "Error downloading image: " + e.message;
+    request.on("error", function(/*err*/) {
       setTimeout(function() {
-        _this.buildImageFromURL.call(_this, name, url, prefix)
-      }, 1000 * Math.random())
+        _this.buildImageFromURL.call(_this, name, url, prefix);
+      }, 1000 * Math.random());
 
     });
   },
 
   buildImageFromURLIfUpdated: function(name, url, prefix) {
     var _this = this;
-    var filename = url.replace(/^.*[\\\/]/, "");
+    var filename = url.replace(/^.*[\\\/]/, '');
     var options = {
       method: 'HEAD',
       host: 'bridgetown.festivalthing.com',
       port: 80,
-      path: url.replace("http://bridgetown.festivalthing.com", "")
+      path: url.replace('http://bridgetown.festivalthing.com', '')
     };
 
-    if (!fs.existsSync("public/img/" + prefix + "-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg")) {
+    if (!fs.existsSync('public/img/' + prefix + '-images/' + prefix + '-' + util.cleanStr(name) + '-300x300.jpg')) {
       this.buildImageFromURL.call(_this, name, url, prefix);
       return;
     }
 
     var req = http.get(options, function(res) {
-      var lastModified = res.headers["last-modified"] || "Sun, 1 Jan 2050 00:00:00 GMT";
-      if (!fs.existsSync("tmp/" + filename)) {
-        _this.buildImageFromURL.call(_this, name, url, prefix)
+      var lastModified = res.headers['last-modified'] || 'Sun, 1 Jan 2050 00:00:00 GMT';
+      if (!fs.existsSync('tmp/' + filename)) {
+        _this.buildImageFromURL.call(_this, name, url, prefix);
         return;
       }
-      var fileModified = fs.statSync("tmp/" + filename).mtime;
+      var fileModified = fs.statSync('tmp/' + filename).mtime;
       if (new Date(lastModified) > new Date(fileModified)) {
         _this.buildImageFromURL.call(_this, name, url, prefix);
       } else {
-        process.stdout.write(".".green);
+        process.stdout.write('.'.green);
       }
     }
     );
 
-    req.on("error", function(e) {
+    req.on('error', function(/*err*/) {
       setTimeout(function() {
-        _this.buildImageFromURLIfUpdated.call(_this, name, url, prefix)
-      }, 1000 * Math.random())
+        _this.buildImageFromURLIfUpdated.call(_this, name, url, prefix);
+      }, 1000 * Math.random());
     });
   }
 });
