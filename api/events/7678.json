@@ -1,0 +1,19 @@
+{
+  "id": 7678,
+  "performers": [
+    "6379",
+    "6696",
+    "6157",
+    "6402",
+    "5867",
+    "6123"
+  ],
+  "emcee": 6359,
+  "venue": 7608,
+  "show": "6356",
+  "name": "All That Could Have Been",
+  "startDateTime": "2014-05-11T02:00:00.000Z",
+  "endDateTime": "2014-05-11T03:30:00.000Z",
+  "price": 15,
+  "pageUrl": "7678-all-that-could-have-been"
+}

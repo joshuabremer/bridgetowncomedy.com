@@ -1,0 +1,19 @@
+{
+  "id": 7808,
+  "performers": [
+    "6074",
+    "6723",
+    "7823",
+    "7825",
+    "6857",
+    "6864"
+  ],
+  "emcee": 7824,
+  "venue": 7619,
+  "show": "7822",
+  "name": "Portland Masters",
+  "startDateTime": "2014-05-11T02:00:00.000Z",
+  "endDateTime": "2014-05-11T03:30:00.000Z",
+  "price": 20,
+  "pageUrl": "7808-portland-masters"
+}

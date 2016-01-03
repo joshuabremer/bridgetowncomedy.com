@@ -7,6 +7,7 @@ const ObjectBuilder = require('./object-builder');
 
 module.exports = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
+    'id',
     'performers',
     'events',
     'emceeEvents',
@@ -40,14 +41,16 @@ module.exports = ObjectBuilder.extend({
     }
 
     for (key in performerObj) {
-      performerObj[key].id = performerObj[key].PerformerId;
+      performerObj[key].id = Number(performerObj[key].PerformerId);
+      performerObj[key].name = performerObj[key].Name;
+      performerObj[key].twitter = performerObj[key].Twitter || '';
+      performerObj[key].bio = performerObj[key].Bio;
 
       // Create page URLs
       performerObj[key].pageUrl = performerObj[key].id + '-' + util.convertToSlug(performerObj[key].name);
       performerObj[key].ExcludeFromList = (performerObj[key].ExcludeFromList === 'Yes' ? true : false);
 
-      performerObj[key].bio = performerObj[key].Bio;
-      performerObj[key].bio = performerObj[key].bio || '';
+
       performerObj[key].bio = performerObj[key].bio.replace(/\\u2028/g, '');
       performerObj[key].bio = performerObj[key].bio.replace(/\\u2018/g, '&#x2018;');
       performerObj[key].bio = performerObj[key].bio.replace(/\\u2019/g, '&#x2019;');
@@ -60,9 +63,7 @@ module.exports = ObjectBuilder.extend({
       performerObj[key].bio = performerObj[key].bio.replace(/\\u2014/g, '&#x2014;');
       performerObj[key].bio = performerObj[key].bio.replace(/\\u00e9/g, '&#x00e9;');
       performerObj[key].bio = performerObj[key].bio.replace(/\\u00e1/g, '&#x00e1;');
-      performerObj[key].sortOrder = performerObj[key].Position;
-      performerObj[key].sortOrder = parseInt(performerObj[key].SortOrder, 10) || 99999;
-
+      performerObj[key].sortOrder = Number(performerObj[key].Position) || 99999;
       performerObj[key].twitter = performerObj[key].twitter.replace('@', '');
 
 
@@ -83,42 +84,6 @@ module.exports = ObjectBuilder.extend({
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, null, ' '), 'utf8');
   },
 
-  writeToFixtureFile: function() {
-    const performerData = {
-      performers: festivalData.getPerformerObject()
-    };
-    fs.writeFileSync(this.API_PATH, JSON.stringify(performerData, this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
-  },
-
-  createStaticPages: function() {
-    var performerObj = festivalData.getPerformerObject();
-    var rootPath = './performer/';
-    wrench.rmdirSyncRecursive('./performer', true);
-    fs.mkdirSync('./performer');
-
-    for (var key in performerObj) {
-      var dirPath = rootPath + performerObj[key].pageUrl;
-      var filePath = dirPath + '/index.html';
-
-      if (!fs.existsSync(dirPath)) {
-        fs.mkdirSync(dirPath);
-      }
-      fs.openSync(filePath, 'w');
-      process.stdout.write('.');
-      fs.appendFileSync(filePath, '---\n');
-      fs.appendFileSync(filePath, 'layout: page\n');
-      fs.appendFileSync(filePath, 'title: \'' + performerObj[key].name + '\'\n');
-      fs.appendFileSync(filePath, 'category: performer \n');
-      fs.appendFileSync(filePath, 'featuredimage: \'/img/performer-images/performer-' + util.cleanStr(performerObj[key].name) + '-300x300.jpg\'\n');
-      fs.appendFileSync(filePath, '---\n\n');
-
-      fs.appendFileSync(filePath, util.htmlToText(performerObj[key].bio));
-    }
-
-    var message = '\n' + performerObj.length + ' performer pages created\n';
-    console.log(message.green);
-  },
-
   createHeadshots: function() {
     // var performerObj = festivalData.getPerformerObject();
 
@@ -131,9 +96,9 @@ module.exports = ObjectBuilder.extend({
 
   createStaticPages: function() {
     var performerObj = festivalData.getPerformerObject();
-    var rootPath = "../performer/";
-    wrench.rmdirSyncRecursive("../performer", true);
-    fs.mkdirSync("../performer");
+    var rootPath = '../performer/';
+    wrench.rmdirSyncRecursive('../performer', true);
+    fs.mkdirSync('../performer');
 
     for (var key in performerObj) {
       var dirPath = rootPath + performerObj[key].pageUrl;
@@ -144,17 +109,17 @@ module.exports = ObjectBuilder.extend({
       }
       fs.openSync(filePath, 'w');
       process.stdout.write('.');
-      fs.appendFileSync(filePath, "---\n");
-      fs.appendFileSync(filePath, "layout: page\n");
-      fs.appendFileSync(filePath, "title: \"" + performerObj[key].name + "\"\n");
-      fs.appendFileSync(filePath, "category: performer \n");
-      fs.appendFileSync(filePath, "featuredimage: \"/img/performer-images/performer-" + util.cleanStr(performerObj[key].name) + "-300x300.jpg\"\n");
-      fs.appendFileSync(filePath, "---\n\n");
+      fs.appendFileSync(filePath, '---\n');
+      fs.appendFileSync(filePath, 'layout: page\n');
+      fs.appendFileSync(filePath, 'title: "' + performerObj[key].name + '"\n');
+      fs.appendFileSync(filePath, 'category: performer \n');
+      fs.appendFileSync(filePath, 'featuredimage: "/img/performer-images/performer-' + util.cleanStr(performerObj[key].name) + '-300x300.jpg"\n');
+      fs.appendFileSync(filePath, '---\n\n');
 
       fs.appendFileSync(filePath, util.htmlToText(performerObj[key].bio));
     }
 
-    var message = "\n" + performerObj.length + " performer pages created\n";
+    var message = '\n' + performerObj.length + ' performer pages created\n';
     console.log(message);
   }
 });

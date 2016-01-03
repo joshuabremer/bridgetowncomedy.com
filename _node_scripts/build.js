@@ -34,21 +34,25 @@ Q.all([
   util.requestJsonAndSave(FESTIVALTHING_SHOWS_URL, TMP_SHOWS_PATH)
 ]).then(function() {
 
-  const venueBuilder = new VenueBuilder();
+  const venueBuilder      = new VenueBuilder();
+  const eventBuilder      = new EventBuilder();
+  const showBuilder       = new ShowBuilder();
+  const performerBuilder  = new PerformerBuilder();
+
+
   venueBuilder.buildFixtures();
   venueBuilder.createJSONAPI();
 
-  const eventBuilder = new EventBuilder();
   eventBuilder.buildFixtures();
   eventBuilder.createJSONAPI();
 
-  const showBuilder = new ShowBuilder();
+
   showBuilder.buildFixtures();
   // showBuilder.createHeadshots();
   showBuilder.createStaticPages();
   showBuilder.createJSONAPI();
 
-  const performerBuilder = new PerformerBuilder();
+
   performerBuilder.buildFixtures();
   // performerBuilder.createHeadshots();
   performerBuilder.createStaticPages();

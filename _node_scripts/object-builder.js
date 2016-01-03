@@ -10,8 +10,12 @@ const ObjectBuilder = Class.extend({
   TMP_PATH: null,
   FIXTURES_PATH: null,
 
-  buildFixtures: function() {
+  init: function() {
     this.normalizeData();
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(this.currentObject(), this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
+  },
+
+  buildFixtures: function() {
     this.addRelationships();
     this.writeToFixtureFile();
     //this.createStaticPages();
@@ -27,7 +31,9 @@ const ObjectBuilder = Class.extend({
   },
 
   writeToFixtureFile: function() {
-    // Override this...
+    var data = {};
+    data[this.MODEL_NAME + 's'] = this.currentObject();
+    fs.writeFileSync(this.API_PATH, JSON.stringify(data, this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
   },
 
   createStaticPages: function() {

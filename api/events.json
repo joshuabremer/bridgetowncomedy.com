@@ -1,1219 +1,2153 @@
 {
   "events": [
     {
+      "id": 7621,
+      "performers": [
+        "5976",
+        "6564",
+        "5951",
+        "6608",
+        "6408",
+        "7579"
+      ],
+      "emcee": 6674,
+      "venue": 7608,
+      "name": "Alhambra Lounge Primetime",
+      "startDateTime": "2014-05-09T04:00:00.000Z",
+      "endDateTime": "2014-05-09T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7621-alhambra-lounge-primetime"
+    },
+    {
+      "id": 7622,
+      "performers": [
+        "6363",
+        "6413",
+        "6162",
+        "6325",
+        "6123",
+        "6205",
+        "6859"
+      ],
+      "emcee": 6681,
+      "venue": 7618,
+      "name": "MailChimp Stage at the White Owl Social Club Primetime",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7622-mailchimp-stage-at-the-white-owl-social-club-primetime"
+    },
+    {
+      "id": 7623,
+      "performers": [
+        "6766",
+        "6702",
+        "6536",
+        "5918",
+        "6696",
+        "6029",
+        "6065"
+      ],
+      "emcee": 6456,
+      "venue": 7608,
+      "name": "Alhambra Lounge Early Show",
+      "startDateTime": "2014-05-10T03:00:00.000Z",
+      "endDateTime": "2014-05-10T04:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7623-alhambra-lounge-early-show"
+    },
+    {
+      "id": 7624,
+      "performers": [
+        "5806",
+        "5867",
+        "6402",
+        "6822",
+        "6805",
+        "6614",
+        "7579"
+      ],
+      "emcee": 5889,
+      "venue": 7612,
+      "name": "Squarespace Stage at the Doug Fir Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7624-squarespace-stage-at-the-doug-fir-primetime"
+    },
+    {
+      "id": 7625,
+      "performers": [
+        "7785",
+        "5730",
+        "6825",
+        "6110",
+        "6065",
+        "6863",
+        "7579"
+      ],
+      "emcee": 6591,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Late Show",
+      "startDateTime": "2014-05-10T06:00:00.000Z",
+      "endDateTime": "2014-05-10T07:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7625-sizzle-pie-stage-at-the-eagles-lodge-late-show"
+    },
+    {
+      "id": 7627,
       "performers": [],
-      "venue": "10374",
-      "pageUrl": "10383-digital-penetration-finding-your-audience-in-2015"
+      "emcee": 5999,
+      "venue": 7619,
+      "name": "Analog Theater Late Show",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7627-analog-theater-late-show"
     },
     {
+      "id": 7628,
       "performers": [
-        "10343",
-        "9272",
-        "10350",
-        "10297"
+        "6049",
+        "6162",
+        "6591",
+        "6392",
+        "5938",
+        "6371"
       ],
-      "venue": "10373",
-      "show": "9936",
-      "pageUrl": "10388-sexpot-comedy-presents-uncalled-four"
+      "emcee": 5918,
+      "venue": 7608,
+      "name": "Alhambra Lounge Late Show",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7628-alhambra-lounge-late-show"
     },
     {
+      "id": 7632,
       "performers": [
-        "9381",
-        "9953",
-        "9876",
-        "9144",
-        "9979",
-        "9238",
-        "9445"
+        "5999",
+        "6687",
+        "6276",
+        "5806",
+        "6704",
+        "6065",
+        "6205",
+        "6805"
       ],
-      "emcees": [
-        10189
-      ],
-      "venue": "10377",
-      "pageUrl": "10391-lets-do-it-with-bri-pruett"
+      "emcee": 6157,
+      "venue": 7608,
+      "name": "Alhambra Lounge Closing Show",
+      "startDateTime": "2014-05-12T04:00:00.000Z",
+      "endDateTime": "2014-05-12T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7632-alhambra-lounge-closing-show"
     },
     {
+      "id": 7637,
       "performers": [
-        "9087",
-        "10666",
-        "9105",
-        "9212",
-        "10787",
-        "10119",
-        "10044",
-        "9446"
+        "6049",
+        "6134",
+        "6727",
+        "6130",
+        "6337",
+        "7895",
+        "6858"
       ],
-      "emcees": [
-        10188
-      ],
-      "venue": "10376",
-      "pageUrl": "10392-in-the-heath-of-the-night-with-veronica-heath"
+      "emcee": 6118,
+      "venue": 7609,
+      "name": "Taxi Magic Stage at Alhambra Theater Opening Show",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7637-taxi-magic-stage-at-alhambra-theater-opening-show"
     },
     {
+      "id": 7638,
       "performers": [
-        "9846",
-        "9177",
-        "10128",
-        "10031",
-        "9096"
+        "6659",
+        "6849",
+        "6858",
+        "5998"
       ],
-      "emcees": [
-        9326
-      ],
-      "venue": "10379",
-      "pageUrl": "10394-grand-illusions"
+      "emcee": 7518,
+      "venue": 7613,
+      "show": "7519",
+      "name": "The Wahlberg Solution",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7638-the-wahlberg-solution"
     },
     {
+      "id": 7639,
       "performers": [
-        "10343"
+        "7590",
+        "6123",
+        "6014",
+        "6834"
       ],
-      "emcees": [
-        10317
-      ],
-      "venue": "10374",
-      "show": "10372",
-      "pageUrl": "10401-probably-science"
+      "emcee": 7590,
+      "venue": 7609,
+      "show": "6300",
+      "name": "Baby Talk with Dan Levy & Jensen Karp",
+      "startDateTime": "2014-05-10T02:00:00.000Z",
+      "endDateTime": "2014-05-10T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7639-baby-talk-with-dan-levy--jensen-karp"
     },
     {
+      "id": 7641,
       "performers": [
-        "9341",
-        "9105",
-        "10313"
+        "6534",
+        "6474",
+        "6305",
+        "5879",
+        "6159",
+        "6379",
+        "6795",
+        "6823"
       ],
-      "emcees": [
-        10739
-      ],
-      "venue": "10373",
-      "show": "10203",
-      "pageUrl": "10402-sex-nerd-sandra"
+      "emcee": 6276,
+      "venue": 7616,
+      "name": "Jupiter Tent Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7641-jupiter-tent-primetime"
     },
     {
+      "id": 7642,
       "performers": [
-        "10299",
-        "9691",
-        "10293",
-        "10342",
-        "10288"
+        "6855",
+        "6365",
+        "7803"
       ],
-      "emcees": [
-        10349
-      ],
-      "venue": "10384",
-      "show": "10354",
-      "pageUrl": "10403-dr-katz-professional-therapist-a-20th-anniversary-celebration"
+      "emcee": 0,
+      "venue": 7609,
+      "show": "7781",
+      "name": "Probably Science",
+      "startDateTime": "2014-05-10T21:00:00.000Z",
+      "endDateTime": "2014-05-10T22:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7642-probably-science"
     },
     {
+      "id": 7644,
       "performers": [
-        "9601",
-        "10210",
-        "9770"
+        "7893",
+        "7894"
       ],
-      "emcees": [
-        10297
-      ],
-      "venue": "10373",
-      "show": "10298",
-      "pageUrl": "10404-the-dork-forest"
+      "emcee": 0,
+      "venue": 7609,
+      "show": "5909",
+      "name": "Throwing Shade",
+      "startDateTime": "2014-05-11T01:00:00.000Z",
+      "endDateTime": "2014-05-11T02:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7644-throwing-shade"
     },
     {
+      "id": 7645,
       "performers": [
-        "10342"
+        "6816",
+        "6863",
+        "6824",
+        "6860",
+        "6374",
+        "7777",
+        "6823",
+        "6014",
+        "7820",
+        "7786",
+        "6371",
+        "6065",
+        "6674",
+        "7881"
       ],
-      "emcees": [
-        9238
-      ],
-      "venue": "10373",
-      "show": "9240",
-      "pageUrl": "10405-tv-guidance-counselor"
+      "emcee": 7590,
+      "venue": 7609,
+      "show": "7605",
+      "name": "The Live Read",
+      "startDateTime": "2014-05-11T03:00:00.000Z",
+      "endDateTime": "2014-05-11T04:30:00.000Z",
+      "price": 25,
+      "pageUrl": "7645-the-live-read"
     },
     {
+      "id": 7646,
       "performers": [
-        "10825",
-        "11138",
-        "10346"
+        "5889",
+        "6824",
+        "6536",
+        "6189",
+        "6065",
+        "6808",
+        "6271",
+        "6823",
+        "6365",
+        "6609"
       ],
-      "emcees": [
-        10826
-      ],
-      "venue": "10373",
-      "show": "10220",
-      "pageUrl": "10406-the-okcupid-show"
+      "emcee": 6379,
+      "venue": 7609,
+      "show": "5903",
+      "name": "Competitive Erotic Fan Fiction",
+      "startDateTime": "2014-05-11T05:00:00.000Z",
+      "endDateTime": "2014-05-11T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7646-competitive-erotic-fan-fiction"
     },
     {
+      "id": 7648,
       "performers": [
-        "10341",
-        "10346",
-        "10233"
+        "6102",
+        "6824"
       ],
-      "emcees": [
-        10288
-      ],
-      "venue": "10373",
-      "show": "10347",
-      "pageUrl": "10407-the-dana-gould-hour"
+      "emcee": 6818,
+      "venue": 7609,
+      "show": "6836",
+      "name": "Hang Out with Me Live Podcast Taping with Myq Kaplan",
+      "startDateTime": "2014-05-10T23:00:00.000Z",
+      "endDateTime": "2014-05-11T00:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7648-hang-out-with-me-live-podcast-taping-with-myq-kaplan"
     },
     {
+      "id": 7650,
       "performers": [
-        "9212",
-        "10031",
-        "10296",
-        "9326",
-        "9479",
-        "10342",
-        "10313"
+        "6408",
+        "6608",
+        "6864",
+        "6818",
+        "6858"
       ],
-      "emcees": [
-        9839
-      ],
-      "venue": "10373",
-      "pageUrl": "10409-kyle-kinane-and-friends"
+      "emcee": 7566,
+      "venue": 7615,
+      "show": "6537",
+      "name": "Mary Mack's North Star Comedy Hour & Meat Raffle",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7650-mary-macks-north-star-comedy-hour--meat-raffle"
     },
     {
+      "id": 7651,
       "performers": [
-        "9714",
-        "9520",
-        "9484",
-        "9638",
-        "9839",
-        "9505"
+        "7579",
+        "6823",
+        "6762",
+        "6536"
       ],
-      "emcees": [
-        9353
-      ],
-      "venue": "10380",
-      "pageUrl": "10411-hit-the-books"
+      "emcee": 6351,
+      "venue": 7613,
+      "show": "6682",
+      "name": "Weird and Awesome with Emmett Montgomery",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7651-weird-and-awesome-with-emmett-montgomery"
     },
     {
+      "id": 7652,
       "performers": [
-        "10137",
-        "9638",
-        "10134",
-        "10296",
-        "9324",
-        "10350",
-        "10311"
+        "5774",
+        "5906",
+        "6483",
+        "6609",
+        "7581",
+        "6804",
+        "6280",
+        "6611"
       ],
-      "emcees": [
-        9714
-      ],
-      "venue": "10378",
-      "show": "9710",
-      "pageUrl": "10412-brew-haha-the-comedy-show-drinking-game"
+      "emcee": 6474,
+      "venue": 7609,
+      "name": "Taxi Magic Stage at Alhambra Theater Closing Show",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7652-taxi-magic-stage-at-alhambra-theater-closing-show"
     },
     {
+      "id": 7653,
       "performers": [
-        "9692",
-        "10787",
-        "9799",
-        "9272",
-        "9164",
-        "9564",
-        "9790",
-        "9167"
+        "5777",
+        "5774",
+        "5879",
+        "6312",
+        "6690",
+        "5755"
       ],
-      "emcees": [
-        9116
-      ],
-      "venue": "10380",
-      "pageUrl": "10416-late-night-boogie"
+      "emcee": 6215,
+      "venue": 7610,
+      "name": "Surprise Me! ",
+      "startDateTime": "2014-05-09T04:00:00.000Z",
+      "endDateTime": "2014-05-09T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7653-surprise-me-"
     },
     {
+      "id": 7654,
       "performers": [
-        "10214",
-        "9808",
-        "9116",
-        "9479",
-        "9660",
-        "9280"
+        "6359",
+        "6058",
+        "5739",
+        "6735",
+        "6647",
+        "6032"
       ],
-      "emcees": [
-        9177
-      ],
-      "venue": "10380",
-      "pageUrl": "10417-first-timers-club-staff-favorites"
+      "emcee": 6049,
+      "venue": 7610,
+      "name": "Surprise Me!",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7654-surprise-me"
     },
     {
-      "performers": [
-        "9164",
-        "9799",
-        "10189",
-        "9075",
-        "9238",
-        "9208",
-        "9640"
-      ],
-      "emcees": [
-        10031
-      ],
-      "venue": "10380",
-      "pageUrl": "10418-boogie-down"
-    },
-    {
-      "performers": [
-        "9846",
-        "9703",
-        "9787",
-        "9545",
-        "9341",
-        "9114",
-        "9445",
-        "10299"
-      ],
-      "emcees": [
-        9382
-      ],
-      "venue": "10380",
-      "pageUrl": "10419-late-night-boogie"
-    },
-    {
-      "performers": [
-        "9382",
-        "10188",
-        "9164",
-        "9272",
-        "10189",
-        "9505",
-        "9520",
-        "10350"
-      ],
-      "emcees": [
-        9280
-      ],
-      "venue": "10379",
-      "pageUrl": "10420-keep-everywhere-weird"
-    },
-    {
-      "performers": [
-        "10210",
-        "9638",
-        "9879",
-        "9096",
-        "9445",
-        "9087",
-        "9820",
-        "10189"
-      ],
-      "emcees": [
-        10296
-      ],
-      "venue": "10374",
-      "show": "10344",
-      "pageUrl": "10423-competitive-erotic-fan-fiction"
-    },
-    {
-      "performers": [
-        "10348",
-        "10043",
-        "9662",
-        "9876",
-        "9979",
-        "9114",
-        "10233",
-        "9423"
-      ],
-      "venue": "10373",
-      "show": "10042",
-      "pageUrl": "10425-blaria"
-    },
-    {
-      "performers": [
-        "9445",
-        "10349",
-        "9096",
-        "10312",
-        "9691",
-        "10346"
-      ],
-      "emcees": [
-        10299
-      ],
-      "venue": "10375",
-      "show": "10314",
-      "pageUrl": "10426-andy-kindlers-particular-show"
-    },
-    {
-      "performers": [
-        "10312",
-        "10317",
-        "10346",
-        "10293",
-        "10311"
-      ],
-      "emcees": [
-        10342
-      ],
-      "venue": "10373",
-      "show": "10371",
-      "pageUrl": "10427-baked-with-brendon-small-and-steve-agee"
-    },
-    {
-      "performers": [
-        "9093",
-        "10349",
-        "9662",
-        "10233",
-        "9564",
-        "10312",
-        "10299"
-      ],
-      "emcees": [
-        9096
-      ],
-      "venue": "10373",
-      "show": "9113",
-      "pageUrl": "10428-7-minutes-in-purgatory"
-    },
-    {
-      "performers": [
-        "10316",
-        "10288",
-        "10315"
-      ],
-      "emcees": [
-        9640
-      ],
-      "venue": "10374",
-      "show": "9639",
-      "pageUrl": "10430-the-crabfeast-podcast"
-    },
-    {
-      "performers": [
-        "9595",
-        "9116",
-        "10134",
-        "10313",
-        "10101",
-        "9638",
-        "9770",
-        "10337"
-      ],
-      "emcees": [
-        9075
-      ],
-      "venue": "10377",
-      "pageUrl": "10432-sunday-dinger-with-gabe-dinner"
-    },
-    {
-      "performers": [
-        "9601",
-        "9739",
-        "10337",
-        "9763",
-        "10341",
-        "10288"
-      ],
-      "emcees": [
-        10210
-      ],
-      "venue": "10374",
-      "show": "10212",
-      "pageUrl": "10433-talk-show-the-game-show"
-    },
-    {
-      "performers": [
-        "9208",
-        "10317",
-        "10350",
-        "9601",
-        "9763",
-        "10288"
-      ],
-      "emcees": [
-        10311
-      ],
-      "venue": "10375",
-      "show": "10319",
-      "pageUrl": "10436-roustabout"
-    },
-    {
-      "performers": [
-        "9598",
-        "9427",
-        "9661",
-        "9978",
-        "9879",
-        "9660"
-      ],
-      "emcees": [
-        9972
-      ],
-      "venue": "10378",
-      "pageUrl": "10437-les-is-more"
-    },
-    {
-      "performers": [
-        "10288",
-        "10299",
-        "9739",
-        "10119",
-        "10046",
-        "10816"
-      ],
-      "emcees": [
-        10341
-      ],
-      "venue": "10375",
-      "show": "10325",
-      "pageUrl": "10439-the-tinkle-twins"
-    },
-    {
-      "performers": [
-        "10181",
-        "9552",
-        "10318",
-        "9977",
-        "9990",
-        "9662"
-      ],
-      "emcees": [
-        9820
-      ],
-      "venue": "10380",
-      "pageUrl": "10441-boogie-down"
-    },
-    {
-      "performers": [
-        "9552",
-        "10214",
-        "9439",
-        "10318",
-        "9545",
-        "9661",
-        "10137",
-        "9839"
-      ],
-      "emcees": [
-        9483
-      ],
-      "venue": "10379",
-      "pageUrl": "10442-dads-favorite"
-    },
-    {
-      "performers": [
-        "9780",
-        "9953",
-        "9079",
-        "10101",
-        "9876",
-        "9392",
-        "9453"
-      ],
-      "emcees": [
-        9381
-      ],
-      "venue": "10379",
-      "pageUrl": "10443-dads-favorite"
-    },
-    {
+      "id": 7655,
       "performers": [],
-      "emcees": [
-        10820
-      ],
-      "venue": "10379",
-      "pageUrl": "10445-late-night-open-mic"
+      "emcee": 7570,
+      "venue": 7610,
+      "name": "Surprise Me! Primetime",
+      "startDateTime": "2014-05-11T03:00:00.000Z",
+      "endDateTime": "2014-05-11T04:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7655-surprise-me-primetime"
     },
     {
+      "id": 7656,
       "performers": [
-        "9114",
-        "9979",
-        "10025",
-        "9583",
-        "10046",
-        "10315",
-        "10299"
+        "6702",
+        "6542",
+        "5906",
+        "6410",
+        "6305"
       ],
-      "emcees": [
-        9520
-      ],
-      "venue": "10378",
-      "pageUrl": "10447-high-five"
+      "emcee": 6745,
+      "venue": 7610,
+      "name": "Surprise Me!",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7656-surprise-me"
     },
     {
+      "id": 7657,
       "performers": [
-        "9079",
-        "10082",
-        "9990",
-        "9093",
-        "9876",
-        "10820",
-        "10343",
-        "9979",
-        "10337"
+        "7588",
+        "6808"
       ],
-      "emcees": [
-        9790
-      ],
-      "venue": "10378",
-      "pageUrl": "10448-birthday-bunk-bash"
+      "emcee": 0,
+      "venue": 7611,
+      "show": "7782",
+      "name": "The Dead Authors Podcast",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7657-the-dead-authors-podcast"
     },
     {
+      "id": 7658,
       "performers": [
-        "9820",
-        "9860",
-        "9583",
-        "9326",
-        "10787",
-        "9770",
-        "10293"
+        "6659",
+        "6110",
+        "6696",
+        "6857",
+        "6614",
+        "6371",
+        "6833"
       ],
-      "emcees": [
-        10082
-      ],
-      "venue": "10374",
-      "pageUrl": "10449-hey-ladies"
+      "emcee": 6271,
+      "venue": 7611,
+      "name": "Bossanova Primetime",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7658-bossanova-primetime"
     },
     {
+      "id": 7659,
       "performers": [
-        "9780",
-        "10101",
-        "9381",
-        "9182",
-        "9598",
-        "9595",
-        "9770"
+        "6863",
+        "6862",
+        "6823",
+        "6860",
+        "6859"
       ],
-      "emcees": [
-        10128
-      ],
-      "venue": "10380",
-      "pageUrl": "10450-first-timers-club-staff-favorites"
+      "emcee": 0,
+      "venue": 7611,
+      "show": "6866",
+      "name": "The Meltdown with Jonah and Kumail",
+      "startDateTime": "2014-05-10T03:00:00.000Z",
+      "endDateTime": "2014-05-10T04:30:00.000Z",
+      "price": 25,
+      "pageUrl": "7659-the-meltdown-with-jonah-and-kumail"
     },
     {
+      "id": 7660,
       "performers": [
-        "10134",
-        "9324",
-        "9392",
-        "10217",
-        "9505",
-        "10044",
-        "9755"
+        "6271",
+        "6727",
+        "6123",
+        "7777",
+        "6816",
+        "7595"
       ],
-      "emcees": [
-        9787
-      ],
-      "venue": "10380",
-      "pageUrl": "10451-secret-stash"
+      "emcee": 5894,
+      "venue": 7611,
+      "name": "IFC Presents Reggie Watts and Friends",
+      "startDateTime": "2014-05-10T05:00:00.000Z",
+      "endDateTime": "2014-05-10T06:30:00.000Z",
+      "price": 25,
+      "pageUrl": "7660-ifc-presents-reggie-watts-and-friends"
     },
     {
+      "id": 7661,
       "performers": [
-        "9446",
-        "10342",
-        "10046",
-        "9879",
-        "10119"
+        "7775",
+        "6858",
+        "7595",
+        "7883",
+        "6791"
       ],
-      "emcees": [
-        10318
-      ],
-      "venue": "10377",
-      "show": "9933",
-      "pageUrl": "10453-heart-of-darkness"
+      "emcee": 7802,
+      "venue": 7611,
+      "show": "6891",
+      "name": "Prompter",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7661-prompter"
     },
     {
+      "id": 7662,
       "performers": [
-        "9598",
-        "10128",
-        "9839",
-        "10318",
-        "9505",
-        "10070"
+        "7800"
       ],
-      "emcees": [
-        9439
-      ],
-      "venue": "10377",
-      "pageUrl": "10455-a-moment-of-clarity"
+      "emcee": 0,
+      "venue": 7612,
+      "name": "Nathan For You: Screening and Q&A",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:00:00.000Z",
+      "price": 20,
+      "pageUrl": "7662-nathan-for-you-screening-and-qa"
     },
     {
+      "id": 7663,
       "performers": [
-        "9212",
-        "9446",
-        "10816",
-        "10297"
+        "5856",
+        "6058",
+        "6032",
+        "6762",
+        "6825",
+        "6069",
+        "6014",
+        "6791"
       ],
-      "emcees": [
-        10223
-      ],
-      "venue": "10378",
-      "show": "10230",
-      "pageUrl": "10459-secret-skin-with-open-mike-eagle"
+      "emcee": 6410,
+      "venue": 7612,
+      "name": "Squarespace Stage at the Doug Fir Opening Show",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7663-squarespace-stage-at-the-doug-fir-opening-show"
     },
     {
+      "id": 7665,
       "performers": [
-        "9799",
-        "10312",
-        "10317",
-        "9564",
-        "10343",
-        "9919",
-        "10288",
-        "10293"
+        "6542",
+        "6352",
+        "6354",
+        "6275",
+        "6674",
+        "6509",
+        "6804"
       ],
-      "emcees": [
-        9505
-      ],
-      "venue": "10374",
-      "pageUrl": "10460-peace-out"
+      "emcee": 5987,
+      "venue": 7612,
+      "name": "Squarespace Stage at the Doug Fir Early Show",
+      "startDateTime": "2014-05-10T02:00:00.000Z",
+      "endDateTime": "2014-05-10T03:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7665-squarespace-stage-at-the-doug-fir-early-show"
     },
     {
-      "performers": [
-        "10312",
-        "9105",
-        "10816",
-        "10233",
-        "10293"
-      ],
-      "emcees": [
-        9167
-      ],
-      "venue": "10373",
-      "show": "10045",
-      "pageUrl": "10461-meet-me-in-the-bathroom-and-tell-me-all-your-secrets"
-    },
-    {
-      "performers": [
-        "9182",
-        "9093",
-        "9235",
-        "9096",
-        "9661",
-        "10297",
-        "9763",
-        "9601"
-      ],
-      "emcees": [
-        9691
-      ],
-      "venue": "10374",
-      "show": "11145",
-      "pageUrl": "10466-ron-lynch-presents-crapshoot"
-    },
-    {
-      "performers": [
-        "10025",
-        "10137",
-        "9144",
-        "10217",
-        "10043",
-        "9280",
-        "10119",
-        "9763",
-        "9601",
-        "9755",
-        "10313"
-      ],
-      "emcees": [
-        10046
-      ],
-      "venue": "10374",
-      "pageUrl": "10467-festival-closing-show"
-    },
-    {
-      "performers": [
-        "10282",
-        "10309",
-        "9990",
-        "10316",
-        "10293",
-        "10313"
-      ],
-      "emcees": [
-        10112
-      ],
-      "venue": "10374",
-      "show": "10111",
-      "pageUrl": "10502-the-grawlix"
-    },
-    {
-      "performers": [
-        "9972",
-        "9353",
-        "10666",
-        "9552",
-        "9879",
-        "9662",
-        "9660"
-      ],
-      "emcees": [
-        10210
-      ],
-      "venue": "10378",
-      "pageUrl": "10503-guy-branums-gay-bash"
-    },
-    {
-      "performers": [
-        "9979",
-        "10315",
-        "9520",
-        "9676",
-        "9423",
-        "9445",
-        "10313"
-      ],
-      "emcees": [
-        9790
-      ],
-      "venue": "10375",
-      "show": "10199",
-      "pageUrl": "10672-funny-over-everything"
-    },
-    {
-      "performers": [
-        "10816",
-        "10337"
-      ],
-      "emcees": [
-        10311
-      ],
-      "venue": "10675",
-      "show": "10320",
-      "pageUrl": "10676-the-k-ohle-with-kurt-braunohler"
-    },
-    {
-      "performers": [
-        "9079",
-        "9235",
-        "10315",
-        "9341",
-        "9453",
-        "10313",
-        "10311"
-      ],
-      "emcees": [
-        9953
-      ],
-      "venue": "10373",
-      "pageUrl": "10678-kill-rock-stars-presents"
-    },
-    {
-      "performers": [
-        "9341",
-        "9439",
-        "9770",
-        "9479",
-        "10341",
-        "9676",
-        "10337"
-      ],
-      "emcees": [
-        9545
-      ],
-      "venue": "10374",
-      "pageUrl": "10706-busted"
-    },
-    {
-      "performers": [
-        "10043",
-        "9212",
-        "9978",
-        "9692",
-        "9243",
-        "9483",
-        "9114",
-        "10223"
-      ],
-      "emcees": [
-        10233
-      ],
-      "venue": "10377",
-      "pageUrl": "10728-new-negroes-redux"
-    },
-    {
-      "performers": [
-        "9839",
-        "9860",
-        "9382",
-        "10214",
-        "10025",
-        "10101",
-        "9787",
-        "9876"
-      ],
-      "emcees": [
-        10233
-      ],
-      "venue": "10373",
-      "pageUrl": "10729-new-negroes-redux"
-    },
-    {
-      "performers": [
-        "9272",
-        "10312",
-        "10112",
-        "9808",
-        "9990",
-        "9446",
-        "10346"
-      ],
-      "emcees": [
-        10786
-      ],
-      "venue": "10373",
-      "show": "11146",
-      "pageUrl": "10731-come-laugh-with-us"
-    },
-    {
-      "performers": [
-        "9327",
-        "9780",
-        "9808",
-        "10296",
-        "9093",
-        "9601",
-        "9763",
-        "9691"
-      ],
-      "emcees": [
-        9235
-      ],
-      "venue": "10377",
-      "pageUrl": "10733-steven-wilbers-appropriately-titled-comedy-show"
-    },
-    {
-      "performers": [
-        "9144",
-        "9093",
-        "9972",
-        "10337",
-        "10188"
-      ],
-      "emcees": [
-        10666
-      ],
-      "venue": "10376",
-      "pageUrl": "10734-rants-off-dance-off"
-    },
-    {
-      "performers": [
-        "9601",
-        "9105",
-        "9691",
-        "10350",
-        "10342",
-        "9167"
-      ],
-      "emcees": [
-        9763
-      ],
-      "venue": "10374",
-      "show": "11014",
-      "pageUrl": "10736-imaginary-radio-program-with-drennon-davis-and-karen-kilgariff"
-    },
-    {
-      "performers": [
-        "10793",
-        "10795"
-      ],
-      "emcees": [
-        10794
-      ],
-      "venue": "10374",
-      "show": "11000",
-      "pageUrl": "10737-harmontown"
-    },
-    {
-      "performers": [
-        "10342",
-        "10816",
-        "10299",
-        "10337"
-      ],
-      "emcees": [
-        10346
-      ],
-      "venue": "10373",
-      "show": "10371",
-      "pageUrl": "10740-baked-with-brendon-small-and-steve-agee"
-    },
-    {
-      "performers": [
-        "10793",
-        "10297",
-        "10293"
-      ],
-      "venue": "10384",
-      "show": "11127",
-      "pageUrl": "10741-live-wire"
-    },
-    {
-      "performers": [
-        "9327",
-        "9382",
-        "9808",
-        "9703",
-        "9243",
-        "9075",
-        "9353",
-        "10070"
-      ],
-      "emcees": [
-        9860
-      ],
-      "venue": "10379",
-      "pageUrl": "10746-grand-illusions"
-    },
-    {
-      "performers": [
-        "9977",
-        "10181",
-        "10025",
-        "9595",
-        "9827",
-        "9087",
-        "9144"
-      ],
-      "emcees": [
-        9327
-      ],
-      "venue": "10379",
-      "pageUrl": "10747-grand-illusions"
-    },
-    {
-      "performers": [
-        "9116",
-        "9583",
-        "9827",
-        "9272",
-        "9790",
-        "10210",
-        "10350"
-      ],
-      "emcees": [
-        9079
-      ],
-      "venue": "10376",
-      "pageUrl": "10749-comedy-sweethearts-with-amy-miller"
-    },
-    {
-      "performers": [
-        "10192",
-        "11045",
-        "9079",
-        "9827",
-        "9978",
-        "9640",
-        "10119",
-        "9739",
-        "10337"
-      ],
-      "emcees": [
-        9714
-      ],
-      "venue": "10677",
-      "show": "9781",
-      "pageUrl": "10758-comedy-and-cocktails-presents-the-nickel-club"
-    },
-    {
-      "performers": [
-        "9972",
-        "9087",
-        "9820",
-        "9353",
-        "9177",
-        "9235",
-        "10297"
-      ],
-      "emcees": [
-        9808
-      ],
-      "venue": "10763",
-      "pageUrl": "10764-jackie-kashian-beats-the-game"
-    },
-    {
-      "performers": [
-        "9799",
-        "9780",
-        "10128",
-        "9545",
-        "9661",
-        "9790",
-        "9208",
-        "10233"
-      ],
-      "emcees": [
-        9453
-      ],
-      "venue": "10377",
-      "pageUrl": "10765-thats-some-real-shit-with-nathan-brannon"
-    },
-    {
-      "performers": [
-        "9484",
-        "10134",
-        "9595",
-        "9075",
-        "9483",
-        "9755",
-        "10297"
-      ],
-      "emcees": [
-        9164
-      ],
-      "venue": "10373",
-      "pageUrl": "10766-festival-kick-off-at-the-doug-fir"
-    },
-    {
-      "performers": [
-        "9552",
-        "9827",
-        "9564",
-        "10787",
-        "10070",
-        "9601",
-        "9763",
-        "10210",
-        "9446"
-      ],
-      "emcees": [
-        9739
-      ],
-      "venue": "10376",
-      "pageUrl": "10779-the-depresshow-with-jacqueline-novak"
-    },
-    {
-      "performers": [
-        "9846",
-        "10031",
-        "10181",
-        "9177",
-        "9326",
-        "9105",
-        "9479",
-        "9919"
-      ],
-      "emcees": [
-        9977
-      ],
-      "venue": "10376",
-      "pageUrl": "10783-notre-di-1000-risate"
-    },
-    {
-      "performers": [
-        "9703",
-        "9392",
-        "10217",
-        "9739",
-        "10070",
-        "9167",
-        "10315"
-      ],
-      "emcees": [
-        9182
-      ],
-      "venue": "10378",
-      "pageUrl": "10784-secret-stash"
-    },
-    {
-      "performers": [
-        "9692",
-        "9381",
-        "10214",
-        "9392",
-        "9598",
-        "9446",
-        "10044",
-        "10293"
-      ],
-      "emcees": [
-        9879
-      ],
-      "venue": "10374",
-      "pageUrl": "10785-the-happening-at-the-bossanova"
-    },
-    {
-      "performers": [
-        "9703",
-        "9978",
-        "10181",
-        "9243",
-        "9116",
-        "9787",
-        "10119",
-        "10315"
-      ],
-      "emcees": [
-        10820
-      ],
-      "venue": "10380",
-      "pageUrl": "10788-yo-mommas-day-brunch"
-    },
-    {
-      "performers": [
-        "10188",
-        "10217",
-        "10343",
-        "10317",
-        "10282",
-        "9755",
-        "10044",
-        "10337"
-      ],
-      "emcees": [
-        9427
-      ],
-      "venue": "10373",
-      "pageUrl": "10817-secret-stash"
-    },
-    {
-      "performers": [
-        "9238",
-        "10082",
-        "10296",
-        "10297",
-        "9280",
-        "9427",
-        "10343",
-        "9676"
-      ],
-      "emcees": [
-        9660
-      ],
-      "venue": "10376",
-      "pageUrl": "10819-secret-stash"
-    },
-    {
+      "id": 7666,
       "performers": [],
-      "emcees": [
-        10820
-      ],
-      "venue": "10379",
-      "pageUrl": "10998-late-night-open-mic"
+      "emcee": 0,
+      "venue": 7612,
+      "name": "Pivot Presents W. Kamau Bell & Friends",
+      "startDateTime": "2014-05-11T05:00:00.000Z",
+      "endDateTime": "2014-05-11T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7666-pivot-presents-w-kamau-bell--friends"
     },
     {
+      "id": 7667,
+      "performers": [
+        "6392",
+        "6379",
+        "6810",
+        "5742",
+        "6609",
+        "6074",
+        "6824"
+      ],
+      "emcee": 6408,
+      "venue": 7612,
+      "show": "7790",
+      "name": "Voodoo Doughnut Recordings Presents Ian Karmel and Nathan Brannon",
+      "startDateTime": "2014-05-10T06:00:00.000Z",
+      "endDateTime": "2014-05-10T07:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7667-voodoo-doughnut-recordings-presents-ian-karmel-and-nathan-brannon"
+    },
+    {
+      "id": 7668,
+      "performers": [
+        "6810",
+        "6092",
+        "6833",
+        "6862"
+      ],
+      "emcee": 0,
+      "venue": 7612,
+      "show": "6811",
+      "name": "The Crabfeast",
+      "startDateTime": "2014-05-10T20:00:00.000Z",
+      "endDateTime": "2014-05-10T21:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7668-the-crabfeast"
+    },
+    {
+      "id": 7669,
+      "performers": [
+        "6863",
+        "7882"
+      ],
+      "emcee": 0,
+      "venue": 7612,
+      "show": "6869",
+      "name": "Jonah Raydio",
+      "startDateTime": "2014-05-10T22:00:00.000Z",
+      "endDateTime": "2014-05-10T23:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7669-jonah-raydio"
+    },
+    {
+      "id": 7670,
+      "performers": [
+        "6854",
+        "6856"
+      ],
+      "emcee": 6854,
+      "venue": 7612,
+      "show": "6867",
+      "name": "Harmontown",
+      "startDateTime": "2014-05-11T00:30:00.000Z",
+      "endDateTime": "2014-05-11T02:00:00.000Z",
+      "price": 25,
+      "pageUrl": "7670-harmontown"
+    },
+    {
+      "id": 7671,
+      "performers": [
+        "6609",
+        "6723",
+        "6365",
+        "6791",
+        "7775",
+        "6859",
+        "6833"
+      ],
+      "emcee": 7802,
+      "venue": 7612,
+      "show": "6868",
+      "name": "Set List: Stand-Up Without a Net",
+      "startDateTime": "2014-05-11T03:00:00.000Z",
+      "endDateTime": "2014-05-11T04:30:00.000Z",
+      "price": 25,
+      "pageUrl": "7671-set-list-stand-up-without-a-net"
+    },
+    {
+      "id": 7672,
+      "performers": [
+        "6315",
+        "5787",
+        "6128",
+        "6687",
+        "6153",
+        "6151",
+        "6858",
+        "7828"
+      ],
+      "emcee": 6542,
+      "venue": 7612,
+      "name": "Squarespace Stage at the Doug Fir Late Show",
+      "startDateTime": "2014-05-11T06:30:00.000Z",
+      "endDateTime": "2014-05-11T08:00:00.000Z",
+      "price": 20,
+      "pageUrl": "7672-squarespace-stage-at-the-doug-fir-late-show"
+    },
+    {
+      "id": 7674,
+      "performers": [
+        "7896",
+        "6762",
+        "7595"
+      ],
+      "emcee": 0,
+      "venue": 7612,
+      "show": "7779",
+      "name": "This Feels Terrible",
+      "startDateTime": "2014-05-11T23:00:00.000Z",
+      "endDateTime": "2014-05-12T00:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7674-this-feels-terrible"
+    },
+    {
+      "id": 7675,
+      "performers": [
+        "6834",
+        "7580",
+        "5998"
+      ],
+      "emcee": 0,
+      "venue": 7612,
+      "show": "7589",
+      "name": "The Bone Zone",
+      "startDateTime": "2014-05-11T21:00:00.000Z",
+      "endDateTime": "2014-05-11T22:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7675-the-bone-zone"
+    },
+    {
+      "id": 7676,
+      "performers": [
+        "7820"
+      ],
+      "emcee": 0,
+      "venue": 7612,
+      "show": "7780",
+      "name": "The JV Club",
+      "startDateTime": "2014-05-12T01:00:00.000Z",
+      "endDateTime": "2014-05-12T02:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7676-the-jv-club"
+    },
+    {
+      "id": 7677,
+      "performers": [
+        "7803"
+      ],
+      "emcee": 0,
+      "venue": 7609,
+      "show": "6890",
+      "name": "The Green Room with Paul Provenza",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7677-the-green-room-with-paul-provenza"
+    },
+    {
+      "id": 7678,
+      "performers": [
+        "6379",
+        "6696",
+        "6157",
+        "6402",
+        "5867",
+        "6123"
+      ],
+      "emcee": 6359,
+      "venue": 7608,
+      "show": "6356",
+      "name": "All That Could Have Been",
+      "startDateTime": "2014-05-11T02:00:00.000Z",
+      "endDateTime": "2014-05-11T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7678-all-that-could-have-been"
+    },
+    {
+      "id": 7679,
+      "performers": [
+        "5962",
+        "6687",
+        "6102",
+        "5845",
+        "6315",
+        "6092",
+        "5938",
+        "6823"
+      ],
+      "emcee": 6425,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Opening Show",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7679-sizzle-pie-stage-at-the-eagles-lodge-opening-show"
+    },
+    {
+      "id": 7680,
+      "performers": [
+        "6409",
+        "6681",
+        "6153",
+        "6058",
+        "6174",
+        "6810",
+        "6818"
+      ],
+      "emcee": 6134,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Early Show",
+      "startDateTime": "2014-05-10T02:00:00.000Z",
+      "endDateTime": "2014-05-10T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7680-sizzle-pie-stage-at-the-eagles-lodge-early-show"
+    },
+    {
+      "id": 7685,
+      "performers": [
+        "6735",
+        "6474",
+        "7580",
+        "6762",
+        "6004",
+        "6860"
+      ],
+      "emcee": 6032,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Late Show",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7685-sizzle-pie-stage-at-the-eagles-lodge-late-show"
+    },
+    {
+      "id": 7687,
+      "performers": [
+        "5805",
+        "6727",
+        "5728",
+        "5951",
+        "5739",
+        "6608",
+        "6723",
+        "6833"
+      ],
+      "emcee": 6699,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Closing Show",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7687-sizzle-pie-stage-at-the-eagles-lodge-closing-show"
+    },
+    {
+      "id": 7688,
+      "performers": [
+        "6735",
+        "5932",
+        "6704",
+        "6731",
+        "5876",
+        "6835",
+        "6859"
+      ],
+      "emcee": 5739,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Opening Show",
+      "startDateTime": "2014-05-09T02:00:00.000Z",
+      "endDateTime": "2014-05-09T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7688-hawthorne-lounge-opening-show"
+    },
+    {
+      "id": 7689,
+      "performers": [
+        "5806",
+        "6476",
+        "5730",
+        "6409",
+        "6646",
+        "6153",
+        "7566"
+      ],
+      "emcee": 5973,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Primetime",
+      "startDateTime": "2014-05-09T04:00:00.000Z",
+      "endDateTime": "2014-05-09T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7689-hawthorne-lounge-primetime"
+    },
+    {
+      "id": 7690,
+      "performers": [
+        "6483",
+        "6118",
+        "6564",
+        "5962",
+        "6074",
+        "5973",
+        "6857"
+      ],
+      "emcee": 6640,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Early Show",
+      "startDateTime": "2014-05-10T02:00:00.000Z",
+      "endDateTime": "2014-05-10T03:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7690-hawthorne-lounge-early-show"
+    },
+    {
+      "id": 7691,
+      "performers": [
+        "6128",
+        "6163",
+        "5856",
+        "6315",
+        "6312",
+        "6325",
+        "6004"
+      ],
+      "emcee": 5976,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7691-hawthorne-lounge-primetime"
+    },
+    {
+      "id": 7692,
+      "performers": [
+        "5774",
+        "6647",
+        "5805",
+        "6032",
+        "6203",
+        "6762",
+        "6280"
+      ],
+      "emcee": 6162,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Late Show",
+      "startDateTime": "2014-05-10T06:00:00.000Z",
+      "endDateTime": "2014-05-10T07:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7692-hawthorne-lounge-late-show"
+    },
+    {
+      "id": 7693,
+      "performers": [
+        "6410",
+        "6629",
+        "6534",
+        "5976",
+        "6215",
+        "6134",
+        "6144"
+      ],
+      "emcee": 6312,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Early Show",
+      "startDateTime": "2014-05-11T02:00:00.000Z",
+      "endDateTime": "2014-05-11T03:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7693-hawthorne-lounge-early-show"
+    },
+    {
+      "id": 7694,
+      "performers": [
+        "5777",
+        "6276",
+        "6681",
+        "5951",
+        "5962",
+        "6527",
+        "5938"
+      ],
+      "emcee": 6839,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Primetime",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7694-hawthorne-lounge-primetime"
+    },
+    {
+      "id": 7695,
+      "performers": [
+        "6702",
+        "6745",
+        "6354",
+        "6159",
+        "6564",
+        "6800",
+        "6374"
+      ],
+      "emcee": 5813,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Late Show",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7695-hawthorne-lounge-late-show"
+    },
+    {
+      "id": 7697,
+      "performers": [
+        "5787",
+        "6717",
+        "6800",
+        "6271",
+        "6325",
+        "6855",
+        "6646",
+        "6189"
+      ],
+      "emcee": 5919,
+      "venue": 7614,
+      "name": "Hawthorne Lounge Closing Show",
+      "startDateTime": "2014-05-12T04:00:00.000Z",
+      "endDateTime": "2014-05-12T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7697-hawthorne-lounge-closing-show"
+    },
+    {
+      "id": 7698,
+      "performers": [
+        "5999",
+        "6163",
+        "6144",
+        "6157",
+        "7581",
+        "6365",
+        "7566"
+      ],
+      "emcee": 6717,
+      "venue": 7615,
+      "name": "Hawthorne Theatre Opening Show",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7698-hawthorne-theatre-opening-show"
+    },
+    {
+      "id": 7699,
+      "performers": [
+        "5919",
+        "7777",
+        "6816",
+        "6723",
+        "6839",
+        "6029",
+        "6004",
+        "6374"
+      ],
+      "emcee": 6058,
+      "venue": 7619,
+      "name": "Analog Theater Late Show",
+      "startDateTime": "2014-05-09T06:00:00.000Z",
+      "endDateTime": "2014-05-09T07:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7699-analog-theater-late-show"
+    },
+    {
+      "id": 7701,
+      "performers": [
+        "6134",
+        "6474",
+        "6276",
+        "5918",
+        "6074",
+        "6805",
+        "6795",
+        "7595"
+      ],
+      "emcee": 6849,
+      "venue": 7615,
+      "name": "Baron Vaughn Presents: The New Negroes",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7701-baron-vaughn-presents-the-new-negroes"
+    },
+    {
+      "id": 7702,
+      "performers": [
+        "6215",
+        "5777",
+        "6857",
+        "5755",
+        "6808",
+        "7895",
+        "6791"
+      ],
+      "emcee": 6527,
+      "venue": 7615,
+      "name": "Hawthorne Theatre Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7702-hawthorne-theatre-primetime"
+    },
+    {
+      "id": 7703,
+      "performers": [
+        "7777",
+        "6379",
+        "7518",
+        "5867",
+        "6839",
+        "6004",
+        "5876",
+        "6833",
+        "6859"
+      ],
+      "emcee": 5867,
+      "venue": 7611,
+      "name": "Bossanova Primetime",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7703-bossanova-primetime"
+    },
+    {
+      "id": 7704,
+      "performers": [
+        "6534",
+        "5983",
+        "6542",
+        "6483",
+        "6686",
+        "6629",
+        "6702",
+        "6174"
+      ],
+      "emcee": 6128,
+      "venue": 7619,
+      "name": "Northwest Young Guns",
+      "startDateTime": "2014-05-09T02:00:00.000Z",
+      "endDateTime": "2014-05-09T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7704-northwest-young-guns"
+    },
+    {
+      "id": 7706,
+      "performers": [
+        "6284",
+        "6735",
+        "6410",
+        "6699",
+        "6527",
+        "6858"
+      ],
+      "emcee": 6646,
+      "venue": 7616,
+      "name": "Best Kept Secret",
+      "startDateTime": "2014-05-10T02:00:00.000Z",
+      "endDateTime": "2014-05-10T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7706-best-kept-secret"
+    },
+    {
+      "id": 7708,
+      "performers": [
+        "6032",
+        "5774",
+        "5906",
+        "5919",
+        "6275",
+        "5987",
+        "7566"
+      ],
+      "emcee": 6275,
+      "venue": 7616,
+      "name": "Best Kept Secret",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7708-best-kept-secret"
+    },
+    {
+      "id": 7710,
+      "performers": [
+        "6315",
+        "6681",
+        "5918",
+        "6731",
+        "5856",
+        "6337",
+        "6860"
+      ],
+      "emcee": 5730,
+      "venue": 7616,
+      "name": "Best Kept Secret",
+      "startDateTime": "2014-05-12T02:00:00.000Z",
+      "endDateTime": "2014-05-12T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7710-best-kept-secret"
+    },
+    {
+      "id": 7711,
+      "performers": [
+        "6319",
+        "5987",
+        "5976",
+        "8015",
+        "6561",
+        "6110",
+        "5783",
+        "6130"
+      ],
+      "emcee": 6354,
+      "venue": 7616,
+      "name": "Jupiter Tent Closing Show",
+      "startDateTime": "2014-05-12T04:00:00.000Z",
+      "endDateTime": "2014-05-12T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7711-jupiter-tent-closing-show"
+    },
+    {
+      "id": 7716,
       "performers": [],
-      "emcees": [
-        10820
-      ],
-      "venue": "10379",
-      "pageUrl": "10999-late-night-open-mic"
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-09T04:00:00.000Z",
+      "endDateTime": "2014-05-09T05:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7716-tanker-open-mic"
     },
     {
-      "performers": [
-        "11045"
-      ],
-      "emcees": [
-        10192
-      ],
-      "venue": "10677",
-      "show": "11107",
-      "pageUrl": "11108-comedy-and-cocktails"
+      "id": 7717,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7717-tanker-open-mic"
     },
     {
+      "id": 7718,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-09T06:00:00.000Z",
+      "endDateTime": "2014-05-09T07:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7718-tanker-open-mic"
+    },
+    {
+      "id": 7719,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7719-tanker-open-mic"
+    },
+    {
+      "id": 7720,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-10T05:00:00.000Z",
+      "endDateTime": "2014-05-10T06:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7720-tanker-open-mic"
+    },
+    {
+      "id": 7721,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-10T06:00:00.000Z",
+      "endDateTime": "2014-05-10T07:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7721-tanker-open-mic"
+    },
+    {
+      "id": 7722,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-10T06:30:00.000Z",
+      "endDateTime": "2014-05-10T07:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7722-tanker-open-mic"
+    },
+    {
+      "id": 7723,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7723-tanker-open-mic"
+    },
+    {
+      "id": 7724,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-11T05:00:00.000Z",
+      "endDateTime": "2014-05-11T06:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7724-tanker-open-mic"
+    },
+    {
+      "id": 7725,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7725-tanker-open-mic"
+    },
+    {
+      "id": 7726,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-11T06:30:00.000Z",
+      "endDateTime": "2014-05-11T07:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7726-tanker-open-mic"
+    },
+    {
+      "id": 7727,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7727-tanker-open-mic"
+    },
+    {
+      "id": 7728,
+      "performers": [],
+      "emcee": 0,
+      "venue": 7617,
+      "name": "Tanker Open Mic",
+      "startDateTime": "2014-05-12T06:00:00.000Z",
+      "endDateTime": "2014-05-12T07:00:00.000Z",
+      "price": 10,
+      "pageUrl": "7728-tanker-open-mic"
+    },
+    {
+      "id": 7730,
       "performers": [
-        "9327",
-        "9977",
-        "9860",
-        "9439",
-        "9583",
-        "9953",
-        "9427",
-        "9691"
+        "6647",
+        "6352",
+        "6456",
+        "6305",
+        "6284",
+        "6839",
+        "6804"
       ],
-      "emcees": [
-        9846
+      "emcee": 6203,
+      "venue": 7618,
+      "name": "MailChimp Stage at the White Owl Social Club Opening Show",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7730-mailchimp-stage-at-the-white-owl-social-club-opening-show"
+    },
+    {
+      "id": 7733,
+      "performers": [
+        "6410",
+        "6561",
+        "6690",
+        "5999",
+        "8015",
+        "6839",
+        "5876",
+        "6153",
+        "7895"
       ],
-      "venue": "10380",
-      "pageUrl": "11148-boogies-last-stand"
+      "emcee": 6849,
+      "venue": 7618,
+      "name": "Baron Vaughn Presents: The New Negroes",
+      "startDateTime": "2014-05-10T05:00:00.000Z",
+      "endDateTime": "2014-05-10T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7733-baron-vaughn-presents-the-new-negroes"
+    },
+    {
+      "id": 7734,
+      "performers": [
+        "6102",
+        "7579",
+        "6319",
+        "6425",
+        "6857",
+        "7828",
+        "7595"
+      ],
+      "emcee": 6818,
+      "venue": 7618,
+      "name": "Myq Kaplan and Friends",
+      "startDateTime": "2014-05-11T03:00:00.000Z",
+      "endDateTime": "2014-05-11T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7734-myq-kaplan-and-friends"
+    },
+    {
+      "id": 7737,
+      "performers": [
+        "6629",
+        "6128",
+        "6275",
+        "6203",
+        "6834",
+        "6029"
+      ],
+      "emcee": 6564,
+      "venue": 7618,
+      "name": "MailChimp Stage at the White Owl Social Club Early Show",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7737-mailchimp-stage-at-the-white-owl-social-club-early-show"
+    },
+    {
+      "id": 7738,
+      "performers": [
+        "5983",
+        "6159",
+        "6215",
+        "6352",
+        "6174",
+        "6069",
+        "6818"
+      ],
+      "emcee": 6534,
+      "venue": 7619,
+      "name": "Analog Theater Closing Show",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7738-analog-theater-closing-show"
+    },
+    {
+      "id": 7739,
+      "performers": [
+        "7798",
+        "6509",
+        "7777",
+        "6609"
+      ],
+      "emcee": 7797,
+      "venue": 7616,
+      "show": "6801",
+      "name": "Before You Were Funny",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7739-before-you-were-funny"
+    },
+    {
+      "id": 7740,
+      "performers": [
+        "5906",
+        "6157",
+        "6864",
+        "5889",
+        "6808",
+        "6065",
+        "5998",
+        "6835"
+      ],
+      "emcee": 5742,
+      "venue": 7609,
+      "name": "Taxi Magic Stage at Alhambra Theater Primetime",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7740-taxi-magic-stage-at-alhambra-theater-primetime"
+    },
+    {
+      "id": 7741,
+      "performers": [
+        "5998",
+        "7773",
+        "6371",
+        "6130",
+        "6609",
+        "6849",
+        "6745",
+        "6591",
+        "6659",
+        "7786",
+        "7896",
+        "6858"
+      ],
+      "emcee": 0,
+      "venue": 7619,
+      "show": "5899",
+      "name": "The Very Important Show ",
+      "startDateTime": "2014-05-10T03:00:00.000Z",
+      "endDateTime": "2014-05-10T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7741-the-very-important-show-"
+    },
+    {
+      "id": 7742,
+      "performers": [
+        "5739",
+        "6859",
+        "6205",
+        "6858"
+      ],
+      "emcee": 6144,
+      "venue": 7609,
+      "show": "6143",
+      "name": "The Blackout Diaries",
+      "startDateTime": "2014-05-10T06:00:00.000Z",
+      "endDateTime": "2014-05-10T07:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7742-the-blackout-diaries"
+    },
+    {
+      "id": 7743,
+      "performers": [
+        "5856",
+        "6561",
+        "6163",
+        "6305",
+        "6456",
+        "6805",
+        "6834",
+        "6614"
+      ],
+      "emcee": 6483,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Early Show",
+      "startDateTime": "2014-05-11T02:00:00.000Z",
+      "endDateTime": "2014-05-11T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7743-sizzle-pie-stage-at-the-eagles-lodge-early-show"
+    },
+    {
+      "id": 7744,
+      "performers": [],
+      "emcee": 5879,
+      "venue": 7619,
+      "name": "The Show That Dare Not Speak Its Name",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7744-the-show-that-dare-not-speak-its-name"
+    },
+    {
+      "id": 7745,
+      "performers": [
+        "5728",
+        "6352",
+        "6325",
+        "7581",
+        "6069"
+      ],
+      "emcee": 6337,
+      "venue": 7608,
+      "name": "Alhambra Lounge Primetime",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7745-alhambra-lounge-primetime"
+    },
+    {
+      "id": 7746,
+      "performers": [
+        "6049",
+        "5889",
+        "6527",
+        "6413",
+        "6822",
+        "6280",
+        "6857",
+        "6849"
+      ],
+      "emcee": 6647,
+      "venue": 7619,
+      "name": "Analog Theater Early Show",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7746-analog-theater-early-show"
+    },
+    {
+      "id": 7747,
+      "performers": [
+        "5811"
+      ],
+      "emcee": 0,
+      "venue": 7619,
+      "show": "7776",
+      "name": "Portland Improv (Whiskey Tango and Curious Comedy Playas)",
+      "startDateTime": "2014-05-09T04:00:00.000Z",
+      "endDateTime": "2014-05-09T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7747-portland-improv-whiskey-tango-and-curious-comedy-playas"
+    },
+    {
+      "id": 7748,
+      "performers": [
+        "6354",
+        "6800",
+        "6591",
+        "5728",
+        "6275",
+        "6699",
+        "6818"
+      ],
+      "emcee": 6561,
+      "venue": 7620,
+      "name": "Analog Cafe Opening Show",
+      "startDateTime": "2014-05-09T03:00:00.000Z",
+      "endDateTime": "2014-05-09T04:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7748-analog-cafe-opening-show"
+    },
+    {
+      "id": 7749,
+      "performers": [
+        "5951",
+        "6825",
+        "6365",
+        "6092",
+        "6014",
+        "6835",
+        "6374"
+      ],
+      "emcee": 5845,
+      "venue": 7609,
+      "name": "Taxi Magic Stage at Alhambra Theater Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7749-taxi-magic-stage-at-alhambra-theater-primetime"
+    },
+    {
+      "id": 7750,
+      "performers": [
+        "5919",
+        "6151",
+        "5906",
+        "6157",
+        "6723",
+        "6189",
+        "7777"
+      ],
+      "emcee": 6704,
+      "venue": 7620,
+      "name": "Analog Cafe Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7750-analog-cafe-primetime"
+    },
+    {
+      "id": 7751,
+      "performers": [
+        "6118",
+        "6509",
+        "5806",
+        "6409",
+        "6284",
+        "6413",
+        "6130"
+      ],
+      "emcee": 6727,
+      "venue": 7620,
+      "name": "Analog Cafe Primetime",
+      "startDateTime": "2014-05-11T04:00:00.000Z",
+      "endDateTime": "2014-05-11T05:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7751-analog-cafe-primetime"
+    },
+    {
+      "id": 7752,
+      "performers": [
+        "6363",
+        "6408",
+        "6766",
+        "5783",
+        "6608",
+        "6110",
+        "6174"
+      ],
+      "emcee": 5983,
+      "venue": 7620,
+      "name": "Analog Cafe Late Show",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7752-analog-cafe-late-show"
+    },
+    {
+      "id": 7753,
+      "performers": [
+        "5932",
+        "5879",
+        "5777",
+        "5845",
+        "6509",
+        "6402",
+        "6365",
+        "5742"
+      ],
+      "emcee": 5962,
+      "venue": 7620,
+      "name": "Analog Cafe Closing Show",
+      "startDateTime": "2014-05-12T03:00:00.000Z",
+      "endDateTime": "2014-05-12T04:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7753-analog-cafe-closing-show"
+    },
+    {
+      "id": 7783,
+      "performers": [
+        "7882",
+        "6312",
+        "7896",
+        "6824",
+        "7881",
+        "7595"
+      ],
+      "emcee": 0,
+      "venue": 7612,
+      "name": "Lance Bangs Presents: Come Laugh With Us",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7783-lance-bangs-presents-come-laugh-with-us"
+    },
+    {
+      "id": 7796,
+      "performers": [
+        "6825",
+        "6014",
+        "6822",
+        "7881",
+        "7595",
+        "6804"
+      ],
+      "emcee": 6804,
+      "venue": 7609,
+      "name": "Midnight Run/ The Andy Haynes Album Release Party!",
+      "startDateTime": "2014-05-11T06:30:00.000Z",
+      "endDateTime": "2014-05-11T08:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7796-midnight-run-the-andy-haynes-album-release-party"
+    },
+    {
+      "id": 7804,
+      "performers": [
+        "6804",
+        "5998",
+        "6659",
+        "7883",
+        "6425",
+        "7881"
+      ],
+      "emcee": 6130,
+      "venue": 7615,
+      "show": "6131",
+      "name": "PERSONA! with Tony Sam",
+      "startDateTime": "2014-05-10T06:00:00.000Z",
+      "endDateTime": "2014-05-10T07:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7804-persona-with-tony-sam"
+    },
+    {
+      "id": 7805,
+      "performers": [
+        "6805",
+        "5730",
+        "5742",
+        "6825",
+        "6425",
+        "6859"
+      ],
+      "emcee": 0,
+      "venue": 7618,
+      "show": "6347",
+      "name": "Brew Haha: The Comedy Show Drinking Game",
+      "startDateTime": "2014-05-11T05:00:00.000Z",
+      "endDateTime": "2014-05-11T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7805-brew-haha-the-comedy-show-drinking-game"
+    },
+    {
+      "id": 7806,
+      "performers": [
+        "5787",
+        "6629",
+        "6363",
+        "6319",
+        "6818",
+        "7881"
+      ],
+      "emcee": 6042,
+      "venue": 7608,
+      "show": "6734",
+      "name": "Hot Comedy with the Spicy News",
+      "startDateTime": "2014-05-10T05:00:00.000Z",
+      "endDateTime": "2014-05-10T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7806-hot-comedy-with-the-spicy-news"
+    },
+    {
+      "id": 7807,
+      "performers": [
+        "5983",
+        "6686",
+        "6102",
+        "6731",
+        "6824",
+        "7881"
+      ],
+      "emcee": 5932,
+      "venue": 7618,
+      "show": "5936",
+      "name": "The Comedy Bull",
+      "startDateTime": "2014-05-10T03:00:00.000Z",
+      "endDateTime": "2014-05-10T04:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7807-the-comedy-bull"
+    },
+    {
+      "id": 7808,
+      "performers": [
+        "6074",
+        "6723",
+        "7823",
+        "7825",
+        "6857",
+        "6864"
+      ],
+      "emcee": 7824,
+      "venue": 7619,
+      "show": "7822",
+      "name": "Portland Masters",
+      "startDateTime": "2014-05-11T02:00:00.000Z",
+      "endDateTime": "2014-05-11T03:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7808-portland-masters"
+    },
+    {
+      "id": 7809,
+      "performers": [
+        "6686",
+        "6392",
+        "6162",
+        "5755",
+        "5998"
+      ],
+      "emcee": 6102,
+      "venue": 7614,
+      "name": "All Jane, No Dick",
+      "startDateTime": "2014-05-12T02:00:00.000Z",
+      "endDateTime": "2014-05-12T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7809-all-jane-no-dick"
+    },
+    {
+      "id": 7810,
+      "performers": [
+        "6527",
+        "6855",
+        "7579",
+        "6823",
+        "6818"
+      ],
+      "emcee": 6006,
+      "venue": 7612,
+      "show": "6585",
+      "name": "Late Night Action w/ Alex Falcone and Bri Pruett",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7810-late-night-action-w-alex-falcone-and-bri-pruett"
+    },
+    {
+      "id": 7811,
+      "performers": [
+        "6687",
+        "6608",
+        "7896",
+        "6527"
+      ],
+      "emcee": 7885,
+      "venue": 7619,
+      "show": "5871",
+      "name": "The Mystery Box Show ",
+      "startDateTime": "2014-05-10T05:00:00.000Z",
+      "endDateTime": "2014-05-10T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7811-the-mystery-box-show-"
+    },
+    {
+      "id": 7815,
+      "performers": [
+        "7786",
+        "6659",
+        "5755",
+        "6795",
+        "6402",
+        "6319",
+        "6205",
+        "6849"
+      ],
+      "emcee": 0,
+      "venue": 7618,
+      "show": "7814",
+      "name": "Blam! Blam! Blam! Presents \"Black Milk\"",
+      "startDateTime": "2014-05-11T06:30:00.000Z",
+      "endDateTime": "2014-05-11T08:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7815-blam-blam-blam-presents-black-milk"
+    },
+    {
+      "id": 7816,
+      "performers": [],
+      "emcee": 7802,
+      "venue": 7616,
+      "name": "Set List Open Mic",
+      "startDateTime": "2014-05-11T00:00:00.000Z",
+      "endDateTime": "2014-05-11T01:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7816-set-list-open-mic"
+    },
+    {
+      "id": 7911,
+      "performers": [
+        "6203",
+        "6686",
+        "5739",
+        "6640",
+        "5805",
+        "5973",
+        "6280"
+      ],
+      "emcee": 6150,
+      "venue": 7620,
+      "name": "Analog Cafe Early Show",
+      "startDateTime": "2014-05-11T02:00:00.000Z",
+      "endDateTime": "2014-05-11T03:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7911-analog-cafe-early-show"
+    },
+    {
+      "id": 7912,
+      "performers": [
+        "6717",
+        "5932",
+        "5983",
+        "5845",
+        "6271",
+        "6762",
+        "5894"
+      ],
+      "emcee": 0,
+      "venue": 7610,
+      "name": "Surprise Me! Late Night",
+      "startDateTime": "2014-05-11T06:00:00.000Z",
+      "endDateTime": "2014-05-11T07:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7912-surprise-me-late-night"
+    },
+    {
+      "id": 7913,
+      "performers": [
+        "6640",
+        "6476",
+        "6591",
+        "6674",
+        "6456",
+        "6614",
+        "6860",
+        "7579"
+      ],
+      "emcee": 6409,
+      "venue": 7615,
+      "name": "Hawthorne Theatre Closing Show",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7913-hawthorne-theatre-closing-show"
+    },
+    {
+      "id": 7914,
+      "performers": [
+        "6735",
+        "7785",
+        "6123",
+        "6134",
+        "6825",
+        "6014",
+        "6371",
+        "6816"
+      ],
+      "emcee": 6144,
+      "venue": 7618,
+      "name": "MailChimp Stage at the White Owl Social Club Closing Show",
+      "startDateTime": "2014-05-12T05:00:00.000Z",
+      "endDateTime": "2014-05-12T06:30:00.000Z",
+      "price": 20,
+      "pageUrl": "7914-mailchimp-stage-at-the-white-owl-social-club-closing-show"
+    },
+    {
+      "id": 7915,
+      "performers": [
+        "5728",
+        "7580",
+        "6425",
+        "5938",
+        "7566",
+        "6864",
+        "6611",
+        "6833"
+      ],
+      "emcee": 6319,
+      "venue": 7615,
+      "name": "Hawthorne Theatre Early Show",
+      "startDateTime": "2014-05-10T02:00:00.000Z",
+      "endDateTime": "2014-05-10T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7915-hawthorne-theatre-early-show"
+    },
+    {
+      "id": 7916,
+      "performers": [
+        "6456",
+        "5973",
+        "6413",
+        "6795",
+        "6608",
+        "7566",
+        "6835"
+      ],
+      "emcee": 6325,
+      "venue": 7611,
+      "name": "Bossanova Late Show",
+      "startDateTime": "2014-05-10T06:30:00.000Z",
+      "endDateTime": "2014-05-10T08:00:00.000Z",
+      "price": 15,
+      "pageUrl": "7916-bossanova-late-show"
+    },
+    {
+      "id": 7918,
+      "performers": [
+        "5987",
+        "6745",
+        "7580",
+        "6379",
+        "6804",
+        "6609",
+        "6822"
+      ],
+      "emcee": 6402,
+      "venue": 7620,
+      "name": "Analog Cafe Primetime",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 10,
+      "pageUrl": "7918-analog-cafe-primetime"
+    },
+    {
+      "id": 7919,
+      "performers": [
+        "6766",
+        "5805",
+        "6536",
+        "5867",
+        "5894",
+        "6860",
+        "6611"
+      ],
+      "emcee": 5787,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Primetime",
+      "startDateTime": "2014-05-09T05:00:00.000Z",
+      "endDateTime": "2014-05-09T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7919-sizzle-pie-stage-at-the-eagles-lodge-primetime"
+    },
+    {
+      "id": 7951,
+      "performers": [
+        "6476",
+        "6337",
+        "6717",
+        "5783",
+        "6029",
+        "6069",
+        "6280"
+      ],
+      "emcee": 6476,
+      "venue": 7613,
+      "name": "Sizzle Pie Stage at the Eagles Lodge Primetime",
+      "startDateTime": "2014-05-10T04:00:00.000Z",
+      "endDateTime": "2014-05-10T05:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7951-sizzle-pie-stage-at-the-eagles-lodge-primetime"
+    },
+    {
+      "id": 7952,
+      "performers": [
+        "6425",
+        "6659"
+      ],
+      "emcee": 0,
+      "venue": 7608,
+      "show": "6846",
+      "name": "Comedy Grab Bag",
+      "startDateTime": "2014-05-12T02:00:00.000Z",
+      "endDateTime": "2014-05-12T03:30:00.000Z",
+      "price": 15,
+      "pageUrl": "7952-comedy-grab-bag"
+    },
+    {
+      "id": 7967,
+      "performers": [
+        "6215",
+        "6151",
+        "6110",
+        "6476",
+        "6818"
+      ],
+      "emcee": 0,
+      "venue": 7966,
+      "show": "5921",
+      "name": "No Pun Intendo",
+      "startDateTime": "2014-05-12T01:00:00.000Z",
+      "endDateTime": "2014-05-12T02:30:00.000Z",
+      "price": 0,
+      "pageUrl": "7967-no-pun-intendo"
     }
   ]
 }

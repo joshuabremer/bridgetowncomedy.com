@@ -1,155 +1,216 @@
 {
   "venues": [
     {
+      "id": 7608,
       "events": [
-        "10411",
-        "10416",
-        "10417",
-        "10418",
-        "10419",
-        "10441",
-        "10450",
-        "10451",
-        "10788",
-        "11148"
+        7621,
+        7623,
+        7628,
+        7632,
+        7678,
+        7745,
+        7806,
+        7952
       ],
-      "address": "910 E Burnside St, Portland, OR",
-      "pageUrl": "10380-boogies-burgers"
+      "pageUrl": "7608-alhambra-theater-lounge"
     },
     {
+      "id": 7609,
       "events": [
-        "10383",
-        "10401",
-        "10423",
-        "10430",
-        "10433",
-        "10449",
-        "10460",
-        "10466",
-        "10467",
-        "10502",
-        "10706",
-        "10736",
-        "10737",
-        "10785"
+        7637,
+        7639,
+        7642,
+        7644,
+        7645,
+        7646,
+        7648,
+        7652,
+        7677,
+        7740,
+        7742,
+        7749,
+        7796
       ],
-      "address": "722 E Burnside, Portland, OR",
-      "pageUrl": "10374-mailchimp-stage-at-bossanova-ballroom"
+      "pageUrl": "7609-taxi-magic-stage-at-alhambra-theater-main"
     },
     {
+      "id": 7620,
       "events": [
-        "10412",
-        "10437",
-        "10447",
-        "10448",
-        "10459",
-        "10503",
-        "10784"
+        7748,
+        7750,
+        7751,
+        7752,
+        7753,
+        7911,
+        7918
       ],
-      "address": "1028 SE Water, Portland, OR",
-      "pageUrl": "10378-bunk-bar"
+      "pageUrl": "7620-analog-cafe"
     },
     {
+      "id": 7619,
       "events": [
-        "10388",
-        "10402",
-        "10404",
-        "10405",
-        "10406",
-        "10407",
-        "10409",
-        "10425",
-        "10427",
-        "10428",
-        "10461",
-        "10678",
-        "10729",
-        "10731",
-        "10740",
-        "10766",
-        "10817"
+        7627,
+        7699,
+        7704,
+        7738,
+        7741,
+        7744,
+        7746,
+        7747,
+        7808,
+        7811
       ],
-      "address": "830 E. Burnside St., Portland, OR",
-      "pageUrl": "10373-kill-rock-stars-stage-at-doug-fir-lounge"
+      "pageUrl": "7619-analog-theater"
     },
     {
+      "id": 7610,
       "events": [
-        "10764"
+        7653,
+        7654,
+        7655,
+        7656,
+        7912
       ],
-      "address": "345 SE Taylor St, Portland, OR 97214",
-      "pageUrl": "10763-guardian-games"
+      "pageUrl": "7610-bar-of-the-gods"
     },
     {
+      "id": 7611,
       "events": [
-        "10394",
-        "10420",
-        "10442",
-        "10443",
-        "10445",
-        "10746",
-        "10747",
-        "10998",
-        "10999"
+        7657,
+        7658,
+        7659,
+        7660,
+        7661,
+        7703,
+        7916
       ],
-      "address": "523 SE Grand Ave 97214",
-      "pageUrl": "10379-my-fathers-place"
+      "pageUrl": "7611-bossanova"
     },
     {
-      "events": [
-        "10758",
-        "11108"
-      ],
-      "address": "900 SE Salmon St, Portland, OR 97214",
-      "pageUrl": "10677-new-deal-distillery"
+      "id": 8571,
+      "events": [],
+      "pageUrl": "8571-curious-comedy-theater"
     },
     {
+      "id": 7612,
       "events": [
-        "10426",
-        "10436",
-        "10439",
-        "10672"
+        7624,
+        7662,
+        7663,
+        7665,
+        7666,
+        7667,
+        7668,
+        7669,
+        7670,
+        7671,
+        7672,
+        7674,
+        7675,
+        7676,
+        7783,
+        7810
       ],
-      "address": "111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR",
-      "pageUrl": "10375-norse-hall"
+      "pageUrl": "7612-squarespace-stage-at-doug-fir"
     },
     {
+      "id": 7613,
       "events": [
-        "10403",
-        "10741"
+        7625,
+        7638,
+        7651,
+        7679,
+        7680,
+        7685,
+        7687,
+        7743,
+        7919,
+        7951
       ],
-      "address": "Suite #110, 1300 SE Stark St, Portland, OR",
-      "pageUrl": "10384-revolution-hall"
+      "pageUrl": "7613-sizzle-pie-stage-at-eagles-lodge"
     },
     {
+      "id": 7966,
       "events": [
-        "10391",
-        "10432",
-        "10453",
-        "10455",
-        "10728",
-        "10733",
-        "10765"
+        7967
       ],
-      "address": "315 SE 3rd Ave, Portland, OR",
-      "pageUrl": "10377-rotture-lower"
+      "pageUrl": "7966-ground-kontrol"
     },
     {
+      "id": 7614,
       "events": [
-        "10392",
-        "10734",
-        "10749",
-        "10779",
-        "10783",
-        "10819"
+        7688,
+        7689,
+        7690,
+        7691,
+        7692,
+        7693,
+        7694,
+        7695,
+        7697,
+        7809
       ],
-      "address": "315 SE 3rd Ave, Portland, OR",
-      "pageUrl": "10376-rotture-upper"
+      "pageUrl": "7614-hawthorne-theatre-lounge"
     },
     {
+      "id": 7615,
       "events": [
-        "10676"
+        7650,
+        7698,
+        7701,
+        7702,
+        7804,
+        7913,
+        7915
       ],
-      "pageUrl": "10675-the-k-ohle-bus"
+      "pageUrl": "7615-hawthorne-theatre-main"
+    },
+    {
+      "id": 7616,
+      "events": [
+        7641,
+        7706,
+        7708,
+        7710,
+        7711,
+        7739,
+        7816
+      ],
+      "pageUrl": "7616-jupiter-tent"
+    },
+    {
+      "id": 7617,
+      "events": [
+        7716,
+        7717,
+        7718,
+        7719,
+        7720,
+        7721,
+        7722,
+        7723,
+        7724,
+        7725,
+        7726,
+        7727,
+        7728
+      ],
+      "pageUrl": "7617-the-tanker"
+    },
+    {
+      "id": 7618,
+      "events": [
+        7622,
+        7730,
+        7733,
+        7734,
+        7737,
+        7805,
+        7807,
+        7815,
+        7914
+      ],
+      "pageUrl": "7618-mailchimp-stage-stage-at-white-owl-social-club"
     }
   ]
 }

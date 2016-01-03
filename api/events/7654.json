@@ -1,0 +1,18 @@
+{
+  "id": 7654,
+  "performers": [
+    "6359",
+    "6058",
+    "5739",
+    "6735",
+    "6647",
+    "6032"
+  ],
+  "emcee": 6049,
+  "venue": 7610,
+  "name": "Surprise Me!",
+  "startDateTime": "2014-05-10T04:00:00.000Z",
+  "endDateTime": "2014-05-10T05:30:00.000Z",
+  "price": 10,
+  "pageUrl": "7654-surprise-me"
+}

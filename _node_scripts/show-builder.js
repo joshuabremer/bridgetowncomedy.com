@@ -7,6 +7,7 @@ const ObjectBuilder = require('./object-builder');
 
 const ShowBuilder = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
+    'id',
     'shows',
     'events',
     'name',
@@ -25,12 +26,13 @@ const ShowBuilder = ObjectBuilder.extend({
   normalizeData: function() {
     const showObj = festivalData.getShowObject();
     for (var key in showObj) {
-      showObj[key].id = showObj[key].id || showObj[key].SubmittedId;
-      showObj[key].pageUrl = showObj[key].id + '-' + util.convertToSlug(showObj[key].name);
-      showObj[key].SortOrder = showObj[key].Position;
-      showObj[key].SortOrder = parseInt(showObj[key].SortOrder, 10) || 99999;
+      showObj[key].id = Number(showObj[key].SubmittedId);
+      showObj[key].name = showObj[key].Name;
+      showObj[key].bio = showObj[key].Bio;
+      showObj[key].copy = showObj[key].Copy;
+      showObj[key].sortOrder = Number(showObj[key].SortOrder) || 9999;
       showObj[key].iTunesUrl = showObj[key]['iTunes Url'];
-
+      showObj[key].pageUrl = showObj[key].id + '-' + util.convertToSlug(showObj[key].name);
     }
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, null, ' '), 'utf8');
   },
@@ -42,13 +44,6 @@ const ShowBuilder = ObjectBuilder.extend({
       showObj[key].events = festivalData.getEventsForShow(showObj[key].id);
     }
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, null, ' '), 'utf8');
-  },
-
-  writeToFixtureFile: function() {
-    const showData = {
-      shows: festivalData.getShowObject()
-    };
-    fs.writeFileSync(this.API_PATH, JSON.stringify(showData, this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
   },
 
   createStaticPages: function() {
