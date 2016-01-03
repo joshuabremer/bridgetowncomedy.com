@@ -16,11 +16,11 @@ const ObjectBuilder = Class.extend({
     console.log('Finished: ' + this.API_PATH);
   },
 
-  normalizeData: function(/*filepath*/) {
+  normalizeData: function( /*filepath*/ ) {
     // Override this...
   },
 
-  addRelationships: function(/*filepath*/) {
+  addRelationships: function( /*filepath*/ ) {
     // Override this...
   },
 
@@ -39,7 +39,7 @@ const ObjectBuilder = Class.extend({
       dst: imgDest,
       quality: 80
     })
-      .then(function(/*file*/) {
+      .then(function( /*file*/ ) {
         easyimg.thumbnail({
           src: imgDest,
           dst: imgDest,
@@ -49,7 +49,7 @@ const ObjectBuilder = Class.extend({
           y: 0,
           fill: fill
         },
-          function(err/*, image*/) {
+          function(err /*, image*/ ) {
             if (err) {
               var errMsg = 'Error resizing: ' + imgDest;
               console.log(errMsg.red);
@@ -80,7 +80,7 @@ const ObjectBuilder = Class.extend({
         _this.buildThumbnail("tmp/" + filename, "public/img/" + prefix + "-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
       });
     });
-    request.on("error", function(/*err*/) {
+    request.on("error", function( /*err*/ ) {
       setTimeout(function() {
         _this.buildImageFromURL.call(_this, name, url, prefix);
       }, 1000 * Math.random());
@@ -118,7 +118,7 @@ const ObjectBuilder = Class.extend({
     }
     );
 
-    req.on('error', function(/*err*/) {
+    req.on('error', function( /*err*/ ) {
       setTimeout(function() {
         _this.buildImageFromURLIfUpdated.call(_this, name, url, prefix);
       }, 1000 * Math.random());

@@ -7,6 +7,7 @@ const ObjectBuilder = require('./object-builder');
 
 const ShowBuilder = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
+    'shows',
     'events',
     'name',
     'photoUrl',
@@ -23,14 +24,14 @@ const ShowBuilder = ObjectBuilder.extend({
   normalizeData: function() {
     var showObj = festivalData.getShowObject();
     for (var key in showObj) {
-      showObj[key].id = showObj[key].SubmittedId;
+      showObj[key].id = showObj[key].id || showObj[key].SubmittedId;
       showObj[key].pageUrl = showObj[key].id + '-' + util.convertToSlug(showObj[key].name);
       showObj[key].SortOrder = showObj[key].Position;
       showObj[key].SortOrder = parseInt(showObj[key].SortOrder, 10) || 99999;
       showObj[key].iTunesUrl = showObj[key]['iTunes Url'];
 
     }
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, null, ' '), 'utf8');
   },
 
   addRelationships: function() {
@@ -43,15 +44,17 @@ const ShowBuilder = ObjectBuilder.extend({
   },
 
   writeToFixtureFile: function() {
-    const showData = {shows: festivalData.getShowObject()};
-    fs.writeFileSync(this.API_PATH, JSON.stringify(showData, null, 2), 'utf8');
+    const showData = {
+      shows: festivalData.getShowObject()
+    };
+    fs.writeFileSync(this.API_PATH, JSON.stringify(showData, this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
   },
 
   createStaticPages: function() {
     var showObj = festivalData.getShowObject();
-    var rootPath = './show/';
-    wrench.rmdirSyncRecursive('./show', true);
-    fs.mkdirSync('./show');
+    var rootPath = '../show/';
+    wrench.rmdirSyncRecursive('../show', true);
+    fs.mkdirSync('../show');
 
     for (var key in showObj) {
       var dirPath = rootPath + showObj[key].pageUrl;
@@ -61,26 +64,26 @@ const ShowBuilder = ObjectBuilder.extend({
         fs.mkdirSync(dirPath);
       }
       fs.openSync(filePath, 'w');
-      process.stdout.write('.'.green);
+      process.stdout.write('.');
       fs.appendFileSync(filePath, '---\n');
       fs.appendFileSync(filePath, 'layout: page\n');
-      fs.appendFileSync(filePath, 'title: \'' + showObj[key].Name + '\'\n');
+      fs.appendFileSync(filePath, 'title: \'' + showObj[key].name + '\'\n');
       fs.appendFileSync(filePath, 'category: show \n');
-      fs.appendFileSync(filePath, 'featuredimage: \'/img/show-images/show-' + util.cleanStr(showObj[key].Name) + '-300x300.jpg\'\n');
+      fs.appendFileSync(filePath, 'featuredimage: \'/img/show-images/show-' + util.cleanStr(showObj[key].name) + '-300x300.jpg\'\n');
       fs.appendFileSync(filePath, '---\n\n');
 
-      fs.appendFileSync(filePath, util.htmlToText(showObj[key].Bio));
+      fs.appendFileSync(filePath, util.htmlToText(showObj[key].bio));
     }
     var message = '\n' + showObj.length + ' show pages created\n';
-    console.log(message.green);
+    console.log(message);
   },
 
   createHeadshots: function() {
     // var showObj = festivalData.getShowObject();
 
     // for (var key in showObj) {
-      //var item = showObj[key];
-      // this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'show')
+    //var item = showObj[key];
+    // this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'show')
     // }
   }
 });

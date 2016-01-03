@@ -42,10 +42,13 @@ Q.all([
   const showBuilder = new ShowBuilder();
   showBuilder.buildFixtures();
   showBuilder.createHeadshots();
+  showBuilder.createStaticPages();
 
   const performerBuilder = new PerformerBuilder();
   performerBuilder.buildFixtures();
   performerBuilder.createHeadshots();
+  performerBuilder.createStaticPages();
+
 }).catch(function(error) {
   console.error(error.stack);
 });

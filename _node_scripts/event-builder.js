@@ -7,6 +7,7 @@ const moment = require('moment');
 
 module.exports = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
+    'events',
     'performers',
     'emcees',
     'venue',
@@ -40,7 +41,7 @@ module.exports = ObjectBuilder.extend({
 
     eventObj = util.sortArray(eventObj, 'id');
 
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(eventObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(eventObj, null, ' '), 'utf8');
   },
 
   addRelationships: function() {
@@ -56,8 +57,10 @@ module.exports = ObjectBuilder.extend({
   },
 
   writeToFixtureFile: function() {
-    const eventData = {events: festivalData.getEventObject()};
-    fs.writeFileSync(this.API_PATH, JSON.stringify(eventData, null, 2), 'utf8');
+    const eventData = {
+      events: festivalData.getEventObject()
+    };
+    fs.writeFileSync(this.API_PATH, JSON.stringify(eventData, this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
   },
 
   addMCsIfTheyExist: function() {

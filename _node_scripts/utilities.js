@@ -70,7 +70,7 @@ Utilities.prototype.requestJsonAndSave = function(url, path, callback) {
       fs.appendFileSync(stripBom(path), chunk);
     });
 
-    response.on('end', function(/*data*/) {
+    response.on('end', function( /*data*/ ) {
       var f = fs.readFileSync(path, 'utf8');
       var json = JSON.stringify(JSON.parse(_this.removeGremlins(f)), null);
       fs.writeFileSync(path, json, 'utf8');

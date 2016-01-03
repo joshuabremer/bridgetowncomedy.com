@@ -7,6 +7,7 @@ const ObjectBuilder = require('./object-builder');
 
 const PerformerBuilder = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
+    'performers',
     'events',
     'emceeEvents',
     'name',
@@ -23,7 +24,7 @@ const PerformerBuilder = ObjectBuilder.extend({
 
   normalizeData: function() {
     var key,
-        performerObj = festivalData.getPerformerObject();
+      performerObj = festivalData.getPerformerObject();
 
 
     for (key in performerObj) {
@@ -68,7 +69,7 @@ const PerformerBuilder = ObjectBuilder.extend({
 
     performerObj = util.sortArray(performerObj, 'SortOrder');
 
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, null, ' '), 'utf8');
   },
 
   addRelationships: function() {
@@ -82,8 +83,10 @@ const PerformerBuilder = ObjectBuilder.extend({
   },
 
   writeToFixtureFile: function() {
-    const performerData = {performers: festivalData.getPerformerObject()};
-    fs.writeFileSync(this.API_PATH, JSON.stringify(performerData, null, 2), 'utf8');
+    const performerData = {
+      performers: festivalData.getPerformerObject()
+    };
+    fs.writeFileSync(this.API_PATH, JSON.stringify(performerData, this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
   },
 
   createStaticPages: function() {
@@ -100,15 +103,15 @@ const PerformerBuilder = ObjectBuilder.extend({
         fs.mkdirSync(dirPath);
       }
       fs.openSync(filePath, 'w');
-      process.stdout.write('.'.green);
+      process.stdout.write('.');
       fs.appendFileSync(filePath, '---\n');
       fs.appendFileSync(filePath, 'layout: page\n');
-      fs.appendFileSync(filePath, 'title: \'' + performerObj[key].Name + '\'\n');
+      fs.appendFileSync(filePath, 'title: \'' + performerObj[key].name + '\'\n');
       fs.appendFileSync(filePath, 'category: performer \n');
-      fs.appendFileSync(filePath, 'featuredimage: \'/img/performer-images/performer-' + util.cleanStr(performerObj[key].Name) + '-300x300.jpg\'\n');
+      fs.appendFileSync(filePath, 'featuredimage: \'/img/performer-images/performer-' + util.cleanStr(performerObj[key].name) + '-300x300.jpg\'\n');
       fs.appendFileSync(filePath, '---\n\n');
 
-      fs.appendFileSync(filePath, util.htmlToText(performerObj[key].Bio));
+      fs.appendFileSync(filePath, util.htmlToText(performerObj[key].bio));
     }
 
     var message = '\n' + performerObj.length + ' show pages created\n';
@@ -120,9 +123,38 @@ const PerformerBuilder = ObjectBuilder.extend({
 
     // for (var key in performerObj) {
     //   var item = performerObj[key];
-      //this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'performer');
+    //this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'performer');
     // }
-  // curl -z tmp/aaronweaver.jpg http://localhost:4000/img/performer-images/performer-aaronweaver-300x300.jpg -o tmp/aaronweaver.jpg
+    // curl -z tmp/aaronweaver.jpg http://localhost:4000/img/performer-images/performer-aaronweaver-300x300.jpg -o tmp/aaronweaver.jpg
+  },
+
+  createStaticPages: function() {
+    var performerObj = festivalData.getPerformerObject();
+    var rootPath = "../performer/";
+    wrench.rmdirSyncRecursive("../performer", true);
+    fs.mkdirSync("../performer");
+
+    for (var key in performerObj) {
+      var dirPath = rootPath + performerObj[key].pageUrl;
+      var filePath = dirPath + '/index.html';
+
+      if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath);
+      }
+      fs.openSync(filePath, 'w');
+      process.stdout.write('.');
+      fs.appendFileSync(filePath, "---\n");
+      fs.appendFileSync(filePath, "layout: page\n");
+      fs.appendFileSync(filePath, "title: \"" + performerObj[key].name + "\"\n");
+      fs.appendFileSync(filePath, "category: performer \n");
+      fs.appendFileSync(filePath, "featuredimage: \"/img/performer-images/performer-" + util.cleanStr(performerObj[key].name) + "-300x300.jpg\"\n");
+      fs.appendFileSync(filePath, "---\n\n");
+
+      fs.appendFileSync(filePath, util.htmlToText(performerObj[key].bio));
+    }
+
+    var message = "\n" + performerObj.length + " performer pages created\n";
+    console.log(message);
   }
 });
 

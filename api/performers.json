@@ -1,7 +1,13 @@
 {
   "performers": [
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10409",
+        "10459",
+        "10728"
+      ],
+      "emceeEvents": [],
       "name": "Jak Knight",
       "twitter": "",
       "website": "",
@@ -9,11 +15,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9212-jak-knight",
-      "emceeEvents": []
+      "pageUrl": "9212-jak-knight"
     },
     {
-      "events": [],
+      "events": [
+        "10426",
+        "10428"
+      ],
+      "emceeEvents": [
+        "10403"
+      ],
       "name": "Jonathan Katz",
       "twitter": "jonathan_katz",
       "website": "http://www.jonathankatz.com/",
@@ -21,11 +32,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10349-jonathan-katz",
-      "emceeEvents": []
+      "pageUrl": "10349-jonathan-katz"
     },
     {
-      "events": [],
+      "events": [
+        "10403",
+        "10427",
+        "10449",
+        "10460",
+        "10461",
+        "10502",
+        "10741",
+        "10785"
+      ],
+      "emceeEvents": [],
       "name": "Janeane Garofalo",
       "twitter": "",
       "website": "",
@@ -33,11 +53,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10293-janeane-garofalo",
-      "emceeEvents": []
+      "pageUrl": "10293-janeane-garofalo"
     },
     {
-      "events": [],
+      "events": [
+        "10403",
+        "10430",
+        "10433",
+        "10436",
+        "10439",
+        "10460"
+      ],
+      "emceeEvents": [
+        "10407"
+      ],
       "name": "Dana Gould",
       "twitter": "",
       "website": "",
@@ -45,11 +74,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10288-dana-gould",
-      "emceeEvents": []
+      "pageUrl": "10288-dana-gould"
     },
     {
-      "events": [],
+      "events": [
+        "10426",
+        "10427",
+        "10428",
+        "10460",
+        "10461",
+        "10731"
+      ],
+      "emceeEvents": [],
       "name": "Neil Hamburger",
       "twitter": "NeilHamburger",
       "website": "http://www.americasfunnyman.com",
@@ -57,11 +93,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10312-neil-hamburger",
-      "emceeEvents": []
+      "pageUrl": "10312-neil-hamburger"
     },
     {
-      "events": [],
+      "events": [
+        "10425"
+      ],
+      "emceeEvents": [],
       "name": "Jessica Williams",
       "twitter": "msjwilly",
       "website": "",
@@ -69,11 +107,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10348-jessica-williams",
-      "emceeEvents": []
+      "pageUrl": "10348-jessica-williams"
     },
     {
-      "events": [],
+      "events": [
+        "10737",
+        "10741"
+      ],
+      "emceeEvents": [],
       "name": "Dan Harmon",
       "twitter": "danharmon",
       "website": "",
@@ -81,11 +122,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10793-dan-harmon",
-      "emceeEvents": []
+      "pageUrl": "10793-dan-harmon"
     },
     {
-      "events": [],
+      "events": [
+        "10412",
+        "10427",
+        "10678"
+      ],
+      "emceeEvents": [
+        "10436",
+        "10676"
+      ],
       "name": "Kurt Braunohler",
       "twitter": "kurtbraunohler",
       "website": "http://kurtbraunohler.tumblr.com",
@@ -93,11 +141,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10311-kurt-braunohler",
-      "emceeEvents": []
+      "pageUrl": "10311-kurt-braunohler"
     },
     {
-      "events": [],
+      "events": [
+        "10404",
+        "10433",
+        "10436",
+        "10466",
+        "10467",
+        "10733",
+        "10736",
+        "10779"
+      ],
+      "emceeEvents": [],
       "name": "Karen Kilgariff",
       "twitter": "",
       "website": "",
@@ -105,11 +162,21 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9601-karen-kilgariff",
-      "emceeEvents": []
+      "pageUrl": "9601-karen-kilgariff"
     },
     {
-      "events": [],
+      "events": [
+        "10432",
+        "10433",
+        "10448",
+        "10676",
+        "10706",
+        "10734",
+        "10740",
+        "10758",
+        "10817"
+      ],
+      "emceeEvents": [],
       "name": "Matt Braunger",
       "twitter": "Braunger",
       "website": "http://mattbraunger.com",
@@ -117,11 +184,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10337-matt-braunger",
-      "emceeEvents": []
+      "pageUrl": "10337-matt-braunger"
     },
     {
-      "events": [],
+      "events": [
+        "10403",
+        "10405",
+        "10409",
+        "10453",
+        "10736",
+        "10740"
+      ],
+      "emceeEvents": [
+        "10427"
+      ],
       "name": "Brendon Small",
       "twitter": "_Brendonsmall",
       "website": "http://www.brendonsmall.com/",
@@ -129,11 +205,21 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10342-brendon-small",
-      "emceeEvents": []
+      "pageUrl": "10342-brendon-small"
     },
     {
-      "events": [],
+      "events": [
+        "10388",
+        "10459",
+        "10466",
+        "10741",
+        "10764",
+        "10766",
+        "10819"
+      ],
+      "emceeEvents": [
+        "10404"
+      ],
       "name": "Jackie Kashian",
       "twitter": "",
       "website": "",
@@ -141,11 +227,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10297-jackie-kashian",
-      "emceeEvents": []
+      "pageUrl": "10297-jackie-kashian"
     },
     {
       "events": [],
+      "emceeEvents": [
+        "10731"
+      ],
       "name": "Lance Bangs",
       "twitter": "",
       "website": "",
@@ -153,11 +241,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10786-lance-bangs",
-      "emceeEvents": []
+      "pageUrl": "10786-lance-bangs"
     },
     {
-      "events": [],
+      "events": [
+        "10425",
+        "10672"
+      ],
+      "emceeEvents": [],
       "name": "Michelle Buteau",
       "twitter": "michellebuteau",
       "website": "http://www.michellebuteau.com/",
@@ -165,11 +256,19 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9423-michelle-buteau",
-      "emceeEvents": []
+      "pageUrl": "9423-michelle-buteau"
     },
     {
-      "events": [],
+      "events": [
+        "10402",
+        "10409",
+        "10432",
+        "10467",
+        "10502",
+        "10672",
+        "10678"
+      ],
+      "emceeEvents": [],
       "name": "Kyle Kinane",
       "twitter": "kylekinane",
       "website": "",
@@ -177,11 +276,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10313-kyle-kinane",
-      "emceeEvents": []
+      "pageUrl": "10313-kyle-kinane"
     },
     {
       "events": [],
+      "emceeEvents": [
+        "10737"
+      ],
       "name": "Jeff Davis",
       "twitter": "JeffBryanDavis",
       "website": "",
@@ -189,11 +290,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10794-jeff-davis",
-      "emceeEvents": []
+      "pageUrl": "10794-jeff-davis"
     },
     {
-      "events": [],
+      "events": [
+        "10439",
+        "10459",
+        "10461",
+        "10676",
+        "10740"
+      ],
+      "emceeEvents": [],
       "name": "Jonah Ray",
       "twitter": "jonahray",
       "website": "",
@@ -201,11 +308,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10816-jonah-ray",
-      "emceeEvents": []
+      "pageUrl": "10816-jonah-ray"
     },
     {
-      "events": [],
+      "events": [
+        "10451",
+        "10467",
+        "10766",
+        "10817"
+      ],
+      "emceeEvents": [],
       "name": "Michael Kosta",
       "twitter": "michaelkosta",
       "website": "http://www.michaelkosta.com/",
@@ -213,11 +325,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9755-michael-kosta",
-      "emceeEvents": []
+      "pageUrl": "9755-michael-kosta"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10453",
+        "10459",
+        "10731",
+        "10779",
+        "10785"
+      ],
+      "emceeEvents": [],
       "name": "Kate Berlant",
       "twitter": "kateberlant",
       "website": "http://kateberlant.tumblr.com/",
@@ -225,11 +344,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9446-kate-berlant",
-      "emceeEvents": []
+      "pageUrl": "9446-kate-berlant"
     },
     {
-      "events": [],
+      "events": [
+        "10430",
+        "10447",
+        "10672",
+        "10678",
+        "10784",
+        "10788"
+      ],
+      "emceeEvents": [],
       "name": "Ian Karmel",
       "twitter": "iankarmel",
       "website": "http://iankarmel.com/",
@@ -237,11 +363,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10315-ian-karmel",
-      "emceeEvents": []
+      "pageUrl": "10315-ian-karmel"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10419",
+        "10423",
+        "10426",
+        "10672"
+      ],
+      "emceeEvents": [],
       "name": "Beth Stelling",
       "twitter": "Bethstelling",
       "website": "http://www.beth-stelling.squarespace.com/",
@@ -249,11 +381,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9445-beth-stelling",
-      "emceeEvents": []
+      "pageUrl": "9445-beth-stelling"
     },
     {
-      "events": [],
+      "events": [
+        "10407",
+        "10425",
+        "10428",
+        "10461",
+        "10765"
+      ],
+      "emceeEvents": [
+        "10728",
+        "10729"
+      ],
       "name": "Baron Vaughn",
       "twitter": "barvonblaq",
       "website": "http://baronvaughn.com",
@@ -261,11 +402,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10233-baron-vaughn",
-      "emceeEvents": []
+      "pageUrl": "10233-baron-vaughn"
     },
     {
-      "events": [],
+      "events": [
+        "10460",
+        "10783"
+      ],
+      "emceeEvents": [],
       "name": "Kira Soltanovich",
       "twitter": "kiracomedy",
       "website": "http://www.kiracomedy.com",
@@ -273,11 +417,19 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9919-kira-soltanovich",
-      "emceeEvents": []
+      "pageUrl": "9919-kira-soltanovich"
     },
     {
-      "events": [],
+      "events": [
+        "10404",
+        "10423",
+        "10749",
+        "10779"
+      ],
+      "emceeEvents": [
+        "10433",
+        "10503"
+      ],
       "name": "Guy Branum",
       "twitter": "guybranum",
       "website": "http://www.guybranum.com/",
@@ -285,11 +437,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10210-guy-branum",
-      "emceeEvents": []
+      "pageUrl": "10210-guy-branum"
     },
     {
-      "events": [],
+      "events": [
+        "10416",
+        "10736",
+        "10784"
+      ],
+      "emceeEvents": [
+        "10461"
+      ],
       "name": "Dave Hill",
       "twitter": "mrdavehill",
       "website": "http://davehillonline.com/",
@@ -297,11 +455,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9167-dave-hill",
-      "emceeEvents": []
+      "pageUrl": "9167-dave-hill"
     },
     {
-      "events": [],
+      "events": [
+        "10407",
+        "10433",
+        "10706"
+      ],
+      "emceeEvents": [
+        "10439"
+      ],
       "name": "Arden Myrin",
       "twitter": "ardenmyrin",
       "website": "",
@@ -309,11 +473,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10341-arden-myrin",
-      "emceeEvents": []
+      "pageUrl": "10341-arden-myrin"
     },
     {
-      "events": [],
+      "events": [
+        "10388",
+        "10412",
+        "10420",
+        "10436",
+        "10736",
+        "10749"
+      ],
+      "emceeEvents": [],
       "name": "Chris Fairbanks",
       "twitter": "",
       "website": "http://chrisfairbanks.com/",
@@ -321,11 +492,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10350-chris-fairbanks",
-      "emceeEvents": []
+      "pageUrl": "10350-chris-fairbanks"
     },
     {
-      "events": [],
+      "events": [
+        "10433",
+        "10439",
+        "10758",
+        "10784"
+      ],
+      "emceeEvents": [
+        "10779"
+      ],
       "name": "Jacqueline Novak",
       "twitter": "jacquelinenovak",
       "website": "http://www.jokesnovak.com",
@@ -333,11 +511,19 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9739-jacqueline-novak",
-      "emceeEvents": []
+      "pageUrl": "9739-jacqueline-novak"
     },
     {
-      "events": [],
+      "events": [
+        "10406",
+        "10407",
+        "10426",
+        "10427",
+        "10731"
+      ],
+      "emceeEvents": [
+        "10740"
+      ],
       "name": "Steve Agee",
       "twitter": "steveagee",
       "website": "http://steveagee.tumblr.com/",
@@ -345,11 +531,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10346-steve-agee",
-      "emceeEvents": []
+      "pageUrl": "10346-steve-agee"
     },
     {
-      "events": [],
+      "events": [
+        "10425",
+        "10467",
+        "10728"
+      ],
+      "emceeEvents": [],
       "name": "Phoebe Robinson",
       "twitter": "PRobinsonComedy",
       "website": "http://blaria.com",
@@ -357,11 +547,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10043-phoebe-robinson",
-      "emceeEvents": []
+      "pageUrl": "10043-phoebe-robinson"
     },
     {
-      "events": [],
+      "events": [
+        "10430",
+        "10502"
+      ],
+      "emceeEvents": [],
       "name": "Jay Larson",
       "twitter": "jaylarsoncomedy",
       "website": "http://www.jaylarsoncomedy.com/",
@@ -369,11 +562,19 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10316-jay-larson",
-      "emceeEvents": []
+      "pageUrl": "10316-jay-larson"
     },
     {
-      "events": [],
+      "events": [
+        "10403",
+        "10426",
+        "10733",
+        "10736",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10466"
+      ],
       "name": "Ron Lynch",
       "twitter": "ronlynch1",
       "website": "https://www.facebook.com/ron.lynch1",
@@ -381,11 +582,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9691-ron-lynch",
-      "emceeEvents": []
+      "pageUrl": "9691-ron-lynch"
     },
     {
-      "events": [],
+      "events": [
+        "10418",
+        "10758"
+      ],
+      "emceeEvents": [
+        "10430"
+      ],
       "name": "Ryan Sickler",
       "twitter": "ryansickler",
       "website": "http://ryansickler.com",
@@ -393,11 +599,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9640-ryan-sickler",
-      "emceeEvents": []
+      "pageUrl": "9640-ryan-sickler"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10451",
+        "10785",
+        "10817"
+      ],
+      "emceeEvents": [],
       "name": "Joe Zimmerman",
       "twitter": "joezimmerman",
       "website": "http://www.zimmermancomedy.com/",
@@ -405,11 +616,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10044-joe-zimmerman",
-      "emceeEvents": []
+      "pageUrl": "10044-joe-zimmerman"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10439",
+        "10453",
+        "10467",
+        "10758",
+        "10788"
+      ],
+      "emceeEvents": [],
       "name": "Matt McCarthy",
       "twitter": "mccarthyredhead",
       "website": "http://en.wikipedia.org/wiki/Matt_McCarthy_%28comedian%29",
@@ -417,11 +635,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10119-matt-mccarthy",
-      "emceeEvents": []
+      "pageUrl": "10119-matt-mccarthy"
     },
     {
-      "events": [],
+      "events": [
+        "10419",
+        "10442",
+        "10765"
+      ],
+      "emceeEvents": [
+        "10706"
+      ],
       "name": "Matt Peters",
       "twitter": "mattpeters",
       "website": "",
@@ -429,11 +653,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9545-matt-peters",
-      "emceeEvents": []
+      "pageUrl": "9545-matt-peters"
     },
     {
-      "events": [],
+      "events": [
+        "10411",
+        "10420",
+        "10451",
+        "10455"
+      ],
+      "emceeEvents": [
+        "10460"
+      ],
       "name": "Laura House",
       "twitter": "imlaurahouse",
       "website": "http://laurahouse.com",
@@ -441,11 +672,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9505-laura-house",
-      "emceeEvents": []
+      "pageUrl": "9505-laura-house"
     },
     {
-      "events": [],
+      "events": [
+        "10672",
+        "10706",
+        "10819"
+      ],
+      "emceeEvents": [],
       "name": "Chad Daniels",
       "twitter": "",
       "website": "http://www.chaddaniels.com",
@@ -453,11 +688,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9676-chad-daniels",
-      "emceeEvents": []
+      "pageUrl": "9676-chad-daniels"
     },
     {
-      "events": [],
+      "events": [
+        "10731"
+      ],
+      "emceeEvents": [
+        "10502"
+      ],
       "name": "Adam Cayton-Holland",
       "twitter": "CaytonHolland",
       "website": "http://www.adamisfreakingoutrightnow.com",
@@ -465,11 +704,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10112-adam-cayton-holland",
-      "emceeEvents": []
+      "pageUrl": "10112-adam-cayton-holland"
     },
     {
-      "events": [],
+      "events": [
+        "10428",
+        "10448",
+        "10466",
+        "10733",
+        "10734"
+      ],
+      "emceeEvents": [],
       "name": "Allen Strickland Williams",
       "twitter": "totallyallen",
       "website": "http://www.allenstricklandwilliams.com/",
@@ -477,11 +722,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9093-allen-strickland-williams",
-      "emceeEvents": []
+      "pageUrl": "9093-allen-strickland-williams"
     },
     {
-      "events": [],
+      "events": [
+        "10416",
+        "10428",
+        "10460",
+        "10779"
+      ],
+      "emceeEvents": [],
       "name": "Lizzy Cooperman",
       "twitter": "lizzycooperman",
       "website": "http://lizzycooperman.com",
@@ -489,11 +739,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9564-lizzy-cooperman",
-      "emceeEvents": []
+      "pageUrl": "9564-lizzy-cooperman"
     },
     {
-      "events": [],
+      "events": [
+        "10388",
+        "10401",
+        "10448",
+        "10460",
+        "10817",
+        "10819"
+      ],
+      "emceeEvents": [],
       "name": "Matt Kirshen",
       "twitter": "mattkirshen",
       "website": "http://www.mattkirshen.com",
@@ -501,11 +758,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10343-matt-kirshen",
-      "emceeEvents": []
+      "pageUrl": "10343-matt-kirshen"
     },
     {
-      "events": [],
+      "events": [
+        "10441",
+        "10448",
+        "10502",
+        "10731"
+      ],
+      "emceeEvents": [],
       "name": "Curtis Cook",
       "twitter": "Curtis_Cook",
       "website": "http://www.curtiscookcomedy.com",
@@ -513,11 +775,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9990-curtis-cook",
-      "emceeEvents": []
+      "pageUrl": "9990-curtis-cook"
     },
     {
-      "events": [],
+      "events": [
+        "10433",
+        "10436",
+        "10466",
+        "10467",
+        "10733",
+        "10779"
+      ],
+      "emceeEvents": [
+        "10736"
+      ],
       "name": "Drennon Davis",
       "twitter": "drennondavis",
       "website": "http://www.drennondavis.com",
@@ -525,11 +796,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9763-drennon-davis",
-      "emceeEvents": []
+      "pageUrl": "9763-drennon-davis"
     },
     {
-      "events": [],
+      "events": [
+        "10439",
+        "10447",
+        "10453"
+      ],
+      "emceeEvents": [
+        "10467"
+      ],
       "name": "Chris Garcia ",
       "twitter": "_chrisgarcia",
       "website": "http://chrisgarciacomedy.com/",
@@ -537,11 +814,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10046-chris-garcia-",
-      "emceeEvents": []
+      "pageUrl": "10046-chris-garcia-"
     },
     {
-      "events": [],
+      "events": [
+        "10502"
+      ],
+      "emceeEvents": [],
       "name": "Ben Roy",
       "twitter": "benroy00",
       "website": "http://www.benroyyellsalot.com",
@@ -549,11 +828,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10309-ben-roy",
-      "emceeEvents": []
+      "pageUrl": "10309-ben-roy"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10425",
+        "10443",
+        "10448",
+        "10729"
+      ],
+      "emceeEvents": [],
       "name": "Maggie Maye",
       "twitter": "maggiemayehaha",
       "website": "",
@@ -561,11 +846,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9876-maggie-maye",
-      "emceeEvents": []
+      "pageUrl": "9876-maggie-maye"
     },
     {
-      "events": [],
+      "events": [
+        "10411",
+        "10412",
+        "10423",
+        "10432"
+      ],
+      "emceeEvents": [],
       "name": "Patrick Keane",
       "twitter": "",
       "website": "",
@@ -573,11 +863,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9638-patrick-keane",
-      "emceeEvents": []
+      "pageUrl": "9638-patrick-keane"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10402",
+        "10461",
+        "10736",
+        "10783"
+      ],
+      "emceeEvents": [],
       "name": "DJ REAL ",
       "twitter": "djrealsmells",
       "website": "http://www.djrealsmells.com",
@@ -585,11 +881,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9105-dj-real-",
-      "emceeEvents": []
+      "pageUrl": "9105-dj-real-"
     },
     {
-      "events": [],
+      "events": [
+        "10427",
+        "10436",
+        "10460",
+        "10817"
+      ],
+      "emceeEvents": [
+        "10401"
+      ],
       "name": "Andy Wood",
       "twitter": "andytwood",
       "website": "http://andytwood.com",
@@ -597,11 +900,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10317-andy-wood",
-      "emceeEvents": []
+      "pageUrl": "10317-andy-wood"
     },
     {
-      "events": [],
+      "events": [
+        "10412",
+        "10432",
+        "10451",
+        "10766"
+      ],
+      "emceeEvents": [],
       "name": "Ben Bizuneh",
       "twitter": "benbizuneh",
       "website": "http://benbizuneh.tumblr.com",
@@ -609,11 +917,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10134-ben-bizuneh",
-      "emceeEvents": []
+      "pageUrl": "10134-ben-bizuneh"
     },
     {
-      "events": [],
+      "events": [
+        "10394",
+        "10423",
+        "10426",
+        "10466"
+      ],
+      "emceeEvents": [
+        "10428"
+      ],
       "name": "Ian Abramson",
       "twitter": "iantherage",
       "website": "http://www.ianabramson.com/",
@@ -621,11 +936,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9096-ian-abramson",
-      "emceeEvents": []
+      "pageUrl": "9096-ian-abramson"
     },
     {
-      "events": [],
+      "events": [
+        "10502",
+        "10817"
+      ],
+      "emceeEvents": [],
       "name": "Andrew Orvedahl",
       "twitter": "TheOrvedahl",
       "website": "http://www.5unicorns.com",
@@ -633,11 +951,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10282-andrew-orvedahl",
-      "emceeEvents": []
+      "pageUrl": "10282-andrew-orvedahl"
     },
     {
-      "events": [],
+      "events": [
+        "10404",
+        "10432",
+        "10449",
+        "10450",
+        "10706"
+      ],
+      "emceeEvents": [],
       "name": "Amber Preston",
       "twitter": "prestonparty",
       "website": "http://amberpreston.com",
@@ -645,11 +969,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9770-amber-preston",
-      "emceeEvents": []
+      "pageUrl": "9770-amber-preston"
     },
     {
-      "events": [],
+      "events": [
+        "10441",
+        "10442",
+        "10455"
+      ],
+      "emceeEvents": [
+        "10453"
+      ],
       "name": "Greg Barris",
       "twitter": "gregbarris",
       "website": "http://www.gregbarris.com/",
@@ -657,11 +987,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10318-greg-barris",
-      "emceeEvents": []
+      "pageUrl": "10318-greg-barris"
     },
     {
-      "events": [],
+      "events": [
+        "10418",
+        "10420",
+        "10423"
+      ],
+      "emceeEvents": [
+        "10391"
+      ],
       "name": "Bri Pruett",
       "twitter": "bripruett",
       "website": "http://www.bripruett.com",
@@ -669,11 +1005,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10189-bri-pruett",
-      "emceeEvents": []
+      "pageUrl": "10189-bri-pruett"
     },
     {
-      "events": [],
+      "events": [
+        "10443",
+        "10448",
+        "10678",
+        "10758"
+      ],
+      "emceeEvents": [
+        "10749"
+      ],
       "name": "Amy Miller",
       "twitter": "amymiller",
       "website": "http://amymillercomedy.com",
@@ -681,11 +1024,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9079-amy-miller",
-      "emceeEvents": []
+      "pageUrl": "9079-amy-miller"
     },
     {
-      "events": [],
+      "events": [
+        "10443",
+        "10451",
+        "10784",
+        "10785"
+      ],
+      "emceeEvents": [],
       "name": "Andrew Sleighter",
       "twitter": "andrewsleighter",
       "website": "http://andrewsleighter.com",
@@ -693,11 +1041,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9392-andrew-sleighter",
-      "emceeEvents": []
+      "pageUrl": "9392-andrew-sleighter"
     },
     {
-      "events": [],
+      "events": [
+        "10406"
+      ],
+      "emceeEvents": [],
       "name": "Jennie Pierson",
       "twitter": "jenniepie",
       "website": "",
@@ -705,11 +1055,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "11138-jennie-pierson",
-      "emceeEvents": []
+      "pageUrl": "11138-jennie-pierson"
     },
     {
-      "events": [],
+      "events": [
+        "10409",
+        "10412",
+        "10733",
+        "10819"
+      ],
+      "emceeEvents": [
+        "10423"
+      ],
       "name": "Bryan Cook",
       "twitter": "",
       "website": "",
@@ -717,11 +1074,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10296-bryan-cook",
-      "emceeEvents": []
+      "pageUrl": "10296-bryan-cook"
     },
     {
-      "events": [],
+      "events": [
+        "10388",
+        "10416",
+        "10420",
+        "10731",
+        "10749"
+      ],
+      "emceeEvents": [],
       "name": "Clare O&#039;Kane",
       "twitter": "babysfirstgun",
       "website": "http://www.clareokane.com",
@@ -729,11 +1092,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9272-clare-okane",
-      "emceeEvents": []
+      "pageUrl": "9272-clare-okane"
     },
     {
       "events": [],
+      "emceeEvents": [
+        "10402"
+      ],
       "name": "Sandra Daugherty",
       "twitter": "SexNerdSandra",
       "website": "http://sexnerdsandra.com/about/",
@@ -741,11 +1106,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10739-sandra-daugherty",
-      "emceeEvents": []
+      "pageUrl": "10739-sandra-daugherty"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10467",
+        "10734",
+        "10747"
+      ],
+      "emceeEvents": [],
       "name": "Derek Sheen",
       "twitter": "dereksheen",
       "website": "http://derektime.com",
@@ -753,11 +1123,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9144-derek-sheen",
-      "emceeEvents": []
+      "pageUrl": "9144-derek-sheen"
     },
     {
-      "events": [],
+      "events": [
+        "10411",
+        "10766"
+      ],
+      "emceeEvents": [],
       "name": "Ashley Barnhill",
       "twitter": "ashley_barnhill",
       "website": "http://ashleybarnhill.flavors.me/",
@@ -765,11 +1138,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9484-ashley-barnhill",
-      "emceeEvents": []
+      "pageUrl": "9484-ashley-barnhill"
     },
     {
-      "events": [],
+      "events": [
+        "10455",
+        "10746",
+        "10779",
+        "10784"
+      ],
+      "emceeEvents": [],
       "name": "Paul Hooper",
       "twitter": "paulhooper",
       "website": "http://www.paulhoopercomedy.com",
@@ -777,11 +1155,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10070-paul-hooper",
-      "emceeEvents": []
+      "pageUrl": "10070-paul-hooper"
     },
     {
-      "events": [],
+      "events": [
+        "10728",
+        "10766"
+      ],
+      "emceeEvents": [
+        "10442"
+      ],
       "name": "Dulcé Sloan",
       "twitter": "dulcesloan",
       "website": "http://www.dulcesloan.com",
@@ -789,11 +1172,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9483-dulc-sloan",
-      "emceeEvents": []
+      "pageUrl": "9483-dulc-sloan"
     },
     {
-      "events": [],
+      "events": [
+        "10412",
+        "10442",
+        "10467"
+      ],
+      "emceeEvents": [],
       "name": "Barbara Gray",
       "twitter": "BabsGray",
       "website": "http://www.myjokesareuphere.com",
@@ -801,11 +1188,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10137-barbara-gray",
-      "emceeEvents": []
+      "pageUrl": "10137-barbara-gray"
     },
     {
-      "events": [],
+      "events": [
+        "10466",
+        "10678",
+        "10764"
+      ],
+      "emceeEvents": [
+        "10733"
+      ],
       "name": "Steven Wilber",
       "twitter": "WilberWithAnE",
       "website": "",
@@ -813,11 +1206,20 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9235-steven-wilber",
-      "emceeEvents": []
+      "pageUrl": "9235-steven-wilber"
     },
     {
-      "events": [],
+      "events": [
+        "10403",
+        "10419",
+        "10428",
+        "10439",
+        "10447",
+        "10740"
+      ],
+      "emceeEvents": [
+        "10426"
+      ],
       "name": "Andy Kindler",
       "twitter": "AndyKindler",
       "website": "",
@@ -825,11 +1227,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10299-andy-kindler",
-      "emceeEvents": []
+      "pageUrl": "10299-andy-kindler"
     },
     {
-      "events": [],
+      "events": [
+        "10423",
+        "10437",
+        "10453",
+        "10503"
+      ],
+      "emceeEvents": [
+        "10785"
+      ],
       "name": "Caitlin Gill",
       "twitter": "ROBOTCAITLIN",
       "website": "http://www.caitlingillcomedy@gmail.com",
@@ -837,11 +1246,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9879-caitlin-gill",
-      "emceeEvents": []
+      "pageUrl": "9879-caitlin-gill"
     },
     {
-      "events": [],
+      "events": [
+        "10747",
+        "10749",
+        "10758",
+        "10779"
+      ],
+      "emceeEvents": [],
       "name": "Doogie Horner",
       "twitter": "doogiehorner",
       "website": "http://www.doogiehorner.com",
@@ -849,11 +1263,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9827-doogie-horner",
-      "emceeEvents": []
+      "pageUrl": "9827-doogie-horner"
     },
     {
-      "events": [],
+      "events": [
+        "10417",
+        "10442",
+        "10729",
+        "10785"
+      ],
+      "emceeEvents": [],
       "name": "Josh Johnson",
       "twitter": "",
       "website": "http://joshjohnson.com",
@@ -861,11 +1280,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10214-josh-johnson",
-      "emceeEvents": []
+      "pageUrl": "10214-josh-johnson"
     },
     {
-      "events": [],
+      "events": [
+        "10432",
+        "10450",
+        "10747",
+        "10766"
+      ],
+      "emceeEvents": [],
       "name": "Billy Prinsell",
       "twitter": "",
       "website": "",
@@ -873,11 +1297,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9595-billy-prinsell",
-      "emceeEvents": []
+      "pageUrl": "9595-billy-prinsell"
     },
     {
-      "events": [],
+      "events": [
+        "10728",
+        "10746",
+        "10788"
+      ],
+      "emceeEvents": [],
       "name": "Langston Kerman",
       "twitter": "",
       "website": "",
@@ -885,11 +1313,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9243-langston-kerman",
-      "emceeEvents": []
+      "pageUrl": "9243-langston-kerman"
     },
     {
-      "events": [],
+      "events": [
+        "10447",
+        "10449",
+        "10749",
+        "11148"
+      ],
+      "emceeEvents": [],
       "name": "Kristin Rand",
       "twitter": "krandomthoughts",
       "website": "http://kristinrand.com",
@@ -897,11 +1330,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9583-kristin-rand",
-      "emceeEvents": []
+      "pageUrl": "9583-kristin-rand"
     },
     {
-      "events": [],
+      "events": [
+        "10443",
+        "10678"
+      ],
+      "emceeEvents": [
+        "10765"
+      ],
       "name": "Nathan Brannon",
       "twitter": "nathanbrannon",
       "website": "http://nathanbrannon.com",
@@ -909,11 +1347,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9453-nathan-brannon",
-      "emceeEvents": []
+      "pageUrl": "9453-nathan-brannon"
     },
     {
-      "events": [],
+      "events": [
+        "10420",
+        "10729",
+        "10746"
+      ],
+      "emceeEvents": [
+        "10419"
+      ],
       "name": "Jerron Horton",
       "twitter": "jerronhorton",
       "website": "",
@@ -921,11 +1365,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9382-jerron-horton",
-      "emceeEvents": []
+      "pageUrl": "9382-jerron-horton"
     },
     {
-      "events": [],
+      "events": [
+        "10437",
+        "10442",
+        "10466",
+        "10765"
+      ],
+      "emceeEvents": [],
       "name": "Scout Durwood",
       "twitter": "ladyscoutington",
       "website": "http://www.scoutdurwood.com",
@@ -933,11 +1382,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9661-scout-durwood",
-      "emceeEvents": []
+      "pageUrl": "9661-scout-durwood"
     },
     {
-      "events": [],
+      "events": [
+        "10411",
+        "10420",
+        "10672"
+      ],
+      "emceeEvents": [
+        "10447"
+      ],
       "name": "Noah Gardenswartz",
       "twitter": "noahgcomedy",
       "website": "http://www.noahgcomedy.com",
@@ -945,11 +1400,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9520-noah-gardenswartz",
-      "emceeEvents": []
+      "pageUrl": "9520-noah-gardenswartz"
     },
     {
-      "events": [],
+      "events": [
+        "10437",
+        "10819",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10817"
+      ],
       "name": "Ever Mainard ",
       "twitter": "evermainard",
       "website": "http://www.evermainard.com",
@@ -957,11 +1418,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9427-ever-mainard-",
-      "emceeEvents": []
+      "pageUrl": "9427-ever-mainard-"
     },
     {
-      "events": [],
+      "events": [
+        "10411",
+        "10442",
+        "10455",
+        "10729"
+      ],
+      "emceeEvents": [
+        "10409"
+      ],
       "name": "Troy Walker",
       "twitter": "troywalkeresq",
       "website": "http://www.gershcomedy.com/troy-walker/",
@@ -969,11 +1437,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9839-troy-walker",
-      "emceeEvents": []
+      "pageUrl": "9839-troy-walker"
     },
     {
-      "events": [],
+      "events": [
+        "10418",
+        "10436",
+        "10765"
+      ],
+      "emceeEvents": [],
       "name": "Matt Donaher ",
       "twitter": "mattdonaher",
       "website": "http://www.mattdonaher@gmail.com",
@@ -981,11 +1453,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9208-matt-donaher-",
-      "emceeEvents": []
+      "pageUrl": "9208-matt-donaher-"
     },
     {
-      "events": [],
+      "events": [
+        "10437",
+        "10450",
+        "10455",
+        "10785"
+      ],
+      "emceeEvents": [],
       "name": "Jessica Sele",
       "twitter": "",
       "website": "",
@@ -993,11 +1470,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9598-jessica-sele",
-      "emceeEvents": []
+      "pageUrl": "9598-jessica-sele"
     },
     {
-      "events": [],
+      "events": [
+        "10416",
+        "10749",
+        "10765"
+      ],
+      "emceeEvents": [
+        "10448",
+        "10672"
+      ],
       "name": "Sean Jordan",
       "twitter": "seansjordan",
       "website": "http://about.me/seanjordan",
@@ -1005,11 +1489,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9790-sean-jordan",
-      "emceeEvents": []
+      "pageUrl": "9790-sean-jordan"
     },
     {
-      "events": [],
+      "events": [
+        "10451",
+        "10467",
+        "10784",
+        "10817"
+      ],
+      "emceeEvents": [],
       "name": "Ryan Conner",
       "twitter": "rccomedy",
       "website": "http://www.ryanconnercomedy.com",
@@ -1017,11 +1506,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10217-ryan-conner",
-      "emceeEvents": []
+      "pageUrl": "10217-ryan-conner"
     },
     {
-      "events": [],
+      "events": [
+        "10443",
+        "10450",
+        "10733",
+        "10765"
+      ],
+      "emceeEvents": [],
       "name": "Jason Van Glass",
       "twitter": "JasonVanGlass",
       "website": "http://JasonVanGlass.tumblr.com",
@@ -1029,11 +1523,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9780-jason-van-glass",
-      "emceeEvents": []
+      "pageUrl": "9780-jason-van-glass"
     },
     {
-      "events": [],
+      "events": [
+        "10409",
+        "10449",
+        "10783"
+      ],
+      "emceeEvents": [
+        "10394"
+      ],
       "name": "Lisa Best",
       "twitter": "lisabestcomedy",
       "website": "http://lisabestcomedy.com/",
@@ -1041,11 +1541,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9326-lisa-best",
-      "emceeEvents": []
+      "pageUrl": "9326-lisa-best"
     },
     {
-      "events": [],
+      "events": [
+        "10417",
+        "10437",
+        "10503"
+      ],
+      "emceeEvents": [
+        "10819"
+      ],
       "name": "Maggie Faris",
       "twitter": "extrememaggie",
       "website": "http://extrememaggie.com",
@@ -1053,11 +1559,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9660-maggie-faris",
-      "emceeEvents": []
+      "pageUrl": "9660-maggie-faris"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10443",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10678"
+      ],
       "name": "Anthony Lopez",
       "twitter": "anthonylopezpt2",
       "website": "",
@@ -1065,11 +1577,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9953-anthony-lopez",
-      "emceeEvents": []
+      "pageUrl": "9953-anthony-lopez"
     },
     {
-      "events": [],
+      "events": [
+        "10402",
+        "10419",
+        "10678",
+        "10706"
+      ],
+      "emceeEvents": [],
       "name": "Elicia Sanchez",
       "twitter": "",
       "website": "",
@@ -1077,11 +1594,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9341-elicia-sanchez",
-      "emceeEvents": []
+      "pageUrl": "9341-elicia-sanchez"
     },
     {
-      "events": [],
+      "events": [
+        "10728"
+      ],
+      "emceeEvents": [
+        "10459"
+      ],
       "name": "Michael Eagle aka Open Mike Eagle",
       "twitter": "mike_eagle",
       "website": "http://mikeeagle.net",
@@ -1089,11 +1610,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10223-michael-eagle-aka-open-mike-eagle",
-      "emceeEvents": []
+      "pageUrl": "10223-michael-eagle-aka-open-mike-eagle"
     },
     {
-      "events": [],
+      "events": [
+        "10394",
+        "10409",
+        "10783"
+      ],
+      "emceeEvents": [
+        "10418"
+      ],
       "name": "Lucas O&#039;Neil",
       "twitter": "loneilz",
       "website": "http://www.lucasoneil.com",
@@ -1101,11 +1628,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10031-lucas-oneil",
-      "emceeEvents": []
+      "pageUrl": "10031-lucas-oneil"
     },
     {
-      "events": [],
+      "events": [
+        "10448",
+        "10819"
+      ],
+      "emceeEvents": [
+        "10449"
+      ],
       "name": "Jen Seaman",
       "twitter": "jenseaman",
       "website": "http://jenseaman.com",
@@ -1113,11 +1645,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10082-jen-seaman",
-      "emceeEvents": []
+      "pageUrl": "10082-jen-seaman"
     },
     {
-      "events": [],
+      "events": [
+        "10394",
+        "10764",
+        "10783"
+      ],
+      "emceeEvents": [
+        "10417"
+      ],
       "name": "Jeff Scheen",
       "twitter": "sexmascheen",
       "website": "http://Jeffscheen.com",
@@ -1125,11 +1663,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9177-jeff-scheen",
-      "emceeEvents": []
+      "pageUrl": "9177-jeff-scheen"
     },
     {
-      "events": [],
+      "events": [
+        "10432",
+        "10443",
+        "10450",
+        "10729"
+      ],
+      "emceeEvents": [],
       "name": "Adrian McNair",
       "twitter": "Adrian_McNair",
       "website": "",
@@ -1137,11 +1680,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10101-adrian-mcnair",
-      "emceeEvents": []
+      "pageUrl": "10101-adrian-mcnair"
     },
     {
-      "events": [],
+      "events": [
+        "10418",
+        "10746",
+        "10766"
+      ],
+      "emceeEvents": [
+        "10432"
+      ],
       "name": "Gabe Dinger",
       "twitter": "GabeDinger",
       "website": "http://www.GabeDinger.com",
@@ -1149,11 +1698,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9075-gabe-dinger",
-      "emceeEvents": []
+      "pageUrl": "9075-gabe-dinger"
     },
     {
-      "events": [],
+      "events": [
+        "10442",
+        "10706",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10455"
+      ],
       "name": "Jeffrey Jay",
       "twitter": "heyjeffreyjay",
       "website": "http://jeffreyjaycomedian.com",
@@ -1161,11 +1716,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9439-jeffrey-jay",
-      "emceeEvents": []
+      "pageUrl": "9439-jeffrey-jay"
     },
     {
-      "events": [],
+      "events": [
+        "10441",
+        "10442",
+        "10503",
+        "10779"
+      ],
+      "emceeEvents": [],
       "name": "Joel Kim Booster",
       "twitter": "ihatejoelkim",
       "website": "http://www.ihatejoelkim.com",
@@ -1173,11 +1733,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9552-joel-kim-booster",
-      "emceeEvents": []
+      "pageUrl": "9552-joel-kim-booster"
     },
     {
-      "events": [],
+      "events": [
+        "10447",
+        "10467",
+        "10729",
+        "10747"
+      ],
+      "emceeEvents": [],
       "name": "Kevin Iso",
       "twitter": "keviniso",
       "website": "http://keviniso.tumblr.com/",
@@ -1185,11 +1750,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10025-kevin-iso",
-      "emceeEvents": []
+      "pageUrl": "10025-kevin-iso"
     },
     {
-      "events": [],
+      "events": [
+        "10412",
+        "10451"
+      ],
+      "emceeEvents": [],
       "name": "Leah Kayajanian",
       "twitter": "leahkayjay",
       "website": "http://www.leahkayajanian.com",
@@ -1197,11 +1765,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9324-leah-kayajanian",
-      "emceeEvents": []
+      "pageUrl": "9324-leah-kayajanian"
     },
     {
-      "events": [],
+      "events": [
+        "10441",
+        "10747",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10783"
+      ],
       "name": "Kevin Saucier",
       "twitter": "sosure",
       "website": "http://sosure.tumblr.com",
@@ -1209,11 +1783,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9977-kevin-saucier",
-      "emceeEvents": []
+      "pageUrl": "9977-kevin-saucier"
     },
     {
-      "events": [],
+      "events": [
+        "10394",
+        "10455",
+        "10765"
+      ],
+      "emceeEvents": [
+        "10450"
+      ],
       "name": "Ismael Loutfi",
       "twitter": "Ismaelian",
       "website": "",
@@ -1221,11 +1801,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10128-ismael-loutfi",
-      "emceeEvents": []
+      "pageUrl": "10128-ismael-loutfi"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10425",
+        "10447",
+        "10448",
+        "10672"
+      ],
+      "emceeEvents": [],
       "name": "Shane Torres",
       "twitter": "syrupmountain",
       "website": "http://www.shaneisacomedian.com",
@@ -1233,11 +1819,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9979-shane-torres",
-      "emceeEvents": []
+      "pageUrl": "9979-shane-torres"
     },
     {
-      "events": [],
+      "events": [
+        "10503",
+        "10746",
+        "10764"
+      ],
+      "emceeEvents": [
+        "10411"
+      ],
       "name": "Ralph Hardesty",
       "twitter": "ralphiehardesty",
       "website": "http://www.ralphiehardesty.com",
@@ -1245,11 +1837,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9353-ralph-hardesty",
-      "emceeEvents": []
+      "pageUrl": "9353-ralph-hardesty"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10416",
+        "10449",
+        "10779"
+      ],
+      "emceeEvents": [],
       "name": "Rylee Newton",
       "twitter": "ryleenewton",
       "website": "",
@@ -1257,11 +1854,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10787-rylee-newton",
-      "emceeEvents": []
+      "pageUrl": "10787-rylee-newton"
     },
     {
-      "events": [],
+      "events": [
+        "10437",
+        "10728",
+        "10758",
+        "10788"
+      ],
+      "emceeEvents": [],
       "name": "Samaria Sam Jay Johnson ",
       "twitter": "SamJayComic",
       "website": "http://jokesanddreams.com",
@@ -1269,11 +1871,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9978-samaria-sam-jay-johnson-",
-      "emceeEvents": []
+      "pageUrl": "9978-samaria-sam-jay-johnson-"
     },
     {
-      "events": [],
+      "events": [
+        "10419",
+        "10425",
+        "10447",
+        "10728"
+      ],
+      "emceeEvents": [],
       "name": "Nore Davis",
       "twitter": "noredavis",
       "website": "http://noredavis.com",
@@ -1281,11 +1888,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9114-nore-davis",
-      "emceeEvents": []
+      "pageUrl": "9114-nore-davis"
     },
     {
-      "events": [],
+      "events": [
+        "10406"
+      ],
+      "emceeEvents": [],
       "name": "Amanda Sitko",
       "twitter": "amandasitko",
       "website": "",
@@ -1293,11 +1902,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10825-amanda-sitko",
-      "emceeEvents": []
+      "pageUrl": "10825-amanda-sitko"
     },
     {
-      "events": [],
+      "events": [
+        "10416",
+        "10418",
+        "10420"
+      ],
+      "emceeEvents": [
+        "10766"
+      ],
       "name": "Zak Toscani",
       "twitter": "ZakToscani",
       "website": "http://about.me/ZakToscani",
@@ -1305,11 +1920,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9164-zak-toscani",
-      "emceeEvents": []
+      "pageUrl": "9164-zak-toscani"
     },
     {
-      "events": [],
+      "events": [
+        "10416",
+        "10728",
+        "10785"
+      ],
+      "emceeEvents": [],
       "name": "Ray Marshall",
       "twitter": "MARSHALLCOMIC",
       "website": "http://bridgetown.festivalthing.com/N/A",
@@ -1317,11 +1936,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9692-ray-marshall",
-      "emceeEvents": []
+      "pageUrl": "9692-ray-marshall"
     },
     {
-      "events": [],
+      "events": [
+        "10419",
+        "10746",
+        "10784",
+        "10788"
+      ],
+      "emceeEvents": [],
       "name": "Parker Postyeni",
       "twitter": "ParkerPostyeni",
       "website": "",
@@ -1329,11 +1953,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9703-parker-postyeni",
-      "emceeEvents": []
+      "pageUrl": "9703-parker-postyeni"
     },
     {
-      "events": [],
+      "events": [
+        "10441",
+        "10747",
+        "10783",
+        "10788"
+      ],
+      "emceeEvents": [],
       "name": "Anthony Calderon",
       "twitter": "standupanthony",
       "website": "http://punchlinefridays.com",
@@ -1341,11 +1970,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10181-anthony-calderon",
-      "emceeEvents": []
+      "pageUrl": "10181-anthony-calderon"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10503"
+      ],
+      "emceeEvents": [
+        "10734"
+      ],
       "name": "Whitney Streed",
       "twitter": "whitneystreed",
       "website": "",
@@ -1353,11 +1987,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10666-whitney-streed",
-      "emceeEvents": []
+      "pageUrl": "10666-whitney-streed"
     },
     {
       "events": [],
+      "emceeEvents": [
+        "10406"
+      ],
       "name": "Eli Newell",
       "twitter": "elinewell",
       "website": "",
@@ -1365,11 +2001,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10826-eli-newell",
-      "emceeEvents": []
+      "pageUrl": "10826-eli-newell"
     },
     {
-      "events": [],
+      "events": [
+        "10392",
+        "10423",
+        "10747",
+        "10764"
+      ],
+      "emceeEvents": [],
       "name": "T.J. Chambers",
       "twitter": "tjchambersLA",
       "website": "https://www.youtube.com/user/tjchambers27/",
@@ -1377,11 +2018,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9087-tj-chambers",
-      "emceeEvents": []
+      "pageUrl": "9087-tj-chambers"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10418",
+        "10819"
+      ],
+      "emceeEvents": [
+        "10405"
+      ],
       "name": "Ken Reid",
       "twitter": "kennethwreid",
       "website": "http://ikenreid.com",
@@ -1389,11 +2036,13 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9238-ken-reid",
-      "emceeEvents": []
+      "pageUrl": "9238-ken-reid"
     },
     {
-      "events": [],
+      "events": [
+        "10737"
+      ],
+      "emceeEvents": [],
       "name": "Erin McGathy",
       "twitter": "ErinMcGathy",
       "website": "",
@@ -1401,11 +2050,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10795-erin-mcgathy",
-      "emceeEvents": []
+      "pageUrl": "10795-erin-mcgathy"
     },
     {
-      "events": [],
+      "events": [
+        "10419",
+        "10729",
+        "10788"
+      ],
+      "emceeEvents": [
+        "10451"
+      ],
       "name": "Mark James Heath",
       "twitter": "Mjh708",
       "website": "",
@@ -1413,11 +2068,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9787-mark-james-heath",
-      "emceeEvents": []
+      "pageUrl": "9787-mark-james-heath"
     },
     {
-      "events": [],
+      "events": [
+        "10425",
+        "10428",
+        "10441",
+        "10503"
+      ],
+      "emceeEvents": [],
       "name": "Matteo Lane",
       "twitter": "Matteolane",
       "website": "",
@@ -1425,11 +2085,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9662-matteo-lane",
-      "emceeEvents": []
+      "pageUrl": "9662-matteo-lane"
     },
     {
-      "events": [],
+      "events": [
+        "10409",
+        "10417",
+        "10706",
+        "10783"
+      ],
+      "emceeEvents": [],
       "name": "Matt Pharr",
       "twitter": "mattpharrcomic",
       "website": "",
@@ -1437,11 +2102,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9479-matt-pharr",
-      "emceeEvents": []
+      "pageUrl": "9479-matt-pharr"
     },
     {
-      "events": [],
+      "events": [
+        "10417",
+        "10467",
+        "10819"
+      ],
+      "emceeEvents": [
+        "10420"
+      ],
       "name": "Mac Blake",
       "twitter": "macbdazzler",
       "website": "http://macblakecomedy.com",
@@ -1449,11 +2120,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9280-mac-blake",
-      "emceeEvents": []
+      "pageUrl": "9280-mac-blake"
     },
     {
-      "events": [],
+      "events": [
+        "10449",
+        "10729",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10746"
+      ],
       "name": "Sonia Denis",
       "twitter": "sonideni",
       "website": "http://sonideni.tumblr.com/about",
@@ -1461,11 +2138,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9860-sonia-denis",
-      "emceeEvents": []
+      "pageUrl": "9860-sonia-denis"
     },
     {
-      "events": [],
+      "events": [
+        "10416",
+        "10418",
+        "10460",
+        "10765"
+      ],
+      "emceeEvents": [],
       "name": "Raj Sivaraman",
       "twitter": "rajsivaraman",
       "website": "http://rajsivaraman.com",
@@ -1473,11 +2155,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9799-raj-sivaraman",
-      "emceeEvents": []
+      "pageUrl": "9799-raj-sivaraman"
     },
     {
-      "events": [],
+      "events": [
+        "10417",
+        "10731",
+        "10733",
+        "10746"
+      ],
+      "emceeEvents": [
+        "10764"
+      ],
       "name": "Rana May",
       "twitter": "rana_may",
       "website": "http://ranamay.com",
@@ -1485,11 +2174,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9808-rana-may",
-      "emceeEvents": []
+      "pageUrl": "9808-rana-may"
     },
     {
-      "events": [],
+      "events": [
+        "10417",
+        "10432",
+        "10749",
+        "10788"
+      ],
+      "emceeEvents": [
+        "10416"
+      ],
       "name": "Sean White",
       "twitter": "seanwhitecomedy",
       "website": "http://seanwhitecomedy.com/",
@@ -1497,11 +2193,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9116-sean-white",
-      "emceeEvents": []
+      "pageUrl": "9116-sean-white"
     },
     {
-      "events": [],
+      "events": [
+        "10423",
+        "10449",
+        "10764"
+      ],
+      "emceeEvents": [
+        "10441"
+      ],
       "name": "Paige Bowman",
       "twitter": "paigopolis",
       "website": "http://paigopolis.tumblr.com",
@@ -1509,11 +2211,18 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9820-paige-bowman",
-      "emceeEvents": []
+      "pageUrl": "9820-paige-bowman"
     },
     {
-      "events": [],
+      "events": [
+        "10448"
+      ],
+      "emceeEvents": [
+        "10445",
+        "10788",
+        "10998",
+        "10999"
+      ],
       "name": "Dax Jordan",
       "twitter": "",
       "website": "",
@@ -1521,11 +2230,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10820-dax-jordan",
-      "emceeEvents": []
+      "pageUrl": "10820-dax-jordan"
     },
     {
-      "events": [],
+      "events": [
+        "10391",
+        "10450",
+        "10785"
+      ],
+      "emceeEvents": [
+        "10443"
+      ],
       "name": "Bryan Yang",
       "twitter": "bryanyang",
       "website": "",
@@ -1533,11 +2248,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9381-bryan-yang",
-      "emceeEvents": []
+      "pageUrl": "9381-bryan-yang"
     },
     {
-      "events": [],
+      "events": [
+        "10450",
+        "10466"
+      ],
+      "emceeEvents": [
+        "10784"
+      ],
       "name": "Rob Schultz",
       "twitter": "greenglassdoor",
       "website": "http://www.normalwebsite.com",
@@ -1545,11 +2265,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9182-rob-schultz",
-      "emceeEvents": []
+      "pageUrl": "9182-rob-schultz"
     },
     {
-      "events": [],
+      "events": [
+        "10733",
+        "10746",
+        "11148"
+      ],
+      "emceeEvents": [
+        "10747"
+      ],
       "name": "Mitch Mitchell",
       "twitter": "ClassyMitch",
       "website": "",
@@ -1557,11 +2283,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9327-mitch-mitchell",
-      "emceeEvents": []
+      "pageUrl": "9327-mitch-mitchell"
     },
     {
-      "events": [],
+      "events": [
+        "10503",
+        "10734",
+        "10764"
+      ],
+      "emceeEvents": [
+        "10437"
+      ],
       "name": "Caitlin Weierhauser",
       "twitter": "grapetheist",
       "website": "",
@@ -1569,11 +2301,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9972-caitlin-weierhauser",
-      "emceeEvents": []
+      "pageUrl": "9972-caitlin-weierhauser"
     },
     {
-      "events": [],
+      "events": [
+        "10394",
+        "10419",
+        "10783"
+      ],
+      "emceeEvents": [
+        "11148"
+      ],
       "name": "David Mascorro",
       "twitter": "davidmascorro",
       "website": "http://www.davidmascorro.com/",
@@ -1581,11 +2319,16 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9846-david-mascorro",
-      "emceeEvents": []
+      "pageUrl": "9846-david-mascorro"
     },
     {
-      "events": [],
+      "events": [
+        "10411"
+      ],
+      "emceeEvents": [
+        "10412",
+        "10758"
+      ],
       "name": "Brad Silnutzer",
       "twitter": "bradlivesdreams",
       "website": "",
@@ -1593,11 +2336,17 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "9714-brad-silnutzer",
-      "emceeEvents": []
+      "pageUrl": "9714-brad-silnutzer"
     },
     {
-      "events": [],
+      "events": [
+        "10420",
+        "10734",
+        "10817"
+      ],
+      "emceeEvents": [
+        "10392"
+      ],
       "name": "Veronica Heath",
       "twitter": "veronicaheath1",
       "website": "http://veronicaheath.com",
@@ -1605,11 +2354,15 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10188-veronica-heath",
-      "emceeEvents": []
+      "pageUrl": "10188-veronica-heath"
     },
     {
-      "events": [],
+      "events": [
+        "10758"
+      ],
+      "emceeEvents": [
+        "11108"
+      ],
       "name": "Jason Traeger",
       "twitter": "jasontraeger",
       "website": "http://jasontraegercomedy.tumblr.com/",
@@ -1617,11 +2370,14 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "10192-jason-traeger",
-      "emceeEvents": []
+      "pageUrl": "10192-jason-traeger"
     },
     {
-      "events": [],
+      "events": [
+        "10758",
+        "11108"
+      ],
+      "emceeEvents": [],
       "name": "Brandy Feit",
       "twitter": "bfeit",
       "website": "",
@@ -1629,8 +2385,7 @@
       "sortOrder": 99999,
       "excludeFromList": false,
       "bio": "",
-      "pageUrl": "11045-brandy-feit",
-      "emceeEvents": []
+      "pageUrl": "11045-brandy-feit"
     }
   ]
 }
