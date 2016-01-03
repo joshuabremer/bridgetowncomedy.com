@@ -6,6 +6,18 @@ const ObjectBuilder = require('./object-builder');
 
 
 const PerformerBuilder = ObjectBuilder.extend({
+  WHITELISTED_ATTRIBUTES: [
+    'events',
+    'emceeEvents',
+    'name',
+    'twitter',
+    'website',
+    'photoUrl',
+    'sortOrder',
+    'excludeFromList',
+    'bio',
+    'pageUrl'
+  ],
   TMP_PATH: festivalData.tmpPerformersPath,
   API_PATH: '../api/performers.json',
 
@@ -31,30 +43,32 @@ const PerformerBuilder = ObjectBuilder.extend({
       // Create page URLs
       performerObj[key].pageUrl = performerObj[key].id + '-' + util.convertToSlug(performerObj[key].name);
       performerObj[key].ExcludeFromList = (performerObj[key].ExcludeFromList === 'Yes' ? true : false);
-      performerObj[key].Bio = performerObj[key].Bio || '';
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2028/g, '');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2018/g, '&#x2018;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2019/g, '&#x2019;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u201c/g, '&#x201c;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2033/g, '&#x2033;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u201d/g, '&#x201d;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00a0/g, ' ');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2026/g, '&#x2026;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2013/g, '&#x2013;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u2014/g, '&#x2014;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00e9/g, '&#x00e9;');
-      performerObj[key].Bio = performerObj[key].Bio.replace(/\\u00e1/g, '&#x00e1;');
-      performerObj[key].SortOrder = performerObj[key].Position;
+
+      performerObj[key].bio = performerObj[key].Bio;
+      performerObj[key].bio = performerObj[key].bio || '';
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2028/g, '');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2018/g, '&#x2018;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2019/g, '&#x2019;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u201c/g, '&#x201c;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2033/g, '&#x2033;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u201d/g, '&#x201d;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u00a0/g, ' ');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2026/g, '&#x2026;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2013/g, '&#x2013;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u2014/g, '&#x2014;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u00e9/g, '&#x00e9;');
+      performerObj[key].bio = performerObj[key].bio.replace(/\\u00e1/g, '&#x00e1;');
+      performerObj[key].sortOrder = performerObj[key].Position;
+      performerObj[key].sortOrder = parseInt(performerObj[key].SortOrder, 10) || 99999;
+
+      performerObj[key].twitter = performerObj[key].twitter.replace('@', '');
 
 
-      performerObj[key].Twitter = performerObj[key].twitter.replace('@', '');
-
-      performerObj[key].SortOrder = parseInt(performerObj[key].SortOrder, 10) || 99999;
     }
 
     performerObj = util.sortArray(performerObj, 'SortOrder');
 
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, null, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
   },
 
   addRelationships: function() {
@@ -62,7 +76,7 @@ const PerformerBuilder = ObjectBuilder.extend({
 
     for (var key in performerObj) {
       performerObj[key].events = festivalData.getEventsForPerformer(performerObj[key].id);
-      performerObj[key].mc_events = festivalData.getMCEventsForPerformer(performerObj[key].id);
+      performerObj[key].emceeEvents = festivalData.getMCEventsForPerformer(performerObj[key].id);
     }
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(performerObj, null, ' '), 'utf8');
   },

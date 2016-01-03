@@ -6,6 +6,19 @@ const ent = require('ent');
 const moment = require('moment');
 
 module.exports = ObjectBuilder.extend({
+  WHITELISTED_ATTRIBUTES: [
+    'performers',
+    'emcees',
+    'venue',
+    'show',
+    'name',
+    'description',
+    'startDateTime',
+    'endDateTime',
+    'price',
+    'pageUrl'
+  ],
+
   TMP_PATH: festivalData.tmpEventsPath,
   API_PATH: '../api/events.json',
 
@@ -27,7 +40,7 @@ module.exports = ObjectBuilder.extend({
 
     eventObj = util.sortArray(eventObj, 'id');
 
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(eventObj, null, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(eventObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
   },
 
   addRelationships: function() {

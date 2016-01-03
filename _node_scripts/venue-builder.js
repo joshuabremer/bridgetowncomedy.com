@@ -40,6 +40,13 @@ const VENUE_ADDRESSES = {
 };
 
 module.exports = ObjectBuilder.extend({
+  WHITELISTED_ATTRIBUTES: [
+    'events',
+    'name',
+    'address',
+    'pageUrl'
+  ],
+
   TMP_PATH: festivalData.tmpVenuesPath,
   API_PATH: '../api/venues.json',
 
@@ -53,7 +60,7 @@ module.exports = ObjectBuilder.extend({
       }
       venueObj[key].pageUrl = venueObj[key].id + '-' + util.convertToSlug(venueObj[key].Name);
     }
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(venueObj, null, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(venueObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
   },
 
   addRelationships: function() {

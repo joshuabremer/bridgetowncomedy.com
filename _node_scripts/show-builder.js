@@ -6,6 +6,17 @@ const wrench = require('wrench');
 const ObjectBuilder = require('./object-builder');
 
 const ShowBuilder = ObjectBuilder.extend({
+  WHITELISTED_ATTRIBUTES: [
+    'events',
+    'name',
+    'photoUrl',
+    'sortOrder',
+    'bio',
+    'copy',
+    'pageUrl',
+    'iTunesUrl'
+  ],
+
   TMP_PATH: festivalData.tmpShowsPath,
   API_PATH: '../api/shows.json',
 
@@ -19,7 +30,7 @@ const ShowBuilder = ObjectBuilder.extend({
       showObj[key].iTunesUrl = showObj[key]['iTunes Url'];
 
     }
-    fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, null, ' '), 'utf8');
+    fs.writeFileSync(this.TMP_PATH, JSON.stringify(showObj, this.WHITELISTED_ATTRIBUTES, ' '), 'utf8');
   },
 
   addRelationships: function() {

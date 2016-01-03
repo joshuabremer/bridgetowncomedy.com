@@ -1,191 +1,63 @@
 {
   "venues": [
     {
-      "Name": "Boogie&#039;s Burgers",
-      "VenueId": "10380",
-      "id": "10380",
+      "events": [],
       "address": "910 E Burnside St, Portland, OR",
-      "pageUrl": "10380-boogies-burgers",
-      "events": [
-        "10411",
-        "10416",
-        "10417",
-        "10418",
-        "10419",
-        "10441",
-        "10450",
-        "10451",
-        "10788",
-        "11148"
-      ]
+      "pageUrl": "10380-boogies-burgers"
     },
     {
-      "Name": "MailChimp Stage at Bossanova Ballroom",
-      "VenueId": "10374",
-      "id": "10374",
+      "events": [],
       "address": "722 E Burnside, Portland, OR",
-      "pageUrl": "10374-mailchimp-stage-at-bossanova-ballroom",
-      "events": [
-        "10383",
-        "10401",
-        "10423",
-        "10430",
-        "10433",
-        "10449",
-        "10460",
-        "10466",
-        "10467",
-        "10502",
-        "10706",
-        "10736",
-        "10737",
-        "10785"
-      ]
+      "pageUrl": "10374-mailchimp-stage-at-bossanova-ballroom"
     },
     {
-      "Name": "Bunk Bar",
-      "VenueId": "10378",
-      "id": "10378",
+      "events": [],
       "address": "1028 SE Water, Portland, OR",
-      "pageUrl": "10378-bunk-bar",
-      "events": [
-        "10412",
-        "10437",
-        "10447",
-        "10448",
-        "10459",
-        "10503",
-        "10784"
-      ]
+      "pageUrl": "10378-bunk-bar"
     },
     {
-      "Name": "Kill Rock Stars Stage at Doug Fir Lounge",
-      "VenueId": "10373",
-      "id": "10373",
+      "events": [],
       "address": "830 E. Burnside St., Portland, OR",
-      "pageUrl": "10373-kill-rock-stars-stage-at-doug-fir-lounge",
-      "events": [
-        "10388",
-        "10402",
-        "10404",
-        "10405",
-        "10406",
-        "10407",
-        "10409",
-        "10425",
-        "10427",
-        "10428",
-        "10461",
-        "10678",
-        "10729",
-        "10731",
-        "10740",
-        "10766",
-        "10817"
-      ]
+      "pageUrl": "10373-kill-rock-stars-stage-at-doug-fir-lounge"
     },
     {
-      "Name": "Guardian Games",
-      "VenueId": "10763",
-      "id": "10763",
+      "events": [],
       "address": "345 SE Taylor St, Portland, OR 97214",
-      "pageUrl": "10763-guardian-games",
-      "events": [
-        "10764"
-      ]
+      "pageUrl": "10763-guardian-games"
     },
     {
-      "Name": "My Father&#039;s Place",
-      "VenueId": "10379",
-      "id": "10379",
+      "events": [],
       "address": "523 SE Grand Ave 97214",
-      "pageUrl": "10379-my-fathers-place",
-      "events": [
-        "10394",
-        "10420",
-        "10442",
-        "10443",
-        "10445",
-        "10746",
-        "10747",
-        "10998",
-        "10999"
-      ]
+      "pageUrl": "10379-my-fathers-place"
     },
     {
-      "Name": "New Deal Distillery",
-      "VenueId": "10677",
-      "id": "10677",
+      "events": [],
       "address": "900 SE Salmon St, Portland, OR 97214",
-      "pageUrl": "10677-new-deal-distillery",
-      "events": [
-        "10758",
-        "11108"
-      ]
+      "pageUrl": "10677-new-deal-distillery"
     },
     {
-      "Name": "Norse Hall",
-      "VenueId": "10375",
-      "id": "10375",
+      "events": [],
       "address": "111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR",
-      "pageUrl": "10375-norse-hall",
-      "events": [
-        "10426",
-        "10436",
-        "10439",
-        "10672"
-      ]
+      "pageUrl": "10375-norse-hall"
     },
     {
-      "Name": "Revolution Hall",
-      "VenueId": "10384",
-      "id": "10384",
+      "events": [],
       "address": "Suite #110, 1300 SE Stark St, Portland, OR",
-      "pageUrl": "10384-revolution-hall",
-      "events": [
-        "10403",
-        "10741"
-      ]
+      "pageUrl": "10384-revolution-hall"
     },
     {
-      "Name": "Rotture Lower",
-      "VenueId": "10377",
-      "id": "10377",
+      "events": [],
       "address": "315 SE 3rd Ave, Portland, OR",
-      "pageUrl": "10377-rotture-lower",
-      "events": [
-        "10391",
-        "10432",
-        "10453",
-        "10455",
-        "10728",
-        "10733",
-        "10765"
-      ]
+      "pageUrl": "10377-rotture-lower"
     },
     {
-      "Name": "Rotture Upper",
-      "VenueId": "10376",
-      "id": "10376",
+      "events": [],
       "address": "315 SE 3rd Ave, Portland, OR",
-      "pageUrl": "10376-rotture-upper",
-      "events": [
-        "10392",
-        "10734",
-        "10749",
-        "10779",
-        "10783",
-        "10819"
-      ]
+      "pageUrl": "10376-rotture-upper"
     },
     {
-      "Name": "The K Ohle Bus",
-      "VenueId": "10675",
-      "id": "10675",
-      "pageUrl": "10675-the-k-ohle-bus",
-      "events": [
-        "10676"
-      ]
+      "events": [],
+      "pageUrl": "10675-the-k-ohle-bus"
     }
   ]
 }
