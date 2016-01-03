@@ -3,6 +3,7 @@ const util = require('./utilities');
 const festivalData = require('./festival-data');
 const ObjectBuilder = require('./object-builder');
 const ent = require('ent');
+const wrench = require('wrench');
 const moment = require('moment');
 
 module.exports = ObjectBuilder.extend({
@@ -19,7 +20,7 @@ module.exports = ObjectBuilder.extend({
     'price',
     'pageUrl'
   ],
-
+  MODEL_NAME: 'event',
   TMP_PATH: festivalData.tmpEventsPath,
   API_PATH: '../api/events.json',
 

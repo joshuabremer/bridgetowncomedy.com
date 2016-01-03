@@ -5,7 +5,7 @@ const wrench = require('wrench');
 const ObjectBuilder = require('./object-builder');
 
 
-const PerformerBuilder = ObjectBuilder.extend({
+module.exports = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
     'performers',
     'events',
@@ -19,6 +19,7 @@ const PerformerBuilder = ObjectBuilder.extend({
     'bio',
     'pageUrl'
   ],
+  MODEL_NAME: 'performer',
   TMP_PATH: festivalData.tmpPerformersPath,
   API_PATH: '../api/performers.json',
 
@@ -114,7 +115,7 @@ const PerformerBuilder = ObjectBuilder.extend({
       fs.appendFileSync(filePath, util.htmlToText(performerObj[key].bio));
     }
 
-    var message = '\n' + performerObj.length + ' show pages created\n';
+    var message = '\n' + performerObj.length + ' performer pages created\n';
     console.log(message.green);
   },
 
@@ -157,7 +158,4 @@ const PerformerBuilder = ObjectBuilder.extend({
     console.log(message);
   }
 });
-
-module.exports = PerformerBuilder;
-
 

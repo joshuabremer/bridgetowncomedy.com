@@ -1,4 +1,5 @@
 const fs = require('fs');
+const wrench = require('wrench');
 const util = require('./utilities');
 const festivalData = require('./festival-data');
 const ObjectBuilder = require('./object-builder');
@@ -47,7 +48,7 @@ module.exports = ObjectBuilder.extend({
     'address',
     'pageUrl'
   ],
-
+  MODEL_NAME: 'venue',
   TMP_PATH: festivalData.tmpVenuesPath,
   API_PATH: '../api/venues.json',
 

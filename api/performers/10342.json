@@ -1,0 +1,21 @@
+{
+  "events": [
+    "10403",
+    "10405",
+    "10409",
+    "10453",
+    "10736",
+    "10740"
+  ],
+  "emceeEvents": [
+    "10427"
+  ],
+  "name": "Brendon Small",
+  "twitter": "_Brendonsmall",
+  "website": "http://www.brendonsmall.com/",
+  "photoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/brendon_small.jpg",
+  "sortOrder": 99999,
+  "excludeFromList": false,
+  "bio": "",
+  "pageUrl": "10342-brendon-small"
+}

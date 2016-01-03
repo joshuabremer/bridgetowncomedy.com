@@ -18,11 +18,12 @@ const ShowBuilder = ObjectBuilder.extend({
     'iTunesUrl'
   ],
 
+  MODEL_NAME: 'show',
   TMP_PATH: festivalData.tmpShowsPath,
   API_PATH: '../api/shows.json',
 
   normalizeData: function() {
-    var showObj = festivalData.getShowObject();
+    const showObj = festivalData.getShowObject();
     for (var key in showObj) {
       showObj[key].id = showObj[key].id || showObj[key].SubmittedId;
       showObj[key].pageUrl = showObj[key].id + '-' + util.convertToSlug(showObj[key].name);
@@ -35,7 +36,7 @@ const ShowBuilder = ObjectBuilder.extend({
   },
 
   addRelationships: function() {
-    var showObj = festivalData.getShowObject();
+    const showObj = festivalData.getShowObject();
 
     for (var key in showObj) {
       showObj[key].events = festivalData.getEventsForShow(showObj[key].id);
@@ -51,8 +52,8 @@ const ShowBuilder = ObjectBuilder.extend({
   },
 
   createStaticPages: function() {
-    var showObj = festivalData.getShowObject();
-    var rootPath = '../show/';
+    const showObj = festivalData.getShowObject();
+    const rootPath = '../show/';
     wrench.rmdirSyncRecursive('../show', true);
     fs.mkdirSync('../show');
 

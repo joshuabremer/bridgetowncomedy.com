@@ -1,8 +1,10 @@
 const http = require('http');
 const fs = require('fs');
+const wrench = require('wrench');
 const easyimg = require('easyimage');
 const util = require('./utilities');
 const Class = require('./lib/class-inheritance.js');
+const festivalData = require('./festival-data');
 
 const ObjectBuilder = Class.extend({
   TMP_PATH: null,
@@ -123,6 +125,25 @@ const ObjectBuilder = Class.extend({
         _this.buildImageFromURLIfUpdated.call(_this, name, url, prefix);
       }, 1000 * Math.random());
     });
+  },
+
+  currentObject: function() {
+    const methodName = 'get' + util.capitalize(this.MODEL_NAME) + 'Object';
+    return festivalData[methodName]();
+  },
+
+  createJSONAPI: function() {
+    var dataObj = this.currentObject();
+    var rootPath = '../api/' + this.MODEL_NAME + 's';
+    wrench.rmdirSyncRecursive(rootPath, true);
+    fs.mkdirSync(rootPath);
+
+    for (var key in dataObj) {
+      var filePath = rootPath + '/' + dataObj[key].id + '.json';
+      fs.writeFileSync(filePath, JSON.stringify(dataObj[key], this.WHITELISTED_ATTRIBUTES, 2), 'utf8');
+    }
+    var message = '\n' + dataObj.length + ' ' + this.MODEL_NAME + ' API paths created\n';
+    console.log(message);
   }
 });
 

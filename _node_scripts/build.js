@@ -33,21 +33,26 @@ Q.all([
   util.requestJsonAndSave(FESTIVALTHING_PERFORMERS_URL, TMP_PERFORMERS_PATH),
   util.requestJsonAndSave(FESTIVALTHING_SHOWS_URL, TMP_SHOWS_PATH)
 ]).then(function() {
+
   const venueBuilder = new VenueBuilder();
   venueBuilder.buildFixtures();
+  venueBuilder.createJSONAPI();
 
   const eventBuilder = new EventBuilder();
   eventBuilder.buildFixtures();
+  eventBuilder.createJSONAPI();
 
   const showBuilder = new ShowBuilder();
   showBuilder.buildFixtures();
-  showBuilder.createHeadshots();
+  // showBuilder.createHeadshots();
   showBuilder.createStaticPages();
+  showBuilder.createJSONAPI();
 
   const performerBuilder = new PerformerBuilder();
   performerBuilder.buildFixtures();
-  performerBuilder.createHeadshots();
+  // performerBuilder.createHeadshots();
   performerBuilder.createStaticPages();
+  performerBuilder.createJSONAPI();
 
 }).catch(function(error) {
   console.error(error.stack);

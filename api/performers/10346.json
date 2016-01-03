@@ -1,0 +1,20 @@
+{
+  "events": [
+    "10406",
+    "10407",
+    "10426",
+    "10427",
+    "10731"
+  ],
+  "emceeEvents": [
+    "10740"
+  ],
+  "name": "Steve Agee",
+  "twitter": "steveagee",
+  "website": "http://steveagee.tumblr.com/",
+  "photoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/agee.jpg",
+  "sortOrder": 99999,
+  "excludeFromList": false,
+  "bio": "",
+  "pageUrl": "10346-steve-agee"
+}
