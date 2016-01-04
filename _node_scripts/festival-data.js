@@ -56,7 +56,7 @@ FestivalData.prototype.getPerformersForEvents = function(id) {
 
     if (idCheck === parseInt(id, 10) && this.doesPerformerExistForId(scheduleObj[key].PerformerId)) {
 
-      returnArray.push(scheduleObj[key].PerformerId);
+      returnArray.push(Number(scheduleObj[key].PerformerId));
     }
   }
   return returnArray;
@@ -80,7 +80,7 @@ FestivalData.prototype.getEventsForPerformer = function(id) {
   for (var key in scheduleObj) {
     var idCheck = parseInt(scheduleObj[key].PerformerId, 10);
     if (idCheck === parseInt(id, 10) && this.doesEventExistForId(scheduleObj[key].EventId)) {
-      returnArray.push(scheduleObj[key].EventId);
+      returnArray.push(Number(scheduleObj[key].EventId));
     }
   }
   return returnArray;
@@ -92,7 +92,7 @@ FestivalData.prototype.getMCEventsForPerformer = function(id) {
   for (var key in eventObj) {
     var idCheck = parseInt(eventObj[key].emcee, 10);
     if (idCheck === parseInt(id, 10) && this.doesEventExistForId(eventObj[key].id)) {
-      returnArray.push(eventObj[key].id);
+      returnArray.push(Number(eventObj[key].id));
     }
   }
   return returnArray;
@@ -117,7 +117,7 @@ FestivalData.prototype.getEventsForShow = function(id) {
   for (var key in eventObj) {
     var idCheck = parseInt(eventObj[key].show, 10);
     if (idCheck === parseInt(id, 10)) {
-      returnArray.push(eventObj[key].id);
+      returnArray.push(Number(eventObj[key].id));
     }
   }
   return returnArray;
