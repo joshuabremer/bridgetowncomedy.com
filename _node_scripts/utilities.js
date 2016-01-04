@@ -1,5 +1,5 @@
 // const http = require('http');
-const https = require('https');
+const http = require('http');
 const fs = require('fs');
 const stripBom = require('strip-bom');
 const Q = require('q');
@@ -68,7 +68,7 @@ Utilities.prototype.requestJsonAndSave = function(url, path, callback) {
   fs.createWriteStream(path);
 
   fs.writeFileSync(path, '', 'utf8');
-  var request = https.get(url, function(response) {
+  var request = http.get(url, function(response) {
 
     response.on('data', function(chunk) {
       fs.appendFileSync(stripBom(path), chunk);

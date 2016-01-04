@@ -11,6 +11,7 @@ const ShowBuilder = ObjectBuilder.extend({
     'shows',
     'events',
     'name',
+    'originalPhotoUrl',
     'photoUrl',
     'sortOrder',
     'bio',
@@ -28,6 +29,8 @@ const ShowBuilder = ObjectBuilder.extend({
     for (var key in showObj) {
       showObj[key].id = Number(showObj[key].SubmittedId);
       showObj[key].name = showObj[key].Name;
+      showObj[key].originalPhotoUrl = showObj[key].PhotoUrl;
+      showObj[key].photoUrl = '/api/img/' + this.MODEL_NAME + '-images/' + this.MODEL_NAME + '-' + util.cleanStr(showObj[key].Name) + '-300x300.jpg';
       showObj[key].bio = showObj[key].Bio;
       showObj[key].copy = showObj[key].Copy;
       showObj[key].sortOrder = Number(showObj[key].SortOrder) || 9999;
@@ -75,12 +78,12 @@ const ShowBuilder = ObjectBuilder.extend({
   },
 
   createHeadshots: function() {
-    // var showObj = festivalData.getShowObject();
+    var showObj = festivalData.getShowObject();
 
-    // for (var key in showObj) {
-    //var item = showObj[key];
-    // this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'show')
-    // }
+    for (var key in showObj) {
+      var item = showObj[key];
+      this.buildImageFromURLIfUpdated(item.name, item.originalPhotoUrl, 'show')
+    }
   }
 });
 

@@ -81,14 +81,14 @@ const ObjectBuilder = Class.extend({
     var file = fs.createWriteStream('tmp/' + filename);
 
     var request = http.get(url, function(response) {
-      //console.log("Created: " + "tmp/" + filename);
-      process.stdout.write("o".green);
+      //console.log('Created: ' + 'tmp/' + filename);
+      process.stdout.write('o');
       response.pipe(file);
-      response.on("end", function() {
-        _this.buildThumbnail("tmp/" + filename, "public/img/" + prefix + "-images/" + prefix + "-" + util.cleanStr(name) + "-300x300.jpg");
+      response.on('end', function() {
+        _this.buildThumbnail('tmp/' + filename, '../api/img/' + prefix + '-images/' + prefix + '-' + util.cleanStr(name) + '-300x300.jpg');
       });
     });
-    request.on("error", function( /*err*/ ) {
+    request.on('error', function( /*err*/ ) {
       setTimeout(function() {
         _this.buildImageFromURL.call(_this, name, url, prefix);
       }, 1000 * Math.random());
@@ -106,7 +106,7 @@ const ObjectBuilder = Class.extend({
       path: url.replace('http://bridgetown.festivalthing.com', '')
     };
 
-    if (!fs.existsSync('public/img/' + prefix + '-images/' + prefix + '-' + util.cleanStr(name) + '-300x300.jpg')) {
+    if (!fs.existsSync('../api/img/' + prefix + '-images/' + prefix + '-' + util.cleanStr(name) + '-300x300.jpg')) {
       this.buildImageFromURL.call(_this, name, url, prefix);
       return;
     }
@@ -121,7 +121,7 @@ const ObjectBuilder = Class.extend({
       if (new Date(lastModified) > new Date(fileModified)) {
         _this.buildImageFromURL.call(_this, name, url, prefix);
       } else {
-        process.stdout.write('.'.green);
+        process.stdout.write('.');
       }
     }
     );

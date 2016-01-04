@@ -8,19 +8,30 @@ const util = require('./utilities');
 const fs = require('fs');
 
 const TMP_EVENTS_PATH = festivalData.tmpEventsPath;
-const FESTIVALTHING_EVENTS_URL = 'https://dl.dropboxusercontent.com/u/22260969/events.json';
+// const FESTIVALTHING_EVENTS_URL = 'https://dl.dropboxusercontent.com/u/22260969/events.json';
+const FESTIVALTHING_EVENTS_URL = 'http://bridgetown.festivalthing.com/export/events/json';
 
 const TMP_VENUES_PATH = festivalData.tmpVenuesPath;
-const FESTIVALTHING_VENUE_URL = 'https://dl.dropboxusercontent.com/u/22260969/venues.json';
+// const FESTIVALTHING_VENUE_URL = 'https://dl.dropboxusercontent.com/u/22260969/venues.json';
+// const FESTIVALTHING_VENUE_URL = 'http://bridgetown.festivalthing.com/export/venues/json';
+// This venues is still public, so we're setting it to an empty array for now.
+const FESTIVALTHING_VENUE_URL = 'http://bridgetown.festivalthing.com/export/schedule/json'
 
 const TMP_SCHEDULE_PATH = festivalData.tmpSchedulePath;
-const FESTIVALTHING_SCHEDULE_URL = 'https://dl.dropboxusercontent.com/u/22260969/schedule.json';
+// const FESTIVALTHING_SCHEDULE_URL = 'https://dl.dropboxusercontent.com/u/22260969/schedule.json';
+const FESTIVALTHING_SCHEDULE_URL = 'http://bridgetown.festivalthing.com/export/schedule/json';
 
 const TMP_PERFORMERS_PATH = festivalData.tmpPerformersPath;
-const FESTIVALTHING_PERFORMERS_URL = 'https://dl.dropboxusercontent.com/u/22260969/performers.json';
+// const FESTIVALTHING_PERFORMERS_URL = 'https://dl.dropboxusercontent.com/u/22260969/performers.json';
+const FESTIVALTHING_PERFORMERS_URL = 'http://bridgetown.festivalthing.com/export/performers/json';
 
 const TMP_SHOWS_PATH = festivalData.tmpShowsPath;
-const FESTIVALTHING_SHOWS_URL = 'https://dl.dropboxusercontent.com/u/22260969/shows.json';
+// const FESTIVALTHING_SHOWS_URL = 'https://dl.dropboxusercontent.com/u/22260969/shows.json';
+//const FESTIVALTHING_SHOWS_URL = 'http://bridgetown.festivalthing.com/export/submitted-shows/json';
+// This shows is still public, so we're setting it to an empty array for now.
+const FESTIVALTHING_SHOWS_URL = 'http://bridgetown.festivalthing.com/export/schedule/json'
+
+process.chdir(__dirname);
 
 if (!fs.existsSync('tmp')) {
   fs.mkdirSync('tmp');
@@ -48,7 +59,7 @@ Q.all([
 
 
   showBuilder.buildFixtures();
-  // showBuilder.createHeadshots();
+  showBuilder.createHeadshots();
   showBuilder.createStaticPages();
   showBuilder.createJSONAPI();
 

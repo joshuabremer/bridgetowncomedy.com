@@ -98,13 +98,12 @@ cd ./../;
 echo "\n\n\n\n======================================"
 echo "Syncing Images..."
 echo "======================================\n\n"
-rsync -rv --size-only --delete ./bridgetown-ember/dist/api/ ./api;
 rsync -rv --size-only --delete ./bridgetown-ember/dist/assets/ ./assets;
 rsync -rv --size-only --delete ./bridgetown-ember/dist/img/ ./img;
 echo "\n\n\n\n======================================"
-echo "Building Jekyll Pages..."
+echo "Building API and Jekyll Pages..."
 echo "======================================\n\n"
-# node _node_scripts/build.js;
+node _node_scripts/build.js;
 
 
 echo "\n\n\n\n======================================"
