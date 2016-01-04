@@ -35,6 +35,7 @@ module.exports = ObjectBuilder.extend({
 
     for (var key in venueObj) {
       venueObj[key].id = Number(venueObj[key].VenueId);
+      venueObj[key].name = venueObj[key].Name;
       if (VENUE_ADDRESSES[venueObj[key].id]) {
         venueObj[key].address = VENUE_ADDRESSES[venueObj[key].id];
       }

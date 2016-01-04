@@ -12,6 +12,7 @@
         7806,
         7952
       ],
+      "name": "Alhambra Theater Lounge",
       "pageUrl": "7608-alhambra-theater-lounge"
     },
     {
@@ -31,6 +32,7 @@
         7749,
         7796
       ],
+      "name": "Taxi Magic Stage at Alhambra Theater Main",
       "pageUrl": "7609-taxi-magic-stage-at-alhambra-theater-main"
     },
     {
@@ -44,6 +46,7 @@
         7911,
         7918
       ],
+      "name": "Analog Cafe",
       "pageUrl": "7620-analog-cafe"
     },
     {
@@ -60,6 +63,7 @@
         7808,
         7811
       ],
+      "name": "Analog Theater",
       "pageUrl": "7619-analog-theater"
     },
     {
@@ -71,6 +75,7 @@
         7656,
         7912
       ],
+      "name": "Bar of the Gods",
       "pageUrl": "7610-bar-of-the-gods"
     },
     {
@@ -84,11 +89,13 @@
         7703,
         7916
       ],
+      "name": "Bossanova",
       "pageUrl": "7611-bossanova"
     },
     {
       "id": 8571,
       "events": [],
+      "name": "Curious Comedy Theater",
       "pageUrl": "8571-curious-comedy-theater"
     },
     {
@@ -111,6 +118,7 @@
         7783,
         7810
       ],
+      "name": "Squarespace Stage at Doug Fir",
       "pageUrl": "7612-squarespace-stage-at-doug-fir"
     },
     {
@@ -127,6 +135,7 @@
         7919,
         7951
       ],
+      "name": "Sizzle Pie Stage at Eagles Lodge",
       "pageUrl": "7613-sizzle-pie-stage-at-eagles-lodge"
     },
     {
@@ -134,6 +143,7 @@
       "events": [
         7967
       ],
+      "name": "Ground Kontrol",
       "pageUrl": "7966-ground-kontrol"
     },
     {
@@ -150,6 +160,7 @@
         7697,
         7809
       ],
+      "name": "Hawthorne Theatre Lounge",
       "pageUrl": "7614-hawthorne-theatre-lounge"
     },
     {
@@ -163,6 +174,7 @@
         7913,
         7915
       ],
+      "name": "Hawthorne Theatre Main",
       "pageUrl": "7615-hawthorne-theatre-main"
     },
     {
@@ -176,6 +188,7 @@
         7739,
         7816
       ],
+      "name": "Jupiter Tent",
       "pageUrl": "7616-jupiter-tent"
     },
     {
@@ -195,6 +208,7 @@
         7727,
         7728
       ],
+      "name": "The Tanker",
       "pageUrl": "7617-the-tanker"
     },
     {
@@ -210,6 +224,7 @@
         7815,
         7914
       ],
+      "name": "MailChimp Stage Stage at White Owl Social Club",
       "pageUrl": "7618-mailchimp-stage-stage-at-white-owl-social-club"
     }
   ]
