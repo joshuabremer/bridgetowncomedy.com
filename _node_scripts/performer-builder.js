@@ -14,6 +14,7 @@ module.exports = ObjectBuilder.extend({
     'name',
     'twitter',
     'website',
+    'originalPhotoUrl',
     'photoUrl',
     'sortOrder',
     'excludeFromList',
@@ -45,6 +46,9 @@ module.exports = ObjectBuilder.extend({
       performerObj[key].name = performerObj[key].Name;
       performerObj[key].twitter = performerObj[key].Twitter || '';
       performerObj[key].bio = performerObj[key].Bio;
+      performerObj[key].website = performerObj[key].Website;
+      performerObj[key].originalPhotoUrl = performerObj[key].PhotoUrl;
+      performerObj[key].photoUrl = '/api/img/' + this.MODEL_NAME + '-images/' + this.MODEL_NAME + '-' + util.cleanStr(performerObj[key].Name) + '-300x300.jpg';
 
       // Create page URLs
       performerObj[key].pageUrl = performerObj[key].id + '-' + util.convertToSlug(performerObj[key].name);
@@ -85,13 +89,12 @@ module.exports = ObjectBuilder.extend({
   },
 
   createHeadshots: function() {
-    // var performerObj = festivalData.getPerformerObject();
+    var performerObj = festivalData.getPerformerObject();
 
-    // for (var key in performerObj) {
-    //   var item = performerObj[key];
-    //this.buildImageFromURLIfUpdated(item.Name, item.PhotoUrl, 'performer');
-    // }
-    // curl -z tmp/aaronweaver.jpg http://localhost:4000/img/performer-images/performer-aaronweaver-300x300.jpg -o tmp/aaronweaver.jpg
+    for (var key in performerObj) {
+      var item = performerObj[key];
+      this.buildImageFromURLIfUpdated(item.name, item.originalPhotoUrl, this.MODEL_NAME )
+    }
   },
 
   createStaticPages: function() {

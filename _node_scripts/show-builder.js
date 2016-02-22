@@ -82,7 +82,7 @@ const ShowBuilder = ObjectBuilder.extend({
 
     for (var key in showObj) {
       var item = showObj[key];
-      this.buildImageFromURLIfUpdated(item.name, item.originalPhotoUrl, 'show')
+      this.buildImageFromURLIfUpdated(item.name, item.originalPhotoUrl, this.MODEL_NAME )
     }
   }
 });

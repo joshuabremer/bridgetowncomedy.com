@@ -15,7 +15,7 @@ const TMP_VENUES_PATH = festivalData.tmpVenuesPath;
 // const FESTIVALTHING_VENUE_URL = 'https://dl.dropboxusercontent.com/u/22260969/venues.json';
 // const FESTIVALTHING_VENUE_URL = 'http://bridgetown.festivalthing.com/export/venues/json';
 // This venues is still public, so we're setting it to an empty array for now.
-const FESTIVALTHING_VENUE_URL = 'http://bridgetown.festivalthing.com/export/schedule/json'
+const FESTIVALTHING_VENUE_URL = 'http://bridgetown.festivalthing.com/export/venues/json'
 
 const TMP_SCHEDULE_PATH = festivalData.tmpSchedulePath;
 // const FESTIVALTHING_SCHEDULE_URL = 'https://dl.dropboxusercontent.com/u/22260969/schedule.json';
@@ -29,7 +29,7 @@ const TMP_SHOWS_PATH = festivalData.tmpShowsPath;
 // const FESTIVALTHING_SHOWS_URL = 'https://dl.dropboxusercontent.com/u/22260969/shows.json';
 //const FESTIVALTHING_SHOWS_URL = 'http://bridgetown.festivalthing.com/export/submitted-shows/json';
 // This shows is still public, so we're setting it to an empty array for now.
-const FESTIVALTHING_SHOWS_URL = 'http://bridgetown.festivalthing.com/export/schedule/json'
+const FESTIVALTHING_SHOWS_URL = 'http://bridgetown.festivalthing.com/export/submitted-shows/json'
 
 process.chdir(__dirname);
 
@@ -65,7 +65,7 @@ Q.all([
 
 
   performerBuilder.buildFixtures();
-  // performerBuilder.createHeadshots();
+  performerBuilder.createHeadshots();
   performerBuilder.createStaticPages();
   performerBuilder.createJSONAPI();
 
