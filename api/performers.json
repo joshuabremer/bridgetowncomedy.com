@@ -1,17 +1,17 @@
 {
   "performers": [
     {
-      "id": 11783,
+      "id": 12392,
       "events": [],
       "emceeEvents": [],
-      "name": "Joe Pera",
-      "twitter": "",
+      "name": "John Early",
+      "twitter": "bejohnce",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joepera1.jpg",
-      "photoUrl": "/api/img/performer-images/performer-joepera-300x300.jpg",
-      "sortOrder": 69,
-      "bio": "<p>Joe Pera is a 25 year-old standup comedian currently living and performing in New York City. Growing up in Buffalo, NY, Joe would oftentimes gaze at Canada from across Lake Erie and wonder what it&#039;d be like to perform in the British Commonwealth.<br />\nHe performs at a wide variety of stages across New York City including numerous alternative venues (UCB Theater and subway platforms) as well as clubs (Caroline&#039;s, Gotham, The Stand) and even the MoMA PS1 Theater. Last fall, he was named as one of Comedy Central&#039;s &#039;Comics To Watch&#039;.</p>\n<p>In addition to live comedy, Joe has written and acted in online series made for MTVOther and Adultswim.com.<br />\nEvery year, he submits to the Andy Kaufman Award but has yet to be accepted.</p>\n<p>Pera’s web series THE PERFECT WEEK premiered on JASH, spring 2014. Additionally, Pera has appeared on the ADAM DEVINE’S HOUSE PARTY (Comedy Central).</p>\n",
-      "pageUrl": "11783-joe-pera"
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/johnearly.jpg",
+      "photoUrl": "/api/img/performer-images/performer-johnearly-300x300.jpg",
+      "sortOrder": 70,
+      "bio": "<p>John Early is a comedian who was described as &quot;endearingly honest and absurdly funny&quot; by the New York Times and &quot;cute and young and blond&quot; by the Huffington Post. He has appeared on 30 Rock, Broad City, High Maintenance, the feature Fort Tilden (SXSW Grand Jury Prize), the upcoming Wet Hot American Summer: First Day of Camp for Netflix, and in his own short films which he writes and directs. He is a writer for Season 4 of Billy on the Street. He is an Artist in Residence and Comedy Curator at Ars Nova, where he hosts the monthly variety show Showgasm. He performs his solo show Literally Me (New York Times Critics&#039; Pick) at Joe&#039;s Pub, a live sketch show Hey™ with frequent collaborator Kate Berlant, co-hosts a weekly stand up show at Cake Shop, and has been a part of both the Riot LA and South by Southwest comedy festivals. Currently, John can be seen in the popular Netflix reboot of Wet Hot American Summer and up next, John will have a half hour comedy special premiering on Netflix later this year and appear in Neighbors 2.</p>\n",
+      "pageUrl": "12392-john-early"
     },
     {
       "id": 12473,
@@ -859,6 +859,19 @@
       "pageUrl": "12031-joann-schinderle"
     },
     {
+      "id": 11783,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Joe Pera",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joepera1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-joepera-300x300.jpg",
+      "sortOrder": 69,
+      "bio": "<p>Joe Pera is a 25 year-old standup comedian currently living and performing in New York City. Growing up in Buffalo, NY, Joe would oftentimes gaze at Canada from across Lake Erie and wonder what it&#039;d be like to perform in the British Commonwealth.<br />\nHe performs at a wide variety of stages across New York City including numerous alternative venues (UCB Theater and subway platforms) as well as clubs (Caroline&#039;s, Gotham, The Stand) and even the MoMA PS1 Theater. Last fall, he was named as one of Comedy Central&#039;s &#039;Comics To Watch&#039;.</p>\n<p>In addition to live comedy, Joe has written and acted in online series made for MTVOther and Adultswim.com.<br />\nEvery year, he submits to the Andy Kaufman Award but has yet to be accepted.</p>\n<p>Pera’s web series THE PERFECT WEEK premiered on JASH, spring 2014. Additionally, Pera has appeared on the ADAM DEVINE’S HOUSE PARTY (Comedy Central).</p>\n",
+      "pageUrl": "11783-joe-pera"
+    },
+    {
       "id": 12472,
       "events": [],
       "emceeEvents": [],
@@ -870,19 +883,6 @@
       "sortOrder": 2,
       "bio": "<p>John Michael Higgins is a double hyphenate: he’s sort-of well-known for being a member of the Christopher Guest “company,” starring in such films as BEST IN SHOW and A MIGHTY WIND. But before becoming a disreputable light improvisational comedic actor he spent twenty years on the New York and regional stages doing lots of things that nobody gives a shit about anymore. Then, after playing David Letterman in the HBO film THE LATE SHIFT, Mr. Higgins’ career became centered in Hollywood. In addition to many animated series (like Janet Varney’s own “Legend of Korra” above or below, or whichever position she’s taking these days), Michael has another twenty years of appearances on television shows ranging from SEINFELD to CSI, from ALLY MCBEAL and ARRESTED DEVELOPMENT to KATH AND KIM and the recently deceased HAPPILY DIVORCED.</p>\n<p>Movie audiences also know him for his work in the films of Vince Vaughn, THE BREAK-UP, FRED CLAUS and COUPLES RETREAT, and with Jim Carrey in FUN WITH DICK AND JANE and YES MAN. More recently it’s been PITCH PERFECT and BEST MAN HOLIDAY, in addition to lots of commercial work like OLD NAVY and that idiot executive in all those DIRECTV commercials and the current DIY videos for LOWE’S on FUNNY OR DIE.</p>\n",
       "pageUrl": "12472-john-michael-higgins"
-    },
-    {
-      "id": 12392,
-      "events": [],
-      "emceeEvents": [],
-      "name": "John Early",
-      "twitter": "bejohnce",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/johnearly.jpg",
-      "photoUrl": "/api/img/performer-images/performer-johnearly-300x300.jpg",
-      "sortOrder": 70,
-      "bio": "<p>John Early is a comedian who was described as &quot;endearingly honest and absurdly funny&quot; by the New York Times and &quot;cute and young and blond&quot; by the Huffington Post. He has appeared on 30 Rock, Broad City, High Maintenance, the feature Fort Tilden (SXSW Grand Jury Prize), the upcoming Wet Hot American Summer: First Day of Camp for Netflix, and in his own short films which he writes and directs. He is a writer for Season 4 of Billy on the Street. He is an Artist in Residence and Comedy Curator at Ars Nova, where he hosts the monthly variety show Showgasm. He performs his solo show Literally Me (New York Times Critics&#039; Pick) at Joe&#039;s Pub, a live sketch show Hey™ with frequent collaborator Kate Berlant, co-hosts a weekly stand up show at Cake Shop, and has been a part of both the Riot LA and South by Southwest comedy festivals. Currently, John can be seen in the popular Netflix reboot of Wet Hot American Summer and up next, John will have a half hour comedy special premiering on Netflix later this year and appear in Neighbors 2.</p>\n",
-      "pageUrl": "12392-john-early"
     },
     {
       "id": 11509,
@@ -1728,6 +1728,19 @@
       "sortOrder": 136,
       "bio": "<p>Rylee Newton is a standup comedian from Portland, Oregon. She has performed on Comedy Central's Premium Blend, Jimmy Kimmel Live and at the US Comedy Arts Festival in Apsen, CO. She currently resides in Los Angeles, where she performs for children who do not \"get it.\"</p>\n",
       "pageUrl": "12496-rylee-newton"
+    },
+    {
+      "id": 12498,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Julian McCullough ",
+      "twitter": "Julezmac",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_43.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-julianmccullough-300x300.jpg",
+      "sortOrder": 137,
+      "bio": "<p>Julian McCullough has appeared on The Tonight Show with Jimmy Fallon, Conan, and This American Life. He has also starred in several cancelled shows on the E! Network alone. His new podcast, Julian Loves Music, is a spin off of the hugely popular Doug Loves Movies.<br />\nJulianmccullough.com</p>\n",
+      "pageUrl": "12498-julian-mccullough-"
     }
   ]
 }
