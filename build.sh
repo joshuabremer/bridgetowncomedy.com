@@ -52,8 +52,8 @@ fi
 
 bower install --allow-root;
 
-if ember build --environment="production" ; then
-#if ember build  ; then
+if ./node_modules/.bin/ember build --environment="production" ; then
+# if ember build  ; then
     :
 else
     echo "Ember build failed"
@@ -84,11 +84,6 @@ echo "Syncing Images..."
 echo "======================================\n\n"
 rsync -rv --size-only --delete ./bridgetown-ember/dist/assets/ ./assets;
 rsync -rv --size-only --delete ./bridgetown-ember/dist/img/ ./img;
-echo "\n\n\n\n======================================"
-echo "Building API and Jekyll Pages..."
-echo "======================================\n\n"
-node _node_scripts/build.js;
-
 
 echo "\n\n\n\n======================================"
 echo "Files changed:"
