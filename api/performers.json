@@ -1,17 +1,17 @@
 {
   "performers": [
     {
-      "id": 12392,
+      "id": 11509,
       "events": [],
       "emceeEvents": [],
-      "name": "John Early",
-      "twitter": "bejohnce",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/johnearly.jpg",
-      "photoUrl": "/api/img/performer-images/performer-johnearly-300x300.jpg",
-      "sortOrder": 70,
-      "bio": "<p>John Early is a comedian who was described as &quot;endearingly honest and absurdly funny&quot; by the New York Times and &quot;cute and young and blond&quot; by the Huffington Post. He has appeared on 30 Rock, Broad City, High Maintenance, the feature Fort Tilden (SXSW Grand Jury Prize), the upcoming Wet Hot American Summer: First Day of Camp for Netflix, and in his own short films which he writes and directs. He is a writer for Season 4 of Billy on the Street. He is an Artist in Residence and Comedy Curator at Ars Nova, where he hosts the monthly variety show Showgasm. He performs his solo show Literally Me (New York Times Critics&#039; Pick) at Joe&#039;s Pub, a live sketch show Hey™ with frequent collaborator Kate Berlant, co-hosts a weekly stand up show at Cake Shop, and has been a part of both the Riot LA and South by Southwest comedy festivals. Currently, John can be seen in the popular Netflix reboot of Wet Hot American Summer and up next, John will have a half hour comedy special premiering on Netflix later this year and appear in Neighbors 2.</p>\n",
-      "pageUrl": "12392-john-early"
+      "name": "John F. O&#039;Donnell",
+      "twitter": "TheRealJFOD",
+      "website": "http://livefromouterspace.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jfod_press_pic.jpg",
+      "photoUrl": "/api/img/performer-images/performer-johnfo039donnell-300x300.jpg",
+      "sortOrder": 71,
+      "bio": "<p>John F. O&#039;Donnell (JFOD) is currently a &#039;Political Correspondent&#039; on the comedy news television program &#039;Redacted Tonight w/ Lee Camp&#039; on RT America. According to the Comedy Central Insider, &quot;John F. O&#039;Donnell is one of the more explosive comics in New York City. On stage, he&#039;s like a tightly capped liter of soda filled with lit fireworks.&quot; John has been featured in The New York Times, The LA Times and The Huffington Post, as well as being one of Comedy Central&#039;s Fresh Faces of Comedy. He has performed at a number of comedy festivals around the country and beyond, including The Bridgetown Comedy Festival, The Edinburgh Fringe Festival, The New York Comedy Festival, The Limestone Comedy Festival, The Bentzen Ball Comedy Festival, and The New Orleans Hell Yes Festival. He&#039;s been a favorite guest on the popular podcasts Keith and The Girl, You Made It Weird w/ Pete Holmes, You Had To Be There w/ Nikki &amp; Sara, and Skeptic Tank w/ Ari Shaffir. John is also the co-creator and host of the 7-city hit show, 50 First Jokes.  He recently performed a week of shows in Germany, where he headlined at the prestigious &#039;English Theatre Berlin.&#039; John has also performed at the legendary &#039;JFK Center For The Performing Arts,&#039; and has been interviewed by Larry King. For real! WTF?!  He has almost 3 hours of stand up material available for digital download through his website.</p>\n",
+      "pageUrl": "11509-john-f-odonnell"
     },
     {
       "id": 12473,
@@ -92,19 +92,6 @@
       "pageUrl": "12469-oscar-nunez"
     },
     {
-      "id": 11443,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Greg Behrendt",
-      "twitter": "gregorybehrendt",
-      "website": "http://www.thekingsweater.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gb_picture.jpg",
-      "photoUrl": "/api/img/performer-images/performer-gregbehrendt-300x300.jpg",
-      "sortOrder": 8,
-      "bio": "<p>Greg Behrendt is always busy! In 2009, “He’s Just Not That Into”, the movie based on his bestselling book, opened in theaters nationwide and was America’s number one movie. Behrendt’s second comedy special, “That Guy from That Thing,” was released by Image Entertainment after premiering on Comedy Central and Greg made his Edinburgh Festival debut at The Assembly Rooms. In 2010, Greg wrote half hour sitcom pilots for CBS and NBC, produced and starred in “There Might Be Cake”, an unscripted pilot for IFC, and performed stand-up at both the Melbourne and Montreal International Comedy Festivals. He also worked as a Consulting Producer on NBC’s Love Bites, and launched the podcast “Walking the Room” which he hosts along with Dave Anthony.  In 2011, Greg headlined an episode of John Oliver’s New York Standup Show, performed stand-up at the Cape Town Comedy Festival in South Africa and began touring his “Starfish Circus” show, a live version of the “Walking The Room” podcast with Dave Anthony.  In 2012, Greg has performed stand-up at the Montreal, Melbourne and New Zealand International Comedy Festivals and wrote a comedy pilot for AMC with Hank Azaria and Jerry Stahl.  In 2014, Greg worked as a creative consultant for the Oxygen series “My Crazy Love”, and has continued to tour his standup all over the world, including a trip back to the Melbourne Comedy Festival in April, which kicked off an 8 week tour of Australia. In 2015 and now in 2016 he has continued to tour clubs all over the country, as well as returning to festivals such as San Francisco’s Sketchfest and a return to Australia and the Melbourne Comedy Festival. Greg continues to appear on padcasts, tour with his band The Reigning Monarchs, and write books with his wife Amiira Ruotola-Behrendt.  Their latest book “It’s Just A F*@#ing Date” was released in 2015 and quickly climbed the iBooks charts.</p>\n",
-      "pageUrl": "11443-greg-behrendt"
-    },
-    {
       "id": 12467,
       "events": [],
       "emceeEvents": [],
@@ -176,7 +163,7 @@
       "name": "Baron Vaughn",
       "twitter": "barvonblaq",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/meandmanatee.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/baron.jpg",
       "photoUrl": "/api/img/performer-images/performer-baronvaughn-300x300.jpg",
       "sortOrder": 14,
       "bio": "<p>Baron Vaughn currently stars as Bud on the Netflix original series, \"Grace and Frankie.\" The first season is currently streaming and the 2nd season begin airing May 6th. He recently guest starred on the series premiere of HBO's \"Girls,\" as well as the Netflix series \"Love\". He was a series regular on USA's \"Fairly Legal\" (2010-2012), and he been seen in the films \"Cloverfield\" and \"Black Dynamite\". </p>\n<p>As a stand up, he's had his own \"Half Hour\" on Comedy Central, and performed on \"Conan,\" \"Late Night with Jimmy Fallon,\" and the \"Late Late Show with Craig Ferguson.\" He is the new voice of Tom Servo in the upcoming incarnation of Mystery Science Theater 3000.</p>\n",
@@ -189,7 +176,7 @@
       "name": "Dulce Sloan",
       "twitter": "",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/pic_dulce_sloan.png",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dulce.png",
       "photoUrl": "/api/img/performer-images/performer-dulcesloan-300x300.jpg",
       "sortOrder": 15,
       "bio": "<p>Dulcé is truly a unique emerging voice in the world of comedy. She offers a fresh and honest perspective that is extremely rare to find. A favorite among audiences, she was voted runner-up in the 2015 Atlanta’s Laughing Skull Comedy Festival. Most recently, she was featured on “Riggles Pick” for the FOX NFL Sunday Pre-game show and ABC’s Resurrection. Her signature sass and confidence drives her hilarious views on everything from her personal relationships to the absurdities of society.</p>\n",
@@ -241,7 +228,7 @@
       "name": "Bil Dwyer",
       "twitter": "bildwyer",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dwyer_shirttiecomedy.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dwyer.jpg",
       "photoUrl": "/api/img/performer-images/performer-bildwyer-300x300.jpg",
       "sortOrder": 19,
       "bio": "<p>Bil is an accomplished standup comic, who has appeared on The Tonight Show with Jay Leno, The Late Late Show with Craig Kilborn, and his very own half hour standup special, Comedy Central Presents: Bil Dwyer.  His takes on marriage, kids and family are hip and sardonic, and yet beneath lies a certain odd sweetness.</p>\n<p>Bil has hosted GSN’s I’ve Got a Secret, Comedy Central’s BattleBots, Fox Sports’ Ultimate Fan League, PAX-TV’s Dirty Rotten Cheaters, GSN’s Extreme Dodgeball , MTV’s The 70’s House, and the Tiny Football League which ran at halftime on NBC’s Sunday Night Football</p>\n<p>Besides appearing on great television shows like Parks and Recreation, Children&#039;s Hospital, The Middle, House of Lies, Suburgatory, The Larry Sanders Show, Hot in Cleveland, Ally McBeal, and yes, iCarly,  Bil has also been in such forgettable films as Ski School 2, The Bogus Witch Project, and What Planet are You From? Writing with sitcom star/television producer Christopher Titus, Bil co-created a show based on his stand-up comedy called Back After This for Sony Pictures Television.</p>\n<p>A regular commentator on various cable shows, he is most often recognized for his work on VH1’s highly-rated I Love the… series.  Bil was also seen as a finalist on Season 4 of NBC’s Last Comic Standing and starred in Cartoon Network’s live action/animation hybrid series, Out of Jimmy’s Head.   Bil currently hosts Stardumb!, a live celeb-studded game/talk/improv comedy hybrid, which has been seen at L.A.’s RIOT! Fest and San Francisco Sketchfest.</p>\n",
@@ -319,7 +306,7 @@
       "name": "Anthony Lopez",
       "twitter": "anthonylopezpt2",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/tumblr_n4s3ocdqoh1s46y2co1_500.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/anthony_lopez.jpg",
       "photoUrl": "/api/img/performer-images/performer-anthonylopez-300x300.jpg",
       "sortOrder": 25,
       "bio": "<p>Anthony Lopez co-hosts the very successful weekly Portland stand up show &quot;Earthquake Hurricane,&quot; is the Senior Writer for the popular Portland talk show &quot;Late Night Action,&quot; and has trouble saying the letter R.  He has written for the Gotham Independent Film awards, NPR&#039;s &quot;Livewire&quot; and the Willamette Week. He is often loud and has a opinions on everything.  He can be seen featuring at Helium Comedy Club and performing at festivals and showcases across the country.</p>\n",
@@ -439,7 +426,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/941072_10107032550319660_1686818875169994347_n.jpg",
       "photoUrl": "/api/img/performer-images/performer-chriscubas-300x300.jpg",
       "sortOrder": 35,
-      "bio": "<p>tbd charlene submitting for him. <a href=\"https://youtu.be/b58HmCff8Ak\">https://youtu.be/b58HmCff8Ak</a></p>\n",
+      "bio": "<p>Chris Cubas is based out of Austin, TX where he was one of the original members of the \"Altercation Comedy Tour.\" He's performed at Fun Fun Fun Fest, SXSW, The Moontower Comedy &amp; Oddities Festival, and The Funny Or Die: Oddball Comedy &amp; Curiosity Festival. In 2013 he was named a finalist in NBC's \"Stand Up NBC\" talent search, and was one of Comedy Central's 9 \"Comics To Watch\". </p>\n<p>After appearing a number of times on Doug Benson's hit podcast \"Doug Loves Movies,\" he joined with Doug and The Alamo Drafthouse to launch \"The Movie Interruption,\" a live weekly comedy show, in Kansas City, Mo. </p>\n<p>He recently \"won the internet\" on the hit Comedy Central show \"@midnight.\"</p>\n",
       "pageUrl": "12454-chris-cubas"
     },
     {
@@ -478,7 +465,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_32.jpg",
       "photoUrl": "/api/img/performer-images/performer-curtiscook-300x300.jpg",
       "sortOrder": 38,
-      "bio": "<p>Curtis Cook is a comic from Ohio now living in Portland, Oregon. He&#039;s been featured on VICELAND&#039;s televised comedy series, Flophouse and performed in venues and festivals throughout the country, including the Bridgetown Comedy Festival, the Chicago Comedy Exposition, and San Francisco’s Sketchfest.</p>\n<p>The Portland Mercury described Curtis’ comedy as “sleepy, slam poetry,” and the Willamette Week highlighted him as among Portland’s funniest comics.</p>\n<p>In addition to performing stand-up, Curtis has also appeared on DAILY VICE and television programs in Kenya, Sierra Leone, and throughout the Middle East. He also co-hosts Earthquake Hurricane, a superlative comedy show every Wednesday night in PDX.</p>\n",
+      "bio": "<p>Curtis Cook is a comic from Ohio now living in Portland, Oregon. He&#039;s been featured on VICELAND&#039;s televised comedy series, &quot;Flophouse,&quot; and has performed in venues and festivals throughout the country, including the Bridgetown Comedy Festival, the Chicago Comedy Exposition, and San Francisco’s Sketchfest.</p>\n<p>The Portland Mercury described Curtis’ comedy as “sleepy, slam poetry,” and the Willamette Week highlighted him as among Portland’s funniest comics.</p>\n<p>In addition to performing stand-up, Curtis has also appeared on DAILY VICE and television programs in Kenya, Sierra Leone, and throughout the Middle East. He also co-hosts &quot;Earthquake Hurricane,&quot; a superlative comedy show every Wednesday night in PDX.</p>\n",
       "pageUrl": "12094-curtis-cook"
     },
     {
@@ -530,7 +517,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/optimized-derekgaines_172.jpg",
       "photoUrl": "/api/img/performer-images/performer-derekgaines-300x300.jpg",
       "sortOrder": 43,
-      "bio": "<p>Derek Gaines was born in California, but found his comedy chops while growing up in Philadelphia. He currently calls New York City his home where he regularly performs and brings a unique perspective to growing up African American in the suburbs. </p>\n<p>Derek&#039;s first break came when he reached the semi finals of Bill Bellamy&#039;s Who&#039;s Got Jokes in 2010. Also in 2010 Derek was a finalist in Philadelphia&#039;s Funniest Person Competition. Derek made his standup comedy television debut in 2014 when he appeared on AXS TV&#039;s Gotham Comedy Live and was  selected by the Just For Laughs Festival as part of their New Faces. Derek has been a contributor to VH1’s Morning Buzz and starred in Morgan Spurlock’s docuseries “Connected&quot;. Derek is the co-host of MTV’s Broke Ass Game Show.</p>\n",
+      "bio": "<p>Derek Gaines was born in California, but found his comedy chops while growing up in Philadelphia. He currently calls New York City his home, where he regularly performs and brings a unique perspective to growing up African American in the suburbs. </p>\n<p>Derek&#039;s first break came when he reached the semi finals of Bill Bellamy&#039;s &quot;Who&#039;s Got Jokes&quot; in 2010. Also in 2010, Derek was a finalist in Philadelphia&#039;s Funniest Person Competition. Derek made his standup comedy television debut in 2014 when he appeared on AXS TV&#039;s &quot;Gotham Comedy Live,&quot; and was selected by the Just For Laughs Festival as part of their New Faces. He is a contributor to VH1’s &quot;Morning Buzz,&quot; starred in Morgan Spurlock’s docu-series “Connected,&quot; and is currently the co-host of MTV’s &quot;Broke Ass Game Show.&quot;</p>\n",
       "pageUrl": "11441-derek-gaines"
     },
     {
@@ -543,7 +530,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/screen_shot_2015-11-19_at_12.31.07_pm.png",
       "photoUrl": "/api/img/performer-images/performer-dinoarchie-300x300.jpg",
       "sortOrder": 44,
-      "bio": "<p>I&#039;m not doing that 3rd person tense as if someone else wrote this.  I started out writing and acting but I always wanted to be funny. I love stand up.  I like to make it feel like we&#039;re in a bar or living room where you can talk shit about anything and make it funny.  I split my time between Vancouver and LA.  Most recently won 1st place in the 2015 Seattle International Comedy Competition. Stand up TV debut, coming soon on Comedy Central’s “Adam Devine’s House Party.”  I have opened up for Hannibal Burress, Reggie Watts and toured with Chris D&#039;elia on the “Under No Influence Tour.”  Produced my first comedy album Choosy Lover. Check out <a href=\"http://www.dinoarchie.com\">www.dinoarchie.com</a> for dates. </p>\n<p>facebook.com/DinoArchieComedy<br />\n<a href=\"https://www.youtube.com/dinoarchie\">https://www.youtube.com/dinoarchie</a><br />\nDino’s debut CD “Choosy Lover” available to stream at <a href=\"http://www.dinoarchie.com\">www.dinoarchie.com</a> </p>\n<p>REVIEWS:<br />\n<a href=\"http://www.straight.com/arts/388196/las-dino-archie-works-his-laughs-vancouver\">http://www.straight.com/arts/388196/las-dino-archie-works-his-laughs-van...</a><br />\n<a href=\"http://beatroute.ca/2014/12/15/is-this-a-joke-comics-camaraderie-at-the-electric-owl/\">http://beatroute.ca/2014/12/15/is-this-a-joke-comics-camaraderie-at-the-...</a><br />\n<a href=\"http://www.straight.com/arts/760251/dino-archie-comedy-mix\">http://www.straight.com/arts/760251/dino-archie-comedy-mix</a></p>\n",
+      "bio": "<p>I&#039;m not doing that 3rd person tense as if someone else wrote this.  I started out writing and acting but I always wanted to be funny. I love stand up.  I like to make it feel like we&#039;re in a bar or living room where you can talk shit about anything and make it funny.  I split my time between Vancouver and LA.  Most recently, I won 1st place in the 2015 Seattle International Comedy Competition. In 2016, I made my standup television debut on Comedy Central’s “Adam Devine’s House Party.”  I have opened up for Hannibal Buress, Reggie Watts and toured with Chris D&#039;elia on the “Under No Influence Tour.”  </p>\n<p>My debut CD  “Choosy Lover” is available to stream at <a href=\"http://www.dinoarchie.com\">www.dinoarchie.com</a> </p>\n<p>REVIEWS:<br />\n<a href=\"http://www.straight.com/arts/388196/las-dino-archie-works-his-laughs-vancouver\">http://www.straight.com/arts/388196/las-dino-archie-works-his-laughs-van...</a><br />\n<a href=\"http://beatroute.ca/2014/12/15/is-this-a-joke-comics-camaraderie-at-the-electric-owl/\">http://beatroute.ca/2014/12/15/is-this-a-joke-comics-camaraderie-at-the-...</a><br />\n<a href=\"http://www.straight.com/arts/760251/dino-archie-comedy-mix\">http://www.straight.com/arts/760251/dino-archie-comedy-mix</a></p>\n",
       "pageUrl": "11189-dino-archie"
     },
     {
@@ -582,7 +569,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/emily_galati.jpg",
       "photoUrl": "/api/img/performer-images/performer-emilygalati-300x300.jpg",
       "sortOrder": 47,
-      "bio": "<p>Emily Galati<br />\nBiography<br />\nEmily Galati does not dwell on the differences between men and women or other cliche topics you have come to expect from female comics. Instead, she offers up intelligent and hilarious material, with impeccable timing and a wry smile.<br />\nIn 2013, Emily was chosen to represent Chicago in the &quot;Best of the Midwest&quot; Competition at Gilda&#039;s LaughFest. She was a semi-finalist in NBC&#039;s Stand Up for Diversity, and finalist in the “Bob and Tom” Comedy Contest held in Indianapolis.<br />\nEmily performs regularly at the legendary Zanies Comedy Club in Chicago and has traveled the country to work with national acts such as Jeffery Ross, Gilbert Gottfried, Dwayne Perkins, Jimmy Dore, Jeff Richards, Kyle Kinane, and Matt Braunger. You can also catch her on your television set performing on shows like “The Comedy Thrift Store”, “Funny Sundaes” and Comcast On Demand&#039;s “Laugh Out Loud”.<br />\nIn 2014 Emily appeared on NBC’s “Last Comic Standing” and the nationally syndicated “Comic’s Unleashed”.<br />\nEmily was born and raised in Phoenix, Arizona where she enjoyed sunny days and swimming in December. She currently resides in Chicago, Illinois and misses her pool.<br />\nemilygalati.com<br />\nFor Additional Information Please Contact: John MacDonald<br />\nMacDonald Entertainment<br />\n310-625-8334</p>\n",
+      "bio": "<p>Emily Galati<br />\nBiography<br />\nEmily Galati does not dwell on the differences between men and women or other cliche topics you have come to expect from female comics. Instead, she offers up intelligent and hilarious material, with impeccable timing and a wry smile.</p>\n<p>In 2013, Emily was chosen to represent Chicago in the &quot;Best of the Midwest&quot; competition at Gilda&#039;s LaughFest. She was a semi-finalist in NBC&#039;s Stand Up for Diversity, and finalist in the “Bob and Tom” comedy contest held in Indianapolis.</p>\n<p>Emily performs regularly at the legendary Zanies Comedy Club in Chicago, and has traveled the country to work with national acts such as Jeffery Ross, Gilbert Gottfried, Dwayne Perkins, Jimmy Dore, Jeff Richards, Kyle Kinane, and Matt Braunger. You can also catch her on your TV, performing on shows like “The Comedy Thrift Store,” “Funny Sundaes,” and Comcast On Demand&#039;s “Laugh Out Loud”.</p>\n<p>In 2014 Emily appeared on NBC’s “Last Comic Standing” and the nationally syndicated “Comic’s Unleashed”.</p>\n<p>Emily was born and raised in Phoenix, Arizona where she enjoyed sunny days and swimming in December. She currently resides in Chicago, Illinois and misses her pool.</p>\n",
       "pageUrl": "11777-emily-galati"
     },
     {
@@ -693,13 +680,13 @@
       "id": 12402,
       "events": [],
       "emceeEvents": [],
-      "name": "jack martin",
+      "name": "Jack Martin",
       "twitter": "",
       "website": "http://bridgetown.festivalthing.com/www.facebook.com/Jackcomedy%20%20%20%20%20%20www.facebook.com/RittenHouse.comedy",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/2qemdxozx3ljjxwri_d2rh2tnvu5wnghkk0nsklkogm7j35pfyqd05z7w_5dcftvvsyi2qnesrylkejw5eb-0aulhzj6sb6l2qwescz2fz2dnp7obffg120q5ffbcijqs.jpg",
       "photoUrl": "/api/img/performer-images/performer-jackmartin-300x300.jpg",
       "sortOrder": 56,
-      "bio": "<p>Jack Martin<br />\nfrom Philadelphia, Pennsylvania<br />\ncurrently lives in Queens, New York</p>\n<p>I&#039;ve been doing stand up since 2007 started at the Laff House in Philadelphia. </p>\n<p>In 2008 I was featured on Comcast Comedy Spotlight (local). </p>\n<p>2009 I made it to the finals of Helium Comedy Clubs Philly&#039;s Phunniest Competition (top 8 out of 150 comedians)</p>\n<p>2010 Me and fellow comic Paul Goodman started a weekly show under the name Rittenhouse Comedy and expanded to 3 other Open Mics throughout the city, it became wildly successful a we were nominated for open mic of the year for a local Comedy award ceremony. Below are a few links to some of the press we received.  </p>\n<p><a href=\"http://www.urbansuburbanmagazine.com/bestkept/bestkept_rittenhouse-comedy.htm\">http://www.urbansuburbanmagazine.com/bestkept/bestkept_rittenhouse-comed...</a></p>\n<p><a href=\"http://citypaper.net/Blogs/TONIGHT-Rittenhouse-Comedy-Noche/\">http://citypaper.net/Blogs/TONIGHT-Rittenhouse-Comedy-Noche/</a></p>\n<p><a href=\"http://www.witout.net/2011/11/10/the-2011-witout-awards-best-open-mic/\">http://www.witout.net/2011/11/10/the-2011-witout-awards-best-open-mic/</a></p>\n<p>2011 &amp; 2012 I was one of 8 organizers for the March Madness Comedy Competition which unified all the top open mics in the city and was a huge success. Type &quot;March Madness Comedy Philadelphia&quot; on Google, I don&#039;t want to drive you crazy with way to many links but there&#039;s plenty lol.</p>\n<p>2014 I made the decision to move to New York its only a few hours away from Philly and alot of my friends are finding major success. It&#039;s like a training ground for some of the greats. </p>\n<p>The Clubs I&#039;ve performed for in my career are: (non bringers)</p>\n<p>The Laff House, Helium, The Stress Factory, Baltimore Comedy Factory, Eastville Comedy Club, New York Comedy Club, Broadway Comedy Club &amp; The Stand. </p>\n<p>My have many styles of jokes from observational to blue, race relations, impressions &amp; anti-comedy. I can&#039;t tell you what &quot;Type of Comic&quot; I am, that&#039;s in the eye of the beholder. Thanks for the consideration and hope to hear from you soon.</p>\n",
+      "bio": "<p>Jack Martin started comedy in 2008 in Philadelphia, Pennsylvania. In 2009, he was a finalist in Helium Comedy Club&#039;s &quot;Philly&#039;s Phunniest Competition&quot; (top 8 out of 150 comedians). In 2010, he started a weekly show called Rittenhouse Comedy with fellow comedian Paul Goodman. In 2011 and 2012, he was one of 8 organizers for the &quot;March Madness Comedy Competition,&quot; which unified all the top open mics in Philly.</p>\n<p>He has performed at The Laff House, Helium, The Stress Factory, Baltimore Comedy Factory, Eastville Comedy Club, New York Comedy Club, Broadway Comedy Club &amp; The Stand. </p>\n<p>In 2014, he moved to New York City to pursue his comedy career. His style ranges from observational to blue, race relations, impressions &amp; anti-comedy.</p>\n",
       "pageUrl": "12402-jack-martin"
     },
     {
@@ -764,7 +751,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/janelle-james-b46a4212-11.jpg",
       "photoUrl": "/api/img/performer-images/performer-janellejames-300x300.jpg",
       "sortOrder": 61,
-      "bio": "<p>Janelle James is a caribbean born comic who started doing standup in the midwest. Featuring a mix of raunch, family life and morbid thoughts about depression and aging, Janelle has performed all over the country in such places as the Laugh Factory, Gotham, Helium, Broadway and Carolines Comedy Clubs. She has also traveled extensively as the feature act with Hannibal Buress, Todd Barry and Rob Delaney and can be seen on Bravo, Aol, the Vice Network and NBC&#039;s upcoming Night Train with Wyatt Cenac.</p>\n",
+      "bio": "<p>Janelle James is a Caribbean born comic who started doing standup in the midwest. Featuring a mix of raunch, family life and morbid thoughts about depression and aging,  Janelle has performed all over the country in such places as the Laugh Factory, Gotham, Helium, Broadway and Carolines comedy clubs. She has also traveled extensively as the feature act with Hannibal Buress, Todd Barry and Rob Delaney, and can be seen on Bravo, Aol, the Vice Network and NBC&#039;s upcoming &quot;Night Train with Wyatt Cenac.&quot;</p>\n",
       "pageUrl": "11854-janelle-james-"
     },
     {
@@ -803,7 +790,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_27.jpg",
       "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
       "sortOrder": 64,
-      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival,  Vancouver International Improv Festival, and the Del Close Marathon in New York City. In 2016 Gabe was named on of &#039;Portland&#039;s Funniest Five&#039; by the Willamette Week and The Portland Mercury has called him a “Punchline machine”.</p>\n",
+      "bio": "<p>Portland native Gabe Dinger has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. </p>\n<p>As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival,  Vancouver International Improv Festival, and the Del Close Marathon in New York City. </p>\n<p>In 2016 Gabe was named on of &#039;Portland&#039;s Funniest Five&#039; by the Willamette Week and The Portland Mercury has called him a “Punchline machine”.</p>\n",
       "pageUrl": "11981-gabe-dinger"
     },
     {
@@ -855,7 +842,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joann_new_orleans_2015-1.jpg",
       "photoUrl": "/api/img/performer-images/performer-joannschinderle-300x300.jpg",
       "sortOrder": 68,
-      "bio": "<p>JoAnn was recently a finalist in Portland’s Funniest Person Contest 2015 and has performed across the country in such festivals as Bumbershoot, Bridgetown Comedy Festival, Chicago Comedy Exposition, SF Sketchfest (‘16,‘15,‘14), Hell Yes Fest, All Jane No Dick Comedy Festival (‘13,‘14), Out of Bounds Comedy Festival, as well as having won multiple rounds of Competitive Erotic Fan Fiction. Schinderle has been known to win crowds over with her pervy charm. JoAnn had the honor of being chosen out of 800+ applicants to open for Lena Dunham on her ‘Not That Kind of Girl’ book tour in a sold out show at Portland’s Newmark Theatre. </p>\n<p>As a working stand up at Helium Comedy Club- Portland, her humor is relatable, snarky, and has a storytelling style that will make you feel like she’s your best friend letting you in on a secret.  Also trained as an improvisor through courses at Second City Training Center and Curious Comedy Theater, JoAnn creates big characters and will “yes and” the shit out of you. JoAnn has appeared on Rooftop Comedy, Fight Stigma Web Series, and is a contributing writer for Laugh Staff. She also hosts, curates, and produces a weekly stand up showcase called Control Yourself: A Showcase of Funny, which has been featured as &#039;Top 5 Portland Comedy Showcases to Watch’ 2years running by the Willamette Week. Control Yourself (which was also featured in Paste Magazine) runs every Sunday at Alberta Street Pub in NE Portland.</p>\n<p>If you enjoy friendly banter you can follow JoAnn on twitter @joannlizabeth</p>\n",
+      "bio": "<p>JoAnn was recently a finalist in Portland’s Funniest Person Contest 2015 and has performed across the country in such festivals as Bumbershoot, Bridgetown Comedy Festival, Chicago Comedy Exposition, SF Sketchfest (‘16,‘15,‘14), Hell Yes Fest, All Jane No Dick Comedy Festival (‘13,‘14), Out of Bounds Comedy Festival, as well as having won multiple rounds of Competitive Erotic Fan Fiction. Schinderle has been known to win crowds over with her pervy charm. JoAnn had the honor of being chosen out of 800+ applicants to open for Lena Dunham on her ‘Not That Kind of Girl’ book tour in a sold out show at Portland’s Newmark Theatre. </p>\n<p>As a working stand up at Helium Comedy Club- Portland, her humor is relatable, snarky, and has a storytelling style that will make you feel like she’s your best friend letting you in on a secret.  Also trained as an improvisor through courses at Second City Training Center and Curious Comedy Theater, JoAnn creates big characters and will “yes and” the shit out of you. JoAnn has appeared on Rooftop Comedy, Fight Stigma Web Series, and is a contributing writer for Laugh Staff. She also hosts, curates, and produces a weekly stand up showcase called Control Yourself: A Showcase of Funny, which has been featured as &#039;Top 5 Portland Comedy Showcases to Watch’ 2 years running by the Willamette Week. Control Yourself (which was also featured in Paste Magazine) runs every Sunday at Alberta Street Pub in NE Portland.</p>\n",
       "pageUrl": "12031-joann-schinderle"
     },
     {
@@ -868,7 +855,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joepera1.jpg",
       "photoUrl": "/api/img/performer-images/performer-joepera-300x300.jpg",
       "sortOrder": 69,
-      "bio": "<p>Joe Pera is a 25 year-old standup comedian currently living and performing in New York City. Growing up in Buffalo, NY, Joe would oftentimes gaze at Canada from across Lake Erie and wonder what it&#039;d be like to perform in the British Commonwealth.<br />\nHe performs at a wide variety of stages across New York City including numerous alternative venues (UCB Theater and subway platforms) as well as clubs (Caroline&#039;s, Gotham, The Stand) and even the MoMA PS1 Theater. Last fall, he was named as one of Comedy Central&#039;s &#039;Comics To Watch&#039;.</p>\n<p>In addition to live comedy, Joe has written and acted in online series made for MTVOther and Adultswim.com.<br />\nEvery year, he submits to the Andy Kaufman Award but has yet to be accepted.</p>\n<p>Pera’s web series THE PERFECT WEEK premiered on JASH, spring 2014. Additionally, Pera has appeared on the ADAM DEVINE’S HOUSE PARTY (Comedy Central).</p>\n",
+      "bio": "<p>Joe Pera is a 25 year-old standup comedian currently living and performing in New York City. Growing up in Buffalo, NY, Joe would oftentimes gaze at Canada from across Lake Erie and wonder what it&#039;d be like to perform in the British Commonwealth.</p>\n<p>He performs at a wide variety of stages across New York City, including numerous alternative venues (UCB Theater and subway platforms) as well as clubs (Caroline&#039;s, Gotham, The Stand) and even the MoMA PS1 Theater. Last fall, he was named one of Comedy Central&#039;s &#039;Comics To Watch&#039;.</p>\n<p>In addition to live comedy, Joe has written and acted in online series made for MTVOther and Adultswim.com. Every year, he submits to the Andy Kaufman Award but has yet to be accepted.</p>\n<p>Pera’s web series THE PERFECT WEEK premiered on JASH, spring 2014. Additionally, Pera has appeared on the ADAM DEVINE’S HOUSE PARTY (Comedy Central).</p>\n",
       "pageUrl": "11783-joe-pera"
     },
     {
@@ -883,19 +870,6 @@
       "sortOrder": 2,
       "bio": "<p>John Michael Higgins is a double hyphenate: he’s sort-of well-known for being a member of the Christopher Guest “company,” starring in such films as BEST IN SHOW and A MIGHTY WIND. But before becoming a disreputable light improvisational comedic actor he spent twenty years on the New York and regional stages doing lots of things that nobody gives a shit about anymore. Then, after playing David Letterman in the HBO film THE LATE SHIFT, Mr. Higgins’ career became centered in Hollywood. In addition to many animated series (like Janet Varney’s own “Legend of Korra” above or below, or whichever position she’s taking these days), Michael has another twenty years of appearances on television shows ranging from SEINFELD to CSI, from ALLY MCBEAL and ARRESTED DEVELOPMENT to KATH AND KIM and the recently deceased HAPPILY DIVORCED.</p>\n<p>Movie audiences also know him for his work in the films of Vince Vaughn, THE BREAK-UP, FRED CLAUS and COUPLES RETREAT, and with Jim Carrey in FUN WITH DICK AND JANE and YES MAN. More recently it’s been PITCH PERFECT and BEST MAN HOLIDAY, in addition to lots of commercial work like OLD NAVY and that idiot executive in all those DIRECTV commercials and the current DIY videos for LOWE’S on FUNNY OR DIE.</p>\n",
       "pageUrl": "12472-john-michael-higgins"
-    },
-    {
-      "id": 11509,
-      "events": [],
-      "emceeEvents": [],
-      "name": "John F. O&#039;Donnell",
-      "twitter": "TheRealJFOD",
-      "website": "http://livefromouterspace.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jfod_press_pic.jpg",
-      "photoUrl": "/api/img/performer-images/performer-johnfo039donnell-300x300.jpg",
-      "sortOrder": 71,
-      "bio": "<p>John F. O&#039;Donnell (JFOD) is currently a &#039;Political Correspondent&#039; on the comedy news television program &#039;Redacted Tonight w/ Lee Camp&#039; on RT America. According to the Comedy Central Insider, &quot;John F. O&#039;Donnell is one of the more explosive comics in New York City. On stage, he&#039;s like a tightly capped liter of soda filled with lit fireworks.&quot; John has been featured in The New York Times, The LA Times and The Huffington Post, as well as being one of Comedy Central&#039;s Fresh Faces of Comedy. He has performed at a number of comedy festivals around the country and beyond, including The Bridgetown Comedy Festival, The Edinburgh Fringe Festival, The New York Comedy Festival, The Limestone Comedy Festival, The Bentzen Ball Comedy Festival, and The New Orleans Hell Yes Festival. He&#039;s been a favorite guest on the popular podcasts Keith and The Girl, You Made It Weird w/ Pete Holmes, You Had To Be There w/ Nikki &amp; Sara, and Skeptic Tank w/ Ari Shaffir. John is also the co-creator and host of the 7-city hit show, 50 First Jokes.  He recently performed a week of shows in Germany, where he headlined at the prestigious &#039;English Theatre Berlin.&#039; John has also performed at the legendary &#039;JFK Center For The Performing Arts,&#039; and has been interviewed by Larry King. For real! WTF?!  He has almost 3 hours of stand up material available for digital download through his website.</p>\n",
-      "pageUrl": "11509-john-f-odonnell"
     },
     {
       "id": 12093,
@@ -1060,7 +1034,7 @@
       "name": "Megan Gailey",
       "twitter": "",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/megan_gailey.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/megan-gailey.jpg",
       "photoUrl": "/api/img/performer-images/performer-megangailey-300x300.jpg",
       "sortOrder": 84,
       "bio": "<p>– Megan was a 2015 New Face at JFL this year, and booked her first Conan spot before even finishing her set (link below). Megan grew her stand-up chops in Chicago and this year is writing on the new Comedy Central pilot Sideliners and is starring in the new MTV sketch series Ladylike.</p>\n",
@@ -1070,7 +1044,7 @@
       "id": 12140,
       "events": [],
       "emceeEvents": [],
-      "name": "MIA JACKSON",
+      "name": "Mia Jackson",
       "twitter": "miacomedy",
       "website": "http://www.miajackson.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mia-jackson.jpg",
@@ -1112,7 +1086,7 @@
       "name": "Mike Lawrence",
       "twitter": "TheMikeLawrence",
       "website": "http://mikelawrencecomedy.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_-_compressed-page-0-min.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mike-lawrence.jpg",
       "photoUrl": "/api/img/performer-images/performer-mikelawrence-300x300.jpg",
       "sortOrder": 88,
       "bio": "<p>MIKE LAWRENCE is a New York City based comedian who has been featured as a stand-up on TBS&#039; Conan, and Comedy Central’s John Oliver&#039;s New York Stand-Up Show and The Half Hour. He wrote and performed segments for FX&#039;s Totally Biased and SyFy’s The Will Wheaton Project, and has appeared on Comedy Central’s @midnight and The Nightly Show. Mike has also been featured on many notable podcasts, including the Adam Carolla Show, WTF with Marc Maron, You Made it Weird with Pete Holmes and the Artie Lange Show. Mike was a Montreal Just For Laughs Comedy Festival “New Face” in 2010 and performed with JFL in Chicago and Montreal in 2012 and Montreal and Toronto in 2014. His debut album &quot;Sadamantium&quot; was released by Comedy Central Records in conjunction with the debut of his half hour special in 2013. Mike headlines clubs in NYC and all over the United States, and wrote on two E! Pilots in 2014, THE UP DOWN, and AFTER PARTY. In 2015, MIke was a writer for Amy Schumer on the MTV MOVIE AWARDS, E’s WE HAVE ISSUES, and is currently a writer for Comedy Central’s INSIDE AMY SCHUMER. He lives in New York City.</p>\n",
@@ -1206,7 +1180,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nick_90k.jpg",
       "photoUrl": "/api/img/performer-images/performer-nickdixon-300x300.jpg",
       "sortOrder": 95,
-      "bio": "<p>Nick Dixon’s acerbic wit and intelligent, edgy writing have led to him becoming a finalist in the prestigious ‘So You Think You’re Funny?’ competition,  being selected from over 800 applicants to feature in the BBC New Comedy Awards, and winning the infamous King Gong show at The Comedy Store.</p>\n<p>Nick recently appeared on the Comedy Central series ‘Comedy Central at the Comedy Store,’ and will also be in the new season shooting March 2016.</p>\n<p>He featured in a National TV ad for GoCompare (<a href=\"https://www.youtube.com/watch?v=3aUGuMw1Ywo\">https://www.youtube.com/watch?v=3aUGuMw1Ywo</a>) and has written topical jokes for the BBC Radio 4 show ‘Newsjack.’</p>\n<p>He regularly performs at all the top clubs throughout the UK such as The Comedy Store, The Stand, Glee, etc.</p>\n<p>In LA this year he performed at The Ice House, and on shows like French Toast and Sleepaway Camp, which he headlined.</p>\n<p>Chortle, the UK’s main comedy website said:<br />\n&#039;Nick Dixon has a sparky cynicism that engages while maintaining an edge to his well-crafted jokes, delivered with certainty, earmarking him as a future success.&#039;</p>\n<p>Nick thinks he may have met the organizers of your festival without realizing it in LA and nearly fallen asleep from eating too much pie. He hopes you will overlook this.</p>\n",
+      "bio": "<p>Nick Dixon’s acerbic wit and intelligent, edgy writing have led to him becoming a finalist in the prestigious ‘So You Think You’re Funny?’ competition,  being selected from over 800 applicants to feature in the BBC New Comedy Awards, and winning the infamous King Gong show at The Comedy Store.</p>\n<p>Nick recently appeared on the Comedy Central series ‘Comedy Central at the Comedy Store,’ and will also be in the new season shooting March 2016.</p>\n<p>He featured in a National TV ad for GoCompare (<a href=\"https://www.youtube.com/watch?v=3aUGuMw1Ywo\">https://www.youtube.com/watch?v=3aUGuMw1Ywo</a>) and has written topical jokes for the BBC Radio 4 show ‘Newsjack.’</p>\n<p>He regularly performs at all the top clubs throughout the UK such as The Comedy Store, The Stand, Glee, etc.</p>\n<p>In LA this year he performed at The Ice House, and on shows like French Toast and Sleepaway Camp, which he headlined.</p>\n<p>Chortle, the UK’s main comedy website said:<br />\n&#039;Nick Dixon has a sparky cynicism that engages while maintaining an edge to his well-crafted jokes, delivered with certainty, earmarking him as a future success.&#039;</p>\n",
       "pageUrl": "12160-nick-dixon"
     },
     {
@@ -1411,7 +1385,7 @@
       "name": "Sean Jordan",
       "twitter": "SeanSJordan",
       "website": "http://www.seanjordancomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_1469.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean.jpg",
       "photoUrl": "/api/img/performer-images/performer-seanjordan-300x300.jpg",
       "sortOrder": 112,
       "bio": "<p>Splitsider named Sean as one of the comics to watch in 2015.  In 2014 the Sean was named the funniest person in Portland by the Willamette Week magazine.  He was also a finalist in the 2014 Portland’s Funniest Person contest at Helium Comedy Club, The Tacoma Comedy contest and The Wenatchee Comedy Festival.  Sean has become a nationally touring comic having traveled all over doing stand up working some of the best clubs in the country including ACME Comedy Club in Minneapolis, Helium Comedy Club in Portland, Zanies in Nashville and Chicago, the Dallas Improv and the Punchline in San Francisco to name a few.  Sean has participated in some of the best comedy festivals in the country as well, namely, The Bridgetown Comedy Festival, The Bumbershoot Comedy and Arts Festival, The Wenatchee Comedy Festival, Cromfest, the High Plains Comedy Festival and The San Francisco Sketchfest.  If you’re a podcast fan then you may have heard him on the Crabfeast, Professor Blastoff, Competitive Erotic Fan Fiction, The Benson Interruption or as a regular guest on Doug Benson’s poscast Doug Loves Movies. Recently Sean was added as a writer on LiveWire Radio, a nationally heard radio program, and was a featured comedian on the show.</p>\n",
@@ -1736,7 +1710,7 @@
       "name": "Julian McCullough ",
       "twitter": "Julezmac",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_43.jpeg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/julian.jpeg",
       "photoUrl": "/api/img/performer-images/performer-julianmccullough-300x300.jpg",
       "sortOrder": 137,
       "bio": "<p>Julian McCullough has appeared on The Tonight Show with Jimmy Fallon, Conan, and This American Life. He has also starred in several cancelled shows on the E! Network alone. His new podcast, Julian Loves Music, is a spin off of the hugely popular Doug Loves Movies.<br />\nJulianmccullough.com</p>\n",

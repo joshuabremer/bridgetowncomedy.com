@@ -68,7 +68,7 @@ const ShowBuilder = ObjectBuilder.extend({
       fs.appendFileSync(filePath, 'layout: page\n');
       fs.appendFileSync(filePath, 'title: \'' + showObj[key].name + '\'\n');
       fs.appendFileSync(filePath, 'category: show \n');
-      fs.appendFileSync(filePath, 'featuredimage: \'/img/show-images/show-' + util.cleanStr(showObj[key].name) + '-300x300.jpg\'\n');
+      fs.appendFileSync(filePath, 'featuredimage: \'/api/img/show-images/show-' + util.cleanStr(showObj[key].name) + '-300x300.jpg\'\n');
       fs.appendFileSync(filePath, '---\n\n');
 
       fs.appendFileSync(filePath, util.htmlToText(showObj[key].bio));

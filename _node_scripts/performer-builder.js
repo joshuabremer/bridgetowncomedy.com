@@ -116,7 +116,7 @@ module.exports = ObjectBuilder.extend({
       fs.appendFileSync(filePath, 'layout: page\n');
       fs.appendFileSync(filePath, 'title: "' + performerObj[key].name + '"\n');
       fs.appendFileSync(filePath, 'category: performer \n');
-      fs.appendFileSync(filePath, 'featuredimage: "/img/performer-images/performer-' + util.cleanStr(performerObj[key].name) + '-300x300.jpg"\n');
+      fs.appendFileSync(filePath, 'featuredimage: "/api/img/performer-images/performer-' + util.cleanStr(performerObj[key].name) + '-300x300.jpg"\n');
       fs.appendFileSync(filePath, '---\n\n');
 
       fs.appendFileSync(filePath, util.htmlToText(performerObj[key].bio));
