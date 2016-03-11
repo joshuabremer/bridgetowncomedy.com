@@ -25,15 +25,15 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12089,
+      "id": 12492,
       "events": [],
-      "name": "Computer Show &quot;LIVE&quot;",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/cs_adam_360.jpg",
-      "photoUrl": "/api/img/show-images/show-computershowquotlivequot-300x300.jpg",
+      "name": "Baked",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
+      "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",
       "sortOrder": 9999,
-      "bio": "“Computer Show&quot; is a technology talk show set in 1983 but with real tech-entrepreneur guests from the present day.  Computer Show hit the Internet by storm this fall and only had their first “LIVE&quot; performance at the SF Sketch Fest a month ago. Computer Show is the brainchild of Sandwich Video’s Adam Lisagor and Roxana and Tony Altamirano. Gary Fabert (The host) is played by Rob Baedeker of legendary SF sketch group Kasper Hauser.  It&#039;s as simple as this: The show and its hosts are from 1983, and the guests (real tech entrepreneurs) are from the present.  \r\n\r\nhttp://computer.show\r\n",
-      "copy": "&quot;Computer Show&quot; is a technology talk show, set in 1983. The dawn of the personal computing revolution. Awkward hair and awkward suits. Primitive synths and crude graphics. VHS tapes. No Internet. But there&#039;s a twist.\r\n\r\nThe guests on this show are tech luminaries -- experts, founders, thinkers, entrepreneurs...from 2016. They are real, and they are really on &quot;Computer Show&quot; to talk about their thing. Will it go well? Can they break through to the host Gary Fabert (played by Rob Baedeker of the legendary SF-based sketch mainstay Kasper Hauser) and his rotating cast of co-hosts, who know of neither iPhone nor website nor Twitter nor...hardly anything?\r\n\r\nhttp://computer.show",
-      "pageUrl": "12089-computer-show-live",
+      "bio": "Baked is an evening of music and comedy hosted by Brendon Small (Metalocalypse, Home Movies) and Steve Agee (The Sarah Silverman Program, New Girl, Adventure Time) and an incredibly talented band including Joe Travers (Zappa Plays Zappa, Mike Keneally Band), Pete Griffin (Zappa Plays Zappa, Dethklok), and Mike Keneally (Mike Keneally Band)*. After a yearlong residency at LA&#039;s world famous jazz club The Baked Potato, Baked travels north to force its musical and comedic ethos onto the inhabitants of Portland and ultimately destroy their brains. Join us for a show in which comics are encouraged to perform in a musical capacity after a set of standup comedy. *Band lineup subject to change",
+      "copy": "",
+      "pageUrl": "12492-baked",
       "iTunesUrl": ""
     },
     {
@@ -46,6 +46,30 @@
       "bio": "The Crabfeast is a conversational and storytelling podcast hosted by Jay Larson and Ryan Sickler. Our unique combination of comradery, storytelling, comedic wit and lives lived full make for an amazing podcast experience.",
       "copy": "The Crabfeast is a conversational and storytelling podcast hosted by Jay Larson and Ryan Sickler. Their podcast comes out every Toozdee on the All Things Comedy Network, and has featured guests such as Jay Mohr, Pete Holmes, Hannibal Buress, etc. They’ve been featured at SXSW, Riot LA, Bridgetown Comedy Festival, SF Sketchfest, The Pete Holmes Show on TBS and the Damon Bruce National Radio Show. Each month they host a live podcast at the Improv Lab. Jay and Ryan’s unique combination of comradery, storytelling, comedic wit and lives lived full make for an amazing podcast experience.",
       "pageUrl": "12445-the-crabfeast-with-ryan-sickler-and-jay-larson",
+      "iTunesUrl": ""
+    },
+    {
+      "id": 12399,
+      "events": [],
+      "name": "Yo, Is This Racist? LIVE PODCAST",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/yo_logo.jpg",
+      "photoUrl": "/api/img/show-images/show-yoisthisracistlivepodcast-300x300.jpg",
+      "sortOrder": 9999,
+      "bio": "The Yo, Is This Racist? Podcast is a daily podcast offshoot of the blog of the same name, with the very simple premise: Ask host Andrew Ti if something is racist, and he&#039;ll tell you. The podcast typically has a writer/comedian guest and Andrew, taking a call-in question from a fan about any and all aspects of racism, or potential racism, in pop culture, politics, the Internet, and sometimes, just from some asshole at work. The tone of the show is as light as the subject matter allows funny people time to address serious issues in a way that doesn&#039;t need to be preachy or pedantic, and can be fun.\r\n\r\n",
+      "copy": "Yo, Is This Racist? is the podcast that provides a much needed service: Ask them if something is racist, and they&#039;ll tell you. Join host Andrew Ti and guests, as they answer your burning questions about anything you think might be racist, from politics, TV, movies, the Internet, your racist-ass grandma, anything. GUARANTEE: WE WILL SOLVE RACISM AT THIS SHOW",
+      "pageUrl": "12399-yo-is-this-racist-live-podcast",
+      "iTunesUrl": ""
+    },
+    {
+      "id": 12530,
+      "events": [],
+      "name": "Julian Loves Music",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jlm.jpg",
+      "photoUrl": "/api/img/show-images/show-julianlovesmusic-300x300.jpg",
+      "sortOrder": 9999,
+      "bio": "Host Julian McCullough has spun off the hugely popular Doug Loves Movies podcast and made Julian Loves Music. The live podcast taping will feature hilarious comedian and musician guests as well as dumb games and a prize bag for one lucky audience member. ",
+      "copy": "Host Julian McCullough has spun off the hugely popular Doug Loves Movies podcast and made Julian Loves Music. The live podcast taping will feature hilarious comedian and musician guests as well as dumb games and a prize bag for one lucky audience member. If you plan on coming, make yourself a name tag out of an iconic album cover and you could be that lucky gal or fella!",
+      "pageUrl": "12530-julian-loves-music",
       "iTunesUrl": ""
     },
     {
@@ -73,27 +97,15 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12399,
+      "id": 12462,
       "events": [],
-      "name": "Yo, Is This Racist? LIVE PODCAST",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/yo_logo.jpg",
-      "photoUrl": "/api/img/show-images/show-yoisthisracistlivepodcast-300x300.jpg",
+      "name": "Persona!",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/personalogo.jpg",
+      "photoUrl": "/api/img/show-images/show-persona-300x300.jpg",
       "sortOrder": 9999,
-      "bio": "The Yo, Is This Racist? Podcast is a daily podcast offshoot of the blog of the same name, with the very simple premise: Ask host Andrew Ti if something is racist, and he&#039;ll tell you. The podcast typically has a writer/comedian guest and Andrew, taking a call-in question from a fan about any and all aspects of racism, or potential racism, in pop culture, politics, the Internet, and sometimes, just from some asshole at work. The tone of the show is as light as the subject matter allows funny people time to address serious issues in a way that doesn&#039;t need to be preachy or pedantic, and can be fun.\r\n\r\n",
-      "copy": "Yo, Is This Racist? is the podcast that provides a much needed service: Ask them if something is racist, and they&#039;ll tell you. Join host Andrew Ti and guests, as they answer your burning questions about anything you think might be racist, from politics, TV, movies, the Internet, your racist-ass grandma, anything. GUARANTEE: WE WILL SOLVE RACISM AT THIS SHOW",
-      "pageUrl": "12399-yo-is-this-racist-live-podcast",
-      "iTunesUrl": ""
-    },
-    {
-      "id": 12151,
-      "events": [],
-      "name": "You Had to Be There",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/you_had_to_be_there_promo_pic.jpg",
-      "photoUrl": "/api/img/show-images/show-youhadtobethere-300x300.jpg",
-      "sortOrder": 9999,
-      "bio": "The simple explanation of &quot;You Had to Be There&quot; is that each performer does their set on stage for the audience AND for a random person on the internet via the webcam chat program Omegle. It&#039;s a simple idea, but it&#039;s the strangers who pop up on screen who really make the show. It&#039;s called &quot;You Had to Be There&quot; because the individuals and personalities who consistently &quot;arrive&quot; from wherever they are in the world tend to be the most interesting and bizarre weirdos you could ever hope for in the name of entertainment. You have to see it to believe it. \r\n\r\n&quot;You Had to Be There&quot; is very much a group experience because of the audience&#039;s inherent desire to participate in something so strange and transient. This community aspect of the show (if the performer invites it) always enhances the fun. It fosters a kind of team environment where the performer and audience are together meeting a new person who they have a limited time to figure out and try to make their friend.\r\n\r\nHere&#039;s a list of memorable interactions from previous shows:\r\n1. A 17-year-old kid was asked randomly if he played guitar. As if from nowhere, he produced an already plugged-in Gretsch that was sitting at his feet. He was then asked if he could play Crazy Train and he instantly started shredding the song and the entire audience sang along. After playing, he said, &quot;Wow, I&#039;m 17 and just got to play for a bar of 50 people in Omaha that I wouldn&#039;t have been allowed in otherwise. Thank you so much. You made my night.&quot; It was magical. It’s a comedy show, but it&#039;s also really uplifting at times and that&#039;s another reason why I love it.\r\n2. Another time, a comedian was telling his jokes to a man on screen and one of his jokes was about purchasing tombstones. The man on screen reaches down m- again as if fro out of nowhere - and pulls out a miniature coffin. Turns out, one of his hobbies is whittling small coffins. The audience lost it. The very next joke was about leather fetishism. The man - once again from out of nowhere - reached down and pulled out his leather whip and proceeded to grab his webcam to show the audience a hole in his wall that he made the other night from &quot;fucking too hard.&quot; Again, the audience lost their minds.\r\n3. Juggalo art show. No explanation needed.\r\n",
-      "copy": "Q: What is this?\r\nA: You Had to Be There is a live stand-up comedy show where comedians perform on stage in front of a live audience as well as a random/live/interactive internet audience on Omegle.com.\r\n\r\nQ: Will there be nudity like on literally every other web chat service?\r\nA: Nudity is a possibility, which is why this show is only for adults who can handle that sort of thing. If a naked person happens to show up on screen, we&#039;ll make a joke about it and move on with our lives.\r\n\r\nQ: Why should I go?\r\nA: If you like shared experiences that involve laughter and fun and don&#039;t mind watching unique shows where magical things happen, then you should definitely check it out. Omegle chats lead to interactions with diverse and interesting characters from all around the globe. You never know who will come on the screen next and that is hopefully not an innuendo.\r\n\r\nThe stories people walk away with after this show are often incredible and sometimes plain unbelievable. Whether it&#039;s a foster kid shredding Crazy Train, a Juggalo art show, or a freestyle rapper who whittles miniature coffins, the things you&#039;ll see on this show are guaranteed to surprise and amaze. If you find yourself having trouble conveying to your friends how crazy this show really is, remember just to tell them: You Had to Be There.",
-      "pageUrl": "12151-you-had-to-be-there",
+      "bio": "The country’s finest stand-up comedians are invited to perform as their funniest characters in a show called by Laughspin Magazine, &quot;A total riot” and ”a stand out,&quot; at the Bridgetown Comedy Festival. The show features the many faces of Tony Sam as host.\r\n ",
+      "copy": "",
+      "pageUrl": "12462-persona",
       "iTunesUrl": ""
     },
     {
@@ -109,18 +121,6 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12462,
-      "events": [],
-      "name": "Persona!",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/personalogo.jpg",
-      "photoUrl": "/api/img/show-images/show-persona-300x300.jpg",
-      "sortOrder": 9999,
-      "bio": "The country’s finest stand-up comedians are invited to perform as their funniest characters in a show called by Laughspin Magazine, &quot;A total riot” and ”a stand out,&quot; at the Bridgetown Comedy Festival. The show features the many faces of Tony Sam as host.\r\n ",
-      "copy": "",
-      "pageUrl": "12462-persona",
-      "iTunesUrl": ""
-    },
-    {
       "id": 12359,
       "events": [],
       "name": "Uncalled Four",
@@ -130,6 +130,18 @@
       "bio": "Uncalled Four is one of the best interactive shows in the country, with fest attendees contributing, voting, and winning prizes. We also highlight the city we&#039;re in, soliciting local businesses for quirky and awesome prizes, trying to find the &quot;weird&quot; where you live. But above all that, it&#039;s the comics who love doing the show. Competition brings out the best in them. In short, it&#039;s a fun and dirty comedy game show where everyone wins.",
       "copy": "Half stand up, half game show, Uncalled Four is an interactive crowd experience. Comedians write a deck of 20 terrible/hilarious answers to audience questions like &quot;What does Trump&#039;s hair smell like?&quot; or &quot;Dad went out to buy _____ and never came back.&quot; Comedians each submit a card while we give out a prize each round, then fan reaction determines the winner. After 30 minutes, comics can wager points in the final &quot;Degenerate Gambler&quot; round to see who will be The Worst Person.",
       "pageUrl": "12359-uncalled-four",
+      "iTunesUrl": ""
+    },
+    {
+      "id": 12151,
+      "events": [],
+      "name": "You Had to Be There",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/you_had_to_be_there_promo_pic.jpg",
+      "photoUrl": "/api/img/show-images/show-youhadtobethere-300x300.jpg",
+      "sortOrder": 9999,
+      "bio": "The simple explanation of &quot;You Had to Be There&quot; is that each performer does their set on stage for the audience AND for a random person on the internet via the webcam chat program Omegle. It&#039;s a simple idea, but it&#039;s the strangers who pop up on screen who really make the show. It&#039;s called &quot;You Had to Be There&quot; because the individuals and personalities who consistently &quot;arrive&quot; from wherever they are in the world tend to be the most interesting and bizarre weirdos you could ever hope for in the name of entertainment. You have to see it to believe it. \r\n\r\n&quot;You Had to Be There&quot; is very much a group experience because of the audience&#039;s inherent desire to participate in something so strange and transient. This community aspect of the show (if the performer invites it) always enhances the fun. It fosters a kind of team environment where the performer and audience are together meeting a new person who they have a limited time to figure out and try to make their friend.\r\n\r\nHere&#039;s a list of memorable interactions from previous shows:\r\n1. A 17-year-old kid was asked randomly if he played guitar. As if from nowhere, he produced an already plugged-in Gretsch that was sitting at his feet. He was then asked if he could play Crazy Train and he instantly started shredding the song and the entire audience sang along. After playing, he said, &quot;Wow, I&#039;m 17 and just got to play for a bar of 50 people in Omaha that I wouldn&#039;t have been allowed in otherwise. Thank you so much. You made my night.&quot; It was magical. It’s a comedy show, but it&#039;s also really uplifting at times and that&#039;s another reason why I love it.\r\n2. Another time, a comedian was telling his jokes to a man on screen and one of his jokes was about purchasing tombstones. The man on screen reaches down m- again as if fro out of nowhere - and pulls out a miniature coffin. Turns out, one of his hobbies is whittling small coffins. The audience lost it. The very next joke was about leather fetishism. The man - once again from out of nowhere - reached down and pulled out his leather whip and proceeded to grab his webcam to show the audience a hole in his wall that he made the other night from &quot;fucking too hard.&quot; Again, the audience lost their minds.\r\n3. Juggalo art show. No explanation needed.\r\n",
+      "copy": "Q: What is this?\r\nA: You Had to Be There is a live stand-up comedy show where comedians perform on stage in front of a live audience as well as a random/live/interactive internet audience on Omegle.com.\r\n\r\nQ: Will there be nudity like on literally every other web chat service?\r\nA: Nudity is a possibility, which is why this show is only for adults who can handle that sort of thing. If a naked person happens to show up on screen, we&#039;ll make a joke about it and move on with our lives.\r\n\r\nQ: Why should I go?\r\nA: If you like shared experiences that involve laughter and fun and don&#039;t mind watching unique shows where magical things happen, then you should definitely check it out. Omegle chats lead to interactions with diverse and interesting characters from all around the globe. You never know who will come on the screen next and that is hopefully not an innuendo.\r\n\r\nThe stories people walk away with after this show are often incredible and sometimes plain unbelievable. Whether it&#039;s a foster kid shredding Crazy Train, a Juggalo art show, or a freestyle rapper who whittles miniature coffins, the things you&#039;ll see on this show are guaranteed to surprise and amaze. If you find yourself having trouble conveying to your friends how crazy this show really is, remember just to tell them: You Had to Be There.",
+      "pageUrl": "12151-you-had-to-be-there",
       "iTunesUrl": ""
     },
     {
@@ -157,18 +169,6 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12464,
-      "events": [],
-      "name": "It&#039;s Going to Be Okay",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/14269_10103942567959108_1066506840215425397_n.jpg",
-      "photoUrl": "/api/img/show-images/show-it039sgoingtobeokay-300x300.jpg",
-      "sortOrder": 9999,
-      "bio": "It&#039;s Gonna Be Okay is free WEEKLY stand up comedy show EVERY Monday. The show showcases the best comedians in Portland along with some travelling national comics. The show is always fun, smart, geeky, quirky, feminist, progressive, and unique and is a special love letter to Portland&#039;s wonderful budding hotbed of alternative comedy sweethearts, hosted by Barbara Holm",
-      "copy": "It&#039;s Gonna Be Okay is free WEEKLY stand up comedy show EVERY Monday. The show showcases the best comedians in Portland along with some travelling national comics. The show is always fun, smart, geeky, quirky, feminist, progressive, and unique and is a special love letter to Portland&#039;s wonderful budding hotbed of alternative comedy sweethearts, hosted by Barbara Holm",
-      "pageUrl": "12464-its-going-to-be-okay",
-      "iTunesUrl": ""
-    },
-    {
       "id": 11165,
       "events": [],
       "name": "Stand Up For Yourself! With Amy Miller",
@@ -193,39 +193,15 @@
       "iTunesUrl": ""
     },
     {
-      "id": 11676,
+      "id": 12464,
       "events": [],
-      "name": "Reading The Bible With Dan Live",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/stained_glass_window-01-small.jpg",
-      "photoUrl": "/api/img/show-images/show-readingthebiblewithdanlive-300x300.jpg",
+      "name": "It&#039;s Going to Be Okay",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/14269_10103942567959108_1066506840215425397_n.jpg",
+      "photoUrl": "/api/img/show-images/show-it039sgoingtobeokay-300x300.jpg",
       "sortOrder": 9999,
-      "bio": "In Reading the Bible With Dan Live, Dan Weber and his comedy writing partner “The Bible” and his co-host Nariko Ott dissect the most popular stories found in the wacky insanity that is America&#039;s Most Revered Book. We read stories such as Adam and Eve getting thrown out of the garden of Eden; Noah&#039;s Ark and the flood; Cain and Abel; Jacob tricking Issac to become the father of the nation of Israel, and the destruction of Sodom and Gomorrah.  Joining them is a rotating panel of comics who comment on each and every crazy thing read. \r\n\r\nPanelists have included Amy Miller, Christian Ricketts, Whitney Streed and Kristine Levine.\r\n\r\nMusical accompaniment provided by Ira Novos.\r\n\r\nIt&#039;s slightly informative and super hilarious.\r\n\r\nAdditionally, the live show has a drinking game named &quot;Behold!&quot; Every time that word is used in the Bible, the audience takes a drink. This happens way more than it really should.\r\n\r\nThere really isn&#039;t anything else like it.\r\n\r\nFor the Bridgetown show we would read about the destruction of Sodom and Gomorrah because that story is absolutely insane.",
-      "copy": "Reading the Bible with Dan Live, a show where a collection of very funny people read, then mock, America&#039;s Most Revered Book.",
-      "pageUrl": "11676-reading-the-bible-with-dan-live",
-      "iTunesUrl": ""
-    },
-    {
-      "id": 12492,
-      "events": [],
-      "name": "Baked",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
-      "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",
-      "sortOrder": 9999,
-      "bio": "Baked is an evening of music and comedy hosted by Brendon Small (Metalocalypse, Home Movies) and Steve Agee (The Sarah Silverman Program, New Girl, Adventure Time) and an incredibly talented band including Joe Travers (Zappa Plays Zappa, Mike Keneally Band), Pete Griffin (Zappa Plays Zappa, Dethklok), and Mike Keneally (Mike Keneally Band)*. After a yearlong residency at LA&#039;s world famous jazz club The Baked Potato, Baked travels north to force its musical and comedic ethos onto the inhabitants of Portland and ultimately destroy their brains. Join us for a show in which comics are encouraged to perform in a musical capacity after a set of standup comedy. *Band lineup subject to change",
-      "copy": "",
-      "pageUrl": "12492-baked",
-      "iTunesUrl": ""
-    },
-    {
-      "id": 12492,
-      "events": [],
-      "name": "Baked",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
-      "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",
-      "sortOrder": 9999,
-      "bio": "Baked is an evening of music and comedy hosted by Brendon Small (Metalocalypse, Home Movies) and Steve Agee (The Sarah Silverman Program, New Girl, Adventure Time) and an incredibly talented band including Joe Travers (Zappa Plays Zappa, Mike Keneally Band), Pete Griffin (Zappa Plays Zappa, Dethklok), and Mike Keneally (Mike Keneally Band)*. After a yearlong residency at LA&#039;s world famous jazz club The Baked Potato, Baked travels north to force its musical and comedic ethos onto the inhabitants of Portland and ultimately destroy their brains. Join us for a show in which comics are encouraged to perform in a musical capacity after a set of standup comedy. *Band lineup subject to change",
-      "copy": "",
-      "pageUrl": "12492-baked",
+      "bio": "It&#039;s Gonna Be Okay is free WEEKLY stand up comedy show EVERY Monday. The show showcases the best comedians in Portland along with some travelling national comics. The show is always fun, smart, geeky, quirky, feminist, progressive, and unique and is a special love letter to Portland&#039;s wonderful budding hotbed of alternative comedy sweethearts, hosted by Barbara Holm",
+      "copy": "It&#039;s Gonna Be Okay is free WEEKLY stand up comedy show EVERY Monday. The show showcases the best comedians in Portland along with some travelling national comics. The show is always fun, smart, geeky, quirky, feminist, progressive, and unique and is a special love letter to Portland&#039;s wonderful budding hotbed of alternative comedy sweethearts, hosted by Barbara Holm",
+      "pageUrl": "12464-its-going-to-be-okay",
       "iTunesUrl": ""
     },
     {
@@ -253,15 +229,15 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12530,
+      "id": 11676,
       "events": [],
-      "name": "Julian Loves Music",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jlm.jpg",
-      "photoUrl": "/api/img/show-images/show-julianlovesmusic-300x300.jpg",
+      "name": "Reading The Bible With Dan Live",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/stained_glass_window-01-small.jpg",
+      "photoUrl": "/api/img/show-images/show-readingthebiblewithdanlive-300x300.jpg",
       "sortOrder": 9999,
-      "bio": "Host Julian McCullough has spun off the hugely popular Doug Loves Movies podcast and made Julian Loves Music. The live podcast taping will feature hilarious comedian and musician guests as well as dumb games and a prize bag for one lucky audience member. ",
-      "copy": "Host Julian McCullough has spun off the hugely popular Doug Loves Movies podcast and made Julian Loves Music. The live podcast taping will feature hilarious comedian and musician guests as well as dumb games and a prize bag for one lucky audience member. If you plan on coming, make yourself a name tag out of an iconic album cover and you could be that lucky gal or fella!",
-      "pageUrl": "12530-julian-loves-music",
+      "bio": "In Reading the Bible With Dan Live, Dan Weber and his comedy writing partner “The Bible” and his co-host Nariko Ott dissect the most popular stories found in the wacky insanity that is America&#039;s Most Revered Book. We read stories such as Adam and Eve getting thrown out of the garden of Eden; Noah&#039;s Ark and the flood; Cain and Abel; Jacob tricking Issac to become the father of the nation of Israel, and the destruction of Sodom and Gomorrah.  Joining them is a rotating panel of comics who comment on each and every crazy thing read. \r\n\r\nPanelists have included Amy Miller, Christian Ricketts, Whitney Streed and Kristine Levine.\r\n\r\nMusical accompaniment provided by Ira Novos.\r\n\r\nIt&#039;s slightly informative and super hilarious.\r\n\r\nAdditionally, the live show has a drinking game named &quot;Behold!&quot; Every time that word is used in the Bible, the audience takes a drink. This happens way more than it really should.\r\n\r\nThere really isn&#039;t anything else like it.\r\n\r\nFor the Bridgetown show we would read about the destruction of Sodom and Gomorrah because that story is absolutely insane.",
+      "copy": "Reading the Bible with Dan Live, a show where a collection of very funny people read, then mock, America&#039;s Most Revered Book.",
+      "pageUrl": "11676-reading-the-bible-with-dan-live",
       "iTunesUrl": ""
     }
   ]
