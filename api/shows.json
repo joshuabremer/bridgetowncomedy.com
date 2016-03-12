@@ -13,6 +13,18 @@
       "iTunesUrl": ""
     },
     {
+      "id": 12537,
+      "events": [],
+      "name": "An Evening with Rachel Bloom",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rachel.png",
+      "photoUrl": "/api/img/show-images/show-aneveningwithrachelbloom-300x300.jpg",
+      "sortOrder": 9999,
+      "bio": "Rachel Bloom is a comedian, actress, writer and singer based in Los Angeles. She currently stars in the TV series “Crazy Ex-Girlfriend” on the CW Network and earned both a Golden Globe and Critics Choice award for her performance. She has been named a comic to watch by Cosmopolitan, Time Out LA and Backstage Magazine, and has been featured in Variety and the LA Times. Her comedic music videos have appeared on the Onion AV Club, Jezebel, Huffington Post, Buzzfeed and Cracked, among others. Her 2010 music video “Fuck Me, Ray Bradbury” won the award for “Best Music Video” at Dragon*Con and was nominated for a 2011 Hugo Award for “Best Dramatic Presentation: Short Form;” and her 2012 music video “You Can Touch My Boobies” won the LA Weekly Web Award for Best Youtube Song. She has also released two albums: “Please Love Me” (a compilation of old/new hits) and “Suck It, Christmas!!! (A Chanukah Album).” Her recent live performance credits include Just for Laughs in Montreal, Fun Fun Fun Fest, the Arlington Drafthouse and The Limestone Comedy Festival.\r\n \r\nRachel developed and starred in a musical pilot for Showtime called “Crazy Ex-Girlfriend,” co-written with Aline Brosh McKenna and directed by Marc Webb. The series was eventually picked up by the CW Network. Her other television writing credits include “Robot Chicken,” “Allen Gregory,” The People’s Choice Awards, and “The High Fructose Adventures of Annoying Orange.” Her acting work includes roles on “How I Met Your Mother,” “Robot Chicken,” The Yahoo! webseries “The Fuzz”  and the CW webseries “Gallery Mallory.” She has written and starred in two live musical sketch comedy shows at the Upright Citizens Brigade Theater in LA and New York: “Rachel Bloom is a Triple Threat!!!” and “Sing Out, Louise!”\r\n\r\nRachel graduated from NYU, Tisch School of the Arts in 2009 with a BFA in Theater.  At NYU, she studied with the CAP 21 musical theater studio, Experimental Theater Wing, and International Theater Workshop in Amsterdam. She was also a writer, performer and director for the college sketch group HammerkatzNYU.",
+      "copy": "Rachel Bloom is a comedian, actress, writer and singer based in Los Angeles. She currently stars in the TV series “Crazy Ex-Girlfriend” on the CW Network and earned both a Golden Globe and Critics Choice award for her performance. She has been named a comic to watch by Cosmopolitan, Time Out LA and Backstage Magazine, and has been featured in Variety and the LA Times. Her comedic music videos have appeared on the Onion AV Club, Jezebel, Huffington Post, Buzzfeed and Cracked, among others. Her 2010 music video “Fuck Me, Ray Bradbury” won the award for “Best Music Video” at Dragon*Con and was nominated for a 2011 Hugo Award for “Best Dramatic Presentation: Short Form;” and her 2012 music video “You Can Touch My Boobies” won the LA Weekly Web Award for Best Youtube Song. She has also released two albums: “Please Love Me” (a compilation of old/new hits) and “Suck It, Christmas!!! (A Chanukah Album).” Her recent live performance credits include Just for Laughs in Montreal, Fun Fun Fun Fest, the Arlington Drafthouse and The Limestone Comedy Festival.\r\n \r\nRachel developed and starred in a musical pilot for Showtime called “Crazy Ex-Girlfriend,” co-written with Aline Brosh McKenna and directed by Marc Webb. The series was eventually picked up by the CW Network. Her other television writing credits include “Robot Chicken,” “Allen Gregory,” The People’s Choice Awards, and “The High Fructose Adventures of Annoying Orange.” Her acting work includes roles on “How I Met Your Mother,” “Robot Chicken,” The Yahoo! webseries “The Fuzz”  and the CW webseries “Gallery Mallory.” She has written and starred in two live musical sketch comedy shows at the Upright Citizens Brigade Theater in LA and New York: “Rachel Bloom is a Triple Threat!!!” and “Sing Out, Louise!”\r\n\r\nRachel graduated from NYU, Tisch School of the Arts in 2009 with a BFA in Theater.  At NYU, she studied with the CAP 21 musical theater studio, Experimental Theater Wing, and International Theater Workshop in Amsterdam. She was also a writer, performer and director for the college sketch group HammerkatzNYU.",
+      "pageUrl": "12537-an-evening-with-rachel-bloom",
+      "iTunesUrl": ""
+    },
+    {
       "id": 12470,
       "events": [],
       "name": "Theme Park Improv",
@@ -37,15 +49,15 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12445,
+      "id": 11725,
       "events": [],
-      "name": "The Crabfeast with Ryan Sickler and Jay Larson",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/crabfeast_atccover.jpg",
-      "photoUrl": "/api/img/show-images/show-thecrabfeastwithryansicklerandjaylarson-300x300.jpg",
+      "name": "Guy Branum&#039;s Gay Bash",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/gay-bash-2.jpg",
+      "photoUrl": "/api/img/show-images/show-guybranum039sgaybash-300x300.jpg",
       "sortOrder": 9999,
-      "bio": "The Crabfeast is a conversational and storytelling podcast hosted by Jay Larson and Ryan Sickler. Our unique combination of comradery, storytelling, comedic wit and lives lived full make for an amazing podcast experience.",
-      "copy": "The Crabfeast is a conversational and storytelling podcast hosted by Jay Larson and Ryan Sickler. Their podcast comes out every Toozdee on the All Things Comedy Network, and has featured guests such as Jay Mohr, Pete Holmes, Hannibal Buress, etc. They’ve been featured at SXSW, Riot LA, Bridgetown Comedy Festival, SF Sketchfest, The Pete Holmes Show on TBS and the Damon Bruce National Radio Show. Each month they host a live podcast at the Improv Lab. Jay and Ryan’s unique combination of comradery, storytelling, comedic wit and lives lived full make for an amazing podcast experience.",
-      "pageUrl": "12445-the-crabfeast-with-ryan-sickler-and-jay-larson",
+      "bio": "Guy gathers all his favorite LGBT comedians performing at this year’s festival for one big gay bash! ",
+      "copy": "",
+      "pageUrl": "11725-guy-branums-gay-bash",
       "iTunesUrl": ""
     },
     {
@@ -61,6 +73,18 @@
       "iTunesUrl": ""
     },
     {
+      "id": 12445,
+      "events": [],
+      "name": "The Crabfeast with Ryan Sickler and Jay Larson",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/crabfeast_atccover.jpg",
+      "photoUrl": "/api/img/show-images/show-thecrabfeastwithryansicklerandjaylarson-300x300.jpg",
+      "sortOrder": 9999,
+      "bio": "The Crabfeast is a conversational and storytelling podcast hosted by Jay Larson and Ryan Sickler. Our unique combination of comradery, storytelling, comedic wit and lives lived full make for an amazing podcast experience.",
+      "copy": "The Crabfeast is a conversational and storytelling podcast hosted by Jay Larson and Ryan Sickler. Their podcast comes out every Toozdee on the All Things Comedy Network, and has featured guests such as Jay Mohr, Pete Holmes, Hannibal Buress, etc. They’ve been featured at SXSW, Riot LA, Bridgetown Comedy Festival, SF Sketchfest, The Pete Holmes Show on TBS and the Damon Bruce National Radio Show. Each month they host a live podcast at the Improv Lab. Jay and Ryan’s unique combination of comradery, storytelling, comedic wit and lives lived full make for an amazing podcast experience.",
+      "pageUrl": "12445-the-crabfeast-with-ryan-sickler-and-jay-larson",
+      "iTunesUrl": ""
+    },
+    {
       "id": 12530,
       "events": [],
       "name": "Julian Loves Music",
@@ -73,15 +97,15 @@
       "iTunesUrl": ""
     },
     {
-      "id": 12463,
+      "id": 12539,
       "events": [],
-      "name": "Nato Green Presents: Laughter Against the Machine",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/images.jpg",
-      "photoUrl": "/api/img/show-images/show-natogreenpresentslaughteragainstthemachine-300x300.jpg",
+      "name": "Probably Science",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/probsci.jpeg",
+      "photoUrl": "/api/img/show-images/show-probablyscience-300x300.jpg",
       "sortOrder": 9999,
-      "bio": "Laughter Against the Machine launched in 2008 in San Francisco by Nato Green &amp; W. Kamau Bell. It explodes the concept of political comedy, offering a show where the comedians and the audience to expect to be challenged, to laugh, and think at the same time. It&#039;s an issue-oriented, no-holds-bar show with no preconceived expectations, no party lines, and certainly no cheerleading - showcasing comics who have beef with everybody, including themselves.\r\n\r\nOver the years, LATM has toured nationally, and featured such comedians as Margaret Cho, Janine Brito, Jimmy Dore, Hari Kondabolu, Aparna Nancherla, Hasan Minhaj, Maria Bamford, Moshe Kasher, Will Durst, Baratunde Thurston, Emily Heller, Marcella Arguello, and more. \r\n\r\nWelcome to Laughter Against The Machine: Guerrilla Stand-up Comedy.",
-      "copy": "",
-      "pageUrl": "12463-nato-green-presents-laughter-against-the-machine",
+      "bio": "Three professional comedians/incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen, Andy Wood, Jesse Case and special guests from the word of comedy, and occasionally science.",
+      "copy": "Three professional comedians/incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen, Andy Wood, Jesse Case and special guests from the word of comedy, and occasionally science.",
+      "pageUrl": "12539-probably-science",
       "iTunesUrl": ""
     },
     {
@@ -97,6 +121,18 @@
       "iTunesUrl": ""
     },
     {
+      "id": 12463,
+      "events": [],
+      "name": "Nato Green Presents: Laughter Against the Machine",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/images.jpg",
+      "photoUrl": "/api/img/show-images/show-natogreenpresentslaughteragainstthemachine-300x300.jpg",
+      "sortOrder": 9999,
+      "bio": "Laughter Against the Machine launched in 2008 in San Francisco by Nato Green &amp; W. Kamau Bell. It explodes the concept of political comedy, offering a show where the comedians and the audience to expect to be challenged, to laugh, and think at the same time. It&#039;s an issue-oriented, no-holds-bar show with no preconceived expectations, no party lines, and certainly no cheerleading - showcasing comics who have beef with everybody, including themselves.\r\n\r\nOver the years, LATM has toured nationally, and featured such comedians as Margaret Cho, Janine Brito, Jimmy Dore, Hari Kondabolu, Aparna Nancherla, Hasan Minhaj, Maria Bamford, Moshe Kasher, Will Durst, Baratunde Thurston, Emily Heller, Marcella Arguello, and more. \r\n\r\nWelcome to Laughter Against The Machine: Guerrilla Stand-up Comedy.",
+      "copy": "",
+      "pageUrl": "12463-nato-green-presents-laughter-against-the-machine",
+      "iTunesUrl": ""
+    },
+    {
       "id": 12462,
       "events": [],
       "name": "Persona!",
@@ -106,18 +142,6 @@
       "bio": "The country’s finest stand-up comedians are invited to perform as their funniest characters in a show called by Laughspin Magazine, &quot;A total riot” and ”a stand out,&quot; at the Bridgetown Comedy Festival. The show features the many faces of Tony Sam as host.\r\n ",
       "copy": "",
       "pageUrl": "12462-persona",
-      "iTunesUrl": ""
-    },
-    {
-      "id": 11725,
-      "events": [],
-      "name": "Guy Branum&#039;s Gay Bash",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/gay-bash-2.jpg",
-      "photoUrl": "/api/img/show-images/show-guybranum039sgaybash-300x300.jpg",
-      "sortOrder": 9999,
-      "bio": "Guy gathers all his favorite LGBT comedians performing at this year’s festival for one big gay bash! ",
-      "copy": "",
-      "pageUrl": "11725-guy-branums-gay-bash",
       "iTunesUrl": ""
     },
     {
