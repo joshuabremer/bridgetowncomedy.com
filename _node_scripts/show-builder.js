@@ -33,7 +33,7 @@ const ShowBuilder = ObjectBuilder.extend({
       showObj[key].photoUrl = '/api/img/' + this.MODEL_NAME + '-images/' + this.MODEL_NAME + '-' + util.cleanStr(showObj[key].Name) + '-300x300.jpg';
       showObj[key].bio = showObj[key].Bio;
       showObj[key].copy = showObj[key].Copy;
-      showObj[key].sortOrder = Number(showObj[key].SortOrder) || 9999;
+      showObj[key].sortOrder = Number(showObj[key].Position) || 9999;
       showObj[key].iTunesUrl = showObj[key]['iTunes Url'];
       showObj[key].pageUrl = showObj[key].id + '-' + util.convertToSlug(showObj[key].name);
     }
@@ -68,7 +68,7 @@ const ShowBuilder = ObjectBuilder.extend({
       fs.appendFileSync(filePath, 'layout: page\n');
       fs.appendFileSync(filePath, 'title: \'' + showObj[key].name + '\'\n');
       fs.appendFileSync(filePath, 'category: show \n');
-      fs.appendFileSync(filePath, 'featuredimage: \'/img/show-images/show-' + util.cleanStr(showObj[key].name) + '-300x300.jpg\'\n');
+      fs.appendFileSync(filePath, 'featuredimage: \'/api/img/show-images/show-' + util.cleanStr(showObj[key].name) + '-300x300.jpg\'\n');
       fs.appendFileSync(filePath, '---\n\n');
 
       fs.appendFileSync(filePath, util.htmlToText(showObj[key].bio));
@@ -82,7 +82,7 @@ const ShowBuilder = ObjectBuilder.extend({
 
     for (var key in showObj) {
       var item = showObj[key];
-      this.buildImageFromURLIfUpdated(item.name, item.originalPhotoUrl, 'show')
+      this.buildImageFromURLIfUpdated(item.name, item.originalPhotoUrl, this.MODEL_NAME )
     }
   }
 });
