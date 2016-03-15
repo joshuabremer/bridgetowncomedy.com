@@ -5,3 +5,9 @@ bundle exec jekyll serve --detach
 sleep 3 # give Web server some time to bind to sockets, etc
 
 phantomjs tests/test_front_page.js
+
+
+
+
+# Kill the jekyll server
+kill $(ps aux | grep '[j]ekyll' | awk '{print $2}')
