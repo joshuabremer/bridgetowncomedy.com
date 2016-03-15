@@ -33,7 +33,7 @@ const ShowBuilder = ObjectBuilder.extend({
       showObj[key].photoUrl = '/api/img/' + this.MODEL_NAME + '-images/' + this.MODEL_NAME + '-' + util.cleanStr(showObj[key].Name) + '-300x300.jpg';
       showObj[key].bio = showObj[key].Bio;
       showObj[key].copy = showObj[key].Copy;
-      showObj[key].sortOrder = Number(showObj[key].SortOrder) || 9999;
+      showObj[key].sortOrder = Number(showObj[key].Position) || 9999;
       showObj[key].iTunesUrl = showObj[key]['iTunes Url'];
       showObj[key].pageUrl = showObj[key].id + '-' + util.convertToSlug(showObj[key].name);
     }
