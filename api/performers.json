@@ -1,17 +1,17 @@
 {
   "performers": [
     {
-      "id": 12185,
+      "id": 11993,
       "events": [],
       "emceeEvents": [],
-      "name": "Bri Pruett",
-      "twitter": "Bripruett",
-      "website": "http://Bripruett.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
-      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
-      "sortOrder": 72,
-      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
-      "pageUrl": "12185-bri-pruett"
+      "name": "Yusef Roach",
+      "twitter": "yusefroach",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_88432.jpg",
+      "photoUrl": "/api/img/performer-images/performer-yusefroach-300x300.jpg",
+      "sortOrder": 70,
+      "bio": "<p>Yusef Roach is a serious boy. He started performing comedy in Austin in January 2013 and has since taken nothing by storm. He can occasionally be seen in Austin at The Velveeta Room, The New Movement Theater or Cap City Comedy Club. He has performed on the 2014 and 2015 Hell Yes Fest (NOLA), and 2014&#039;s SLC Comedy Carnivale (UT). His comedy is best described as “Yea, ok, sure. I guess, maybe. Fine.”</p>\n",
+      "pageUrl": "11993-yusef-roach"
     },
     {
       "id": 12538,
@@ -898,17 +898,17 @@
       "pageUrl": "11647-rob-haze"
     },
     {
-      "id": 11993,
+      "id": 12535,
       "events": [],
       "emceeEvents": [],
-      "name": "Yusef Roach",
-      "twitter": "hatefulseth",
+      "name": "Aimee Mann",
+      "twitter": "aimeemann",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_88432.jpg",
-      "photoUrl": "/api/img/performer-images/performer-yusefroach-300x300.jpg",
-      "sortOrder": 70,
-      "bio": "<p>Yusef Roach is a serious boy. He started performing comedy in Austin in January 2013 and has since taken nothing by storm. He can occasionally be seen in Austin at The Velveeta Room, The New Movement Theater or Cap City Comedy Club. He has performed on the 2014 and 2015 Hell Yes Fest (NOLA), and 2014&#039;s SLC Comedy Carnivale (UT). His comedy is best described as “Yea, ok, sure. I guess, maybe. Fine.”</p>\n",
-      "pageUrl": "11993-yusef-roach"
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/aimee.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-aimeemann-300x300.jpg",
+      "sortOrder": 2,
+      "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
+      "pageUrl": "12535-aimee-mann"
     },
     {
       "id": 12245,
@@ -924,17 +924,17 @@
       "pageUrl": "12245-anthony-lopez"
     },
     {
-      "id": 12535,
+      "id": 12185,
       "events": [],
       "emceeEvents": [],
-      "name": "Aimee Mann",
-      "twitter": "aimeemann",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/aimee.jpeg",
-      "photoUrl": "/api/img/performer-images/performer-aimeemann-300x300.jpg",
-      "sortOrder": 2,
-      "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
-      "pageUrl": "12535-aimee-mann"
+      "name": "Bri Pruett",
+      "twitter": "Bripruett",
+      "website": "http://Bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 72,
+      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
+      "pageUrl": "12185-bri-pruett"
     },
     {
       "id": 12289,
@@ -1227,12 +1227,12 @@
       "events": [],
       "emceeEvents": [],
       "name": "Josh Androsky",
-      "twitter": "",
+      "twitter": "shutupandrosky",
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joshandrosky.jpg",
       "photoUrl": "/api/img/performer-images/performer-joshandrosky-300x300.jpg",
       "sortOrder": 95,
-      "bio": "<p>Josh Androsky is a comedian from Los Angeles who also writes for VICE and was on the Price Is RIght on mushrooms. He's a lovable boy.</p>\n",
+      "bio": "<p>Josh Androsky quit high school early to pursue his love of television. By 20, he was a full time writer. When he was like 22 he wrote/produced FOX’s New Year’s Eve Live. Weird, right? Scott Weiland was there and it went about the way you’d assume. At 23, Josh started doing stand-up comedy and has since performed at festivals and venues across the nation, appeared on This American Life, SyFy’s Sharkmania, and contributes to VICE among other corporately-owned counterculture outlets, including several appearances on VICELAND’s upcoming stand-up house party series “Flophouse,” produced by Lance Bangs and Spike Jonze– oh and one time he ate shrooms and got weird as The Skateboard Rabbi on The Price is Right. Throughout it all, his love of writing for television has only intensified. He has written for truTV’s “Billy on the Street,” Nickelodeon’s “SpongeBob SquarePants,” and most recently partnered with Comedy Central to fuck with Donald Trump. So yes, at the end of the day, his cat and girlfriend could not be happier for him.</p>\n",
       "pageUrl": "12447-josh-androsky"
     },
     {
@@ -1793,71 +1793,6 @@
       "sortOrder": 138,
       "bio": "<p>Simon Gibson is an L.A based standup comedian who was born and raised in Portland, Oregon. He has been performing his boisterous style of comedy for the last 5 years and has garnered a good reputation in both the alt-scene and more traditional club scene. He was also electrocuted on stage one time to an applause break because no one thought it was really happening because his act-outs are so believable. He almost died. Which would&#039;ve been tight as hell.</p>\n",
       "pageUrl": "11327-simon-gibson"
-    },
-    {
-      "id": 11399,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Megan Gailey",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/megan-gailey.jpg",
-      "photoUrl": "/api/img/performer-images/performer-megangailey-300x300.jpg",
-      "sortOrder": 139,
-      "bio": "<p>– Megan was a 2015 New Face at JFL this year, and booked her first Conan spot before even finishing her set (link below). Megan grew her stand-up chops in Chicago and this year is writing on the new Comedy Central pilot Sideliners and is starring in the new MTV sketch series Ladylike.</p>\n",
-      "pageUrl": "11399-megan-gailey"
-    },
-    {
-      "id": 11388,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Mark Normand",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/normand.jpg",
-      "photoUrl": "/api/img/performer-images/performer-marknormand-300x300.jpg",
-      "sortOrder": 140,
-      "bio": "<p>Mark Normand is a fun-loving, New York comedian. Ok, I&#039;m gonna brag a little here but hey, it&#039;s business... So far, Mark has done a Comedy Central HALF HOUR special, has appeared on TBS’s CONAN twice, Showtime&#039;s &quot;Live at SXSW&quot;, INSIDE AMY SCHUMER, TruTv, Best Week Ever, Last Comic Standing, @Midnight and released an album with Comedy Central records titled &quot;Still Got It&quot; (its not bad). In 2013 won Caroline&#039;s March Madness competition, beating out 63 other comedians. And this is a real shocker for all of us but he was also voted Village Voice&#039;s &quot;Best Comedian of 2013&quot;, I know right? In 2012, Mark appeared on “John Oliver’s New York Standup Show” on Comedy Central, and in 2011 was picked as one of Comedy Central&#039;s &quot;Comics to Watch.&quot;</p>\n<p>Mark was born and raised in New Orleans, LA surprisingly to two normal parents. As a kid he spent most of his time shooting short films and wetting the bed. Mark started doing comedy right after college and quickly moved to New York. Mark now does comedy clubs and colleges across the country and has been involved in many festivals including Portland, Seattle, DC, Boston, and was featured as a New Face at the Montreal Comedy Festival.<br />\nMore annoying accolades that no one really cares about: Mark was named one of Comedy Central’s Comics To Watch for the 2011 New York Comedy Festival. Mark was also named Esquire’s “Best New Comedians 2012”, Splitsider’s “Top 10 Up and Coming Comedians on Each Coast”, and Time Out New York’s “21 New York Comedy Scene Linchpins”. Whew, sorry about all that.</p>\n",
-      "pageUrl": "11388-mark-normand"
-    },
-    {
-      "id": 11388,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Mark Normand",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/normand.jpg",
-      "photoUrl": "/api/img/performer-images/performer-marknormand-300x300.jpg",
-      "sortOrder": 141,
-      "bio": "<p>Mark Normand is a fun-loving, New York comedian. Ok, I&#039;m gonna brag a little here but hey, it&#039;s business... So far, Mark has done a Comedy Central HALF HOUR special, has appeared on TBS’s CONAN twice, Showtime&#039;s &quot;Live at SXSW&quot;, INSIDE AMY SCHUMER, TruTv, Best Week Ever, Last Comic Standing, @Midnight and released an album with Comedy Central records titled &quot;Still Got It&quot; (its not bad). In 2013 won Caroline&#039;s March Madness competition, beating out 63 other comedians. And this is a real shocker for all of us but he was also voted Village Voice&#039;s &quot;Best Comedian of 2013&quot;, I know right? In 2012, Mark appeared on “John Oliver’s New York Standup Show” on Comedy Central, and in 2011 was picked as one of Comedy Central&#039;s &quot;Comics to Watch.&quot;</p>\n<p>Mark was born and raised in New Orleans, LA surprisingly to two normal parents. As a kid he spent most of his time shooting short films and wetting the bed. Mark started doing comedy right after college and quickly moved to New York. Mark now does comedy clubs and colleges across the country and has been involved in many festivals including Portland, Seattle, DC, Boston, and was featured as a New Face at the Montreal Comedy Festival.<br />\nMore annoying accolades that no one really cares about: Mark was named one of Comedy Central’s Comics To Watch for the 2011 New York Comedy Festival. Mark was also named Esquire’s “Best New Comedians 2012”, Splitsider’s “Top 10 Up and Coming Comedians on Each Coast”, and Time Out New York’s “21 New York Comedy Scene Linchpins”. Whew, sorry about all that.</p>\n",
-      "pageUrl": "11388-mark-normand"
-    },
-    {
-      "id": 11402,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Sabrina Jalees",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sabrina_jalees.jpg",
-      "photoUrl": "/api/img/performer-images/performer-sabrinajalees-300x300.jpg",
-      "sortOrder": 142,
-      "bio": "<p>Sabrina is a Canadian Pakistani-Swiss comedian, keynote speaker and writer. She is currently writing on the upcoming NBC show Crowded and just filmed her web-series DTF: Down to Find Out for Comedy Central. She has appeared on Best Week Ever, Last Comic Standing, and Adam Devine’s House Party.</p>\n",
-      "pageUrl": "11402-sabrina-jalees"
-    },
-    {
-      "id": 12137,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Natalie Palamides",
-      "twitter": "natdogkatdog",
-      "website": "http://www.nataliepalamides.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bridgetown_natalie_palamides.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nataliepalamides-300x300.jpg",
-      "sortOrder": 143,
-      "bio": "<p>Natalie Palamides is a comedian from Pittsburgh, PA based in Los Angeles.   She&#039;s the voice of Buttercup on the reboot of the PowerPuff Girls on Cartoon Network and worked as a series regular on the Comedy Central pilot “BriTANick.” Natalie is a regular performer at the Upright Citizen&#039;s Brigade theatre as a member of the UCB TourCo, Maude Night, UCB Digital, and many other shows! </p>\n<p>The Comedy Bureau said &quot;you could peg Natalie Palamides as the second coming of Kristen Wiig. We like to think of Natalie as something all out-of-left-field and supremely committed to her characters...&quot; </p>\n<p>She is a founding member of LA&#039;s absurdist clown group, Wet the Hippo, directed by John Gilkey. She also worked as a creative consultant with the Obie-Award-Winning Pig Iron Theatre Company on a devised play titled &quot;I Promised Myself to Live Faster&quot; which premiered at the 2015 Humana Festival. Her TV/Film credits include Uncle Buck, The Kitchen Sink, Uncle Grandpa, and Future worm.</p>\n",
-      "pageUrl": "12137-natalie-palamides"
     }
   ]
 }
