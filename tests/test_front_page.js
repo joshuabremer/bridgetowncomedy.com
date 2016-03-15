@@ -19,7 +19,7 @@
     interval = setInterval(function() {
       if ( (new Date().getTime() - start < maxtimeOutMillis) && !condition ) {
                 // If not time-out yet and condition not yet fulfilled
-                condition = (typeof(testFx) === "string" ? eval(testFx) : testFx()); //< defensive code
+                condition = (typeof(testFx) === 'string' ? eval(testFx) : testFx()); //< defensive code
               } else {
                 if(!condition) {
                     // If condition still not fulfilled (timeout but condition is 'false')
@@ -28,7 +28,7 @@
                   } else {
                     // Condition fulfilled (timeout and/or condition is 'true')
                     console.log("'waitFor()' finished in " + (new Date().getTime() - start) + "ms.");
-                    typeof(onReady) === "string" ? eval(onReady) : onReady(); //< Do what it's supposed to do once the condition is fulfilled
+                    typeof(onReady) === 'string' ? eval(onReady) : onReady(); //< Do what it's supposed to do once the condition is fulfilled
                     clearInterval(interval); //< Stop this interval
                   }
                 }
@@ -38,20 +38,20 @@
 
   var page = require('webpage').create();
 
-  page.open("http://localhost:4000", function (status) {
+  page.open('http://localhost:4000/performers', function (status) {
     // Check for page load success
-    if (status !== "success") {
-      console.log("Unable to access network");
+    if (status !== 'success') {
+      console.log('Unable to access network');
       phantom.exit(1);
     } else {
         // Wait for 'signin-dropdown' to be visible
         waitFor(function() {
             // Check in the page if a specific element is now visible
             return page.evaluate(function() {
-              return $(".header-logo").is(":visible");
+              return $(':contains("Andy Wood")').is(':visible');
             });
           }, function() {
-           console.log("The sign-in dialog should be visible now.");
+           console.log('The sign-in dialog should be visible now.');
            phantom.exit();
          });
       }
