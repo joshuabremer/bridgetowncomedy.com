@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 set -e # halt script on error
+function cleanup {
+  echo "Shutting down jekyll..."
+  kill $(ps aux | grep '[j]ekyll' | awk '{print $2}')
+}
+trap cleanup EXIT
 
 bundle exec jekyll serve --detach
 sleep 3 # give Web server some time to bind to sockets, etc
 
-phantomjs tests/test_front_page.js
+phantomjs tests/all_tests.js
 
 
-
-
-# Kill the jekyll server
-kill $(ps aux | grep '[j]ekyll' | awk '{print $2}')
