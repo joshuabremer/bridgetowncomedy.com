@@ -64,7 +64,7 @@ const ObjectBuilder = Class.extend({
               return;
             }
           //smushit.smushit(imgDest);
-          //console.log('Resized and cropped: ' + image.width + ' x ' + image.height + ' | ' + imgDest);
+          console.log('Resized and cropped: ' + image.width + ' x ' + image.height + ' | ' + imgDest);
           // fs.unlink(imgSrc, function() {
           //  console.log('Deleted tmp file: ' + imgSrc);
           // });
