@@ -72,6 +72,13 @@ echo "\n\n\n\n======================================"
 echo "Refreshing Festival Data..."
 echo "======================================\n\n"
 
+if npm install ; then
+    :
+else
+    echo "Are you in the wrong directory?"
+    exit 1
+fi
+
 if node _node_scripts/build.js ; then
     :
 else
@@ -107,9 +114,10 @@ echo "<!-- This file was generated with build.sh -->\n\n" > _includes/styles.htm
 echo "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/styles.html
 echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
 
-# git add .;
-# numberfileschanges=$(git diff --cached --numstat | wc -l);
+git add .;
+numberfileschanges=$(git diff --cached --numstat | wc -l);
 # commitdiff=$(git --no-pager diff --name-status;);
-# git commit -a -m "Updated site - ${numberfileschanges} files changes" -m "${commitdiff}";
+echo commitdiff;
+git commit -a -m "Updated site - ${numberfileschanges} files changes" -m "${commitdiff}";
 
 # git push origin gh-pages;
