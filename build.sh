@@ -116,8 +116,8 @@ echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styl
 
 git add .;
 numberfileschanges=$(git diff --cached --numstat | wc -l);
-# commitdiff=$(git --no-pager diff --name-status;);
+commitdiff=$(git --no-pager diff --name-status;);
 echo commitdiff;
 git commit -a -m "Updated site - ${numberfileschanges} files changes" -m "${commitdiff}";
 
-# git push origin gh-pages;
+git push origin gh-pages;
