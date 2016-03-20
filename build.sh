@@ -104,15 +104,15 @@ echo "======================================\n\n"
 
 appjs=$(find ./assets -name "bridgetown*.js" -type f -exec basename {} \; 2>&1);
 vendorjs=$(find ./assets -name "vendor*.js" -type f -exec basename {} \; 2>&1);
-echo "<!-- This file was generated with build.sh -->\n\n" > _includes/footer.html
-echo "<script src='/assets/${vendorjs}'></script>" >> _includes/footer.html
-echo "<script src='/assets/${appjs}'></script>" >> _includes/footer.html
+printf "<!-- This file was generated with build.sh -->\n\n" > _includes/footer.html
+printf "<script src='/assets/${vendorjs}'></script>" >> _includes/footer.html
+printf "<script src='/assets/${appjs}'></script>" >> _includes/footer.html
 
 appcss=$(find ./assets -name "bridgetown*.css" -type f -exec basename {} \; 2>&1);
 vendorcss=$(find ./assets -name "vendor*.css" -type f -exec basename {} \; 2>&1);
-echo "<!-- This file was generated with build.sh -->\n\n" > _includes/styles.html
-echo "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/styles.html
-echo "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
+printf "<!-- This file was generated with build.sh -->\n\n" > _includes/styles.html
+printf "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/styles.html
+printf "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
 
 git add .;
 numberfileschanges=$(git diff --cached --numstat | wc -l);
