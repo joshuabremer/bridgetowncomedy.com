@@ -63,13 +63,6 @@
       "pageUrl": "10379-my-fathers-place"
     },
     {
-      "id": 10375,
-      "events": [],
-      "name": "Norse Hall",
-      "address": "111 N.E. 11th Avenue (at N.E. Couch Street), Portland, OR",
-      "pageUrl": "10375-norse-hall"
-    },
-    {
       "id": 12478,
       "events": [],
       "name": "Refuge PDX",
@@ -94,12 +87,6 @@
       "events": [],
       "name": "Trio Club",
       "pageUrl": "12533-trio-club"
-    },
-    {
-      "id": 10675,
-      "events": [],
-      "name": "White Owl Social Club",
-      "pageUrl": "10675-white-owl-social-club"
     }
   ]
 }
