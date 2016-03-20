@@ -2,14 +2,18 @@
   "venues": [
     {
       "id": 10763,
-      "events": [],
+      "events": [
+        12599
+      ],
       "name": "Analog Cafe (Downstairs)",
       "address": "345 SE Taylor St, Portland, OR 97214",
       "pageUrl": "10763-analog-cafe-downstairs"
     },
     {
       "id": 10677,
-      "events": [],
+      "events": [
+        12600
+      ],
       "name": "Analog Theater (Upstairs)",
       "address": "900 SE Salmon St, Portland, OR 97214",
       "pageUrl": "10677-analog-theater-upstairs"
