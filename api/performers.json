@@ -28,7 +28,9 @@
     },
     {
       "id": 12536,
-      "events": [],
+      "events": [
+        12655
+      ],
       "emceeEvents": [],
       "name": "Ted Leo",
       "twitter": "tedleo",
@@ -276,7 +278,9 @@
     {
       "id": 12551,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12654
+      ],
       "name": "Lance Bangs",
       "twitter": "lancebangs",
       "website": "http://www.lancebangs.com/",
@@ -900,7 +904,9 @@
     {
       "id": 12535,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12655
+      ],
       "name": "Aimee Mann",
       "twitter": "aimeemann",
       "website": "",

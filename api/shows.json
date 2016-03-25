@@ -14,7 +14,9 @@
     },
     {
       "id": 12487,
-      "events": [],
+      "events": [
+        12655
+      ],
       "name": "An Evening With Aimee Mann and Ted Leo (and Friends!)",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/aimee_ted.jpg",
       "photoUrl": "/api/img/show-images/show-aneveningwithaimeemannandtedleoandfriends-300x300.jpg",
@@ -26,7 +28,9 @@
     },
     {
       "id": 12550,
-      "events": [],
+      "events": [
+        12654
+      ],
       "name": "Lance Bangs Presents: Come Laugh with Us",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/cmwu_2016.jpg",
       "photoUrl": "/api/img/show-images/show-lancebangspresentscomelaughwithus-300x300.jpg",

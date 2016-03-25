@@ -1,7 +1,9 @@
 {
   "id": 12535,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12655
+  ],
   "name": "Aimee Mann",
   "twitter": "aimeemann",
   "website": "",
