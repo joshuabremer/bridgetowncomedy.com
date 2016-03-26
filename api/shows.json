@@ -14,9 +14,7 @@
     },
     {
       "id": 12487,
-      "events": [
-        12655
-      ],
+      "events": [],
       "name": "An Evening With Aimee Mann and Ted Leo (and Friends!)",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/aimee_ted.jpg",
       "photoUrl": "/api/img/show-images/show-aneveningwithaimeemannandtedleoandfriends-300x300.jpg",
@@ -28,9 +26,7 @@
     },
     {
       "id": 12550,
-      "events": [
-        12654
-      ],
+      "events": [],
       "name": "Lance Bangs Presents: Come Laugh with Us",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/cmwu_2016.jpg",
       "photoUrl": "/api/img/show-images/show-lancebangspresentscomelaughwithus-300x300.jpg",
@@ -366,9 +362,7 @@
     },
     {
       "id": 11676,
-      "events": [
-        12656
-      ],
+      "events": [],
       "name": "Reading The Bible With Dan Live",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/bible.png",
       "photoUrl": "/api/img/show-images/show-readingthebiblewithdanlive-300x300.jpg",

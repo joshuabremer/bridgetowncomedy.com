@@ -9,9 +9,7 @@
     },
     {
       "id": 10677,
-      "events": [
-        12600
-      ],
+      "events": [],
       "name": "Analog Theater (Upstairs)",
       "address": "900 SE Salmon St, Portland, OR 97214",
       "pageUrl": "10677-analog-theater-upstairs"
@@ -52,11 +50,7 @@
     },
     {
       "id": 10373,
-      "events": [
-        12479,
-        12599,
-        12656
-      ],
+      "events": [],
       "name": "Kill Rock Stars Stage at Doug Fir Lounge",
       "address": "830 E. Burnside St., Portland, OR",
       "pageUrl": "10373-kill-rock-stars-stage-at-doug-fir-lounge"
@@ -76,10 +70,7 @@
     },
     {
       "id": 10384,
-      "events": [
-        12654,
-        12655
-      ],
+      "events": [],
       "name": "Revolution Hall",
       "address": "Suite #110, 1300 SE Stark St, Portland, OR",
       "pageUrl": "10384-revolution-hall"
