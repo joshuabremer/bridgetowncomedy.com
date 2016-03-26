@@ -26,6 +26,7 @@ module.exports = ObjectBuilder.extend({
 
   normalizeData: function() {
     var eventObj = festivalData.getEventObject();
+    eventObj = [];
     for (var key in eventObj) {
       if (eventObj[key].ShowId !== '') {
         eventObj[key].show = eventObj[key].ShowId;
