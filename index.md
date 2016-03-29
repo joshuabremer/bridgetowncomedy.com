@@ -8,7 +8,7 @@ published: true
 <h3> Tickets on sale!</h3>
 
 <h3>
-  <a href="https://www.ticketfly.com/purchase/event/1145325?utm_source=os" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
+  <a href="https://www.eventbrite.com/e/2016-bridgetown-comedy-festival-june-1-5-tickets-23824633119" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
   Bridgetown Festival Passes</a>
 </h3>
 <hr />
