@@ -14,7 +14,7 @@ published: true
 <hr />
 <h3>
   <a href="https://www.ticketfly.com/purchase/event/1145325?utm_source=os" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
-  June 2nd - Lance Bang Presents: Come Laugh With Us</a>
+  June 2nd - Lance Bangs Presents: Come Laugh With Us</a>
 </h3>
 
 <h3>
