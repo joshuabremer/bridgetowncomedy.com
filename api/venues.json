@@ -15,6 +15,13 @@
       "pageUrl": "10677-analog-theater-upstairs"
     },
     {
+      "id": 10377,
+      "events": [],
+      "name": "Bit House Saloon",
+      "address": "315 SE 3rd Ave, Portland, OR",
+      "pageUrl": "10377-bit-house-saloon"
+    },
+    {
       "id": 10374,
       "events": [],
       "name": "MailChimp Stage at Bossanova Ballroom",
@@ -40,13 +47,6 @@
       "name": "Bunk Bar",
       "address": "1028 SE Water, Portland, OR",
       "pageUrl": "10378-bunk-bar"
-    },
-    {
-      "id": 10377,
-      "events": [],
-      "name": "Century",
-      "address": "315 SE 3rd Ave, Portland, OR",
-      "pageUrl": "10377-century"
     },
     {
       "id": 10373,
