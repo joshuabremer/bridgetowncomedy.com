@@ -61,6 +61,18 @@
       "iTunesUrl": ""
     },
     {
+      "id": 12492,
+      "events": [],
+      "name": "Baked",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
+      "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",
+      "sortOrder": 5,
+      "bio": "Baked is an evening of music and comedy hosted by Brendon Small (Metalocalypse, Home Movies) and Steve Agee (The Sarah Silverman Program, New Girl, Adventure Time) and an incredibly talented band including Joe Travers (Zappa Plays Zappa, Mike Keneally Band), Pete Griffin (Zappa Plays Zappa, Dethklok), and Mike Keneally (Mike Keneally Band)*. After a yearlong residency at LA&#039;s world famous jazz club The Baked Potato, Baked travels north to force its musical and comedic ethos onto the inhabitants of Portland and ultimately destroy their brains. Join us for a show in which comics are encouraged to perform in a musical capacity after a set of standup comedy. *Band lineup subject to change",
+      "copy": "",
+      "pageUrl": "12492-baked",
+      "iTunesUrl": ""
+    },
+    {
       "id": 11725,
       "events": [],
       "name": "Guy Branum&#039;s Gay Bash",
