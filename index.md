@@ -31,9 +31,10 @@ published: true
 <hr />
 
 
+<h3>Interested in Volunteering?</h3>
 <h3>
   <a href="http://bridgetown.festivalthing.com/volunteering" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
- Click Here to Volunteer</a>
+ Click here to volunteer</a>
 </h3>
 
 
