@@ -52,7 +52,7 @@ module.exports = ObjectBuilder.extend({
 
       // Create page URLs
       performerObj[key].pageUrl = performerObj[key].id + '-' + util.convertToSlug(performerObj[key].name);
-      performerObj[key].ExcludeFromList = (performerObj[key].ExcludeFromList === 'Yes' ? true : false);
+      performerObj[key].excludeFromList = (performerObj[key]['Exclude from list'] === 'true' ? true : false);
 
 
       performerObj[key].bio = performerObj[key].bio.replace(/\\u2028/g, '');
