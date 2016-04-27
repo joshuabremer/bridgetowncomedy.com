@@ -8,6 +8,7 @@
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_40.jpeg",
   "photoUrl": "/api/img/performer-images/performer-merlinmann-300x300.jpg",
   "sortOrder": 19,
+  "excludeFromList": false,
   "bio": "<p>Merlin Mann lives in San Francisco and is the host of several enjoyable podcasts including Roderick on the Line, Back to Work, Reconcilable Differences, and Top Scallops.</p>\n",
   "pageUrl": "12563-merlin-mann"
 }

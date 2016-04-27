@@ -8,6 +8,7 @@
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lizzy_pilcher.jpg",
   "photoUrl": "/api/img/performer-images/performer-lizzypilcher-300x300.jpg",
   "sortOrder": 111,
+  "excludeFromList": false,
   "bio": "<p>Lizzy Pilcher is a stand up comedian that has played at clubs and colleges all over the nation. Super funny. Super tall. Sardonic and smart. Has a love/hate relationship with everything on the Denny&#039;s menu.</p>\n",
   "pageUrl": "11851-lizzy-pilcher"
 }
