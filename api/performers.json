@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 12576,
+      "id": 12185,
       "events": [],
       "emceeEvents": [],
-      "name": "Alice Wetterlund",
-      "twitter": "alicewetterlund",
-      "website": "http://alicewetterlund.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/al071.jpg",
-      "photoUrl": "/api/img/performer-images/performer-alicewetterlund-300x300.jpg",
-      "sortOrder": 72,
+      "name": "Bri Pruett",
+      "twitter": "Bripruett",
+      "website": "http://Bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 73,
       "excludeFromList": false,
-      "bio": "<p>Alice Wetterlund is a stand-up comedian, improvisor and actor originally from Minneapolis, Minnesota. She performs regularly at all the UCBees as well as San Francisco’s Punchline, and LA’s Largo and The Hollywood Improv as well as festivals and clubs throughout the continent. She currently resides in LA with her two feline sons, Biscuit and Birdie. You can see Alice as Carla Walton on HBO’s Silicon Valley, as Kelly Grady in the upcoming People of Earth on TBS, as well as in the feature Mike and Dave Need Wedding Dates, coming this summer to theaters.</p>\n",
-      "pageUrl": "12576-alice-wetterlund"
+      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
+      "pageUrl": "12185-bri-pruett"
     },
     {
       "id": 12538,
@@ -995,6 +995,20 @@
       "pageUrl": "12245-anthony-lopez"
     },
     {
+      "id": 12576,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Alice Wetterlund",
+      "twitter": "alicewetterlund",
+      "website": "http://alicewetterlund.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/al071.jpg",
+      "photoUrl": "/api/img/performer-images/performer-alicewetterlund-300x300.jpg",
+      "sortOrder": 72,
+      "excludeFromList": false,
+      "bio": "<p>Alice Wetterlund is a stand-up comedian, improvisor and actor originally from Minneapolis, Minnesota. She performs regularly at all the UCBees as well as San Francisco’s Punchline, and LA’s Largo and The Hollywood Improv as well as festivals and clubs throughout the continent. She currently resides in LA with her two feline sons, Biscuit and Birdie. You can see Alice as Carla Walton on HBO’s Silicon Valley, as Kelly Grady in the upcoming People of Earth on TBS, as well as in the feature Mike and Dave Need Wedding Dates, coming this summer to theaters.</p>\n",
+      "pageUrl": "12576-alice-wetterlund"
+    },
+    {
       "id": 12535,
       "events": [],
       "emceeEvents": [],
@@ -1007,20 +1021,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 12185,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Bri Pruett",
-      "twitter": "Bripruett",
-      "website": "http://Bripruett.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
-      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
-      "sortOrder": 73,
-      "excludeFromList": false,
-      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
-      "pageUrl": "12185-bri-pruett"
     },
     {
       "id": 12289,
@@ -2001,6 +2001,20 @@
       "excludeFromList": false,
       "bio": "<p>James Urbaniak plays Arthur on Hulu's \"Difficult People,\" Grant on Comedy Central's \"Review\" and is the voice of Dr. Venture on Adult Swim's \"The Venture Bros.” Other TV credits include “The Office,” \"Homeland,\" \"Sex and the City,\" \"Dice,\" \"Dr. Ken,\" \"Adventure Time\" and many red herrings and psychopaths on some of America's most popular crime procedurals. Films include \"American Splendor\" (as Robert Crumb), \"You Don't Know Jack\" with Al Pacino, \"Confessions of a Dangerous Mind,\" “Advantageous,” Across the Universe,\" \"Sound of My Voice,\" \"The Boxtrolls\" and the Hal Hartley' trilogy \"Henry Fool,\" \"Fay Grim\" and \"Ned Rifle.\" Upcoming films include Danny Strong's J.D. Salinger biopic \"Rebel in the Rye\" and Todd Haynes' \"Wonderstruck.\" His podcast \"Getting On with James Urbaniak\" on Feral Audio was called one of the top comedy podcasts by Rolling Stone. James is also developing a scripted podcast serial that will premiere on Earwolf's Howl channel in the fall.</p>\n",
       "pageUrl": "12970-james-urbaniak"
+    },
+    {
+      "id": 11975,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brooks Wheelan",
+      "twitter": "brookswheelan",
+      "website": "http://brookswheelan.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/brooks008e.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brookswheelan-300x300.jpg",
+      "sortOrder": 144,
+      "excludeFromList": true,
+      "bio": "<p>Brooks originally hails from Iowa where he attended the University of Iowa.  Most recently he appeared in season four of HBO’s Girls.  He was a writer and cast member on Season 39 of NBC’s Saturday Night Live.  In 2013, he made his stand up television debut on Comedy Central’s Adam Devine’s House Party and TBS’s Conan, and in 2012, he was invited to perform at the New York Comedy Festival as a part of Comedy Central’s Top 10 Comics to Watch, and was a breakout performer as a new face at the prestigious Just for Laughs Festival in Montreal as well as the Comedy Central South Beach Comedy Festival. Brooks is currently headlining colleges and clubs throughout the US. </p>\n<p>“Wheelan is himself a name to watch, getting great reviews for his sharp and sometimes dark observations of American life.” – London Times</p>\n",
+      "pageUrl": "11975-brooks-wheelan"
     }
   ]
 }
