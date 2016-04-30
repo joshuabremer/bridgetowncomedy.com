@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 12245,
+      "id": 12576,
       "events": [],
       "emceeEvents": [],
-      "name": "Anthony Lopez",
-      "twitter": "anthonylopezpt2",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/anthony_lopez.jpg",
-      "photoUrl": "/api/img/performer-images/performer-anthonylopez-300x300.jpg",
-      "sortOrder": 71,
+      "name": "Alice Wetterlund",
+      "twitter": "alicewetterlund",
+      "website": "http://alicewetterlund.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/al071.jpg",
+      "photoUrl": "/api/img/performer-images/performer-alicewetterlund-300x300.jpg",
+      "sortOrder": 72,
       "excludeFromList": false,
-      "bio": "<p>Anthony Lopez co-hosts the very successful weekly Portland stand up show &quot;Earthquake Hurricane,&quot; is the Senior Writer for the popular Portland talk show &quot;Late Night Action,&quot; and has trouble saying the letter R.  He has written for the Gotham Independent Film awards, NPR&#039;s &quot;Livewire&quot; and the Willamette Week. He is often loud and has a opinions on everything.  He can be seen featuring at Helium Comedy Club and performing at festivals and showcases across the country.</p>\n",
-      "pageUrl": "12245-anthony-lopez"
+      "bio": "<p>Alice Wetterlund is a stand-up comedian, improvisor and actor originally from Minneapolis, Minnesota. She performs regularly at all the UCBees as well as San Francisco’s Punchline, and LA’s Largo and The Hollywood Improv as well as festivals and clubs throughout the continent. She currently resides in LA with her two feline sons, Biscuit and Birdie. You can see Alice as Carla Walton on HBO’s Silicon Valley, as Kelly Grady in the upcoming People of Earth on TBS, as well as in the feature Mike and Dave Need Wedding Dates, coming this summer to theaters.</p>\n",
+      "pageUrl": "12576-alice-wetterlund"
     },
     {
       "id": 12538,
@@ -981,6 +981,20 @@
       "pageUrl": "11993-yusef-roach"
     },
     {
+      "id": 12245,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Anthony Lopez",
+      "twitter": "anthonylopezpt2",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/anthony_lopez.jpg",
+      "photoUrl": "/api/img/performer-images/performer-anthonylopez-300x300.jpg",
+      "sortOrder": 71,
+      "excludeFromList": false,
+      "bio": "<p>Anthony Lopez co-hosts the very successful weekly Portland stand up show &quot;Earthquake Hurricane,&quot; is the Senior Writer for the popular Portland talk show &quot;Late Night Action,&quot; and has trouble saying the letter R.  He has written for the Gotham Independent Film awards, NPR&#039;s &quot;Livewire&quot; and the Willamette Week. He is often loud and has a opinions on everything.  He can be seen featuring at Helium Comedy Club and performing at festivals and showcases across the country.</p>\n",
+      "pageUrl": "12245-anthony-lopez"
+    },
+    {
       "id": 12535,
       "events": [],
       "emceeEvents": [],
@@ -993,20 +1007,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 12576,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Alice Wetterlund",
-      "twitter": "alicewetterlund",
-      "website": "http://alicewetterlund.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/al071.jpg",
-      "photoUrl": "/api/img/performer-images/performer-alicewetterlund-300x300.jpg",
-      "sortOrder": 72,
-      "excludeFromList": false,
-      "bio": "<p>Alice Wetterlund is a stand-up comedian, improvisor and actor originally from Minneapolis, Minnesota. She performs regularly at all the UCBees as well as San Francisco’s Punchline, and LA’s Largo and The Hollywood Improv as well as festivals and clubs throughout the continent. She currently resides in LA with her two feline sons, Biscuit and Birdie. You can see Alice as Carla Walton on HBO’s Silicon Valley, as Kelly Grady in the upcoming People of Earth on TBS, as well as in the feature Mike and Dave Need Wedding Dates, coming this summer to theaters.</p>\n",
-      "pageUrl": "12576-alice-wetterlund"
     },
     {
       "id": 12185,
@@ -1973,6 +1973,20 @@
       "excludeFromList": true,
       "bio": "<p>this is a bio</p>\n",
       "pageUrl": "12891-andrew-ti"
+    },
+    {
+      "id": 12968,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Laura Kightlinger",
+      "twitter": "KingKightlinger",
+      "website": "http://laurakightlinger.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/unnamed.jpg",
+      "photoUrl": "/api/img/performer-images/performer-laurakightlinger-300x300.jpg",
+      "sortOrder": 142,
+      "excludeFromList": false,
+      "bio": "<p>Laura Kightlinger is a prolific stand up comic with three HBO half-hour specials and four Comedy Central specials under her Spanx. She was a series regular on HBO’s Lucky Louie; created and starred in her own series, The Minor Accomplishments of Jackie Woodman on IFC. Her book, “Quick Shots of False Hope”, has been adapted for a TV series.  She can be seen in Middle School: The Worst Years of My Life, this fall. Kightlinger continues to throw shit against the wall in TV, film, animation and the black arts.</p>\n",
+      "pageUrl": "12968-laura-kightlinger"
     }
   ]
 }
