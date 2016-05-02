@@ -15,7 +15,7 @@ Yes! Well, sort of. This year we are selling advance individual show tickets to 
 
 Apart from that, If you want to attend a single show, you can pay admission as you enter (doors open 30 minutes prior to showtime). This has been Bridgetown’s longtime policy in an attempt to avoid penalizing full festival pass-holders. This way, no matter how popular a single show may be, those with festival passes and those who only want to attend one show have an equal chance at getting in by lining up beforehand.
 
-Note: Individual show tickets are only valid for a single show. They do not grant access for the following shows in the same venue.
+Note: Individual show admission is only valid for a single show. It does not grant access for the following shows in the same venue.
 
 **So I bought a festival pass. What now? Where do I pick it up?**
 
@@ -44,5 +44,3 @@ We usually publish the complete festival schedule about three weeks before the f
 **What venues is the festival using this year?**
 
 We’ll have a list of 2016 Bridgetown venues and a handy map published here on our site by the end of April.
-
-
