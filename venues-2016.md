@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venues
-permalink: /venues/
+permalink: /venues-2016/
 description: "Come join us on East Burnside for the Bridgetown Comedy Festival in 2016!"
 published: true
 ---
