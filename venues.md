@@ -9,94 +9,79 @@ published: true
 <iframe src="https://www.google.com/maps/d/embed?mid=zFy_pBh586PU.kRbpURgWK14Q" width="100%" height="480"></iframe>
 
 
-<a href="/venue/10373-kill-rock-stars-stage-at-doug-fir-lounge">
-  <img src="/img/venue-images/venue-doug-fir.png" />
-</a>
+<img src="/img/venue-images/venue-revolution-hall.png" />
 
-### Kill Rock Stars Stage at Doug Fir Lounge
-
-  [www.dougfirlounge.com](http://www.dougfirlounge.com/)
-
-830 E Burnside Street, Portland, OR 97214
-
-[View Shows →](/venue/10373-kill-rock-stars-stage-at-doug-fir-lounge)
-
-
-<a href="/venue/10374-mailchimp-stage-at-bossanova-ballroom">
-  <img src="/img/venue-images/venue-bossanova.png" />
-</a>
-
-### MailChimp Stage at Bossanova Ballroom
-
-  [www.bossanovaballroom.com](http://www.bossanovaballroom.com)
-
-722 E Burnside Street, Portland, OR 97214
-
-[View Shows →](/venue/10374-mailchimp-stage-at-bossanova-ballroom)
-
-
-
-<a href="/venue/10384-revolution-hall">
-  <img src="/img/venue-images/venue-revolution-hall.png" />
-</a>
 
 ### Revolution Hall
 
-  [www.revolutionhallpdx.com](http://www.revolutionhallpdx.com/)
+[www.revolutionhallpdx.com](http://www.revolutionhallpdx.com/)
 
 1300 SE Stark Street, Portland, OR 97214
 
-[View Shows →](/venue/10384-revolution-hall)
+
+
+<img src="/img/venue-images/venue-bossanova.png" />
+
+### Bossanova Ballroom & Bossanova Tent
+
+[www.bossanovaballroom.com](http://www.bossanovaballroom.com)
+
+722 E Burnside Street, Portland, OR 97214
 
 
 
-<a href="/venue/10375-norse-hall">
-  <img src="/img/venue-images/venue-norse.png" />
-</a>
+<img src="/img/venue-images/venue-doug-fir.png" />
 
-### Audible Stage at Norse Hall
+### Doug Fir Lounge
 
-  [www.norsehall.org](/venue/10375-norse-hall)
+[www.dougfirlounge.com](http://www.dougfirlounge.com/)
 
-111 NE 11th Avenue (at NE Couch Street), Portland, OR 97232
-
-[View Shows →](/venue/10375-norse-hall)
+830 E Burnside Street, Portland, OR 97214
 
 
 
-<a href="/venue/10377-rotture-lower">
-  <img src="/img/venue-images/venue-rotture.png" />
-</a>
-
-### Rotture
-
-  [www.rotture.com](http://www.rotture.com)
-
-315 SE 3rd Avenue, Portland, OR 97214
-
-[View Shows for Rotture Lower→](/venue/10377-rotture-lower)
-
-[View Shows for Rotture Upper→](/venue/10376-rotture-upper)
-
-
-n
-<a href="/venue/10379-my-fathers-place">
-  <img src="/img/venue-images/venue-my-fathers-place.png" />
-</a>
-
-### My Father's Place
-
-[myfathersplacepdx.com](http://myfathersplacepdx.com/)
-
-523 SE Grand Avenue, Portland, OR 97214
-	
-[View Shows →](/venue/10379-my-fathers-place)
 
 
 
-<a href="/venue/10378-bunk">
-  <img src="/img/venue-images/venue-bunk-bar.png" />
-</a>
+### Refuge PDX
+
+[www.refugepdx.com](http://www.refugepdx.com)
+
+116 SE Yamhill St, Portland, OR 97217
+
+
+
+
+
+<img src="/img/venue-images/venue-bunk-bar.png" />
+
+### Siren Theatre
+
+[www.sirentheater.com](http://www.sirentheater.com/)
+
+315 NW Davis St, Portland, OR 97209
+
+
+
+
+
+
+
+<img src="/img/venue-images/venue-bunk-bar.png" />
+
+
+### Trio Club
+
+  [www.triokaraoke.com](http://www.triokaraoke.com/)
+
+909 E Burnside St, Portland, OR 97214
+
+
+
+
+
+
+<img src="/img/venue-images/venue-bunk-bar.png" />
 
 ### Bunk Bar
 
@@ -104,18 +89,14 @@ n
 
 1028 SE Water Street, Portland, OR 97214
 
-[View Shows →](/venue/10378-bunk)
 
 
 
-<a href="/venue/10380-boogies-burgers">
-  <img src="/img/venue-images/venue-boogie-burgers.png" />
-</a>
 
-### Boogie's Burgers and Brew
+<img src="/img/venue-images/venue-my-fathers-place.png" />
 
-  [www.boogiesburgersandbrew.com](http://www.boogiesburgersandbrew.com/)
+### My Father's Place
 
-910 E Burnside Street, Portland, OR 97214
+[myfathersplacepdx.com](http://myfathersplacepdx.com/)
 
-[View Shows →](/venue/10380-boogies-burgers)
+523 SE Grand Avenue, Portland, OR 97214
