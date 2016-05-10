@@ -41,7 +41,7 @@ published: true
 
 
 
-
+<img src="/img/venue-images/venue-refuge.png" />
 
 ### Refuge PDX
 
@@ -53,7 +53,7 @@ published: true
 
 
 
-<img src="/img/venue-images/venue-bunk-bar.png" />
+<img src="/img/venue-images/venue-siren-theatre.png" />
 
 ### Siren Theatre
 
@@ -67,7 +67,7 @@ published: true
 
 
 
-<img src="/img/venue-images/venue-bunk-bar.png" />
+<img src="/img/venue-images/venue-trio-club.jpg" />
 
 
 ### Trio Club
