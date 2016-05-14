@@ -78,15 +78,20 @@ published: true
 909 E Burnside St, Portland, OR 97214
 
 
+<img src="/img/venue-images/venue-analog.jpeg" />
 
+### Analog Cafe
 
+[www.analogpdx.com](http://www.analogpdx.com/)
+
+720 SE Hawthorne Blvd, Portland, OR 97214
 
 
 <img src="/img/venue-images/venue-bunk-bar.png" />
 
 ### Bunk Bar
 
-  [www.bunksandwiches.com/bunkbar](http://www.bunksandwiches.com/bunkbar/)
+[www.bunksandwiches.com/bunkbar](http://www.bunksandwiches.com/bunkbar/)
 
 1028 SE Water Street, Portland, OR 97214
 
