@@ -1,7 +1,13 @@
 {
   "id": 11851,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12725,
+    12768,
+    12835
+  ],
+  "emceeEvents": [
+    12751
+  ],
   "name": "Lizzy Pilcher",
   "twitter": "lizzypilcher",
   "website": "http://www.lizzypilcher.com",

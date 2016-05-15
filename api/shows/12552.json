@@ -1,6 +1,8 @@
 {
   "id": 12552,
-  "events": [],
+  "events": [
+    12813
+  ],
   "name": "Pep Talks Podcast",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/peptalks_atccover4.jpg",
   "photoUrl": "/api/img/show-images/show-peptalkspodcast-300x300.jpg",

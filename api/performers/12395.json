@@ -1,7 +1,14 @@
 {
   "id": 12395,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12734,
+    12802,
+    13028,
+    13030
+  ],
+  "emceeEvents": [
+    12767
+  ],
   "name": "Jacob Christopher ",
   "twitter": "WWJChristD",
   "website": "http://www.jacobchristophercomedy.com",

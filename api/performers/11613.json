@@ -1,7 +1,14 @@
 {
   "id": 11613,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12764,
+    12792,
+    12826,
+    13031
+  ],
+  "emceeEvents": [
+    12735
+  ],
   "name": "Barbara Holm",
   "twitter": "barbara_holm",
   "website": "http://barbaraholm.com",

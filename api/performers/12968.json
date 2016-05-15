@@ -1,6 +1,11 @@
 {
   "id": 12968,
-  "events": [],
+  "events": [
+    12751,
+    12823,
+    13022,
+    13034
+  ],
   "emceeEvents": [],
   "name": "Laura Kightlinger",
   "twitter": "KingKightlinger",

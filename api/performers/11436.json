@@ -1,7 +1,13 @@
 {
   "id": 11436,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12736,
+    12764,
+    12814
+  ],
+  "emceeEvents": [
+    12788
+  ],
   "name": "Subhah Agarwal",
   "twitter": "subhah",
   "website": "http://www.subhahcomedy.com",

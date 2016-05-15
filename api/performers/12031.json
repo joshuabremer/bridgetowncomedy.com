@@ -1,7 +1,14 @@
 {
   "id": 12031,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12740,
+    12745,
+    12810,
+    13031
+  ],
+  "emceeEvents": [
+    12834
+  ],
   "name": "JoAnn Schinderle",
   "twitter": "joannlizabeth",
   "website": "http://joannschinderle.com/",

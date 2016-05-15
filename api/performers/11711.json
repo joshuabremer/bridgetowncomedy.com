@@ -1,7 +1,17 @@
 {
   "id": 11711,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12735,
+    12736,
+    12772,
+    12774,
+    12822,
+    12823,
+    12905
+  ],
+  "emceeEvents": [
+    12658
+  ],
   "name": "Guy Branum",
   "twitter": "guybranum",
   "website": "http://www.guybranum.com",

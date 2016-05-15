@@ -1,0 +1,21 @@
+{
+  "id": 12943,
+  "performers": [
+    12276,
+    12936,
+    11882,
+    11494,
+    11496,
+    12137,
+    11956,
+    12260
+  ],
+  "emcee": 11164,
+  "venue": 10677,
+  "name": "Midnight Mass",
+  "description": "",
+  "startDateTime": "2016-06-05T06:30:00.000Z",
+  "endDateTime": "2016-06-05T06:59:00.000Z",
+  "price": 0,
+  "pageUrl": "12943-midnight-mass"
+}

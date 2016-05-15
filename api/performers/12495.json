@@ -1,6 +1,11 @@
 {
   "id": 12495,
-  "events": [],
+  "events": [
+    12721,
+    12748,
+    12823,
+    13020
+  ],
   "emceeEvents": [],
   "name": "Laurie Kilmartin",
   "twitter": "anylaurie16",

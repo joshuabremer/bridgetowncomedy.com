@@ -1,7 +1,9 @@
 {
   "id": 12563,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12785
+  ],
   "name": "Merlin Mann",
   "twitter": "hotdogsladies",
   "website": "http://www.merlinmann.com/",

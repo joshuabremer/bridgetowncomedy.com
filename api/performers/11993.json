@@ -1,7 +1,14 @@
 {
   "id": 11993,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12599,
+    12725,
+    12749,
+    12750
+  ],
+  "emceeEvents": [
+    12835
+  ],
   "name": "Yusef Roach",
   "twitter": "yusefroach",
   "website": "",

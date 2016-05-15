@@ -1,7 +1,16 @@
 {
   "id": 11630,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12725,
+    12764,
+    12787,
+    12822,
+    13031
+  ],
+  "emceeEvents": [
+    12795,
+    12831
+  ],
   "name": "Adam Pasi",
   "twitter": "adampasi",
   "website": "http://bridgetown.festivalthing.com/N/A",

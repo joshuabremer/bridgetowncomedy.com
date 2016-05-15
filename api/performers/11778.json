@@ -1,7 +1,14 @@
 {
   "id": 11778,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12682,
+    12729,
+    12767,
+    12831
+  ],
+  "emceeEvents": [
+    12793
+  ],
   "name": "J.P. McDade",
   "twitter": "jp_mcdade",
   "website": "http://jpmcdade.squarespace.com",

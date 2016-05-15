@@ -1,7 +1,13 @@
 {
   "id": 11606,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12792,
+    13021,
+    13042
+  ],
+  "emceeEvents": [
+    12765
+  ],
   "name": "Jason Webb",
   "twitter": "tennisshoeboi",
   "website": "http://www.jasonwebbcomedy.com",

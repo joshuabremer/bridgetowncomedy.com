@@ -1,7 +1,13 @@
 {
   "id": 11257,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12657,
+    12835,
+    13045
+  ],
+  "emceeEvents": [
+    12734
+  ],
   "name": "Maria Shehata",
   "twitter": "mariashehata",
   "website": "http://www.mariashehata.com",

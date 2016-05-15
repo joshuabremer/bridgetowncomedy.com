@@ -1,7 +1,16 @@
 {
   "id": 12114,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12727,
+    12775,
+    12788,
+    12822,
+    13028,
+    13031
+  ],
+  "emceeEvents": [
+    12802
+  ],
   "name": "Leah Mansfield",
   "twitter": "leahmansfield",
   "website": "http://leahmansfield.com",

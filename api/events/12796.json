@@ -1,0 +1,20 @@
+{
+  "id": 12796,
+  "performers": [
+    11780,
+    12036,
+    11777,
+    11473,
+    12000,
+    12680,
+    13046
+  ],
+  "emcee": 12446,
+  "venue": 10378,
+  "name": "Secret Headliner!",
+  "description": "<p>Standup showcase with a closing set from a surprise guest.</p>\n",
+  "startDateTime": "2016-06-05T06:00:00.000Z",
+  "endDateTime": "2016-06-05T06:59:00.000Z",
+  "price": 0,
+  "pageUrl": "12796-secret-headliner"
+}

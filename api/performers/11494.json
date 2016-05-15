@@ -1,7 +1,14 @@
 {
   "id": 11494,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12724,
+    12822,
+    12828,
+    12943
+  ],
+  "emceeEvents": [
+    12742
+  ],
   "name": "Nato Green",
   "twitter": "natogreen",
   "website": "http://www.natogreen.com",

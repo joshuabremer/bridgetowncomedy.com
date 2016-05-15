@@ -4,6 +4,7 @@ const festivalData = require('./festival-data');
 const ObjectBuilder = require('./object-builder');
 const ent = require('ent');
 const moment = require('moment');
+const wrench = require('wrench');
 
 module.exports = ObjectBuilder.extend({
   WHITELISTED_ATTRIBUTES: [
@@ -26,7 +27,7 @@ module.exports = ObjectBuilder.extend({
 
   normalizeData: function() {
     var eventObj = festivalData.getEventObject();
-    eventObj = [];
+    // eventObj = [];
     for (var key in eventObj) {
       if (eventObj[key].ShowId !== '') {
         eventObj[key].show = eventObj[key].ShowId;
@@ -39,7 +40,7 @@ module.exports = ObjectBuilder.extend({
       eventObj[key].venue = Number(eventObj[key].VenueId);
       eventObj[key].startDateTime = moment(eventObj[key].StartTime.split(' to ')[0] + '-07:00').utcOffset(-7).toISOString();
       eventObj[key].endDateTime = moment(eventObj[key].StartTime.split(' to ')[1] + '-07:00').utcOffset(-7).toISOString();
-
+      eventObj[key].description = eventObj[key].Description;
       //var eventDayOfWeek = moment( eventObj[key].start_time ).format("dddd").toLowerCase();
       eventObj[key].pageUrl = eventObj[key].id + '-' + util.convertToSlug(eventObj[key].name);
     }
@@ -57,28 +58,36 @@ module.exports = ObjectBuilder.extend({
     }
     fs.writeFileSync(this.TMP_PATH, JSON.stringify(eventObj, null, ' '), 'utf8');
 
-    // Refactor this out
-    this.addMCsIfTheyExist();
+    // // Refactor this out
+    // this.addMCsIfTheyExist();
   },
 
+  createStaticPages: function() {
+    var eventObj = festivalData.getEventObject();
+    var rootPath = '../event/';
+    wrench.rmdirSyncRecursive('../event', true);
+    fs.mkdirSync('../event');
 
+    for (var key in eventObj) {
+      var dirPath = rootPath + eventObj[key].pageUrl;
+      var filePath = dirPath + '/index.html';
 
-  addMCsIfTheyExist: function() {
-    // var eventObj = festivalData.getEventObject();
+      if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath);
+      }
+      fs.openSync(filePath, 'w');
+      process.stdout.write('.');
+      fs.appendFileSync(filePath, '---\n');
+      fs.appendFileSync(filePath, 'layout: page\n');
+      fs.appendFileSync(filePath, 'title: "' + eventObj[key].name + '"\n');
+      fs.appendFileSync(filePath, 'category: event \n');
+      fs.appendFileSync(filePath, '---\n\n');
 
-    // for (var key in eventObj) {
-    //   var MCId = eventObj[key].MCId;
+      fs.appendFileSync(filePath, util.htmlToText(eventObj[key].description));
+    }
 
-    //   if (!festivalData.doesPerformerExistForId(MCId)) {
-    //     continue;
-    //   }
-
-    //   if (MCId) {
-    //     eventObj[key].emcee = parseInt(MCId, 10);
-    //   }
-    // }
-
-    // fs.writeFileSync(this.TMP_PATH, JSON.stringify(eventObj, null, ' '), 'utf8');
+    var message = '\n' + eventObj.length + ' event pages created\n';
+    console.log(message);
   }
 });
 

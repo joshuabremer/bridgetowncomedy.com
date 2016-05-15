@@ -1,6 +1,8 @@
 {
   "id": 12676,
-  "events": [],
+  "events": [
+    12905
+  ],
   "name": "Turnt Up with Eliza Skinner",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/eliza0016.jpg",
   "photoUrl": "/api/img/show-images/show-turntupwithelizaskinner-300x300.jpg",

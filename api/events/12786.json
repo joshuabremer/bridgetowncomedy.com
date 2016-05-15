@@ -1,0 +1,19 @@
+{
+  "id": 12786,
+  "performers": [
+    12447,
+    12477,
+    12970,
+    12472,
+    12268
+  ],
+  "emcee": 12543,
+  "venue": 10373,
+  "show": "12547",
+  "name": "Reunited",
+  "description": "",
+  "startDateTime": "2016-06-04T23:00:00.000Z",
+  "endDateTime": "2016-06-05T00:30:00.000Z",
+  "price": 0,
+  "pageUrl": "12786-reunited"
+}

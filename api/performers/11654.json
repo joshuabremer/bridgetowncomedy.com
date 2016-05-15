@@ -1,7 +1,16 @@
 {
   "id": 11654,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12683,
+    12727,
+    12751,
+    12787,
+    12822,
+    13022
+  ],
+  "emceeEvents": [
+    12814
+  ],
   "name": "Kate Willett ",
   "twitter": "katewillett",
   "website": "http://katewillett.com",

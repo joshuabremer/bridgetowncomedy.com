@@ -1,6 +1,9 @@
 {
   "id": 12879,
-  "events": [],
+  "events": [
+    12479,
+    12723
+  ],
   "emceeEvents": [],
   "name": "Peter Griffin",
   "twitter": "",

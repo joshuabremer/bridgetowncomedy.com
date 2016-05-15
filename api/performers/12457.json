@@ -1,6 +1,11 @@
 {
   "id": 12457,
-  "events": [],
+  "events": [
+    12740,
+    12747,
+    12802,
+    12833
+  ],
   "emceeEvents": [],
   "name": "Josh Sneed",
   "twitter": "JoshSneed",

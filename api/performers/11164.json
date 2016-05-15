@@ -1,7 +1,16 @@
 {
   "id": 11164,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12684,
+    12732,
+    12800,
+    12822,
+    13039
+  ],
+  "emceeEvents": [
+    12736,
+    12943
+  ],
   "name": "Amy Miller",
   "twitter": "amymiller",
   "website": "http://amymillercomedy.com",

@@ -1,3 +1,1829 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": 12479,
+      "performers": [
+        12493,
+        12491,
+        12879,
+        12876,
+        11953,
+        12498
+      ],
+      "emcee": 10429,
+      "venue": 10373,
+      "show": "12492",
+      "name": "Baked",
+      "description": "",
+      "startDateTime": "2016-06-04T02:00:00.000Z",
+      "endDateTime": "2016-06-04T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12479-baked"
+    },
+    {
+      "id": 12599,
+      "performers": [
+        11993,
+        11482,
+        11452,
+        11320,
+        11761,
+        12173,
+        12488
+      ],
+      "emcee": 11981,
+      "venue": 10373,
+      "name": "Festival Kick-Off Show",
+      "description": "",
+      "startDateTime": "2016-06-02T02:00:00.000Z",
+      "endDateTime": "2016-06-02T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12599-festival-kick-off-show"
+    },
+    {
+      "id": 12654,
+      "performers": [
+        11783,
+        11427,
+        12137,
+        11506,
+        12493,
+        13036,
+        13046
+      ],
+      "emcee": 12551,
+      "venue": 10384,
+      "show": "12550",
+      "name": "Lance Bangs Presents: Come Laugh with Us",
+      "description": "",
+      "startDateTime": "2016-06-03T03:00:00.000Z",
+      "endDateTime": "2016-06-03T04:30:00.000Z",
+      "price": 20,
+      "pageUrl": "12654-lance-bangs-presents-come-laugh-with-us"
+    },
+    {
+      "id": 12655,
+      "performers": [
+        12535,
+        12536,
+        12562,
+        12401,
+        12488
+      ],
+      "emcee": 0,
+      "venue": 10384,
+      "show": "12487",
+      "name": "An Evening With Aimee Mann and Ted Leo",
+      "description": "",
+      "startDateTime": "2016-06-04T03:00:00.000Z",
+      "endDateTime": "2016-06-04T04:30:00.000Z",
+      "price": 25,
+      "pageUrl": "12655-an-evening-with-aimee-mann-and-ted-leo"
+    },
+    {
+      "id": 12657,
+      "performers": [
+        12289,
+        11257,
+        11570,
+        11964,
+        11235
+      ],
+      "emcee": 11464,
+      "venue": 10380,
+      "name": "Best In Tent: Un-Repped Showcase",
+      "description": "",
+      "startDateTime": "2016-06-04T02:30:00.000Z",
+      "endDateTime": "2016-06-04T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12657-best-in-tent-un-repped-showcase"
+    },
+    {
+      "id": 12658,
+      "performers": [
+        11904,
+        11482,
+        11217,
+        12268,
+        11977,
+        11956,
+        12401
+      ],
+      "emcee": 11711,
+      "venue": 12478,
+      "show": "11725",
+      "name": "Guy Branum's Gay Bash",
+      "description": "",
+      "startDateTime": "2016-06-05T05:00:00.000Z",
+      "endDateTime": "2016-06-05T06:30:00.000Z",
+      "price": 15,
+      "pageUrl": "12658-guy-branums-gay-bash"
+    },
+    {
+      "id": 12682,
+      "performers": [
+        12220,
+        11778,
+        12260,
+        11904,
+        12140,
+        12896,
+        12454
+      ],
+      "emcee": 12224,
+      "venue": 10373,
+      "name": "Doug Fir Primetime",
+      "description": "",
+      "startDateTime": "2016-06-02T04:00:00.000Z",
+      "endDateTime": "2016-06-02T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12682-doug-fir-primetime"
+    },
+    {
+      "id": 12683,
+      "performers": [
+        12185,
+        12094,
+        12245,
+        11654,
+        11427,
+        11399,
+        11956,
+        11443
+      ],
+      "emcee": 11639,
+      "venue": 10374,
+      "show": "11841",
+      "name": "Earthquake Hurricane",
+      "description": "",
+      "startDateTime": "2016-06-02T03:00:00.000Z",
+      "endDateTime": "2016-06-02T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12683-earthquake-hurricane"
+    },
+    {
+      "id": 12684,
+      "performers": [
+        11498,
+        11929,
+        11881,
+        11821,
+        11693,
+        11164,
+        12557
+      ],
+      "emcee": 11402,
+      "venue": 12605,
+      "name": "Supernova",
+      "description": "",
+      "startDateTime": "2016-06-02T05:00:00.000Z",
+      "endDateTime": "2016-06-02T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12684-supernova"
+    },
+    {
+      "id": 12719,
+      "performers": [
+        12384,
+        12370,
+        12289,
+        11882,
+        11284,
+        11777,
+        12493
+      ],
+      "emcee": 11964,
+      "venue": 10376,
+      "name": "Call of the Siren",
+      "description": "<p>The lure of this comedy show will draw you downtown.</p>\n",
+      "startDateTime": "2016-06-02T02:30:00.000Z",
+      "endDateTime": "2016-06-02T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12719-call-of-the-siren"
+    },
+    {
+      "id": 12721,
+      "performers": [
+        11730,
+        12467,
+        12557,
+        12495,
+        11954,
+        12448
+      ],
+      "emcee": 12893,
+      "venue": 10373,
+      "show": "12558",
+      "name": "Set List",
+      "description": "",
+      "startDateTime": "2016-06-03T02:00:00.000Z",
+      "endDateTime": "2016-06-03T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12721-set-list"
+    },
+    {
+      "id": 12723,
+      "performers": [
+        12493,
+        12491,
+        12876,
+        12879,
+        12562,
+        12970,
+        12007,
+        12576
+      ],
+      "emcee": 10429,
+      "venue": 10373,
+      "show": "12492",
+      "name": "Baked",
+      "description": "",
+      "startDateTime": "2016-06-03T06:00:00.000Z",
+      "endDateTime": "2016-06-03T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12723-baked"
+    },
+    {
+      "id": 12724,
+      "performers": [
+        12220,
+        11639,
+        12277,
+        12498,
+        11498,
+        12583,
+        11494
+      ],
+      "emcee": 11937,
+      "venue": 10380,
+      "name": "Lot of Laughs",
+      "description": "",
+      "startDateTime": "2016-06-03T02:30:00.000Z",
+      "endDateTime": "2016-06-03T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12724-lot-of-laughs"
+    },
+    {
+      "id": 12725,
+      "performers": [
+        11630,
+        11452,
+        11693,
+        11327,
+        11993,
+        11851,
+        11441
+      ],
+      "emcee": 11399,
+      "venue": 10380,
+      "name": "Comedy on the Rocks",
+      "description": "",
+      "startDateTime": "2016-06-03T04:30:00.000Z",
+      "endDateTime": "2016-06-03T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12725-comedy-on-the-rocks"
+    },
+    {
+      "id": 12727,
+      "performers": [
+        11402,
+        11284,
+        11654,
+        12114,
+        11482,
+        12475,
+        12268
+      ],
+      "emcee": 12276,
+      "venue": 10378,
+      "name": "Lez Get Together",
+      "description": "",
+      "startDateTime": "2016-06-03T04:00:00.000Z",
+      "endDateTime": "2016-06-03T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12727-lez-get-together"
+    },
+    {
+      "id": 12729,
+      "performers": [
+        11778,
+        11952,
+        11189
+      ],
+      "emcee": 12466,
+      "venue": 10373,
+      "show": "12553",
+      "name": "Eddie Pepitone's Bloodbath",
+      "description": "",
+      "startDateTime": "2016-06-03T04:00:00.000Z",
+      "endDateTime": "2016-06-03T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12729-eddie-pepitones-bloodbath"
+    },
+    {
+      "id": 12730,
+      "performers": [
+        11761,
+        12177,
+        11981,
+        12896,
+        11443
+      ],
+      "emcee": 11264,
+      "venue": 12605,
+      "name": "Supernova",
+      "description": "",
+      "startDateTime": "2016-06-03T05:00:00.000Z",
+      "endDateTime": "2016-06-03T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12730-supernova"
+    },
+    {
+      "id": 12731,
+      "performers": [
+        13036,
+        11443,
+        12094
+      ],
+      "emcee": 12185,
+      "venue": 12478,
+      "name": "The Court of I, Anonymous",
+      "description": "",
+      "startDateTime": "2016-06-05T01:00:00.000Z",
+      "endDateTime": "2016-06-05T02:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12731-the-court-of-i-anonymous"
+    },
+    {
+      "id": 12732,
+      "performers": [
+        11882,
+        11476,
+        11954,
+        11164,
+        12583,
+        12557
+      ],
+      "emcee": 12260,
+      "venue": 12478,
+      "name": "Hometown Heroes",
+      "description": "",
+      "startDateTime": "2016-06-04T02:00:00.000Z",
+      "endDateTime": "2016-06-04T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12732-hometown-heroes"
+    },
+    {
+      "id": 12733,
+      "performers": [
+        11780,
+        12245,
+        11882,
+        11464,
+        11904,
+        12453,
+        11421
+      ],
+      "emcee": 11496,
+      "venue": 10379,
+      "name": "LOL@MFP",
+      "description": "",
+      "startDateTime": "2016-06-03T02:30:00.000Z",
+      "endDateTime": "2016-06-03T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12733-lolmfp"
+    },
+    {
+      "id": 12734,
+      "performers": [
+        12068,
+        12395,
+        11380,
+        11476,
+        11659,
+        12370,
+        12173
+      ],
+      "emcee": 11257,
+      "venue": 10379,
+      "name": "Life is Grand",
+      "description": "",
+      "startDateTime": "2016-06-03T04:30:00.000Z",
+      "endDateTime": "2016-06-03T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12734-life-is-grand"
+    },
+    {
+      "id": 12735,
+      "performers": [
+        11711,
+        12401,
+        12488,
+        12496,
+        11439,
+        12007
+      ],
+      "emcee": 11613,
+      "venue": 10374,
+      "name": "It's Gonna Be Okay",
+      "description": "",
+      "startDateTime": "2016-06-03T03:00:00.000Z",
+      "endDateTime": "2016-06-03T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12735-its-gonna-be-okay"
+    },
+    {
+      "id": 12736,
+      "performers": [
+        11427,
+        11436,
+        11711,
+        12680
+      ],
+      "emcee": 11164,
+      "venue": 10376,
+      "name": "Stand Up For Yourself",
+      "description": "",
+      "startDateTime": "2016-06-03T05:00:00.000Z",
+      "endDateTime": "2016-06-03T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12736-stand-up-for-yourself"
+    },
+    {
+      "id": 12739,
+      "performers": [
+        11376,
+        12289,
+        11570,
+        12384,
+        11217,
+        12185,
+        12260
+      ],
+      "emcee": 11821,
+      "venue": 12533,
+      "name": "In the Club",
+      "description": "",
+      "startDateTime": "2016-06-03T02:00:00.000Z",
+      "endDateTime": "2016-06-03T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12739-in-the-club"
+    },
+    {
+      "id": 12740,
+      "performers": [
+        12031,
+        11854,
+        12457,
+        12094,
+        12222,
+        11975,
+        11728
+      ],
+      "emcee": 11777,
+      "venue": 10677,
+      "name": "Best of the Midwest",
+      "description": "",
+      "startDateTime": "2016-06-03T03:00:00.000Z",
+      "endDateTime": "2016-06-03T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12740-best-of-the-midwest"
+    },
+    {
+      "id": 12742,
+      "performers": [
+        11956,
+        11904,
+        12094,
+        12447,
+        11777,
+        12007,
+        12466
+      ],
+      "emcee": 11494,
+      "venue": 10374,
+      "show": "12463",
+      "name": "Laughter Against the Machine",
+      "description": "",
+      "startDateTime": "2016-06-04T03:00:00.000Z",
+      "endDateTime": "2016-06-04T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12742-laughter-against-the-machine"
+    },
+    {
+      "id": 12745,
+      "performers": [
+        11380,
+        12276,
+        12031,
+        12448,
+        12680,
+        11952
+      ],
+      "emcee": 11284,
+      "venue": 10380,
+      "name": "Comedy on the Rocks",
+      "description": "",
+      "startDateTime": "2016-06-04T04:30:00.000Z",
+      "endDateTime": "2016-06-04T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12745-comedy-on-the-rocks"
+    },
+    {
+      "id": 12747,
+      "performers": [
+        11500,
+        12185,
+        12457,
+        12222,
+        11975,
+        12555
+      ],
+      "emcee": 12277,
+      "venue": 10378,
+      "name": "Heavy Hitters Workout Room",
+      "description": "",
+      "startDateTime": "2016-06-04T04:00:00.000Z",
+      "endDateTime": "2016-06-04T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12747-heavy-hitters-workout-room"
+    },
+    {
+      "id": 12748,
+      "performers": [
+        12068,
+        11981,
+        11509,
+        11783,
+        12556,
+        12495
+      ],
+      "emcee": 11693,
+      "venue": 10378,
+      "name": "Secret Headliner!",
+      "description": "<p>Standup showcase with a closing set from a surprise guest.</p>\n",
+      "startDateTime": "2016-06-04T06:00:00.000Z",
+      "endDateTime": "2016-06-04T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12748-secret-headliner"
+    },
+    {
+      "id": 12749,
+      "performers": [
+        12177,
+        11496,
+        12140,
+        11821,
+        11427,
+        11993,
+        11956,
+        11937,
+        12936
+      ],
+      "emcee": 12482,
+      "venue": 10373,
+      "show": "13048",
+      "name": "New Negroes",
+      "description": "",
+      "startDateTime": "2016-06-04T04:00:00.000Z",
+      "endDateTime": "2016-06-04T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12749-new-negroes"
+    },
+    {
+      "id": 12750,
+      "performers": [
+        11582,
+        11993,
+        11821,
+        12448,
+        11761,
+        12447
+      ],
+      "emcee": 10429,
+      "venue": 10373,
+      "show": "12151",
+      "name": "You Had To Be There",
+      "description": "",
+      "startDateTime": "2016-06-05T06:00:00.000Z",
+      "endDateTime": "2016-06-05T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12750-you-had-to-be-there"
+    },
+    {
+      "id": 12751,
+      "performers": [
+        11654,
+        12140,
+        12289,
+        12137,
+        11953,
+        12488,
+        12968
+      ],
+      "emcee": 11851,
+      "venue": 10374,
+      "name": "Hey Ladies!",
+      "description": "",
+      "startDateTime": "2016-06-05T03:00:00.000Z",
+      "endDateTime": "2016-06-05T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12751-hey-ladies"
+    },
+    {
+      "id": 12752,
+      "performers": [
+        12173,
+        11402,
+        12496,
+        11977,
+        11728,
+        11439,
+        11509,
+        12245
+      ],
+      "emcee": 12543,
+      "venue": 12478,
+      "show": "12546",
+      "name": "Competitive Erotic Fan Fiction",
+      "description": "",
+      "startDateTime": "2016-06-04T04:00:00.000Z",
+      "endDateTime": "2016-06-04T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12752-competitive-erotic-fan-fiction"
+    },
+    {
+      "id": 12764,
+      "performers": [
+        12218,
+        11613,
+        11436,
+        11506,
+        11630,
+        12268,
+        13036
+      ],
+      "emcee": 11421,
+      "venue": 10379,
+      "name": "LOL@MFP",
+      "description": "",
+      "startDateTime": "2016-06-04T02:30:00.000Z",
+      "endDateTime": "2016-06-04T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12764-lolmfp"
+    },
+    {
+      "id": 12765,
+      "performers": [
+        12122,
+        11217,
+        12402,
+        11954,
+        11327,
+        11247
+      ],
+      "emcee": 11606,
+      "venue": 10379,
+      "name": "Dad's Favorites: Un-Repped Showcase",
+      "description": "",
+      "startDateTime": "2016-06-04T04:30:00.000Z",
+      "endDateTime": "2016-06-04T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12765-dads-favorites-un-repped-showcase"
+    },
+    {
+      "id": 12767,
+      "performers": [
+        12446,
+        11778,
+        12384,
+        12283,
+        11482,
+        12896
+      ],
+      "emcee": 12395,
+      "venue": 10677,
+      "name": "Happy Hour with David Huntsberger",
+      "description": "",
+      "startDateTime": "2016-06-04T01:00:00.000Z",
+      "endDateTime": "2016-06-04T02:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12767-happy-hour-with-david-huntsberger"
+    },
+    {
+      "id": 12768,
+      "performers": [
+        11582,
+        11452,
+        12000,
+        11851,
+        11399,
+        11659,
+        12467
+      ],
+      "emcee": 11647,
+      "venue": 10677,
+      "name": "Sounds Better in Analog",
+      "description": "",
+      "startDateTime": "2016-06-04T03:00:00.000Z",
+      "endDateTime": "2016-06-04T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12768-sounds-better-in-analog"
+    },
+    {
+      "id": 12772,
+      "performers": [
+        11929,
+        11639,
+        11854,
+        11761,
+        12160,
+        11711
+      ],
+      "emcee": 12220,
+      "venue": 12533,
+      "name": "In the Club",
+      "description": "",
+      "startDateTime": "2016-06-04T02:00:00.000Z",
+      "endDateTime": "2016-06-04T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12772-in-the-club"
+    },
+    {
+      "id": 12774,
+      "performers": [
+        12482,
+        11174,
+        11496,
+        12555,
+        12576,
+        11711
+      ],
+      "emcee": 12893,
+      "venue": 10376,
+      "name": "Set List",
+      "description": "",
+      "startDateTime": "2016-06-04T03:00:00.000Z",
+      "endDateTime": "2016-06-04T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12774-set-list"
+    },
+    {
+      "id": 12775,
+      "performers": [
+        11189,
+        11881,
+        12114,
+        11264,
+        11402,
+        11498,
+        12370
+      ],
+      "emcee": 11376,
+      "venue": 10376,
+      "name": "LAFTA",
+      "description": "",
+      "startDateTime": "2016-06-04T05:00:00.000Z",
+      "endDateTime": "2016-06-04T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12775-lafta"
+    },
+    {
+      "id": 12779,
+      "performers": [
+        12555,
+        12556,
+        11443,
+        12551
+      ],
+      "emcee": 0,
+      "venue": 10374,
+      "show": "12445",
+      "name": "The Crabfeast with Ryan Sickler and Jay Larson",
+      "description": "",
+      "startDateTime": "2016-06-04T20:00:00.000Z",
+      "endDateTime": "2016-06-04T21:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12779-the-crabfeast-with-ryan-sickler-and-jay-larson"
+    },
+    {
+      "id": 12780,
+      "performers": [
+        12493,
+        11904,
+        11693,
+        11977
+      ],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "Uncalled Four",
+      "description": "",
+      "startDateTime": "2016-06-04T21:00:00.000Z",
+      "endDateTime": "2016-06-04T22:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12780-uncalled-four"
+    },
+    {
+      "id": 12782,
+      "performers": [],
+      "emcee": 12893,
+      "venue": 10380,
+      "name": "Set List Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-05T00:30:00.000Z",
+      "endDateTime": "2016-06-05T02:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12782-set-list-open-mic"
+    },
+    {
+      "id": 12785,
+      "performers": [
+        12562
+      ],
+      "emcee": 12563,
+      "venue": 10374,
+      "show": "12554",
+      "name": "Roderick on the Line",
+      "description": "",
+      "startDateTime": "2016-06-05T00:00:00.000Z",
+      "endDateTime": "2016-06-05T01:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12785-roderick-on-the-line"
+    },
+    {
+      "id": 12786,
+      "performers": [
+        12447,
+        12477,
+        12970,
+        12472,
+        12268
+      ],
+      "emcee": 12543,
+      "venue": 10373,
+      "show": "12547",
+      "name": "Reunited",
+      "description": "",
+      "startDateTime": "2016-06-04T23:00:00.000Z",
+      "endDateTime": "2016-06-05T00:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12786-reunited"
+    },
+    {
+      "id": 12787,
+      "performers": [
+        12276,
+        12496,
+        11654,
+        11630,
+        12482
+      ],
+      "emcee": 12475,
+      "venue": 12478,
+      "show": "12476",
+      "name": "Rants Off/ Dance Off",
+      "description": "",
+      "startDateTime": "2016-06-04T06:00:00.000Z",
+      "endDateTime": "2016-06-04T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12787-rants-off-dance-off"
+    },
+    {
+      "id": 12788,
+      "performers": [
+        12114,
+        11496,
+        12453,
+        11500,
+        12160,
+        12583
+      ],
+      "emcee": 11436,
+      "venue": 10677,
+      "name": "Happy Hour with Shane Torres",
+      "description": "",
+      "startDateTime": "2016-06-05T01:00:00.000Z",
+      "endDateTime": "2016-06-05T02:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12788-happy-hour-with-shane-torres"
+    },
+    {
+      "id": 12790,
+      "performers": [
+        12094,
+        11854,
+        11954,
+        11964,
+        12402,
+        11464,
+        11189,
+        11441,
+        11577
+      ],
+      "emcee": 12482,
+      "venue": 12478,
+      "show": "13048",
+      "name": "New Negroes",
+      "description": "",
+      "startDateTime": "2016-06-05T03:00:00.000Z",
+      "endDateTime": "2016-06-05T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12790-new-negroes"
+    },
+    {
+      "id": 12792,
+      "performers": [
+        12122,
+        11247,
+        11613,
+        11606,
+        12224,
+        11659
+      ],
+      "emcee": 11476,
+      "venue": 10380,
+      "name": "Comedy on the Rocks",
+      "description": "",
+      "startDateTime": "2016-06-05T02:30:00.000Z",
+      "endDateTime": "2016-06-05T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12792-comedy-on-the-rocks"
+    },
+    {
+      "id": 12793,
+      "performers": [
+        12384,
+        11421,
+        11582,
+        11376,
+        11821,
+        12185
+      ],
+      "emcee": 11778,
+      "venue": 10380,
+      "name": "Best In Tent: Un-Repped Showcase",
+      "description": "",
+      "startDateTime": "2016-06-05T04:30:00.000Z",
+      "endDateTime": "2016-06-05T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12793-best-in-tent-un-repped-showcase"
+    },
+    {
+      "id": 12795,
+      "performers": [
+        13036,
+        11427,
+        12491,
+        12496,
+        11728,
+        12936,
+        12466
+      ],
+      "emcee": 11630,
+      "venue": 10378,
+      "name": "Heavy Hitters Workout Room",
+      "description": "",
+      "startDateTime": "2016-06-05T04:00:00.000Z",
+      "endDateTime": "2016-06-05T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12795-heavy-hitters-workout-room"
+    },
+    {
+      "id": 12796,
+      "performers": [
+        11780,
+        12036,
+        11777,
+        11473,
+        12000,
+        12680,
+        13046
+      ],
+      "emcee": 12446,
+      "venue": 10378,
+      "name": "Secret Headliner!",
+      "description": "<p>Standup showcase with a closing set from a surprise guest.</p>\n",
+      "startDateTime": "2016-06-05T06:00:00.000Z",
+      "endDateTime": "2016-06-05T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12796-secret-headliner"
+    },
+    {
+      "id": 12797,
+      "performers": [
+        12007,
+        11284,
+        12466,
+        12557
+      ],
+      "emcee": 12467,
+      "venue": 10373,
+      "show": "11550",
+      "name": "Joke Thieves",
+      "description": "",
+      "startDateTime": "2016-06-05T02:00:00.000Z",
+      "endDateTime": "2016-06-05T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12797-joke-thieves"
+    },
+    {
+      "id": 12798,
+      "performers": [
+        12137,
+        12036,
+        11730,
+        12224,
+        12576,
+        11783,
+        12468,
+        12970
+      ],
+      "emcee": 11473,
+      "venue": 10374,
+      "show": "12462",
+      "name": "Persona!",
+      "description": "",
+      "startDateTime": "2016-06-04T05:00:00.000Z",
+      "endDateTime": "2016-06-04T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12798-persona"
+    },
+    {
+      "id": 12800,
+      "performers": [
+        12401,
+        12177,
+        11164
+      ],
+      "emcee": 12218,
+      "venue": 10373,
+      "name": "Kill Rock Stars Presents",
+      "description": "",
+      "startDateTime": "2016-06-05T04:00:00.000Z",
+      "endDateTime": "2016-06-05T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12800-kill-rock-stars-presents"
+    },
+    {
+      "id": 12802,
+      "performers": [
+        12395,
+        11693,
+        11647,
+        11235,
+        12283,
+        12457
+      ],
+      "emcee": 12114,
+      "venue": 10376,
+      "name": "Call of the Siren",
+      "description": "<p>The lure of this comedy show will draw you downtown.</p>\n",
+      "startDateTime": "2016-06-05T05:00:00.000Z",
+      "endDateTime": "2016-06-05T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12802-call-of-the-siren"
+    },
+    {
+      "id": 12807,
+      "performers": [
+        12477,
+        12468,
+        12469,
+        12471,
+        12472,
+        12970
+      ],
+      "emcee": 0,
+      "venue": 10376,
+      "name": "Theme Park",
+      "description": "",
+      "startDateTime": "2016-06-05T03:00:00.000Z",
+      "endDateTime": "2016-06-05T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12807-theme-park"
+    },
+    {
+      "id": 12808,
+      "performers": [
+        12093,
+        11728,
+        12453,
+        11577,
+        12007,
+        11443
+      ],
+      "emcee": 12082,
+      "venue": 10373,
+      "name": "Doug Fir Late Night",
+      "description": "",
+      "startDateTime": "2016-06-04T06:00:00.000Z",
+      "endDateTime": "2016-06-04T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12808-doug-fir-late-night"
+    },
+    {
+      "id": 12809,
+      "performers": [
+        11929,
+        11264,
+        12277,
+        11380,
+        11937,
+        12082
+      ],
+      "emcee": 11452,
+      "venue": 10379,
+      "name": "Dad's Favorites: Un-Repped Showcase",
+      "description": "",
+      "startDateTime": "2016-06-05T02:30:00.000Z",
+      "endDateTime": "2016-06-05T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12809-dads-favorites-un-repped-showcase"
+    },
+    {
+      "id": 12810,
+      "performers": [
+        12220,
+        11570,
+        12031,
+        11498,
+        11509,
+        12222
+      ],
+      "emcee": 11881,
+      "venue": 10379,
+      "name": "Life is Grand",
+      "description": "",
+      "startDateTime": "2016-06-05T04:30:00.000Z",
+      "endDateTime": "2016-06-05T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12810-life-is-grand"
+    },
+    {
+      "id": 12811,
+      "performers": [
+        12538
+      ],
+      "emcee": 10429,
+      "venue": 10384,
+      "show": "12537",
+      "name": "Rachel Bloom",
+      "description": "",
+      "startDateTime": "2016-06-05T03:00:00.000Z",
+      "endDateTime": "2016-06-05T05:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12811-rachel-bloom"
+    },
+    {
+      "id": 12812,
+      "performers": [
+        12467
+      ],
+      "emcee": 12540,
+      "venue": 10374,
+      "show": "12539",
+      "name": "Probably Science",
+      "description": "",
+      "startDateTime": "2016-06-05T22:00:00.000Z",
+      "endDateTime": "2016-06-05T23:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12812-probably-science"
+    },
+    {
+      "id": 12813,
+      "performers": [
+        11174
+      ],
+      "emcee": 12466,
+      "venue": 10373,
+      "show": "12552",
+      "name": "Pep Talks with Eddie Pepitone",
+      "description": "",
+      "startDateTime": "2016-06-05T23:00:00.000Z",
+      "endDateTime": "2016-06-06T00:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12813-pep-talks-with-eddie-pepitone"
+    },
+    {
+      "id": 12814,
+      "performers": [
+        11904,
+        12446,
+        12082,
+        11427,
+        12007,
+        11436,
+        12576
+      ],
+      "emcee": 11654,
+      "venue": 10380,
+      "name": "Party in the Back",
+      "description": "",
+      "startDateTime": "2016-06-05T23:30:00.000Z",
+      "endDateTime": "2016-06-06T01:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12814-party-in-the-back"
+    },
+    {
+      "id": 12816,
+      "performers": [],
+      "emcee": 12283,
+      "venue": 10376,
+      "show": "12118",
+      "name": "Unsafe Space",
+      "description": "",
+      "startDateTime": "2016-06-05T23:00:00.000Z",
+      "endDateTime": "2016-06-06T00:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12816-unsafe-space"
+    },
+    {
+      "id": 12817,
+      "performers": [],
+      "emcee": 0,
+      "venue": 12605,
+      "name": "Industry Panel",
+      "description": "",
+      "startDateTime": "2016-06-05T20:00:00.000Z",
+      "endDateTime": "2016-06-05T21:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12817-industry-panel"
+    },
+    {
+      "id": 12818,
+      "performers": [
+        12401,
+        12094
+      ],
+      "emcee": 12891,
+      "venue": 10373,
+      "show": "12399",
+      "name": "Yo, Is This Racist?",
+      "description": "",
+      "startDateTime": "2016-06-05T21:00:00.000Z",
+      "endDateTime": "2016-06-05T22:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12818-yo-is-this-racist"
+    },
+    {
+      "id": 12822,
+      "performers": [
+        12277,
+        11494,
+        11380,
+        12114,
+        12447,
+        12276,
+        11164,
+        11711,
+        12224,
+        11654,
+        11630,
+        11427
+      ],
+      "emcee": 11856,
+      "venue": 10677,
+      "name": "Reading the Bible with Dan",
+      "description": "",
+      "startDateTime": "2016-06-05T22:00:00.000Z",
+      "endDateTime": "2016-06-05T23:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12822-reading-the-bible-with-dan"
+    },
+    {
+      "id": 12823,
+      "performers": [
+        11730,
+        11953,
+        12173,
+        11439,
+        11711,
+        11174,
+        12968,
+        12488,
+        12495
+      ],
+      "emcee": 0,
+      "venue": 10374,
+      "name": "TV Writers Roundtable",
+      "description": "",
+      "startDateTime": "2016-06-04T22:00:00.000Z",
+      "endDateTime": "2016-06-04T23:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12823-tv-writers-roundtable"
+    },
+    {
+      "id": 12824,
+      "performers": [
+        12576,
+        11977,
+        12401,
+        11952,
+        12007
+      ],
+      "emcee": 11482,
+      "venue": 10374,
+      "name": "Bechdel Test",
+      "description": "<p>Longer sets by five of the fastest rising female comics in the industry today.</p>\n",
+      "startDateTime": "2016-06-06T02:00:00.000Z",
+      "endDateTime": "2016-06-06T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12824-bechdel-test"
+    },
+    {
+      "id": 12825,
+      "performers": [
+        11964,
+        12289,
+        11473,
+        11783,
+        11981,
+        13036
+      ],
+      "emcee": 11780,
+      "venue": 10380,
+      "name": "Comedy on the Rocks",
+      "description": "",
+      "startDateTime": "2016-06-06T03:30:00.000Z",
+      "endDateTime": "2016-06-06T05:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12825-comedy-on-the-rocks"
+    },
+    {
+      "id": 12826,
+      "performers": [
+        11613,
+        11247,
+        12094,
+        11647,
+        11882,
+        12493
+      ],
+      "emcee": 12370,
+      "venue": 10378,
+      "name": "Secret Headliner",
+      "description": "<p>Standup showcase with a closing set from a surprise guest.</p>\n",
+      "startDateTime": "2016-06-06T04:00:00.000Z",
+      "endDateTime": "2016-06-06T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12826-secret-headliner"
+    },
+    {
+      "id": 12828,
+      "performers": [
+        11217,
+        11476,
+        11881,
+        12185,
+        11494,
+        12466
+      ],
+      "emcee": 12583,
+      "venue": 10373,
+      "name": "Doug Fir Closing Show",
+      "description": "",
+      "startDateTime": "2016-06-06T04:00:00.000Z",
+      "endDateTime": "2016-06-06T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12828-doug-fir-closing-show"
+    },
+    {
+      "id": 12830,
+      "performers": [],
+      "emcee": 11509,
+      "venue": 10374,
+      "show": "12844",
+      "name": "The Dirty 30",
+      "description": "",
+      "startDateTime": "2016-06-06T04:00:00.000Z",
+      "endDateTime": "2016-06-06T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12830-the-dirty-30"
+    },
+    {
+      "id": 12831,
+      "performers": [
+        11693,
+        12276,
+        12283,
+        11376,
+        11464,
+        11778,
+        12224
+      ],
+      "emcee": 11630,
+      "venue": 10379,
+      "name": "LOL@MFP",
+      "description": "",
+      "startDateTime": "2016-06-06T01:30:00.000Z",
+      "endDateTime": "2016-06-06T03:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12831-lolmfp"
+    },
+    {
+      "id": 12833,
+      "performers": [
+        11929,
+        12218,
+        11264,
+        12000,
+        12457,
+        12453,
+        11327
+      ],
+      "emcee": 12245,
+      "venue": 10380,
+      "name": "Afternoon Delight",
+      "description": "",
+      "startDateTime": "2016-06-05T21:30:00.000Z",
+      "endDateTime": "2016-06-05T23:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12833-afternoon-delight"
+    },
+    {
+      "id": 12834,
+      "performers": [
+        11452,
+        11421,
+        12268,
+        11498,
+        12177,
+        11952
+      ],
+      "emcee": 12031,
+      "venue": 10677,
+      "name": "Control Yourself",
+      "description": "",
+      "startDateTime": "2016-06-06T03:00:00.000Z",
+      "endDateTime": "2016-06-06T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12834-control-yourself"
+    },
+    {
+      "id": 12835,
+      "performers": [
+        11257,
+        11570,
+        12036,
+        11851,
+        12222,
+        12557
+      ],
+      "emcee": 11993,
+      "venue": 10376,
+      "name": "Last Call of the Siren",
+      "description": "",
+      "startDateTime": "2016-06-06T02:30:00.000Z",
+      "endDateTime": "2016-06-06T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "12835-last-call-of-the-siren"
+    },
+    {
+      "id": 12904,
+      "performers": [
+        12468,
+        12472,
+        12477,
+        12471,
+        12469
+      ],
+      "emcee": 10429,
+      "venue": 10376,
+      "show": "12470",
+      "name": "Theme Park Matinee",
+      "description": "",
+      "startDateTime": "2016-06-05T20:00:00.000Z",
+      "endDateTime": "2016-06-05T21:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12904-theme-park-matinee"
+    },
+    {
+      "id": 12905,
+      "performers": [
+        12137,
+        12557,
+        11427,
+        11711,
+        11506
+      ],
+      "emcee": 11174,
+      "venue": 10373,
+      "show": "12676",
+      "name": "Turnt Up with Eliza Skinner",
+      "description": "",
+      "startDateTime": "2016-06-06T02:00:00.000Z",
+      "endDateTime": "2016-06-06T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12905-turnt-up-with-eliza-skinner"
+    },
+    {
+      "id": 12941,
+      "performers": [
+        12000,
+        11500,
+        11956,
+        12543,
+        12446,
+        12936,
+        12557,
+        12447,
+        11482
+      ],
+      "emcee": 0,
+      "venue": 12533,
+      "name": "Burns and Bridenstine: Gentlemen Scumbags",
+      "description": "",
+      "startDateTime": "2016-06-03T04:00:00.000Z",
+      "endDateTime": "2016-06-03T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "12941-burns-and-bridenstine-gentlemen-scumbags"
+    },
+    {
+      "id": 12943,
+      "performers": [
+        12276,
+        12936,
+        11882,
+        11494,
+        11496,
+        12137,
+        11956,
+        12260
+      ],
+      "emcee": 11164,
+      "venue": 10677,
+      "name": "Midnight Mass",
+      "description": "",
+      "startDateTime": "2016-06-05T06:30:00.000Z",
+      "endDateTime": "2016-06-05T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "12943-midnight-mass"
+    },
+    {
+      "id": 13003,
+      "performers": [],
+      "emcee": 12498,
+      "venue": 10376,
+      "show": "12530",
+      "name": "Julian Loves Music",
+      "description": "",
+      "startDateTime": "2016-06-04T23:00:00.000Z",
+      "endDateTime": "2016-06-05T00:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13003-julian-loves-music"
+    },
+    {
+      "id": 13009,
+      "performers": [
+        12122,
+        11421,
+        11937,
+        11464,
+        12068,
+        12583,
+        12576
+      ],
+      "emcee": 11217,
+      "venue": 10376,
+      "name": "Siren's Song",
+      "description": "<p>Get wrecked with an evening of epic comedy.</p>\n",
+      "startDateTime": "2016-06-02T04:30:00.000Z",
+      "endDateTime": "2016-06-02T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "13009-sirens-song"
+    },
+    {
+      "id": 13020,
+      "performers": [
+        11975,
+        12173,
+        12495,
+        11439,
+        11730,
+        12007,
+        11174
+      ],
+      "emcee": 11639,
+      "venue": 10374,
+      "name": "Late Night Late Night Show",
+      "description": "",
+      "startDateTime": "2016-06-05T05:00:00.000Z",
+      "endDateTime": "2016-06-05T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13020-late-night-late-night-show"
+    },
+    {
+      "id": 13021,
+      "performers": [
+        12220,
+        11380,
+        12122,
+        11937,
+        12583,
+        11606,
+        12936
+      ],
+      "emcee": 12140,
+      "venue": 10677,
+      "name": "Southern Showcase",
+      "description": "",
+      "startDateTime": "2016-06-06T01:00:00.000Z",
+      "endDateTime": "2016-06-06T02:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13021-southern-showcase"
+    },
+    {
+      "id": 13022,
+      "performers": [
+        11780,
+        11654,
+        12968
+      ],
+      "emcee": 11441,
+      "venue": 10677,
+      "name": "Laura Kightlinger and Friends",
+      "description": "",
+      "startDateTime": "2016-06-04T05:00:00.000Z",
+      "endDateTime": "2016-06-04T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13022-laura-kightlinger-and-friends"
+    },
+    {
+      "id": 13028,
+      "performers": [
+        12068,
+        12260,
+        12160,
+        12395,
+        11500,
+        12114,
+        12467
+      ],
+      "emcee": 11954,
+      "venue": 10380,
+      "name": "Lot of Laughs",
+      "description": "",
+      "startDateTime": "2016-06-06T01:30:00.000Z",
+      "endDateTime": "2016-06-06T03:00:00.000Z",
+      "price": 0,
+      "pageUrl": "13028-lot-of-laughs"
+    },
+    {
+      "id": 13030,
+      "performers": [
+        11954,
+        11327,
+        12276,
+        12395,
+        11582,
+        12277,
+        12082
+      ],
+      "emcee": 12283,
+      "venue": 12533,
+      "name": "In the Club",
+      "description": "",
+      "startDateTime": "2016-06-02T02:00:00.000Z",
+      "endDateTime": "2016-06-02T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13030-in-the-club"
+    },
+    {
+      "id": 13031,
+      "performers": [
+        11630,
+        11506,
+        11613,
+        12031,
+        12036,
+        12218,
+        12114
+      ],
+      "emcee": 12093,
+      "venue": 12533,
+      "name": "Menage a Trio",
+      "description": "",
+      "startDateTime": "2016-06-02T04:00:00.000Z",
+      "endDateTime": "2016-06-02T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13031-menage-a-trio"
+    },
+    {
+      "id": 13033,
+      "performers": [
+        12218,
+        12093,
+        11320,
+        11881,
+        12036,
+        12137,
+        12224,
+        12454
+      ],
+      "emcee": 11235,
+      "venue": 10677,
+      "name": "Beautiful Weirdos",
+      "description": "",
+      "startDateTime": "2016-06-03T05:00:00.000Z",
+      "endDateTime": "2016-06-03T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13033-beautiful-weirdos"
+    },
+    {
+      "id": 13034,
+      "performers": [
+        11577,
+        11964,
+        11977,
+        12283,
+        12968,
+        12555
+      ],
+      "emcee": 11247,
+      "venue": 10376,
+      "name": "More Than a Feeling (Boston Showcase)",
+      "description": "",
+      "startDateTime": "2016-06-03T03:00:00.000Z",
+      "endDateTime": "2016-06-03T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13034-more-than-a-feeling-boston-showcase"
+    },
+    {
+      "id": 13039,
+      "performers": [
+        11777,
+        11582,
+        11639,
+        11235,
+        11821,
+        11164,
+        12491
+      ],
+      "emcee": 12384,
+      "venue": 10379,
+      "name": "My Father's Place Closing Show",
+      "description": "",
+      "startDateTime": "2016-06-06T03:30:00.000Z",
+      "endDateTime": "2016-06-06T05:00:00.000Z",
+      "price": 0,
+      "pageUrl": "13039-my-fathers-place-closing-show"
+    },
+    {
+      "id": 13041,
+      "performers": [
+        11783,
+        12370,
+        11981,
+        11952,
+        12576
+      ],
+      "emcee": 11327,
+      "venue": 10677,
+      "name": "Comedians Who Don't Have Podcasts",
+      "description": "",
+      "startDateTime": "2016-06-05T05:00:00.000Z",
+      "endDateTime": "2016-06-05T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13041-comedians-who-dont-have-podcasts"
+    },
+    {
+      "id": 13042,
+      "performers": [
+        11606,
+        11582,
+        11929,
+        12140,
+        12160,
+        12082
+      ],
+      "emcee": 12122,
+      "venue": 10378,
+      "name": "Secret Headliner!",
+      "description": "<p>Standup showcase with a closing set from a surprise guest.</p>\n",
+      "startDateTime": "2016-06-03T06:00:00.000Z",
+      "endDateTime": "2016-06-03T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "13042-secret-headliner"
+    },
+    {
+      "id": 13045,
+      "performers": [
+        11257,
+        12068,
+        11506,
+        12245,
+        11284,
+        12543,
+        12556
+      ],
+      "emcee": 11882,
+      "venue": 10677,
+      "name": "Sounds Better in Analog",
+      "description": "",
+      "startDateTime": "2016-06-05T03:00:00.000Z",
+      "endDateTime": "2016-06-05T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "13045-sounds-better-in-analog"
+    }
+  ]
 }

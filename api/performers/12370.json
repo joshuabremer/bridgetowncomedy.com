@@ -1,7 +1,14 @@
 {
   "id": 12370,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12719,
+    12734,
+    12775,
+    13041
+  ],
+  "emceeEvents": [
+    12826
+  ],
   "name": "Devin Field",
   "twitter": "thatdevinfield",
   "website": "http://devinfield.com",

@@ -1,7 +1,15 @@
 {
   "id": 12224,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12792,
+    12798,
+    12822,
+    12831,
+    13033
+  ],
+  "emceeEvents": [
+    12682
+  ],
   "name": "Robert Buscemi",
   "twitter": "RobertBuscemi",
   "website": "http://www.RobertBuscemi.com",

@@ -1,7 +1,14 @@
 {
   "id": 12218,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12764,
+    12833,
+    13031,
+    13033
+  ],
+  "emceeEvents": [
+    12800
+  ],
   "name": "Jason Traeger",
   "twitter": "jasontraeger",
   "website": "http://www.jasontraegercomedy.com/",

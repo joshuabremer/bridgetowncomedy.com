@@ -1,6 +1,10 @@
 {
   "id": 12680,
-  "events": [],
+  "events": [
+    12736,
+    12745,
+    12796
+  ],
   "emceeEvents": [],
   "name": "Louis Katz",
   "twitter": "louiskatz",

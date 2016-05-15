@@ -1,7 +1,14 @@
 {
   "id": 12082,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12809,
+    12814,
+    13030,
+    13042
+  ],
+  "emceeEvents": [
+    12808
+  ],
   "name": "Zak Toscani",
   "twitter": "zaktoscani",
   "website": "https://about.me/ZakToscani",

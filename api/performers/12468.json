@@ -1,6 +1,10 @@
 {
   "id": 12468,
-  "events": [],
+  "events": [
+    12798,
+    12807,
+    12904
+  ],
   "emceeEvents": [],
   "name": "Cole Stratton",
   "twitter": "colestratton",

@@ -1,7 +1,15 @@
 {
   "id": 12185,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12683,
+    12739,
+    12747,
+    12793,
+    12828
+  ],
+  "emceeEvents": [
+    12731
+  ],
   "name": "Bri Pruett",
   "twitter": "Bripruett",
   "website": "http://Bripruett.com",

@@ -1,6 +1,8 @@
 {
   "id": 12445,
-  "events": [],
+  "events": [
+    12779
+  ],
   "name": "The Crabfeast with Ryan Sickler and Jay Larson",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/crabfeast_atccover.jpg",
   "photoUrl": "/api/img/show-images/show-thecrabfeastwithryansicklerandjaylarson-300x300.jpg",

@@ -1,7 +1,13 @@
 {
   "id": 11780,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12733,
+    12796,
+    13022
+  ],
+  "emceeEvents": [
+    12825
+  ],
   "name": "Casey James Salengo",
   "twitter": "",
   "website": "",

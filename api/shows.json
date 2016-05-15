@@ -2,7 +2,9 @@
   "shows": [
     {
       "id": 12537,
-      "events": [],
+      "events": [
+        12811
+      ],
       "name": "Rachel Bloom",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rachel_bloom_headshot_by_robyn_von_swank-crop.jpg",
       "photoUrl": "/api/img/show-images/show-rachelbloom-300x300.jpg",
@@ -14,7 +16,9 @@
     },
     {
       "id": 12487,
-      "events": [],
+      "events": [
+        12655
+      ],
       "name": "An Evening With Aimee Mann and Ted Leo (and Friends!)",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/aimee_ted.jpg",
       "photoUrl": "/api/img/show-images/show-aneveningwithaimeemannandtedleoandfriends-300x300.jpg",
@@ -26,7 +30,9 @@
     },
     {
       "id": 12550,
-      "events": [],
+      "events": [
+        12654
+      ],
       "name": "Lance Bangs Presents: Come Laugh with Us",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/cmwu_2016.jpg",
       "photoUrl": "/api/img/show-images/show-lancebangspresentscomelaughwithus-300x300.jpg",
@@ -38,7 +44,9 @@
     },
     {
       "id": 12470,
-      "events": [],
+      "events": [
+        12904
+      ],
       "name": "Theme Park Improv",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/themepark.jpg",
       "photoUrl": "/api/img/show-images/show-themeparkimprov-300x300.jpg",
@@ -50,7 +58,10 @@
     },
     {
       "id": 12492,
-      "events": [],
+      "events": [
+        12479,
+        12723
+      ],
       "name": "Baked",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
       "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",
@@ -62,7 +73,10 @@
     },
     {
       "id": 12492,
-      "events": [],
+      "events": [
+        12479,
+        12723
+      ],
       "name": "Baked",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
       "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",
@@ -74,7 +88,9 @@
     },
     {
       "id": 11725,
-      "events": [],
+      "events": [
+        12658
+      ],
       "name": "Guy Branum&#039;s Gay Bash",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/gaybash.jpg",
       "photoUrl": "/api/img/show-images/show-guybranum039sgaybash-300x300.jpg",
@@ -86,7 +102,9 @@
     },
     {
       "id": 12554,
-      "events": [],
+      "events": [
+        12785
+      ],
       "name": "Roderick on the Line",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rotr.jpg",
       "photoUrl": "/api/img/show-images/show-roderickontheline-300x300.jpg",
@@ -98,7 +116,9 @@
     },
     {
       "id": 12399,
-      "events": [],
+      "events": [
+        12818
+      ],
       "name": "Yo, Is This Racist? LIVE PODCAST",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/yo_logo.jpg",
       "photoUrl": "/api/img/show-images/show-yoisthisracistlivepodcast-300x300.jpg",
@@ -122,7 +142,9 @@
     },
     {
       "id": 12553,
-      "events": [],
+      "events": [
+        12729
+      ],
       "name": "Eddie Pepitone&#039;s Bloodbath",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/pepitoneblood.jpg",
       "photoUrl": "/api/img/show-images/show-eddiepepitone039sbloodbath-300x300.jpg",
@@ -134,7 +156,9 @@
     },
     {
       "id": 12445,
-      "events": [],
+      "events": [
+        12779
+      ],
       "name": "The Crabfeast with Ryan Sickler and Jay Larson",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/crabfeast_atccover.jpg",
       "photoUrl": "/api/img/show-images/show-thecrabfeastwithryansicklerandjaylarson-300x300.jpg",
@@ -158,7 +182,9 @@
     },
     {
       "id": 12530,
-      "events": [],
+      "events": [
+        13003
+      ],
       "name": "Julian Loves Music",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jlm.jpg",
       "photoUrl": "/api/img/show-images/show-julianlovesmusic-300x300.jpg",
@@ -170,7 +196,9 @@
     },
     {
       "id": 12539,
-      "events": [],
+      "events": [
+        12812
+      ],
       "name": "Probably Science",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/probsci.jpeg",
       "photoUrl": "/api/img/show-images/show-probablyscience-300x300.jpg",
@@ -182,7 +210,9 @@
     },
     {
       "id": 11550,
-      "events": [],
+      "events": [
+        12797
+      ],
       "name": "Joke Thieves",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jt_newlogo_web.png",
       "photoUrl": "/api/img/show-images/show-jokethieves-300x300.jpg",
@@ -194,7 +224,9 @@
     },
     {
       "id": 12463,
-      "events": [],
+      "events": [
+        12742
+      ],
       "name": "Nato Green Presents: Laughter Against the Machine",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/latm.png",
       "photoUrl": "/api/img/show-images/show-natogreenpresentslaughteragainstthemachine-300x300.jpg",
@@ -206,7 +238,9 @@
     },
     {
       "id": 12546,
-      "events": [],
+      "events": [
+        12752
+      ],
       "name": "Competitive Erotic Fan Fiction",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/ceff_2015_generic.jpg",
       "photoUrl": "/api/img/show-images/show-competitiveeroticfanfiction-300x300.jpg",
@@ -218,7 +252,9 @@
     },
     {
       "id": 12462,
-      "events": [],
+      "events": [
+        12798
+      ],
       "name": "Persona!",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/personalogo.jpg",
       "photoUrl": "/api/img/show-images/show-persona-300x300.jpg",
@@ -230,7 +266,9 @@
     },
     {
       "id": 12558,
-      "events": [],
+      "events": [
+        12721
+      ],
       "name": "Set List",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/set_list_logo_live_j_higher_res.jpg",
       "photoUrl": "/api/img/show-images/show-setlist-300x300.jpg",
@@ -242,7 +280,9 @@
     },
     {
       "id": 12676,
-      "events": [],
+      "events": [
+        12905
+      ],
       "name": "Turnt Up with Eliza Skinner",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/eliza0016.jpg",
       "photoUrl": "/api/img/show-images/show-turntupwithelizaskinner-300x300.jpg",
@@ -266,7 +306,9 @@
     },
     {
       "id": 12552,
-      "events": [],
+      "events": [
+        12813
+      ],
       "name": "Pep Talks Podcast",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/peptalks_atccover4.jpg",
       "photoUrl": "/api/img/show-images/show-peptalkspodcast-300x300.jpg",
@@ -278,7 +320,9 @@
     },
     {
       "id": 12151,
-      "events": [],
+      "events": [
+        12750
+      ],
       "name": "You Had to Be There",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/you_had_to_be_there_promo_pic.jpg",
       "photoUrl": "/api/img/show-images/show-youhadtobethere-300x300.jpg",
@@ -290,7 +334,9 @@
     },
     {
       "id": 12118,
-      "events": [],
+      "events": [
+        12816
+      ],
       "name": "Unsafe Space",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/unsafe-space-itunes-flyer.png",
       "photoUrl": "/api/img/show-images/show-unsafespace-300x300.jpg",
@@ -302,7 +348,9 @@
     },
     {
       "id": 12547,
-      "events": [],
+      "events": [
+        12786
+      ],
       "name": "Reunited",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/reunited_generic_web_small.jpg",
       "photoUrl": "/api/img/show-images/show-reunited-300x300.jpg",
@@ -314,7 +362,9 @@
     },
     {
       "id": 11841,
-      "events": [],
+      "events": [
+        12683
+      ],
       "name": "Earthquake Hurricane",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/web-header.png",
       "photoUrl": "/api/img/show-images/show-earthquakehurricane-300x300.jpg",
@@ -338,7 +388,9 @@
     },
     {
       "id": 12476,
-      "events": [],
+      "events": [
+        12787
+      ],
       "name": "Rants Off/ Dance Off",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rodo_logo_square.jpg",
       "photoUrl": "/api/img/show-images/show-rantsoffdanceoff-300x300.jpg",
@@ -398,7 +450,9 @@
     },
     {
       "id": 12844,
-      "events": [],
+      "events": [
+        12830
+      ],
       "name": "The Dirty 30",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/dirty30posterbigger.jpg",
       "photoUrl": "/api/img/show-images/show-thedirty30-300x300.jpg",
@@ -410,7 +464,10 @@
     },
     {
       "id": 13048,
-      "events": [],
+      "events": [
+        12749,
+        12790
+      ],
       "name": "New Negroes",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/unnamed_0.jpg",
       "photoUrl": "/api/img/show-images/show-newnegroes-300x300.jpg",
@@ -422,7 +479,10 @@
     },
     {
       "id": 13048,
-      "events": [],
+      "events": [
+        12749,
+        12790
+      ],
       "name": "New Negroes",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/unnamed_0.jpg",
       "photoUrl": "/api/img/show-images/show-newnegroes-300x300.jpg",

@@ -1,7 +1,14 @@
 {
   "id": 11452,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12599,
+    12725,
+    12768,
+    12834
+  ],
+  "emceeEvents": [
+    12809
+  ],
   "name": "Gilbert Lawand",
   "twitter": "GilbertLawand",
   "website": "http://GilbertComedy.com",

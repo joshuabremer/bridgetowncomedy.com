@@ -1,6 +1,9 @@
 {
   "id": 12469,
-  "events": [],
+  "events": [
+    12807,
+    12904
+  ],
   "emceeEvents": [],
   "name": "Oscar Nunez",
   "twitter": "OscarNunezLA",

@@ -1,7 +1,14 @@
 {
   "id": 11937,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12749,
+    12809,
+    13009,
+    13021
+  ],
+  "emceeEvents": [
+    12724
+  ],
   "name": "Tafadzwa Gwaze ",
   "twitter": "",
   "website": "",

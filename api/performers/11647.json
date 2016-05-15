@@ -1,7 +1,12 @@
 {
   "id": 11647,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12802,
+    12826
+  ],
+  "emceeEvents": [
+    12768
+  ],
   "name": "Rob Haze",
   "twitter": "robertistheMan",
   "website": "http://robhaze.com",

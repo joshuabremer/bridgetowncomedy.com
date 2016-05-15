@@ -1,6 +1,10 @@
 {
   "id": 12472,
-  "events": [],
+  "events": [
+    12786,
+    12807,
+    12904
+  ],
   "emceeEvents": [],
   "name": "John Michael Higgins",
   "twitter": "real_JMHiggins",

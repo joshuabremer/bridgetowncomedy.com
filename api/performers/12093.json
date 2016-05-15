@@ -1,7 +1,12 @@
 {
   "id": 12093,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12808,
+    13033
+  ],
+  "emceeEvents": [
+    13031
+  ],
   "name": "Jon Washington",
   "twitter": "GoodOleJon",
   "website": "http://jonwashington.net",

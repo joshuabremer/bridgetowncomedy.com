@@ -1,6 +1,8 @@
 {
   "id": 12537,
-  "events": [],
+  "events": [
+    12811
+  ],
   "name": "Rachel Bloom",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rachel_bloom_headshot_by_robyn_von_swank-crop.jpg",
   "photoUrl": "/api/img/show-images/show-rachelbloom-300x300.jpg",

@@ -1,7 +1,15 @@
 {
   "id": 12466,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12742,
+    12795,
+    12797,
+    12828
+  ],
+  "emceeEvents": [
+    12729,
+    12813
+  ],
   "name": "Eddie Pepitone",
   "twitter": "eddiepepitone",
   "website": "http://eddiepepitone.com/",

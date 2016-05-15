@@ -1,7 +1,15 @@
 {
   "id": 11954,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12721,
+    12732,
+    12765,
+    12790,
+    13030
+  ],
+  "emceeEvents": [
+    13028
+  ],
   "name": "Preacher Lawson",
   "twitter": "preacherlawson",
   "website": "http://preacherlawson.com",

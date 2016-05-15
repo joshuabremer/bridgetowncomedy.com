@@ -1,7 +1,13 @@
 {
   "id": 11376,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12739,
+    12793,
+    12831
+  ],
+  "emceeEvents": [
+    12775
+  ],
   "name": "Mike Coletta",
   "twitter": "MeColetta",
   "website": "http://colettacomedy.com",

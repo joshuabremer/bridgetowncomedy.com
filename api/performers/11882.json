@@ -1,7 +1,15 @@
 {
   "id": 11882,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12719,
+    12732,
+    12733,
+    12826,
+    12943
+  ],
+  "emceeEvents": [
+    13045
+  ],
   "name": "Steven Wilber",
   "twitter": "WilberWithAnE",
   "website": "http://stevenstevensteven.com",

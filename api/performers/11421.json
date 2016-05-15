@@ -1,7 +1,14 @@
 {
   "id": 11421,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12733,
+    12793,
+    12834,
+    13009
+  ],
+  "emceeEvents": [
+    12764
+  ],
   "name": "Patrick Susmilch",
   "twitter": "psusmilch",
   "website": "http://www.patsusmilch.com",

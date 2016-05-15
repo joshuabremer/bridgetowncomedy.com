@@ -1,7 +1,12 @@
 {
   "id": 12498,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12479,
+    12724
+  ],
+  "emceeEvents": [
+    13003
+  ],
   "name": "Julian McCullough ",
   "twitter": "Julezmac",
   "website": "",

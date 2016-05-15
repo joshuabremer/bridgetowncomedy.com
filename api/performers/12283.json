@@ -1,7 +1,15 @@
 {
   "id": 12283,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12767,
+    12802,
+    12831,
+    13034
+  ],
+  "emceeEvents": [
+    12816,
+    13030
+  ],
   "name": "Toby Muresianu",
   "twitter": "tobymuresianu",
   "website": "http://tobythecomic.com",

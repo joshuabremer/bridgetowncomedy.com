@@ -1,7 +1,14 @@
 {
   "id": 11284,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12719,
+    12727,
+    12797,
+    13045
+  ],
+  "emceeEvents": [
+    12745
+  ],
   "name": "Emma Willmann ",
   "twitter": "",
   "website": "",

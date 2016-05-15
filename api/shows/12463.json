@@ -1,6 +1,8 @@
 {
   "id": 12463,
-  "events": [],
+  "events": [
+    12742
+  ],
   "name": "Nato Green Presents: Laughter Against the Machine",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/latm.png",
   "photoUrl": "/api/img/show-images/show-natogreenpresentslaughteragainstthemachine-300x300.jpg",

@@ -1,6 +1,11 @@
 {
   "id": 12160,
-  "events": [],
+  "events": [
+    12772,
+    12788,
+    13028,
+    13042
+  ],
   "emceeEvents": [],
   "name": "Nick Dixon",
   "twitter": "nickdixxon",

@@ -1,7 +1,15 @@
 {
   "id": 11693,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12684,
+    12725,
+    12780,
+    12802,
+    12831
+  ],
+  "emceeEvents": [
+    12748
+  ],
   "name": "Ahamed Weinberg",
   "twitter": "ahamedweinberg",
   "website": "",

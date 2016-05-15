@@ -1,6 +1,10 @@
 {
   "id": 12477,
-  "events": [],
+  "events": [
+    12786,
+    12807,
+    12904
+  ],
   "emceeEvents": [],
   "name": "Janet Varney",
   "twitter": "janetvarney",

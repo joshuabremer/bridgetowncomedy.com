@@ -1,7 +1,14 @@
 {
   "id": 11777,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12719,
+    12742,
+    12796,
+    13039
+  ],
+  "emceeEvents": [
+    12740
+  ],
   "name": "Emily Galati",
   "twitter": "emilygalati",
   "website": "http://www.macdonaldentertainment.com",

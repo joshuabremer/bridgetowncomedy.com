@@ -1,0 +1,20 @@
+{
+  "id": 12479,
+  "performers": [
+    12493,
+    12491,
+    12879,
+    12876,
+    11953,
+    12498
+  ],
+  "emcee": 10429,
+  "venue": 10373,
+  "show": "12492",
+  "name": "Baked",
+  "description": "",
+  "startDateTime": "2016-06-04T02:00:00.000Z",
+  "endDateTime": "2016-06-04T03:30:00.000Z",
+  "price": 0,
+  "pageUrl": "12479-baked"
+}

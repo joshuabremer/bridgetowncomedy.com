@@ -1,6 +1,10 @@
 {
   "id": 12556,
-  "events": [],
+  "events": [
+    12748,
+    12779,
+    13045
+  ],
   "emceeEvents": [],
   "name": "Ryan Sickler",
   "twitter": "ryansickler",

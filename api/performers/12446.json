@@ -1,7 +1,13 @@
 {
   "id": 12446,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12767,
+    12814,
+    12941
+  ],
+  "emceeEvents": [
+    12796
+  ],
   "name": "James Fritz",
   "twitter": "fritzisdead",
   "website": "",

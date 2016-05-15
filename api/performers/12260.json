@@ -1,7 +1,14 @@
 {
   "id": 12260,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12682,
+    12739,
+    12943,
+    13028
+  ],
+  "emceeEvents": [
+    12732
+  ],
   "name": "Sean Jordan",
   "twitter": "SeanSJordan",
   "website": "http://www.seanjordancomedy.com",

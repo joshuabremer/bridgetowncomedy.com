@@ -1,7 +1,12 @@
 {
   "id": 11473,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12796,
+    12825
+  ],
+  "emceeEvents": [
+    12798
+  ],
   "name": "Tony Sam",
   "twitter": "toekneesam",
   "website": "http://tonysamcomedy.tumblr.com",

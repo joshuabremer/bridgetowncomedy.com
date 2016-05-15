@@ -1,6 +1,19 @@
 {
   "id": 10376,
-  "events": [],
+  "events": [
+    12719,
+    12736,
+    12774,
+    12775,
+    12802,
+    12807,
+    12816,
+    12835,
+    12904,
+    13003,
+    13009,
+    13034
+  ],
   "name": "Siren Theater",
   "address": "315 SE 3rd Ave, Portland, OR",
   "pageUrl": "10376-siren-theater"

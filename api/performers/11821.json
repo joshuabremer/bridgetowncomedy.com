@@ -1,7 +1,15 @@
 {
   "id": 11821,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12684,
+    12749,
+    12750,
+    12793,
+    13039
+  ],
+  "emceeEvents": [
+    12739
+  ],
   "name": "Richard Douglas Jones",
   "twitter": "rdouglasjones",
   "website": "",

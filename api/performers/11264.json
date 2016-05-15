@@ -1,7 +1,13 @@
 {
   "id": 11264,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12775,
+    12809,
+    12833
+  ],
+  "emceeEvents": [
+    12730
+  ],
   "name": "Georgea Brooks",
   "twitter": "georgeabrooks",
   "website": "http://www.georgeabrooks.com",

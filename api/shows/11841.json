@@ -1,6 +1,8 @@
 {
   "id": 11841,
-  "events": [],
+  "events": [
+    12683
+  ],
   "name": "Earthquake Hurricane",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/web-header.png",
   "photoUrl": "/api/img/show-images/show-earthquakehurricane-300x300.jpg",

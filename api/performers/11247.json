@@ -1,7 +1,13 @@
 {
   "id": 11247,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12765,
+    12792,
+    12826
+  ],
+  "emceeEvents": [
+    13034
+  ],
   "name": "Katie McCarthy",
   "twitter": "",
   "website": "http://bridgetown.festivalthing.com/www.katiemccarthy.xyz",

@@ -1,6 +1,8 @@
 {
   "id": 12118,
-  "events": [],
+  "events": [
+    12816
+  ],
   "name": "Unsafe Space",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/unsafe-space-itunes-flyer.png",
   "photoUrl": "/api/img/show-images/show-unsafespace-300x300.jpg",
