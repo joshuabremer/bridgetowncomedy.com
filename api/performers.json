@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 12576,
+      "id": 12185,
       "events": [],
       "emceeEvents": [],
-      "name": "Alice Wetterlund",
-      "twitter": "alicewetterlund",
-      "website": "http://alicewetterlund.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/al071.jpg",
-      "photoUrl": "/api/img/performer-images/performer-alicewetterlund-300x300.jpg",
-      "sortOrder": 72,
+      "name": "Bri Pruett",
+      "twitter": "Bripruett",
+      "website": "http://Bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 73,
       "excludeFromList": false,
-      "bio": "<p>Alice Wetterlund is a stand-up comedian, improvisor and actor originally from Minneapolis, Minnesota. She performs regularly at all the UCBees as well as San Francisco’s Punchline, and LA’s Largo and The Hollywood Improv as well as festivals and clubs throughout the continent. She currently resides in LA with her two feline sons, Biscuit and Birdie. You can see Alice as Carla Walton on HBO’s Silicon Valley, as Kelly Grady in the upcoming People of Earth on TBS, as well as in the feature Mike and Dave Need Wedding Dates, coming this summer to theaters.</p>\n",
-      "pageUrl": "12576-alice-wetterlund"
+      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
+      "pageUrl": "12185-bri-pruett"
     },
     {
       "id": 12538,
@@ -995,6 +995,20 @@
       "pageUrl": "12245-anthony-lopez"
     },
     {
+      "id": 12576,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Alice Wetterlund",
+      "twitter": "alicewetterlund",
+      "website": "http://alicewetterlund.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/al071.jpg",
+      "photoUrl": "/api/img/performer-images/performer-alicewetterlund-300x300.jpg",
+      "sortOrder": 72,
+      "excludeFromList": false,
+      "bio": "<p>Alice Wetterlund is a stand-up comedian, improvisor and actor originally from Minneapolis, Minnesota. She performs regularly at all the UCBees as well as San Francisco’s Punchline, and LA’s Largo and The Hollywood Improv as well as festivals and clubs throughout the continent. She currently resides in LA with her two feline sons, Biscuit and Birdie. You can see Alice as Carla Walton on HBO’s Silicon Valley, as Kelly Grady in the upcoming People of Earth on TBS, as well as in the feature Mike and Dave Need Wedding Dates, coming this summer to theaters.</p>\n",
+      "pageUrl": "12576-alice-wetterlund"
+    },
+    {
       "id": 12535,
       "events": [],
       "emceeEvents": [],
@@ -1007,20 +1021,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 12185,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Bri Pruett",
-      "twitter": "Bripruett",
-      "website": "http://Bripruett.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
-      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
-      "sortOrder": 73,
-      "excludeFromList": false,
-      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
-      "pageUrl": "12185-bri-pruett"
     },
     {
       "id": 12289,
@@ -2001,6 +2001,20 @@
       "excludeFromList": false,
       "bio": "<p>Clare O’Kane is an actress, comedian and writer from San Jose, California. She has performed in the Edinburgh Fringe Festival, Bridgetown Comedy Festival, SF Sketchfest, FunFunFun Fest, and other wonderful, independent festivals around the country. She has been described as “sarcastic” and “half-Asian”. Along with being a stand up, Clare is also one-third of the sketch group Blessed. They have made a couple of very funny videos, none of which have gone viral. Clare has appeared on Vice's network Viceland and has written for Spongebob Squarepants. She currently lives in Los Angeles, California with a guy and a cat.</p>\n",
       "pageUrl": "13036-clare-okane"
+    },
+    {
+      "id": 13046,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Jonah Ray",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jonah-ray-mandee-johnson.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jonahray-300x300.jpg",
+      "sortOrder": 144,
+      "excludeFromList": true,
+      "bio": "<p>Jonah Ray started his TV career as a writer's assistant for “The Andy Milonakis Show,” before being fired then immediately being re-hired as a full time writer. Since then he has written and performed on shows such as “Adventure Time,” “Human Giant,” “The League,” and “The Soup,” and has appeared as a stand-up on “Conan” and “Live at Gotham,” as well as Comedy Central’s “Mash Up” and “The Half Hour.” He can be seen in the upcoming seasons of “Drunk History” on Comedy Central, “Maron” and “Garfunkle and Oates.”  In addition, Ray is one of Chris Hardwick's co-hosts of The Nerdist Podcast, which is also a show on BBC America. He can also be seen touring the country as a solo stand-up, supporting his latest comedy record from AST Records, “Hello, Mr. Magic Plane Person, Hello.” which debuted at number one on the iTunes Comedy Charts.</p>\n",
+      "pageUrl": "13046-jonah-ray"
     }
   ]
 }
