@@ -10,9 +10,9 @@
     {
       "id": 10677,
       "events": [],
-      "name": "Analog Theater (Upstairs)",
+      "name": "Analog Theater",
       "address": "900 SE Salmon St, Portland, OR 97214",
-      "pageUrl": "10677-analog-theater-upstairs"
+      "pageUrl": "10677-analog-theater"
     },
     {
       "id": 10377,
@@ -20,6 +20,13 @@
       "name": "Bit House Saloon",
       "address": "315 SE 3rd Ave, Portland, OR",
       "pageUrl": "10377-bit-house-saloon"
+    },
+    {
+      "id": 10374,
+      "events": [],
+      "name": "Portland Mercury Stage at Bossanova Ballroom",
+      "address": "722 E Burnside, Portland, OR",
+      "pageUrl": "10374-portland-mercury-stage-at-bossanova-ballroom"
     },
     {
       "id": 10380,
@@ -44,9 +51,9 @@
     {
       "id": 10373,
       "events": [],
-      "name": "Kill Rock Stars Stage at Kill Rock Stars Stage at Doug Fir Lounge",
+      "name": "Kill Rock Stars Stage at Doug Fir Lounge",
       "address": "830 E. Burnside St., Portland, OR",
-      "pageUrl": "10373-kill-rock-stars-stage-at-kill-rock-stars-stage-at-doug-fir-lounge"
+      "pageUrl": "10373-kill-rock-stars-stage-at-doug-fir-lounge"
     },
     {
       "id": 10379,
@@ -54,13 +61,6 @@
       "name": "My Father&#039;s Place",
       "address": "523 SE Grand Ave 97214",
       "pageUrl": "10379-my-fathers-place"
-    },
-    {
-      "id": 10374,
-      "events": [],
-      "name": "Portland Mercury Stage at Portland Mercury Stage at Bossanova Ballroom",
-      "address": "722 E Burnside, Portland, OR",
-      "pageUrl": "10374-portland-mercury-stage-at-portland-mercury-stage-at-bossanova-ballroom"
     },
     {
       "id": 12478,
