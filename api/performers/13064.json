@@ -1,7 +1,9 @@
 {
   "id": 13064,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12780
+  ],
   "name": "Jake Browne",
   "twitter": "",
   "website": "",

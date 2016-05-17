@@ -1,7 +1,9 @@
 {
   "id": 12891,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12818
+  ],
   "name": "Andrew Ti",
   "twitter": "",
   "website": "",
