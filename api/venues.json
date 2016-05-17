@@ -23,8 +23,8 @@
         13041,
         13045
       ],
-      "name": "Analog Theater (Upstairs)",
-      "pageUrl": "10677-analog-theater-upstairs"
+      "name": "Analog Theater",
+      "pageUrl": "10677-analog-theater"
     },
     {
       "id": 10377,
@@ -37,20 +37,23 @@
       "id": 10374,
       "events": [
         12683,
+        12684,
+        12730,
+        12731,
         12735,
         12742,
         12751,
         12779,
         12785,
         12798,
-        12812,
+        12817,
         12823,
         12824,
         12830,
         13020
       ],
-      "name": "MailChimp Stage at Bossanova Ballroom",
-      "pageUrl": "10374-mailchimp-stage-at-bossanova-ballroom"
+      "name": "Portland Mercury Stage at Bossanova Ballroom",
+      "pageUrl": "10374-portland-mercury-stage-at-bossanova-ballroom"
     },
     {
       "id": 10380,
@@ -73,11 +76,7 @@
     },
     {
       "id": 12605,
-      "events": [
-        12684,
-        12730,
-        12817
-      ],
+      "events": [],
       "name": "Bossanova Upstairs",
       "address": "722 E Burnside Street, Portland, OR 97214",
       "pageUrl": "12605-bossanova-upstairs"
@@ -113,7 +112,7 @@
         12797,
         12800,
         12808,
-        12813,
+        12812,
         12818,
         12828,
         12905
@@ -142,7 +141,6 @@
       "id": 12478,
       "events": [
         12658,
-        12731,
         12732,
         12752,
         12787,
@@ -172,6 +170,7 @@
         12775,
         12802,
         12807,
+        12813,
         12816,
         12835,
         12904,
@@ -189,7 +188,6 @@
         12739,
         12772,
         12941,
-        13030,
         13031
       ],
       "name": "Trio Club",

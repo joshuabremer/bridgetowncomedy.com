@@ -1,19 +1,21 @@
 {
   "id": 12904,
   "performers": [
+    13059,
+    13061,
     12468,
+    12469,
     12472,
     12477,
-    12471,
-    12469
+    12471
   ],
-  "emcee": 10429,
+  "emcee": 0,
   "venue": 10376,
   "show": "12470",
   "name": "Theme Park Matinee",
   "description": "",
   "startDateTime": "2016-06-05T20:00:00.000Z",
   "endDateTime": "2016-06-05T21:30:00.000Z",
-  "price": 0,
+  "price": 20,
   "pageUrl": "12904-theme-park-matinee"
 }

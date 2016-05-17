@@ -1,12 +1,13 @@
 {
   "id": 12808,
   "performers": [
-    12093,
+    11659,
+    12540,
     11728,
     12453,
+    11402,
     11577,
-    12007,
-    11443
+    11975
   ],
   "emcee": 12082,
   "venue": 10373,
@@ -14,6 +15,6 @@
   "description": "",
   "startDateTime": "2016-06-04T06:00:00.000Z",
   "endDateTime": "2016-06-04T06:59:00.000Z",
-  "price": 0,
+  "price": 15,
   "pageUrl": "12808-doug-fir-late-night"
 }

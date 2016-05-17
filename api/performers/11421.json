@@ -1,10 +1,9 @@
 {
   "id": 11421,
   "events": [
-    12733,
     12793,
     12834,
-    13009
+    13031
   ],
   "emceeEvents": [
     12764
@@ -14,7 +13,7 @@
   "website": "http://www.patsusmilch.com",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/treesmall.jpg",
   "photoUrl": "/api/img/performer-images/performer-patricksusmilch-300x300.jpg",
-  "sortOrder": 122,
+  "sortOrder": 126,
   "excludeFromList": false,
   "bio": "<p>Patrick Susmilch started his stand-up odyssey at the tender age of 20. Now, at the tender age of 29, he has transformed into a beautiful and wounded comedic butterfly. With a cheerfully sardonic viewpoint, he’s not afraid to tackle the big topics: kittens, hair loss, and wind chimes. Patrick’s style, which straddles the line between irreverence and poignancy, recently secured him an appearance on season 8 of NBC’s &#039;Last Comic Standing.&#039; His debut album &#039;Validate Me&#039; will be available on iTunes April 15th.</p>\n",
   "pageUrl": "11421-patrick-susmilch"
