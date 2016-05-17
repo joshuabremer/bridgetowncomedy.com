@@ -1,6 +1,9 @@
 {
   "id": 12876,
-  "events": [],
+  "events": [
+    12479,
+    12723
+  ],
   "emceeEvents": [],
   "name": "Walter Ino",
   "twitter": "",

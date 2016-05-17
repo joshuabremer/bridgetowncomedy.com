@@ -1,0 +1,21 @@
+{
+  "id": 12742,
+  "performers": [
+    11956,
+    11904,
+    12094,
+    12447,
+    11777,
+    12007,
+    12466
+  ],
+  "emcee": 11494,
+  "venue": 10374,
+  "show": "12463",
+  "name": "Laughter Against the Machine",
+  "description": "",
+  "startDateTime": "2016-06-04T03:00:00.000Z",
+  "endDateTime": "2016-06-04T04:30:00.000Z",
+  "price": 20,
+  "pageUrl": "12742-laughter-against-the-machine"
+}

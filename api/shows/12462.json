@@ -1,6 +1,8 @@
 {
   "id": 12462,
-  "events": [],
+  "events": [
+    12798
+  ],
   "name": "Persona!",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/personalogo.jpg",
   "photoUrl": "/api/img/show-images/show-persona-300x300.jpg",

@@ -1,0 +1,20 @@
+{
+  "id": 13020,
+  "performers": [
+    12173,
+    12495,
+    11439,
+    12007,
+    11730,
+    11174,
+    11975
+  ],
+  "emcee": 11728,
+  "venue": 10374,
+  "name": "Late Night Late Night Show",
+  "description": "",
+  "startDateTime": "2016-06-05T05:00:00.000Z",
+  "endDateTime": "2016-06-05T06:30:00.000Z",
+  "price": 20,
+  "pageUrl": "13020-late-night-late-night-show"
+}

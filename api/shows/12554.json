@@ -1,6 +1,8 @@
 {
   "id": 12554,
-  "events": [],
+  "events": [
+    12785
+  ],
   "name": "Roderick on the Line",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rotr.jpg",
   "photoUrl": "/api/img/show-images/show-roderickontheline-300x300.jpg",

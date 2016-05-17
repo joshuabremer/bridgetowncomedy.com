@@ -1,7 +1,14 @@
 {
   "id": 11981,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12730,
+    12748,
+    12825,
+    13041
+  ],
+  "emceeEvents": [
+    12599
+  ],
   "name": "Gabe Dinger",
   "twitter": "GabeDinger",
   "website": "http://www.GabeDinger.com",

@@ -1,6 +1,8 @@
 {
   "id": 12553,
-  "events": [],
+  "events": [
+    12729
+  ],
   "name": "Eddie Pepitone&#039;s Bloodbath",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/pepitoneblood.jpg",
   "photoUrl": "/api/img/show-images/show-eddiepepitone039sbloodbath-300x300.jpg",

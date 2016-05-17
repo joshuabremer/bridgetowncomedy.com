@@ -1,6 +1,12 @@
 {
   "id": 12289,
-  "events": [],
+  "events": [
+    12657,
+    12719,
+    12739,
+    12751,
+    12825
+  ],
   "emceeEvents": [],
   "name": "Carmen Lagala",
   "twitter": "carmenlagala",

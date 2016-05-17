@@ -1,6 +1,9 @@
 {
   "id": 12454,
-  "events": [],
+  "events": [
+    12682,
+    13033
+  ],
   "emceeEvents": [],
   "name": "Chris Cubas",
   "twitter": "Chriscubas",

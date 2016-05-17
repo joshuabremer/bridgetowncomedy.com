@@ -1,7 +1,15 @@
 {
   "id": 12276,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12745,
+    12787,
+    12822,
+    12831,
+    12943
+  ],
+  "emceeEvents": [
+    12727
+  ],
   "name": "Caitlin Weierhauser",
   "twitter": "unclecait",
   "website": "http://lezstandup.com",

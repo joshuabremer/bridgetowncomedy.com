@@ -1,0 +1,20 @@
+{
+  "id": 12802,
+  "performers": [
+    12395,
+    11693,
+    11647,
+    11235,
+    12283,
+    12245,
+    12457
+  ],
+  "emcee": 12114,
+  "venue": 10376,
+  "name": "Call of the Siren",
+  "description": "<p>The lure of this comedy show will draw you downtown.</p>\n",
+  "startDateTime": "2016-06-05T05:00:00.000Z",
+  "endDateTime": "2016-06-05T06:30:00.000Z",
+  "price": 10,
+  "pageUrl": "12802-call-of-the-siren"
+}

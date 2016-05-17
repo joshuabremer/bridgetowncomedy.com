@@ -1,6 +1,8 @@
 {
   "id": 12558,
-  "events": [],
+  "events": [
+    12721
+  ],
   "name": "Set List",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/set_list_logo_live_j_higher_res.jpg",
   "photoUrl": "/api/img/show-images/show-setlist-300x300.jpg",

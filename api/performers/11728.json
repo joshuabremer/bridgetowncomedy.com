@@ -1,7 +1,14 @@
 {
   "id": 11728,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12740,
+    12752,
+    12792,
+    12808
+  ],
+  "emceeEvents": [
+    13020
+  ],
   "name": "Bil Dwyer",
   "twitter": "bildwyer",
   "website": "",

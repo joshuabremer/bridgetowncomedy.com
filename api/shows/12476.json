@@ -1,6 +1,8 @@
 {
   "id": 12476,
-  "events": [],
+  "events": [
+    12787
+  ],
   "name": "Rants Off/ Dance Off",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rodo_logo_square.jpg",
   "photoUrl": "/api/img/show-images/show-rantsoffdanceoff-300x300.jpg",

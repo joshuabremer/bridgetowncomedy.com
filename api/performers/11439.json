@@ -1,6 +1,12 @@
 {
   "id": 11439,
-  "events": [],
+  "events": [
+    12735,
+    12752,
+    12772,
+    12823,
+    13020
+  ],
   "emceeEvents": [],
   "name": "Dan Telfer",
   "twitter": "dantelfer",

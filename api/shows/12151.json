@@ -1,6 +1,8 @@
 {
   "id": 12151,
-  "events": [],
+  "events": [
+    12750
+  ],
   "name": "You Had to Be There",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/you_had_to_be_there_promo_pic.jpg",
   "photoUrl": "/api/img/show-images/show-youhadtobethere-300x300.jpg",

@@ -1,0 +1,20 @@
+{
+  "id": 13009,
+  "performers": [
+    12122,
+    12036,
+    11613,
+    11937,
+    12140,
+    12068,
+    12583
+  ],
+  "emcee": 11217,
+  "venue": 10376,
+  "name": "Siren's Song",
+  "description": "<p>Get wrecked with an evening of epic comedy.</p>\n",
+  "startDateTime": "2016-06-02T04:30:00.000Z",
+  "endDateTime": "2016-06-02T06:00:00.000Z",
+  "price": 10,
+  "pageUrl": "13009-sirens-song"
+}

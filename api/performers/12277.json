@@ -1,7 +1,13 @@
 {
   "id": 12277,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12724,
+    12809,
+    12822
+  ],
+  "emceeEvents": [
+    12747
+  ],
   "name": "Nariko Ott",
   "twitter": "Nariko_Ott",
   "website": "http://narikoott.com",

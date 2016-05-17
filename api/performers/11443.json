@@ -1,6 +1,13 @@
 {
   "id": 11443,
-  "events": [],
+  "events": [
+    12683,
+    12730,
+    12731,
+    12768,
+    12779,
+    12795
+  ],
   "emceeEvents": [],
   "name": "Greg Behrendt",
   "twitter": "gregorybehrendt",

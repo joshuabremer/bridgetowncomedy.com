@@ -1,6 +1,9 @@
 {
   "id": 12492,
-  "events": [],
+  "events": [
+    12479,
+    12723
+  ],
   "name": "Baked",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
   "photoUrl": "/api/img/show-images/show-baked-300x300.jpg",

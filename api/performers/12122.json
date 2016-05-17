@@ -1,7 +1,14 @@
 {
   "id": 12122,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12765,
+    12792,
+    13009,
+    13021
+  ],
+  "emceeEvents": [
+    13042
+  ],
   "name": "M.K. Paulsen",
   "twitter": "mkpaulsen",
   "website": "http://www.mkpaulsen.com",

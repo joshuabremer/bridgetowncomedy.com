@@ -1,7 +1,11 @@
 {
   "id": 12893,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12721,
+    12774,
+    12782
+  ],
   "name": "Troy Conrad",
   "twitter": "",
   "website": "",

@@ -1,6 +1,10 @@
 {
   "id": 12562,
-  "events": [],
+  "events": [
+    12655,
+    12723,
+    12785
+  ],
   "emceeEvents": [],
   "name": "John Roderick",
   "twitter": "johnroderick",

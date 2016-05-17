@@ -1,7 +1,13 @@
 {
   "id": 11235,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12657,
+    12802,
+    13039
+  ],
+  "emceeEvents": [
+    13033
+  ],
   "name": "Geoffrey Asmus",
   "twitter": "filthyson",
   "website": "http://www.whitecomedian.com/",

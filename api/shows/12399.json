@@ -1,6 +1,8 @@
 {
   "id": 12399,
-  "events": [],
+  "events": [
+    12818
+  ],
   "name": "Yo, Is This Racist? LIVE PODCAST",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/yo_logo.jpg",
   "photoUrl": "/api/img/show-images/show-yoisthisracistlivepodcast-300x300.jpg",

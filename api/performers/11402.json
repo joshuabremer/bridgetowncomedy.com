@@ -1,7 +1,13 @@
 {
   "id": 11402,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12727,
+    12752,
+    12808
+  ],
+  "emceeEvents": [
+    12684
+  ],
   "name": "Sabrina Jalees",
   "twitter": "SabrinaJalees",
   "website": "",

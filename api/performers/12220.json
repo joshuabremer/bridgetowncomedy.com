@@ -1,7 +1,14 @@
 {
   "id": 12220,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12682,
+    12724,
+    12810,
+    13021
+  ],
+  "emceeEvents": [
+    12772
+  ],
   "name": "Abby Rosenquist",
   "twitter": "abbyrosenquist",
   "website": "http://abbyrosenquist.weebly.com/",

@@ -1,7 +1,13 @@
 {
   "id": 11509,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12748,
+    12752,
+    12810
+  ],
+  "emceeEvents": [
+    12830
+  ],
   "name": "John F. O&#039;Donnell",
   "twitter": "TheRealJFOD",
   "website": "http://livefromouterspace.com",

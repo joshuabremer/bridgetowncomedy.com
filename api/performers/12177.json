@@ -1,6 +1,11 @@
 {
   "id": 12177,
-  "events": [],
+  "events": [
+    12730,
+    12749,
+    12800,
+    12834
+  ],
   "emceeEvents": [],
   "name": "Nathan Brannon",
   "twitter": "nathanbrannon",

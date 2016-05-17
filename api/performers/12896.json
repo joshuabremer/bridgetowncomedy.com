@@ -1,6 +1,11 @@
 {
   "id": 12896,
-  "events": [],
+  "events": [
+    12682,
+    12730,
+    12767,
+    12774
+  ],
   "emceeEvents": [],
   "name": "David Huntsberger",
   "twitter": "",

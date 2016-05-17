@@ -1,0 +1,21 @@
+{
+  "id": 12798,
+  "performers": [
+    12137,
+    12036,
+    11730,
+    12224,
+    12576,
+    11783,
+    12468
+  ],
+  "emcee": 11473,
+  "venue": 10374,
+  "show": "12462",
+  "name": "Persona!",
+  "description": "",
+  "startDateTime": "2016-06-04T05:00:00.000Z",
+  "endDateTime": "2016-06-04T06:30:00.000Z",
+  "price": 15,
+  "pageUrl": "12798-persona"
+}

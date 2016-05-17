@@ -1,0 +1,17 @@
+{
+  "id": 12800,
+  "performers": [
+    12401,
+    12177,
+    11164,
+    13056
+  ],
+  "emcee": 12218,
+  "venue": 10373,
+  "name": "Kill Rock Stars Presents",
+  "description": "",
+  "startDateTime": "2016-06-05T04:00:00.000Z",
+  "endDateTime": "2016-06-05T05:30:00.000Z",
+  "price": 20,
+  "pageUrl": "12800-kill-rock-stars-presents"
+}

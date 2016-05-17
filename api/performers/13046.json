@@ -1,6 +1,9 @@
 {
   "id": 13046,
-  "events": [],
+  "events": [
+    12479,
+    12654
+  ],
   "emceeEvents": [],
   "name": "Jonah Ray",
   "twitter": "",

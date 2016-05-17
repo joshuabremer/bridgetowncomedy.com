@@ -1,0 +1,21 @@
+{
+  "id": 12750,
+  "performers": [
+    11582,
+    11993,
+    11821,
+    12448,
+    11761,
+    12447,
+    12482
+  ],
+  "emcee": 10429,
+  "venue": 10373,
+  "show": "12151",
+  "name": "You Had To Be There",
+  "description": "",
+  "startDateTime": "2016-06-05T06:00:00.000Z",
+  "endDateTime": "2016-06-05T06:59:00.000Z",
+  "price": 15,
+  "pageUrl": "12750-you-had-to-be-there"
+}

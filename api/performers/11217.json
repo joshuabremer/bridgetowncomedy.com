@@ -1,7 +1,14 @@
 {
   "id": 11217,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12658,
+    12739,
+    12765,
+    12828
+  ],
+  "emceeEvents": [
+    13009
+  ],
   "name": "Nick Sahoyah",
   "twitter": "sahoyah",
   "website": "http://facebook.com/nicksahoyah",

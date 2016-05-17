@@ -1,6 +1,11 @@
 {
   "id": 12491,
-  "events": [],
+  "events": [
+    12479,
+    12723,
+    12795,
+    12834
+  ],
   "emceeEvents": [],
   "name": "Brendon Small",
   "twitter": "",

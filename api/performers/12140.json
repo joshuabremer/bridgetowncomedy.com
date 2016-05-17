@@ -1,7 +1,14 @@
 {
   "id": 12140,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12749,
+    12751,
+    13009,
+    13042
+  ],
+  "emceeEvents": [
+    13021
+  ],
   "name": "Mia Jackson",
   "twitter": "miacomedy",
   "website": "http://www.miajackson.com",

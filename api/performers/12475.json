@@ -1,7 +1,11 @@
 {
   "id": 12475,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12727
+  ],
+  "emceeEvents": [
+    12787
+  ],
   "name": "Whitney Streed",
   "twitter": "whitneystreed",
   "website": "",

@@ -1,7 +1,13 @@
 {
   "id": 11441,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12725,
+    12790,
+    12943
+  ],
+  "emceeEvents": [
+    13022
+  ],
   "name": "Derek Gaines",
   "twitter": "Derek1Gaines",
   "website": "http://www.gershcomedy.com/gaines/",

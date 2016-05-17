@@ -1,7 +1,14 @@
 {
   "id": 11464,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12682,
+    12733,
+    12790,
+    12831
+  ],
+  "emceeEvents": [
+    12657
+  ],
   "name": "Janae Burris",
   "twitter": "Negativenegro",
   "website": "",

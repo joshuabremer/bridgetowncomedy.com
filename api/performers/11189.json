@@ -1,6 +1,10 @@
 {
   "id": 11189,
-  "events": [],
+  "events": [
+    12729,
+    12775,
+    12790
+  ],
   "emceeEvents": [],
   "name": "Dino Archie",
   "twitter": "DinoArchie",

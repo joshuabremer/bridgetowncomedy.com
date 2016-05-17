@@ -1,7 +1,15 @@
 {
   "id": 12482,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12750,
+    12774,
+    12787,
+    12834
+  ],
+  "emceeEvents": [
+    12749,
+    12790
+  ],
   "name": "Baron Vaughn",
   "twitter": "barvonblaq",
   "website": "",

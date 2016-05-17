@@ -1,7 +1,12 @@
 {
   "id": 11399,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12683,
+    12768
+  ],
+  "emceeEvents": [
+    12725
+  ],
   "name": "Megan Gailey",
   "twitter": "megangailey",
   "website": "",

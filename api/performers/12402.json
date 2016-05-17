@@ -1,6 +1,9 @@
 {
   "id": 12402,
-  "events": [],
+  "events": [
+    12765,
+    12790
+  ],
   "emceeEvents": [],
   "name": "Jack Martin",
   "twitter": "",

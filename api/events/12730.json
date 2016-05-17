@@ -1,0 +1,20 @@
+{
+  "id": 12730,
+  "performers": [
+    11376,
+    11761,
+    11981,
+    11659,
+    12177,
+    12896,
+    11443
+  ],
+  "emcee": 11264,
+  "venue": 10374,
+  "name": "Supernova",
+  "description": "",
+  "startDateTime": "2016-06-03T05:00:00.000Z",
+  "endDateTime": "2016-06-03T06:30:00.000Z",
+  "price": 15,
+  "pageUrl": "12730-supernova"
+}

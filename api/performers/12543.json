@@ -1,7 +1,13 @@
 {
   "id": 12543,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12941,
+    13045
+  ],
+  "emceeEvents": [
+    12752,
+    12786
+  ],
   "name": "Bryan Cook",
   "twitter": "",
   "website": "",

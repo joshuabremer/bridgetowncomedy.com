@@ -1,6 +1,12 @@
 {
   "id": 12936,
-  "events": [],
+  "events": [
+    12749,
+    12795,
+    12941,
+    12943,
+    13021
+  ],
   "emceeEvents": [],
   "name": "Tone Bell",
   "twitter": "",

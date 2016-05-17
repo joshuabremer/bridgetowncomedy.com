@@ -1,6 +1,11 @@
 {
   "id": 11500,
-  "events": [],
+  "events": [
+    12747,
+    12788,
+    12941,
+    13028
+  ],
   "emceeEvents": [],
   "name": "Mike Bridenstine",
   "twitter": "brido",

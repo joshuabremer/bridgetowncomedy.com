@@ -1,7 +1,11 @@
 {
   "id": 12540,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12808
+  ],
+  "emceeEvents": [
+    12812
+  ],
   "name": "Andy Wood",
   "twitter": "andytwood",
   "website": "http://andytwood.com",

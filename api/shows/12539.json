@@ -1,6 +1,8 @@
 {
   "id": 12539,
-  "events": [],
+  "events": [
+    12812
+  ],
   "name": "Probably Science",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/probsci.jpeg",
   "photoUrl": "/api/img/show-images/show-probablyscience-300x300.jpg",

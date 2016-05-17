@@ -1,0 +1,20 @@
+{
+  "id": 13021,
+  "performers": [
+    12220,
+    11380,
+    12122,
+    11937,
+    12583,
+    11606,
+    12936
+  ],
+  "emcee": 12140,
+  "venue": 10677,
+  "name": "Southern Showcase",
+  "description": "",
+  "startDateTime": "2016-06-06T01:00:00.000Z",
+  "endDateTime": "2016-06-06T02:30:00.000Z",
+  "price": 10,
+  "pageUrl": "13021-southern-showcase"
+}

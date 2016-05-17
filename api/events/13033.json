@@ -1,0 +1,21 @@
+{
+  "id": 13033,
+  "performers": [
+    12218,
+    12093,
+    11320,
+    11881,
+    12036,
+    12137,
+    12224,
+    12454
+  ],
+  "emcee": 11235,
+  "venue": 10677,
+  "name": "Weird and Wonderful",
+  "description": "",
+  "startDateTime": "2016-06-03T05:00:00.000Z",
+  "endDateTime": "2016-06-03T06:30:00.000Z",
+  "price": 15,
+  "pageUrl": "13033-weird-and-wonderful"
+}

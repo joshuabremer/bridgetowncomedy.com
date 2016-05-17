@@ -1,0 +1,19 @@
+{
+  "id": 12825,
+  "performers": [
+    11964,
+    12289,
+    11473,
+    11783,
+    11981,
+    13036
+  ],
+  "emcee": 11780,
+  "venue": 10380,
+  "name": "Comedy on the Rocks",
+  "description": "",
+  "startDateTime": "2016-06-06T03:30:00.000Z",
+  "endDateTime": "2016-06-06T05:00:00.000Z",
+  "price": 10,
+  "pageUrl": "12825-comedy-on-the-rocks"
+}

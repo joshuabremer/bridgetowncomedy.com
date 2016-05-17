@@ -1,6 +1,11 @@
 {
   "id": 12453,
-  "events": [],
+  "events": [
+    12733,
+    12788,
+    12808,
+    12833
+  ],
   "emceeEvents": [],
   "name": "Nick Youssef",
   "twitter": "nickyoussef",

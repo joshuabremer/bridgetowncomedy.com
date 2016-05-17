@@ -1,7 +1,13 @@
 {
   "id": 11476,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12732,
+    12734,
+    12828
+  ],
+  "emceeEvents": [
+    12792
+  ],
   "name": "Andrew Michaan",
   "twitter": "AndrewMichaan",
   "website": "http://www.andrewmichaan.com",

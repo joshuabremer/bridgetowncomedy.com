@@ -1,7 +1,14 @@
 {
   "id": 12467,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12721,
+    12768,
+    12812,
+    13028
+  ],
+  "emceeEvents": [
+    12797
+  ],
   "name": "Matt Kirshen",
   "twitter": "mattkirshen",
   "website": "http://www.mattkirshen.com",

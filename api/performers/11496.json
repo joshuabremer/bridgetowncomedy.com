@@ -1,7 +1,14 @@
 {
   "id": 11496,
-  "events": [],
-  "emceeEvents": [],
+  "events": [
+    12749,
+    12774,
+    12788,
+    12943
+  ],
+  "emceeEvents": [
+    12733
+  ],
   "name": "Quincy Jones",
   "twitter": "",
   "website": "http://www.thatsnotquincyjones.com",

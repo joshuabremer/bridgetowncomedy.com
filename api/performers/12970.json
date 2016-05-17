@@ -1,6 +1,10 @@
 {
   "id": 12970,
-  "events": [],
+  "events": [
+    12723,
+    12786,
+    12807
+  ],
   "emceeEvents": [],
   "name": "James Urbaniak",
   "twitter": "JamesUrbaniak",

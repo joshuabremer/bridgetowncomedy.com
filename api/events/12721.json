@@ -1,0 +1,20 @@
+{
+  "id": 12721,
+  "performers": [
+    12448,
+    11954,
+    12467,
+    12495,
+    12557,
+    11730
+  ],
+  "emcee": 12893,
+  "venue": 10373,
+  "show": "12558",
+  "name": "Set List",
+  "description": "",
+  "startDateTime": "2016-06-03T02:00:00.000Z",
+  "endDateTime": "2016-06-03T03:30:00.000Z",
+  "price": 15,
+  "pageUrl": "12721-set-list"
+}

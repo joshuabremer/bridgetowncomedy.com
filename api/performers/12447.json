@@ -1,6 +1,12 @@
 {
   "id": 12447,
-  "events": [],
+  "events": [
+    12742,
+    12750,
+    12786,
+    12822,
+    12941
+  ],
   "emceeEvents": [],
   "name": "Josh Androsky",
   "twitter": "shutupandrosky",

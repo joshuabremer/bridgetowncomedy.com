@@ -1,6 +1,9 @@
 {
   "id": 13048,
-  "events": [],
+  "events": [
+    12749,
+    12790
+  ],
   "name": "New Negroes",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/unnamed_0.jpg",
   "photoUrl": "/api/img/show-images/show-newnegroes-300x300.jpg",

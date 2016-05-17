@@ -1,6 +1,12 @@
 {
   "id": 12036,
-  "events": [],
+  "events": [
+    12796,
+    12798,
+    12835,
+    13009,
+    13033
+  ],
   "emceeEvents": [],
   "name": "Philip Schallberger",
   "twitter": "phil_schall",

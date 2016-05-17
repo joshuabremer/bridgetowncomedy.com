@@ -1,6 +1,8 @@
 {
   "id": 12530,
-  "events": [],
+  "events": [
+    13003
+  ],
   "name": "Julian Loves Music",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jlm.jpg",
   "photoUrl": "/api/img/show-images/show-julianlovesmusic-300x300.jpg",

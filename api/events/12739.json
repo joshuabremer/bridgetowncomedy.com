@@ -1,0 +1,20 @@
+{
+  "id": 12739,
+  "performers": [
+    11376,
+    12289,
+    11570,
+    12384,
+    11217,
+    12185,
+    12260
+  ],
+  "emcee": 11821,
+  "venue": 12533,
+  "name": "In the Club",
+  "description": "",
+  "startDateTime": "2016-06-03T02:00:00.000Z",
+  "endDateTime": "2016-06-03T03:30:00.000Z",
+  "price": 10,
+  "pageUrl": "12739-in-the-club"
+}

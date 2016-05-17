@@ -52,10 +52,12 @@ Q.all([
 
 
   venueBuilder.buildFixtures();
+  venueBuilder.createStaticPages();
   venueBuilder.createJSONAPI();
 
   eventBuilder.buildFixtures();
   eventBuilder.createJSONAPI();
+  eventBuilder.createStaticPages();
 
 
   showBuilder.buildFixtures();

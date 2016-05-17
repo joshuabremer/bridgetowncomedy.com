@@ -1,0 +1,20 @@
+{
+  "id": 12814,
+  "performers": [
+    11904,
+    12446,
+    12082,
+    11427,
+    12007,
+    11436,
+    12576
+  ],
+  "emcee": 11654,
+  "venue": 10380,
+  "name": "Party in the Back",
+  "description": "",
+  "startDateTime": "2016-06-05T23:30:00.000Z",
+  "endDateTime": "2016-06-06T01:00:00.000Z",
+  "price": 10,
+  "pageUrl": "12814-party-in-the-back"
+}

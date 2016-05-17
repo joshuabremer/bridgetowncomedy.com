@@ -1,6 +1,8 @@
 {
   "id": 11550,
-  "events": [],
+  "events": [
+    12797
+  ],
   "name": "Joke Thieves",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jt_newlogo_web.png",
   "photoUrl": "/api/img/show-images/show-jokethieves-300x300.jpg",

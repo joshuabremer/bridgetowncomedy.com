@@ -1,6 +1,12 @@
 {
   "id": 12533,
-  "events": [],
+  "events": [
+    12739,
+    12772,
+    12941,
+    13031
+  ],
   "name": "Trio Club",
+  "address": "909 E Burnside St, Portland, OR 97214",
   "pageUrl": "12533-trio-club"
 }
