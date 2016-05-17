@@ -1,7 +1,19 @@
 {
   "id": 10677,
-  "events": [],
+  "events": [
+    12740,
+    12767,
+    12768,
+    12788,
+    12822,
+    12834,
+    12943,
+    13021,
+    13022,
+    13033,
+    13041,
+    13045
+  ],
   "name": "Analog Theater",
-  "address": "900 SE Salmon St, Portland, OR 97214",
   "pageUrl": "10677-analog-theater"
 }

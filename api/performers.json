@@ -2,8 +2,16 @@
   "performers": [
     {
       "id": 12185,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12683,
+        12739,
+        12747,
+        12793,
+        12828
+      ],
+      "emceeEvents": [
+        12731
+      ],
       "name": "Bri Pruett",
       "twitter": "Bripruett",
       "website": "http://Bripruett.com",
@@ -16,7 +24,9 @@
     },
     {
       "id": 12538,
-      "events": [],
+      "events": [
+        12811
+      ],
       "emceeEvents": [],
       "name": "Rachel Bloom",
       "twitter": "Racheldoesstuff",
@@ -30,7 +40,9 @@
     },
     {
       "id": 12536,
-      "events": [],
+      "events": [
+        12655
+      ],
       "emceeEvents": [],
       "name": "Ted Leo",
       "twitter": "tedleo",
@@ -44,8 +56,17 @@
     },
     {
       "id": 12466,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12742,
+        12795,
+        12797,
+        12828,
+        13003
+      ],
+      "emceeEvents": [
+        12729,
+        12813
+      ],
       "name": "Eddie Pepitone",
       "twitter": "eddiepepitone",
       "website": "http://eddiepepitone.com/",
@@ -58,7 +79,14 @@
     },
     {
       "id": 12488,
-      "events": [],
+      "events": [
+        12599,
+        12655,
+        12735,
+        12751,
+        12823,
+        13003
+      ],
       "emceeEvents": [],
       "name": "Morgan Murphy",
       "twitter": "morgan_murphy",
@@ -72,7 +100,13 @@
     },
     {
       "id": 11953,
-      "events": [],
+      "events": [
+        12479,
+        12747,
+        12751,
+        12823,
+        13003
+      ],
       "emceeEvents": [],
       "name": "Sara Schaefer",
       "twitter": "",
@@ -86,7 +120,15 @@
     },
     {
       "id": 12493,
-      "events": [],
+      "events": [
+        12479,
+        12654,
+        12719,
+        12723,
+        12780,
+        12826,
+        13045
+      ],
       "emceeEvents": [],
       "name": "Steve Agee",
       "twitter": "steveagee",
@@ -100,7 +142,12 @@
     },
     {
       "id": 12491,
-      "events": [],
+      "events": [
+        12479,
+        12723,
+        12795,
+        12834
+      ],
       "emceeEvents": [],
       "name": "Brendon Small",
       "twitter": "",
@@ -114,7 +161,9 @@
     },
     {
       "id": 13057,
-      "events": [],
+      "events": [
+        12654
+      ],
       "emceeEvents": [],
       "name": "The Thermals",
       "twitter": "",
@@ -128,7 +177,10 @@
     },
     {
       "id": 13046,
-      "events": [],
+      "events": [
+        12479,
+        12654
+      ],
       "emceeEvents": [],
       "name": "Jonah Ray",
       "twitter": "",
@@ -142,8 +194,16 @@
     },
     {
       "id": 12482,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12750,
+        12774,
+        12787,
+        12834
+      ],
+      "emceeEvents": [
+        12749,
+        12790
+      ],
       "name": "Baron Vaughn",
       "twitter": "barvonblaq",
       "website": "",
@@ -156,7 +216,14 @@
     },
     {
       "id": 11443,
-      "events": [],
+      "events": [
+        12683,
+        12730,
+        12731,
+        12768,
+        12779,
+        12795
+      ],
       "emceeEvents": [],
       "name": "Greg Behrendt",
       "twitter": "gregorybehrendt",
@@ -170,7 +237,15 @@
     },
     {
       "id": 12557,
-      "events": [],
+      "events": [
+        12721,
+        12732,
+        12797,
+        12835,
+        12905,
+        12941,
+        13031
+      ],
       "emceeEvents": [],
       "name": "Matt Braunger",
       "twitter": "",
@@ -184,7 +259,15 @@
     },
     {
       "id": 12007,
-      "events": [],
+      "events": [
+        12723,
+        12735,
+        12742,
+        12797,
+        12814,
+        12824,
+        13020
+      ],
       "emceeEvents": [],
       "name": "Aparna Nancherla ",
       "twitter": "aparnapkin",
@@ -198,7 +281,10 @@
     },
     {
       "id": 12469,
-      "events": [],
+      "events": [
+        12807,
+        12904
+      ],
       "emceeEvents": [],
       "name": "Oscar Nunez",
       "twitter": "OscarNunezLA",
@@ -212,7 +298,11 @@
     },
     {
       "id": 12477,
-      "events": [],
+      "events": [
+        12786,
+        12807,
+        12904
+      ],
       "emceeEvents": [],
       "name": "Janet Varney",
       "twitter": "janetvarney",
@@ -226,7 +316,11 @@
     },
     {
       "id": 12472,
-      "events": [],
+      "events": [
+        12786,
+        12807,
+        12904
+      ],
       "emceeEvents": [],
       "name": "John Michael Higgins",
       "twitter": "real_JMHiggins",
@@ -240,7 +334,11 @@
     },
     {
       "id": 12970,
-      "events": [],
+      "events": [
+        12723,
+        12786,
+        12807
+      ],
       "emceeEvents": [],
       "name": "James Urbaniak",
       "twitter": "JamesUrbaniak",
@@ -254,7 +352,12 @@
     },
     {
       "id": 11975,
-      "events": [],
+      "events": [
+        12740,
+        12747,
+        12808,
+        13020
+      ],
       "emceeEvents": [],
       "name": "Brooks Wheelan",
       "twitter": "brookswheelan",
@@ -268,7 +371,11 @@
     },
     {
       "id": 12468,
-      "events": [],
+      "events": [
+        12798,
+        12807,
+        12904
+      ],
       "emceeEvents": [],
       "name": "Cole Stratton",
       "twitter": "colestratton",
@@ -282,7 +389,10 @@
     },
     {
       "id": 12471,
-      "events": [],
+      "events": [
+        12807,
+        12904
+      ],
       "emceeEvents": [],
       "name": "Jessica Makinson",
       "twitter": "",
@@ -296,7 +406,11 @@
     },
     {
       "id": 12562,
-      "events": [],
+      "events": [
+        12655,
+        12723,
+        12785
+      ],
       "emceeEvents": [],
       "name": "John Roderick",
       "twitter": "johnroderick",
@@ -310,7 +424,9 @@
     },
     {
       "id": 12563,
-      "events": [],
+      "events": [
+        12785
+      ],
       "emceeEvents": [],
       "name": "Merlin Mann",
       "twitter": "hotdogsladies",
@@ -324,7 +440,11 @@
     },
     {
       "id": 11577,
-      "events": [],
+      "events": [
+        12790,
+        12808,
+        13034
+      ],
       "emceeEvents": [],
       "name": "Dwayne Perkins",
       "twitter": "funnydp",
@@ -338,8 +458,12 @@
     },
     {
       "id": 12551,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12779
+      ],
+      "emceeEvents": [
+        12654
+      ],
       "name": "Lance Bangs",
       "twitter": "lancebangs",
       "website": "http://www.lancebangs.com/",
@@ -352,7 +476,11 @@
     },
     {
       "id": 12680,
-      "events": [],
+      "events": [
+        12736,
+        12745,
+        12796
+      ],
       "emceeEvents": [],
       "name": "Louis Katz",
       "twitter": "louiskatz",
@@ -366,7 +494,10 @@
     },
     {
       "id": 12454,
-      "events": [],
+      "events": [
+        12682,
+        13033
+      ],
       "emceeEvents": [],
       "name": "Chris Cubas",
       "twitter": "Chriscubas",
@@ -380,8 +511,18 @@
     },
     {
       "id": 11711,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12735,
+        12736,
+        12772,
+        12774,
+        12822,
+        12823,
+        12905
+      ],
+      "emceeEvents": [
+        12658
+      ],
       "name": "Guy Branum",
       "twitter": "guybranum",
       "website": "http://www.guybranum.com",
@@ -394,7 +535,12 @@
     },
     {
       "id": 12968,
-      "events": [],
+      "events": [
+        12751,
+        12823,
+        13022,
+        13034
+      ],
       "emceeEvents": [],
       "name": "Laura Kightlinger",
       "twitter": "KingKightlinger",
@@ -408,8 +554,15 @@
     },
     {
       "id": 11728,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12740,
+        12752,
+        12792,
+        12808
+      ],
+      "emceeEvents": [
+        13020
+      ],
       "name": "Bil Dwyer",
       "twitter": "bildwyer",
       "website": "",
@@ -422,7 +575,9 @@
     },
     {
       "id": 13056,
-      "events": [],
+      "events": [
+        12800
+      ],
       "emceeEvents": [],
       "name": "Wimps",
       "twitter": "",
@@ -436,7 +591,12 @@
     },
     {
       "id": 12495,
-      "events": [],
+      "events": [
+        12721,
+        12748,
+        12823,
+        13020
+      ],
       "emceeEvents": [],
       "name": "Laurie Kilmartin",
       "twitter": "anylaurie16",
@@ -450,7 +610,12 @@
     },
     {
       "id": 11730,
-      "events": [],
+      "events": [
+        12721,
+        12767,
+        12798,
+        13020
+      ],
       "emceeEvents": [],
       "name": "Rick Overton",
       "twitter": "rickoverton",
@@ -464,7 +629,12 @@
     },
     {
       "id": 12457,
-      "events": [],
+      "events": [
+        12740,
+        12747,
+        12802,
+        12833
+      ],
       "emceeEvents": [],
       "name": "Josh Sneed",
       "twitter": "JoshSneed",
@@ -478,8 +648,13 @@
     },
     {
       "id": 12498,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12479,
+        12724
+      ],
+      "emceeEvents": [
+        13003
+      ],
       "name": "Julian McCullough ",
       "twitter": "Julezmac",
       "website": "",
@@ -492,8 +667,15 @@
     },
     {
       "id": 11174,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12774,
+        12813,
+        12823,
+        13020
+      ],
+      "emceeEvents": [
+        12905
+      ],
       "name": "Eliza Skinner",
       "twitter": "elizaskinner",
       "website": "http://elizaskinner.com",
@@ -506,7 +688,13 @@
     },
     {
       "id": 11952,
-      "events": [],
+      "events": [
+        12729,
+        12745,
+        12824,
+        12834,
+        13041
+      ],
       "emceeEvents": [],
       "name": "Dulce Sloan",
       "twitter": "",
@@ -520,7 +708,12 @@
     },
     {
       "id": 12896,
-      "events": [],
+      "events": [
+        12682,
+        12730,
+        12767,
+        12774
+      ],
       "emceeEvents": [],
       "name": "David Huntsberger",
       "twitter": "",
@@ -534,7 +727,13 @@
     },
     {
       "id": 11439,
-      "events": [],
+      "events": [
+        12735,
+        12752,
+        12772,
+        12823,
+        13020
+      ],
       "emceeEvents": [],
       "name": "Dan Telfer",
       "twitter": "dantelfer",
@@ -548,7 +747,16 @@
     },
     {
       "id": 11427,
-      "events": [],
+      "events": [
+        12654,
+        12683,
+        12736,
+        12749,
+        12795,
+        12814,
+        12822,
+        12905
+      ],
       "emceeEvents": [],
       "name": "David Gborie",
       "twitter": "thegissilent",
@@ -562,8 +770,15 @@
     },
     {
       "id": 12467,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12721,
+        12768,
+        12812,
+        13028
+      ],
+      "emceeEvents": [
+        12797
+      ],
       "name": "Matt Kirshen",
       "twitter": "mattkirshen",
       "website": "http://www.mattkirshen.com",
@@ -576,7 +791,14 @@
     },
     {
       "id": 12401,
-      "events": [],
+      "events": [
+        12655,
+        12658,
+        12735,
+        12800,
+        12818,
+        12824
+      ],
       "emceeEvents": [],
       "name": "Rhea Butcher",
       "twitter": "rheabutcher",
@@ -590,8 +812,14 @@
     },
     {
       "id": 11509,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12748,
+        12752,
+        12810
+      ],
+      "emceeEvents": [
+        12830
+      ],
       "name": "John F. O&#039;Donnell",
       "twitter": "TheRealJFOD",
       "website": "http://livefromouterspace.com",
@@ -604,7 +832,12 @@
     },
     {
       "id": 12555,
-      "events": [],
+      "events": [
+        12747,
+        12774,
+        12779,
+        13034
+      ],
       "emceeEvents": [],
       "name": "Jay Larson",
       "twitter": "JayLarsoncomedy",
@@ -618,7 +851,12 @@
     },
     {
       "id": 12000,
-      "events": [],
+      "events": [
+        12768,
+        12796,
+        12833,
+        12941
+      ],
       "emceeEvents": [],
       "name": "Mike Burns ",
       "twitter": "pizzanachos69",
@@ -632,7 +870,11 @@
     },
     {
       "id": 12556,
-      "events": [],
+      "events": [
+        12748,
+        12779,
+        13045
+      ],
       "emceeEvents": [],
       "name": "Ryan Sickler",
       "twitter": "ryansickler",
@@ -646,7 +888,13 @@
     },
     {
       "id": 12936,
-      "events": [],
+      "events": [
+        12749,
+        12795,
+        12941,
+        12943,
+        13021
+      ],
       "emceeEvents": [],
       "name": "Tone Bell",
       "twitter": "",
@@ -660,7 +908,13 @@
     },
     {
       "id": 12268,
-      "events": [],
+      "events": [
+        12658,
+        12727,
+        12764,
+        12786,
+        12834
+      ],
       "emceeEvents": [],
       "name": "Heather Thomson",
       "twitter": "casualvelvet",
@@ -674,7 +928,14 @@
     },
     {
       "id": 11956,
-      "events": [],
+      "events": [
+        12658,
+        12683,
+        12742,
+        12749,
+        12941,
+        12943
+      ],
       "emceeEvents": [],
       "name": "Solomon Georgio",
       "twitter": "solomongeorgio",
@@ -688,7 +949,12 @@
     },
     {
       "id": 12222,
-      "events": [],
+      "events": [
+        12740,
+        12747,
+        12810,
+        12835
+      ],
       "emceeEvents": [],
       "name": "Jesse Popp",
       "twitter": "jessepopp",
@@ -702,7 +968,13 @@
     },
     {
       "id": 12173,
-      "events": [],
+      "events": [
+        12599,
+        12734,
+        12752,
+        12823,
+        13020
+      ],
       "emceeEvents": [],
       "name": "Matt Koff",
       "twitter": "mattkoff",
@@ -716,7 +988,12 @@
     },
     {
       "id": 11761,
-      "events": [],
+      "events": [
+        12599,
+        12730,
+        12750,
+        12772
+      ],
       "emceeEvents": [],
       "name": "Jenny Zigrino",
       "twitter": "jennyzisnice",
@@ -730,7 +1007,12 @@
     },
     {
       "id": 12453,
-      "events": [],
+      "events": [
+        12733,
+        12788,
+        12808,
+        12833
+      ],
       "emceeEvents": [],
       "name": "Nick Youssef",
       "twitter": "nickyoussef",
@@ -744,8 +1026,15 @@
     },
     {
       "id": 12082,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12684,
+        12809,
+        12814,
+        13042
+      ],
+      "emceeEvents": [
+        12808
+      ],
       "name": "Zak Toscani",
       "twitter": "zaktoscani",
       "website": "https://about.me/ZakToscani",
@@ -758,7 +1047,11 @@
     },
     {
       "id": 11659,
-      "events": [],
+      "events": [
+        12730,
+        12792,
+        12808
+      ],
       "emceeEvents": [],
       "name": "Matthew Broussard",
       "twitter": "mondaypunday",
@@ -772,7 +1065,11 @@
     },
     {
       "id": 11189,
-      "events": [],
+      "events": [
+        12729,
+        12775,
+        12790
+      ],
       "emceeEvents": [],
       "name": "Dino Archie",
       "twitter": "DinoArchie",
@@ -786,7 +1083,14 @@
     },
     {
       "id": 11977,
-      "events": [],
+      "events": [
+        12658,
+        12727,
+        12752,
+        12780,
+        12824,
+        13034
+      ],
       "emceeEvents": [],
       "name": "Sam Jay",
       "twitter": "",
@@ -800,7 +1104,12 @@
     },
     {
       "id": 12177,
-      "events": [],
+      "events": [
+        12730,
+        12749,
+        12800,
+        12834
+      ],
       "emceeEvents": [],
       "name": "Nathan Brannon",
       "twitter": "nathanbrannon",
@@ -814,8 +1123,16 @@
     },
     {
       "id": 11882,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12719,
+        12732,
+        12733,
+        12826,
+        12943
+      ],
+      "emceeEvents": [
+        13045
+      ],
       "name": "Steven Wilber",
       "twitter": "WilberWithAnE",
       "website": "http://stevenstevensteven.com",
@@ -828,7 +1145,15 @@
     },
     {
       "id": 12094,
-      "events": [],
+      "events": [
+        12683,
+        12731,
+        12740,
+        12742,
+        12790,
+        12818,
+        12826
+      ],
       "emceeEvents": [],
       "name": "Curtis Cook",
       "twitter": "Curtis_Cook",
@@ -842,8 +1167,14 @@
     },
     {
       "id": 12543,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12941,
+        13045
+      ],
+      "emceeEvents": [
+        12752,
+        12786
+      ],
       "name": "Bryan Cook",
       "twitter": "",
       "website": "",
@@ -856,8 +1187,15 @@
     },
     {
       "id": 12260,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12682,
+        12739,
+        12943,
+        13028
+      ],
+      "emceeEvents": [
+        12732
+      ],
       "name": "Sean Jordan",
       "twitter": "SeanSJordan",
       "website": "http://www.seanjordancomedy.com",
@@ -870,7 +1208,13 @@
     },
     {
       "id": 11783,
-      "events": [],
+      "events": [
+        12654,
+        12748,
+        12798,
+        12825,
+        13041
+      ],
       "emceeEvents": [],
       "name": "Joe Pera",
       "twitter": "",
@@ -884,8 +1228,12 @@
     },
     {
       "id": 12540,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12808
+      ],
+      "emceeEvents": [
+        12812
+      ],
       "name": "Andy Wood",
       "twitter": "andytwood",
       "website": "http://andytwood.com",
@@ -898,7 +1246,12 @@
     },
     {
       "id": 12448,
-      "events": [],
+      "events": [
+        12721,
+        12745,
+        12750,
+        12810
+      ],
       "emceeEvents": [],
       "name": "Dave Ross",
       "twitter": "davetotheross",
@@ -912,7 +1265,12 @@
     },
     {
       "id": 11500,
-      "events": [],
+      "events": [
+        12747,
+        12788,
+        12941,
+        13028
+      ],
       "emceeEvents": [],
       "name": "Mike Bridenstine",
       "twitter": "brido",
@@ -926,8 +1284,17 @@
     },
     {
       "id": 11164,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12684,
+        12732,
+        12800,
+        12822,
+        13039
+      ],
+      "emceeEvents": [
+        12736,
+        12943
+      ],
       "name": "Amy Miller",
       "twitter": "amymiller",
       "website": "http://amymillercomedy.com",
@@ -940,7 +1307,14 @@
     },
     {
       "id": 11904,
-      "events": [],
+      "events": [
+        12658,
+        12682,
+        12733,
+        12742,
+        12780,
+        12814
+      ],
       "emceeEvents": [],
       "name": "Casey Ley",
       "twitter": "caseywley",
@@ -954,8 +1328,16 @@
     },
     {
       "id": 11693,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12684,
+        12725,
+        12780,
+        12802,
+        12831
+      ],
+      "emceeEvents": [
+        12748
+      ],
       "name": "Ahamed Weinberg",
       "twitter": "ahamedweinberg",
       "website": "",
@@ -968,7 +1350,13 @@
     },
     {
       "id": 11498,
-      "events": [],
+      "events": [
+        12599,
+        12724,
+        12775,
+        12810,
+        12834
+      ],
       "emceeEvents": [],
       "name": "David Tveite",
       "twitter": "tveitprivilege",
@@ -982,8 +1370,15 @@
     },
     {
       "id": 11639,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12683,
+        12724,
+        12772,
+        13039
+      ],
+      "emceeEvents": [
+        12788
+      ],
       "name": "Alex Falcone",
       "twitter": "alex_falcone",
       "website": "http://alexfalconecomedy.com",
@@ -996,8 +1391,13 @@
     },
     {
       "id": 11647,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12802,
+        12826
+      ],
+      "emceeEvents": [
+        12768
+      ],
       "name": "Rob Haze",
       "twitter": "robertistheMan",
       "website": "http://robhaze.com",
@@ -1010,8 +1410,16 @@
     },
     {
       "id": 11993,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12684,
+        12725,
+        12749,
+        12750,
+        12809
+      ],
+      "emceeEvents": [
+        12835
+      ],
       "name": "Yusef Roach",
       "twitter": "yusefroach",
       "website": "",
@@ -1024,8 +1432,15 @@
     },
     {
       "id": 12245,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12683,
+        12733,
+        12752,
+        12802
+      ],
+      "emceeEvents": [
+        12833
+      ],
       "name": "Anthony Lopez",
       "twitter": "anthonylopezpt2",
       "website": "",
@@ -1038,7 +1453,15 @@
     },
     {
       "id": 12576,
-      "events": [],
+      "events": [
+        12723,
+        12774,
+        12798,
+        12814,
+        12824,
+        13031,
+        13041
+      ],
       "emceeEvents": [],
       "name": "Alice Wetterlund",
       "twitter": "alicewetterlund",
@@ -1052,7 +1475,9 @@
     },
     {
       "id": 12535,
-      "events": [],
+      "events": [
+        12655
+      ],
       "emceeEvents": [],
       "name": "Aimee Mann",
       "twitter": "aimeemann",
@@ -1066,7 +1491,13 @@
     },
     {
       "id": 12289,
-      "events": [],
+      "events": [
+        12657,
+        12719,
+        12739,
+        12751,
+        12825
+      ],
       "emceeEvents": [],
       "name": "Carmen Lagala",
       "twitter": "carmenlagala",
@@ -1080,8 +1511,14 @@
     },
     {
       "id": 11780,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12733,
+        12796,
+        13022
+      ],
+      "emceeEvents": [
+        12825
+      ],
       "name": "Casey James Salengo",
       "twitter": "",
       "website": "",
@@ -1094,8 +1531,16 @@
     },
     {
       "id": 12276,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12745,
+        12787,
+        12822,
+        12831,
+        12943
+      ],
+      "emceeEvents": [
+        12727
+      ],
       "name": "Caitlin Weierhauser",
       "twitter": "unclecait",
       "website": "http://lezstandup.com",
@@ -1108,8 +1553,14 @@
     },
     {
       "id": 11441,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12725,
+        12790,
+        12943
+      ],
+      "emceeEvents": [
+        13022
+      ],
       "name": "Derek Gaines",
       "twitter": "Derek1Gaines",
       "website": "http://www.gershcomedy.com/gaines/",
@@ -1122,7 +1573,13 @@
     },
     {
       "id": 11506,
-      "events": [],
+      "events": [
+        12764,
+        12905,
+        13003,
+        13031,
+        13045
+      ],
       "emceeEvents": [],
       "name": "Hutch Harris",
       "twitter": "thethermals",
@@ -1136,7 +1593,12 @@
     },
     {
       "id": 12496,
-      "events": [],
+      "events": [
+        12735,
+        12752,
+        12787,
+        12795
+      ],
       "emceeEvents": [],
       "name": "Rylee Newton",
       "twitter": "",
@@ -1150,8 +1612,14 @@
     },
     {
       "id": 11476,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12732,
+        12734,
+        12828
+      ],
+      "emceeEvents": [
+        12792
+      ],
       "name": "Andrew Michaan",
       "twitter": "AndrewMichaan",
       "website": "http://www.andrewmichaan.com",
@@ -1164,8 +1632,15 @@
     },
     {
       "id": 11777,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12719,
+        12742,
+        12796,
+        13039
+      ],
+      "emceeEvents": [
+        12740
+      ],
       "name": "Emily Galati",
       "twitter": "emilygalati",
       "website": "http://www.macdonaldentertainment.com",
@@ -1178,8 +1653,15 @@
     },
     {
       "id": 11284,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12719,
+        12727,
+        12797,
+        13045
+      ],
+      "emceeEvents": [
+        12745
+      ],
       "name": "Emma Willmann ",
       "twitter": "",
       "website": "",
@@ -1192,8 +1674,15 @@
     },
     {
       "id": 11778,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12682,
+        12729,
+        12767,
+        12831
+      ],
+      "emceeEvents": [
+        12793
+      ],
       "name": "J.P. McDade",
       "twitter": "jp_mcdade",
       "website": "http://jpmcdade.squarespace.com",
@@ -1206,8 +1695,15 @@
     },
     {
       "id": 11452,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12599,
+        12725,
+        12768,
+        12834
+      ],
+      "emceeEvents": [
+        12809
+      ],
       "name": "Gilbert Lawand",
       "twitter": "GilbertLawand",
       "website": "http://GilbertComedy.com",
@@ -1220,7 +1716,12 @@
     },
     {
       "id": 11570,
-      "events": [],
+      "events": [
+        12657,
+        12739,
+        12810,
+        12835
+      ],
       "emceeEvents": [],
       "name": "Hans Kim",
       "twitter": "Hanskim5",
@@ -1234,7 +1735,11 @@
     },
     {
       "id": 11854,
-      "events": [],
+      "events": [
+        12740,
+        12772,
+        12790
+      ],
       "emceeEvents": [],
       "name": "Janelle James ",
       "twitter": "janellejcomic",
@@ -1248,8 +1753,16 @@
     },
     {
       "id": 11630,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12725,
+        12764,
+        12787,
+        12822
+      ],
+      "emceeEvents": [
+        12795,
+        12831
+      ],
       "name": "Adam Pasi",
       "twitter": "adampasi",
       "website": "http://bridgetown.festivalthing.com/N/A",
@@ -1262,8 +1775,14 @@
     },
     {
       "id": 11264,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12775,
+        12809,
+        12833
+      ],
+      "emceeEvents": [
+        12730
+      ],
       "name": "Georgea Brooks",
       "twitter": "georgeabrooks",
       "website": "http://www.georgeabrooks.com",
@@ -1276,7 +1795,10 @@
     },
     {
       "id": 12402,
-      "events": [],
+      "events": [
+        12765,
+        12790
+      ],
       "emceeEvents": [],
       "name": "Jack Martin",
       "twitter": "",
@@ -1290,8 +1812,14 @@
     },
     {
       "id": 12395,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12734,
+        12802,
+        13028
+      ],
+      "emceeEvents": [
+        12767
+      ],
       "name": "Jacob Christopher ",
       "twitter": "WWJChristD",
       "website": "http://www.jacobchristophercomedy.com",
@@ -1304,8 +1832,14 @@
     },
     {
       "id": 11247,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12765,
+        12792,
+        12826
+      ],
+      "emceeEvents": [
+        13034
+      ],
       "name": "Katie McCarthy",
       "twitter": "",
       "website": "http://bridgetown.festivalthing.com/www.katiemccarthy.xyz",
@@ -1318,8 +1852,16 @@
     },
     {
       "id": 12224,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12792,
+        12798,
+        12822,
+        12831,
+        13033
+      ],
+      "emceeEvents": [
+        12682
+      ],
       "name": "Robert Buscemi",
       "twitter": "RobertBuscemi",
       "website": "http://www.RobertBuscemi.com",
@@ -1332,8 +1874,14 @@
     },
     {
       "id": 12446,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12767,
+        12814,
+        12941
+      ],
+      "emceeEvents": [
+        12796
+      ],
       "name": "James Fritz",
       "twitter": "fritzisdead",
       "website": "",
@@ -1346,8 +1894,15 @@
     },
     {
       "id": 12140,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12749,
+        12751,
+        13009,
+        13042
+      ],
+      "emceeEvents": [
+        13021
+      ],
       "name": "Mia Jackson",
       "twitter": "miacomedy",
       "website": "http://www.miajackson.com",
@@ -1360,8 +1915,14 @@
     },
     {
       "id": 11235,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12657,
+        12802,
+        13039
+      ],
+      "emceeEvents": [
+        13033
+      ],
       "name": "Geoffrey Asmus",
       "twitter": "filthyson",
       "website": "http://www.whitecomedian.com/",
@@ -1374,7 +1935,13 @@
     },
     {
       "id": 13036,
-      "events": [],
+      "events": [
+        12654,
+        12731,
+        12764,
+        12795,
+        12825
+      ],
       "emceeEvents": [],
       "name": "Clare O&#039;Kane",
       "twitter": "",
@@ -1388,7 +1955,13 @@
     },
     {
       "id": 12447,
-      "events": [],
+      "events": [
+        12742,
+        12750,
+        12786,
+        12822,
+        12941
+      ],
       "emceeEvents": [],
       "name": "Josh Androsky",
       "twitter": "shutupandrosky",
@@ -1402,8 +1975,14 @@
     },
     {
       "id": 11606,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12792,
+        13021,
+        13042
+      ],
+      "emceeEvents": [
+        12765
+      ],
       "name": "Jason Webb",
       "twitter": "tennisshoeboi",
       "website": "http://www.jasonwebbcomedy.com",
@@ -1416,8 +1995,15 @@
     },
     {
       "id": 11981,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12730,
+        12748,
+        12825,
+        13041
+      ],
+      "emceeEvents": [
+        12599
+      ],
       "name": "Gabe Dinger",
       "twitter": "GabeDinger",
       "website": "http://www.GabeDinger.com",
@@ -1430,8 +2016,15 @@
     },
     {
       "id": 11613,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12764,
+        12792,
+        12826,
+        13009
+      ],
+      "emceeEvents": [
+        12735
+      ],
       "name": "Barbara Holm",
       "twitter": "barbara_holm",
       "website": "http://barbaraholm.com",
@@ -1444,7 +2037,13 @@
     },
     {
       "id": 12068,
-      "events": [],
+      "events": [
+        12734,
+        12748,
+        13009,
+        13028,
+        13045
+      ],
       "emceeEvents": [],
       "name": "Jesus Trejo",
       "twitter": "JesusTrejo",
@@ -1458,8 +2057,15 @@
     },
     {
       "id": 11494,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12724,
+        12822,
+        12828,
+        12943
+      ],
+      "emceeEvents": [
+        12742
+      ],
       "name": "Nato Green",
       "twitter": "natogreen",
       "website": "http://www.natogreen.com",
@@ -1472,7 +2078,13 @@
     },
     {
       "id": 11929,
-      "events": [],
+      "events": [
+        12684,
+        12772,
+        12809,
+        12833,
+        13042
+      ],
       "emceeEvents": [],
       "name": "Martin Urbano",
       "twitter": "martinurbano",
@@ -1486,8 +2098,14 @@
     },
     {
       "id": 12031,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12740,
+        12745,
+        12810
+      ],
+      "emceeEvents": [
+        12834
+      ],
       "name": "JoAnn Schinderle",
       "twitter": "joannlizabeth",
       "website": "http://joannschinderle.com/",
@@ -1500,8 +2118,15 @@
     },
     {
       "id": 12093,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12734,
+        12775,
+        12787,
+        13033
+      ],
+      "emceeEvents": [
+        13031
+      ],
       "name": "Jon Washington",
       "twitter": "GoodOleJon",
       "website": "http://jonwashington.net",
@@ -1514,8 +2139,17 @@
     },
     {
       "id": 11654,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12683,
+        12727,
+        12787,
+        12788,
+        12822,
+        13022
+      ],
+      "emceeEvents": [
+        12814
+      ],
       "name": "Kate Willett ",
       "twitter": "katewillett",
       "website": "http://katewillett.com",
@@ -1528,8 +2162,17 @@
     },
     {
       "id": 12114,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12727,
+        12775,
+        12788,
+        12822,
+        13028,
+        13031
+      ],
+      "emceeEvents": [
+        12802
+      ],
       "name": "Leah Mansfield",
       "twitter": "leahmansfield",
       "website": "http://leahmansfield.com",
@@ -1542,8 +2185,15 @@
     },
     {
       "id": 12122,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12765,
+        12792,
+        13009,
+        13021
+      ],
+      "emceeEvents": [
+        13042
+      ],
       "name": "M.K. Paulsen",
       "twitter": "mkpaulsen",
       "website": "http://www.mkpaulsen.com",
@@ -1556,8 +2206,15 @@
     },
     {
       "id": 11464,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12682,
+        12733,
+        12790,
+        12831
+      ],
+      "emceeEvents": [
+        12657
+      ],
       "name": "Janae Burris",
       "twitter": "Negativenegro",
       "website": "",
@@ -1570,8 +2227,13 @@
     },
     {
       "id": 11473,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12796,
+        12825
+      ],
+      "emceeEvents": [
+        12798
+      ],
       "name": "Tony Sam",
       "twitter": "toekneesam",
       "website": "http://tonysamcomedy.tumblr.com",
@@ -1584,8 +2246,14 @@
     },
     {
       "id": 11257,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12657,
+        12835,
+        13045
+      ],
+      "emceeEvents": [
+        12734
+      ],
       "name": "Maria Shehata",
       "twitter": "mariashehata",
       "website": "http://www.mariashehata.com",
@@ -1598,8 +2266,14 @@
     },
     {
       "id": 11851,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12725,
+        12768,
+        12835
+      ],
+      "emceeEvents": [
+        12751
+      ],
       "name": "Lizzy Pilcher",
       "twitter": "lizzypilcher",
       "website": "http://www.lizzypilcher.com",
@@ -1612,8 +2286,13 @@
     },
     {
       "id": 11399,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12683,
+        12768
+      ],
+      "emceeEvents": [
+        12725
+      ],
       "name": "Megan Gailey",
       "twitter": "megangailey",
       "website": "",
@@ -1626,7 +2305,14 @@
     },
     {
       "id": 11582,
-      "events": [],
+      "events": [
+        12750,
+        12768,
+        12793,
+        13031,
+        13039,
+        13042
+      ],
       "emceeEvents": [],
       "name": "Molly Ruben-Long",
       "twitter": "mollyrubenlong",
@@ -1640,8 +2326,15 @@
     },
     {
       "id": 12220,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12682,
+        12724,
+        12810,
+        13021
+      ],
+      "emceeEvents": [
+        12772
+      ],
       "name": "Abby Rosenquist",
       "twitter": "abbyrosenquist",
       "website": "http://abbyrosenquist.weebly.com/",
@@ -1654,8 +2347,15 @@
     },
     {
       "id": 11937,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12749,
+        12809,
+        13009,
+        13021
+      ],
+      "emceeEvents": [
+        12724
+      ],
       "name": "Tafadzwa Gwaze ",
       "twitter": "",
       "website": "",
@@ -1668,8 +2368,14 @@
     },
     {
       "id": 12277,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12724,
+        12809,
+        12822
+      ],
+      "emceeEvents": [
+        12747
+      ],
       "name": "Nariko Ott",
       "twitter": "Nariko_Ott",
       "website": "http://narikoott.com",
@@ -1682,8 +2388,14 @@
     },
     {
       "id": 12218,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12764,
+        12833,
+        13033
+      ],
+      "emceeEvents": [
+        12800
+      ],
       "name": "Jason Traeger",
       "twitter": "jasontraeger",
       "website": "http://www.jasontraegercomedy.com/",
@@ -1696,7 +2408,14 @@
     },
     {
       "id": 12137,
-      "events": [],
+      "events": [
+        12654,
+        12751,
+        12798,
+        12905,
+        12943,
+        13033
+      ],
       "emceeEvents": [],
       "name": "Natalie Palamides",
       "twitter": "natdogkatdog",
@@ -1710,8 +2429,16 @@
     },
     {
       "id": 11954,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12721,
+        12732,
+        12765,
+        12790,
+        13031
+      ],
+      "emceeEvents": [
+        13028
+      ],
       "name": "Preacher Lawson",
       "twitter": "preacherlawson",
       "website": "http://preacherlawson.com",
@@ -1724,7 +2451,12 @@
     },
     {
       "id": 12160,
-      "events": [],
+      "events": [
+        12772,
+        12788,
+        13028,
+        13042
+      ],
       "emceeEvents": [],
       "name": "Nick Dixon",
       "twitter": "nickdixxon",
@@ -1738,8 +2470,15 @@
     },
     {
       "id": 11217,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12658,
+        12739,
+        12765,
+        12828
+      ],
+      "emceeEvents": [
+        13009
+      ],
       "name": "Nick Sahoyah",
       "twitter": "sahoyah",
       "website": "http://facebook.com/nicksahoyah",
@@ -1752,8 +2491,14 @@
     },
     {
       "id": 11421,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12793,
+        12834,
+        13031
+      ],
+      "emceeEvents": [
+        12764
+      ],
       "name": "Patrick Susmilch",
       "twitter": "psusmilch",
       "website": "http://www.patsusmilch.com",
@@ -1766,8 +2511,16 @@
     },
     {
       "id": 12283,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12767,
+        12802,
+        12831,
+        13031,
+        13034
+      ],
+      "emceeEvents": [
+        12816
+      ],
       "name": "Toby Muresianu",
       "twitter": "tobymuresianu",
       "website": "http://tobythecomic.com",
@@ -1780,7 +2533,12 @@
     },
     {
       "id": 11436,
-      "events": [],
+      "events": [
+        12736,
+        12751,
+        12764,
+        12814
+      ],
       "emceeEvents": [],
       "name": "Subhah Agarwal",
       "twitter": "subhah",
@@ -1794,8 +2552,15 @@
     },
     {
       "id": 11496,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12749,
+        12774,
+        12788,
+        12943
+      ],
+      "emceeEvents": [
+        12733
+      ],
       "name": "Quincy Jones",
       "twitter": "",
       "website": "http://www.thatsnotquincyjones.com",
@@ -1808,8 +2573,15 @@
     },
     {
       "id": 12370,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12719,
+        12734,
+        12775,
+        13041
+      ],
+      "emceeEvents": [
+        12826
+      ],
       "name": "Devin Field",
       "twitter": "thatdevinfield",
       "website": "http://devinfield.com",
@@ -1822,8 +2594,15 @@
     },
     {
       "id": 12384,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12719,
+        12739,
+        12767,
+        12793
+      ],
+      "emceeEvents": [
+        13039
+      ],
       "name": "Raghav Mehta ",
       "twitter": "ASAPGhav",
       "website": "",
@@ -1836,8 +2615,16 @@
     },
     {
       "id": 11376,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12730,
+        12739,
+        12793,
+        12831,
+        13031
+      ],
+      "emceeEvents": [
+        12775
+      ],
       "name": "Mike Coletta",
       "twitter": "MeColetta",
       "website": "http://colettacomedy.com",
@@ -1850,8 +2637,15 @@
     },
     {
       "id": 11482,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12599,
+        12658,
+        12767,
+        12941
+      ],
+      "emceeEvents": [
+        12824
+      ],
       "name": "Rebecca O&#039;Neal",
       "twitter": "becca_oneal",
       "website": "http://beccaoneal.tumblr.com/aboutme",
@@ -1864,8 +2658,15 @@
     },
     {
       "id": 11964,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12657,
+        12790,
+        12825,
+        13034
+      ],
+      "emceeEvents": [
+        12719
+      ],
       "name": "Tawanda Gona",
       "twitter": "GuyNamedTawanda",
       "website": "http://www.TawandaGona.Com",
@@ -1878,8 +2679,15 @@
     },
     {
       "id": 11881,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12684,
+        12775,
+        12828,
+        13033
+      ],
+      "emceeEvents": [
+        12810
+      ],
       "name": "Steph Tolev",
       "twitter": "StephTolev",
       "website": "http://www.stephtolevishilarious.com",
@@ -1892,8 +2700,16 @@
     },
     {
       "id": 11821,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12684,
+        12749,
+        12750,
+        12793,
+        13039
+      ],
+      "emceeEvents": [
+        12739
+      ],
       "name": "Richard Douglas Jones",
       "twitter": "rdouglasjones",
       "website": "",
@@ -1906,7 +2722,14 @@
     },
     {
       "id": 11380,
-      "events": [],
+      "events": [
+        12734,
+        12735,
+        12745,
+        12809,
+        12822,
+        13021
+      ],
       "emceeEvents": [],
       "name": "Ella Gale",
       "twitter": "hellakale",
@@ -1920,8 +2743,14 @@
     },
     {
       "id": 11402,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12727,
+        12752,
+        12808
+      ],
+      "emceeEvents": [
+        12684
+      ],
       "name": "Sabrina Jalees",
       "twitter": "SabrinaJalees",
       "website": "",
@@ -1934,7 +2763,13 @@
     },
     {
       "id": 12036,
-      "events": [],
+      "events": [
+        12796,
+        12798,
+        12835,
+        13009,
+        13033
+      ],
       "emceeEvents": [],
       "name": "Philip Schallberger",
       "twitter": "phil_schall",
@@ -1948,7 +2783,10 @@
     },
     {
       "id": 11320,
-      "events": [],
+      "events": [
+        12599,
+        13033
+      ],
       "emceeEvents": [],
       "name": "Sammy Arechar",
       "twitter": "sammyarechar",
@@ -1962,8 +2800,15 @@
     },
     {
       "id": 11327,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12725,
+        12765,
+        12833,
+        13031
+      ],
+      "emceeEvents": [
+        13041
+      ],
       "name": "Simon Gibson",
       "twitter": "thegibbymcribby",
       "website": "",
@@ -1976,8 +2821,16 @@
     },
     {
       "id": 12583,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12724,
+        12732,
+        12788,
+        13009,
+        13021
+      ],
+      "emceeEvents": [
+        12828
+      ],
       "name": "Shane Torres",
       "twitter": "syrupmountain",
       "website": "http://www.shaneisacomedian.com",
@@ -1990,8 +2843,12 @@
     },
     {
       "id": 12475,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        12727
+      ],
+      "emceeEvents": [
+        12787
+      ],
       "name": "Whitney Streed",
       "twitter": "whitneystreed",
       "website": "",
@@ -2005,7 +2862,11 @@
     {
       "id": 12893,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12721,
+        12774,
+        12782
+      ],
       "name": "Troy Conrad",
       "twitter": "",
       "website": "",
@@ -2018,7 +2879,10 @@
     },
     {
       "id": 12876,
-      "events": [],
+      "events": [
+        12479,
+        12723
+      ],
       "emceeEvents": [],
       "name": "Walter Ino",
       "twitter": "",
@@ -2032,7 +2896,10 @@
     },
     {
       "id": 12879,
-      "events": [],
+      "events": [
+        12479,
+        12723
+      ],
       "emceeEvents": [],
       "name": "Peter Griffin",
       "twitter": "",
@@ -2060,7 +2927,9 @@
     },
     {
       "id": 13059,
-      "events": [],
+      "events": [
+        12904
+      ],
       "emceeEvents": [],
       "name": "Leviathan",
       "twitter": "",
@@ -2074,7 +2943,9 @@
     },
     {
       "id": 13060,
-      "events": [],
+      "events": [
+        12807
+      ],
       "emceeEvents": [],
       "name": "The Liberators",
       "twitter": "",
@@ -2088,7 +2959,9 @@
     },
     {
       "id": 13061,
-      "events": [],
+      "events": [
+        12904
+      ],
       "emceeEvents": [],
       "name": "Curious Comedy Playas",
       "twitter": "",
