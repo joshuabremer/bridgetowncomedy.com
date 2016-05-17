@@ -14,17 +14,17 @@ published: true
 </h3>
 <hr />
 <h3>
-  <a href="https://www.ticketfly.com/purchase/event/1145325?utm_source=os" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
+  <a href="http://www.revolutionhallpdx.com/event/1145325-come-laugh-us-portland/" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
   June 2nd - Lance Bangs Presents: Come Laugh With Us</a>
 </h3>
 
 <h3>
-  <a href="https://www.ticketfly.com/purchase/event/1145343?utm_source=os" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
+  <a href="http://www.revolutionhallpdx.com/event/1145343-evening-aimee-mann-ted-leo-portland/" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
  June 3rd - An Evening With Aimee Mann and Ted Leo (and Friends!)</a>
 </h3>
 
 <h3>
-  <a href="https://www.ticketfly.com/purchase/event/1145305?utm_source=os" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
+  <a href="http://www.revolutionhallpdx.com/event/1145305-rachel-bloom-portland/" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
   June 4th - Rachel Bloom</a>
 </h3>
 
