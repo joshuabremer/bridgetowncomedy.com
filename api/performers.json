@@ -2071,6 +2071,20 @@
       "excludeFromList": false,
       "bio": "<p>Leviathan -- Improv + Storytelling<br />\nTake the best improv comedians from Portland, Oregon and beyond, provide them with personal stories told on the spot by a person of note, let them improvise scenes based on these stories, and you have Leviathan.</p>\n",
       "pageUrl": "13059-leviathan"
+    },
+    {
+      "id": 13060,
+      "events": [],
+      "emceeEvents": [],
+      "name": "The Liberators",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/liberators.jpg",
+      "photoUrl": "/api/img/performer-images/performer-theliberators-300x300.jpg",
+      "sortOrder": 149,
+      "excludeFromList": false,
+      "bio": "<p>The Liberators have been described as \"one of the best improv troupes anywhere\" (Portland Mercury) and have been bringing their signature brand of sexysmart improv comedy to Portland and beyond for over 10 years.</p>\n",
+      "pageUrl": "13060-the-liberators"
     }
   ]
 }
