@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 12185,
+      "id": 12289,
       "events": [],
       "emceeEvents": [],
-      "name": "Bri Pruett",
-      "twitter": "Bripruett",
-      "website": "http://Bripruett.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
-      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
-      "sortOrder": 76,
+      "name": "Carmen Lagala",
+      "twitter": "carmenlagala",
+      "website": "http://www.vermontcomedydivas.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/carmen_headshot.jpg",
+      "photoUrl": "/api/img/performer-images/performer-carmenlagala-300x300.jpg",
+      "sortOrder": 77,
       "excludeFromList": false,
-      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
-      "pageUrl": "12185-bri-pruett"
+      "bio": "<p>Carmen Lagala began doing comedy in her hometown in the state of Vermont. She tours with &quot;The Vermont Comedy Divas,&quot; and its charitable branch, &quot;Divas Do Good,&quot; which performs to raise money for human-service non-profit organizations. </p>\n<p>While in Vermont, Carmen placed first in the &quot;Higher Ground Comedy Battle,&quot; was a finalist in &quot;Vermont&#039;s Funniest Contest,&quot; performed in the Boston&#039;s Women in Comedy Festival, was a feature performer in the Green Mountain Comedy Festival, and performed several times at the new state-of-the-art Vermont Comedy Club.</p>\n<p>Since moving to New York City in 2014, Carmen has become a rising presence, hosting and headlining for the Devil Cup, She-Devil, and Laughing Devil festivals, and performing at beloved venues such The Creek and the Cave, UCBEast, and the Knitting Factory. She hosts two monthly comedy shows in New York City, &quot;Creek Bros&quot; and &quot;Wigging Out with Carmen.&quot;</p>\n",
+      "pageUrl": "12289-carmen-lagala"
     },
     {
       "id": 12538,
@@ -1051,6 +1051,20 @@
       "pageUrl": "12576-alice-wetterlund"
     },
     {
+      "id": 12185,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Bri Pruett",
+      "twitter": "Bripruett",
+      "website": "http://Bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_30.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 76,
+      "excludeFromList": false,
+      "bio": "<p>Bri Pruett is a Portland-based comedian and writer. She regularly performs at Helium comedy club, Parlor Live!, and has appeared at Bumbershoot, SF Sketchfest, Riot LA and other showcases throughout the country. </p>\n<p>She&#039;s the cohost of a monthly variety/talk show &quot;Late Night Action&quot; and the weekly standup showcase &quot;Earthquake Hurricane.&quot; She&#039;s appeared on NPR&#039;s LiveWire and OPB. Bri is also a freelance writer for the Portland Mercury, where she has a regular column about sex and relationships called, &quot;Let&#039;s Do It with Bri Pruett.&quot;</p>\n<p>Her cute face and epic dance moves are featured in music videos for artists such as Bob Mould, Benji Hughes, and The Doubleclicks.</p>\n",
+      "pageUrl": "12185-bri-pruett"
+    },
+    {
       "id": 12535,
       "events": [],
       "emceeEvents": [],
@@ -1063,20 +1077,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 12289,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Carmen Lagala",
-      "twitter": "carmenlagala",
-      "website": "http://www.vermontcomedydivas.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/carmen_headshot.jpg",
-      "photoUrl": "/api/img/performer-images/performer-carmenlagala-300x300.jpg",
-      "sortOrder": 77,
-      "excludeFromList": false,
-      "bio": "<p>Carmen Lagala began doing comedy in her hometown in the state of Vermont. She tours with &quot;The Vermont Comedy Divas,&quot; and its charitable branch, &quot;Divas Do Good,&quot; which performs to raise money for human-service non-profit organizations. </p>\n<p>While in Vermont, Carmen placed first in the &quot;Higher Ground Comedy Battle,&quot; was a finalist in &quot;Vermont&#039;s Funniest Contest,&quot; performed in the Boston&#039;s Women in Comedy Festival, was a feature performer in the Green Mountain Comedy Festival, and performed several times at the new state-of-the-art Vermont Comedy Club.</p>\n<p>Since moving to New York City in 2014, Carmen has become a rising presence, hosting and headlining for the Devil Cup, She-Devil, and Laughing Devil festivals, and performing at beloved venues such The Creek and the Cave, UCBEast, and the Knitting Factory. She hosts two monthly comedy shows in New York City, &quot;Creek Bros&quot; and &quot;Wigging Out with Carmen.&quot;</p>\n",
-      "pageUrl": "12289-carmen-lagala"
     },
     {
       "id": 11780,
@@ -2113,6 +2113,20 @@
       "excludeFromList": true,
       "bio": "<p>Who could it be? You'll have to come to the show to find out!!</p>\n",
       "pageUrl": "13062-special-secret-guest"
+    },
+    {
+      "id": 12891,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Andrew Ti",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/logo.png",
+      "photoUrl": "/api/img/performer-images/performer-andrewti-300x300.jpg",
+      "sortOrder": 152,
+      "excludeFromList": true,
+      "bio": "<p>this is a bio</p>\n",
+      "pageUrl": "12891-andrew-ti"
     }
   ]
 }
