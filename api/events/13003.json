@@ -1,13 +1,18 @@
 {
   "id": 13003,
-  "performers": [],
+  "performers": [
+    11506,
+    12466,
+    11953,
+    12488
+  ],
   "emcee": 12498,
   "venue": 10376,
   "show": "12530",
   "name": "Julian Loves Music",
   "description": "",
-  "startDateTime": "2016-06-04T23:00:00.000Z",
-  "endDateTime": "2016-06-05T00:30:00.000Z",
-  "price": 0,
+  "startDateTime": "2016-06-05T00:00:00.000Z",
+  "endDateTime": "2016-06-05T01:30:00.000Z",
+  "price": 15,
   "pageUrl": "13003-julian-loves-music"
 }

@@ -6,8 +6,8 @@
     12000,
     11851,
     11399,
-    11659,
-    12467
+    12467,
+    11443
   ],
   "emcee": 11647,
   "venue": 10677,
@@ -15,6 +15,6 @@
   "description": "",
   "startDateTime": "2016-06-04T03:00:00.000Z",
   "endDateTime": "2016-06-04T04:30:00.000Z",
-  "price": 0,
+  "price": 10,
   "pageUrl": "12768-sounds-better-in-analog"
 }

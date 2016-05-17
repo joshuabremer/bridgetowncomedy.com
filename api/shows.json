@@ -45,6 +45,7 @@
     {
       "id": 12470,
       "events": [
+        12807,
         12904
       ],
       "name": "Theme Park Improv",
@@ -58,7 +59,10 @@
     },
     {
       "id": 12470,
-      "events": [],
+      "events": [
+        12807,
+        12904
+      ],
       "name": "Theme Park Improv",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/themepark.jpg",
       "photoUrl": "/api/img/show-images/show-themeparkimprov-300x300.jpg",

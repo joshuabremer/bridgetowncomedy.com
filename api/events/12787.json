@@ -5,7 +5,8 @@
     12496,
     11654,
     11630,
-    12482
+    12482,
+    12093
   ],
   "emcee": 12475,
   "venue": 12478,
@@ -14,6 +15,6 @@
   "description": "",
   "startDateTime": "2016-06-04T06:00:00.000Z",
   "endDateTime": "2016-06-04T06:59:00.000Z",
-  "price": 0,
+  "price": 10,
   "pageUrl": "12787-rants-off-dance-off"
 }

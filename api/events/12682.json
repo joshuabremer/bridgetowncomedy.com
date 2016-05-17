@@ -3,9 +3,9 @@
   "performers": [
     12220,
     11778,
-    12260,
+    11464,
     11904,
-    12140,
+    12260,
     12896,
     12454
   ],
@@ -15,6 +15,6 @@
   "description": "",
   "startDateTime": "2016-06-02T04:00:00.000Z",
   "endDateTime": "2016-06-02T05:30:00.000Z",
-  "price": 0,
+  "price": 15,
   "pageUrl": "12682-doug-fir-primetime"
 }

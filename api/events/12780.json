@@ -10,8 +10,8 @@
   "venue": 10373,
   "name": "Uncalled Four",
   "description": "",
-  "startDateTime": "2016-06-04T21:00:00.000Z",
-  "endDateTime": "2016-06-04T22:30:00.000Z",
-  "price": 0,
+  "startDateTime": "2016-06-04T20:30:00.000Z",
+  "endDateTime": "2016-06-04T22:00:00.000Z",
+  "price": 10,
   "pageUrl": "12780-uncalled-four"
 }

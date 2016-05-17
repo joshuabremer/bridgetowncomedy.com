@@ -1,6 +1,7 @@
 {
   "id": 12807,
   "performers": [
+    13060,
     12477,
     12468,
     12469,
@@ -10,10 +11,11 @@
   ],
   "emcee": 0,
   "venue": 10376,
-  "name": "Theme Park",
+  "show": "12470",
+  "name": "Theme Park ",
   "description": "",
   "startDateTime": "2016-06-05T03:00:00.000Z",
   "endDateTime": "2016-06-05T04:30:00.000Z",
-  "price": 0,
-  "pageUrl": "12807-theme-park"
+  "price": 25,
+  "pageUrl": "12807-theme-park-"
 }
