@@ -4,13 +4,13 @@
     12904
   ],
   "emceeEvents": [],
-  "name": "Curious Comedy Playas",
+  "name": "Curious Comedy Players",
   "twitter": "",
   "website": "",
-  "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/logo_0.png",
-  "photoUrl": "/api/img/performer-images/performer-curiouscomedyplayas-300x300.jpg",
+  "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/curiouscomedytheater.jpg",
+  "photoUrl": "/api/img/performer-images/performer-curiouscomedyplayers-300x300.jpg",
   "sortOrder": 151,
-  "excludeFromList": true,
-  "bio": "<p>Curious Comedy Playas</p>\n",
-  "pageUrl": "13061-curious-comedy-playas"
+  "excludeFromList": false,
+  "bio": "<p>Voted best improv venue by The Mercury and Willamette Week readers repeatedly, and the highest rated comedy venue on Yelp and Google, Curious Comedy Theater offers the best in improv, sketch and stand up. Located in the Alberta Arts district in NE Portland, Curious offers a dozen shows a week, plus classes and outreach programs including the All Jane Comedy Festival which features the best and most unique women in comedy working today. For more about Curious, please visit <a href=\"http://www.curiouscomedy.org\">www.curiouscomedy.org</a></p>\n",
+  "pageUrl": "13061-curious-comedy-players"
 }
