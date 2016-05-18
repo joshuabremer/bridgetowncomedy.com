@@ -831,8 +831,8 @@
       "venue": 10373,
       "name": "Uncalled Four",
       "description": "",
-      "startDateTime": "2016-06-04T20:30:00.000Z",
-      "endDateTime": "2016-06-04T22:00:00.000Z",
+      "startDateTime": "2016-06-05T22:00:00.000Z",
+      "endDateTime": "2016-06-05T23:30:00.000Z",
       "price": 10,
       "pageUrl": "12780-uncalled-four"
     },
@@ -1208,8 +1208,8 @@
       "show": "12539",
       "name": "Probably Science",
       "description": "",
-      "startDateTime": "2016-06-05T21:00:00.000Z",
-      "endDateTime": "2016-06-05T22:30:00.000Z",
+      "startDateTime": "2016-06-05T20:00:00.000Z",
+      "endDateTime": "2016-06-05T21:30:00.000Z",
       "price": 10,
       "pageUrl": "12812-probably-science"
     },
@@ -1284,8 +1284,8 @@
       "show": "12399",
       "name": "Yo, Is This Racist?",
       "description": "",
-      "startDateTime": "2016-06-05T23:00:00.000Z",
-      "endDateTime": "2016-06-06T00:30:00.000Z",
+      "startDateTime": "2016-06-06T00:00:00.000Z",
+      "endDateTime": "2016-06-06T01:30:00.000Z",
       "price": 10,
       "pageUrl": "12818-yo-is-this-racist"
     },
