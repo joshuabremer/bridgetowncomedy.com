@@ -765,7 +765,6 @@
     {
       "id": 12774,
       "performers": [
-        12482,
         11496,
         11174,
         12576,
@@ -777,8 +776,8 @@
       "venue": 10376,
       "name": "Set List",
       "description": "",
-      "startDateTime": "2016-06-04T03:00:00.000Z",
-      "endDateTime": "2016-06-04T04:30:00.000Z",
+      "startDateTime": "2016-06-04T04:00:00.000Z",
+      "endDateTime": "2016-06-04T05:30:00.000Z",
       "price": 15,
       "pageUrl": "12774-set-list"
     },
@@ -797,8 +796,8 @@
       "venue": 10376,
       "name": "North By Northwest",
       "description": "",
-      "startDateTime": "2016-06-04T05:00:00.000Z",
-      "endDateTime": "2016-06-04T06:30:00.000Z",
+      "startDateTime": "2016-06-04T06:00:00.000Z",
+      "endDateTime": "2016-06-04T06:59:00.000Z",
       "price": 10,
       "pageUrl": "12775-north-by-northwest"
     },
