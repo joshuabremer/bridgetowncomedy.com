@@ -14,7 +14,7 @@ const VENUE_ADDRESSES = {
   10379: "523 SE Grand Ave 97214",
   12478: "116 SE Yamhill St, Portland, OR 97217",
   10384: "Suite #110, 1300 SE Stark St, Portland, OR",
-  10376: "315 SE 3rd Ave, Portland, OR",
+  10376: "315 NW Davis Street, Portland, OR 97209",
   12533: "909 E Burnside St, Portland, OR 97214"
 };
 
