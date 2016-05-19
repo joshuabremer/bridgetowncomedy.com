@@ -1507,8 +1507,8 @@
       "venue": 10677,
       "name": "Control Yourself",
       "description": "",
-      "startDateTime": "2016-06-06T03:00:00.000Z",
-      "endDateTime": "2016-06-06T04:30:00.000Z",
+      "startDateTime": "2016-06-06T02:00:00.000Z",
+      "endDateTime": "2016-06-06T03:30:00.000Z",
       "price": 15,
       "pageUrl": "12834-control-yourself"
     },
@@ -1689,8 +1689,8 @@
       "venue": 10677,
       "name": "Southern Showcase",
       "description": "",
-      "startDateTime": "2016-06-06T01:00:00.000Z",
-      "endDateTime": "2016-06-06T02:30:00.000Z",
+      "startDateTime": "2016-06-06T00:00:00.000Z",
+      "endDateTime": "2016-06-06T01:30:00.000Z",
       "price": 10,
       "pageUrl": "13021-southern-showcase"
     },
