@@ -2608,13 +2608,12 @@
       "events": [
         12767,
         12802,
+        12816,
         12831,
         13031,
         13034
       ],
-      "emceeEvents": [
-        12816
-      ],
+      "emceeEvents": [],
       "name": "Toby Muresianu",
       "twitter": "tobymuresianu",
       "website": "http://tobythecomic.com",
@@ -2966,7 +2965,9 @@
     {
       "id": 11746,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12816
+      ],
       "name": "Lou Perez",
       "twitter": "LOUontheSUBWAY",
       "website": "",

@@ -1,7 +1,9 @@
 {
   "id": 12816,
-  "performers": [],
-  "emcee": 12283,
+  "performers": [
+    12283
+  ],
+  "emcee": 11746,
   "venue": 10376,
   "show": "12118",
   "name": "Unsafe Space",

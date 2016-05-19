@@ -1,7 +1,9 @@
 {
   "id": 11746,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12816
+  ],
   "name": "Lou Perez",
   "twitter": "LOUontheSUBWAY",
   "website": "",
