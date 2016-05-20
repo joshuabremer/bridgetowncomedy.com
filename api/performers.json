@@ -1,24 +1,24 @@
 {
   "performers": [
     {
-      "id": 12289,
+      "id": 11780,
       "events": [
-        12657,
-        12719,
-        12739,
-        12751,
+        12733,
+        12796,
+        13022
+      ],
+      "emceeEvents": [
         12825
       ],
-      "emceeEvents": [],
-      "name": "Carmen Lagala",
-      "twitter": "carmenlagala",
-      "website": "http://www.vermontcomedydivas.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/carmen_headshot.jpg",
-      "photoUrl": "/api/img/performer-images/performer-carmenlagala-300x300.jpg",
-      "sortOrder": 79,
+      "name": "Casey James Salengo",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_0032.jpg",
+      "photoUrl": "/api/img/performer-images/performer-caseyjamessalengo-300x300.jpg",
+      "sortOrder": 80,
       "excludeFromList": false,
-      "bio": "<p>Carmen Lagala began doing comedy in her hometown in the state of Vermont. She tours with &quot;The Vermont Comedy Divas,&quot; and its charitable branch, &quot;Divas Do Good,&quot; which performs to raise money for human-service non-profit organizations. </p>\n<p>While in Vermont, Carmen placed first in the &quot;Higher Ground Comedy Battle,&quot; was a finalist in &quot;Vermont&#039;s Funniest Contest,&quot; performed in the Boston&#039;s Women in Comedy Festival, was a feature performer in the Green Mountain Comedy Festival, and performed several times at the new state-of-the-art Vermont Comedy Club.</p>\n<p>Since moving to New York City in 2014, Carmen has become a rising presence, hosting and headlining for the Devil Cup, She-Devil, and Laughing Devil festivals, and performing at beloved venues such The Creek and the Cave, UCBEast, and the Knitting Factory. She hosts two monthly comedy shows in New York City, &quot;Creek Bros&quot; and &quot;Wigging Out with Carmen.&quot;</p>\n",
-      "pageUrl": "12289-carmen-lagala"
+      "bio": "<p>Casey James Salengo is a comedian, actor, and writer from Vermont who now resides in New York City. He&#039;s been featured in the Brooklyn Comedy Festival, Riptide Comedy Festival, Green Mountain Comedy Festival, Red Clay Comedy Festival, and Binghamton Comedy Festival, where he featured for Kurt Metzger. </p>\n<p>He regularly performs in clubs and colleges all over New York and the east coast, including Caroline&#039;s, The Stand, Stand Up New York, Gotham Comedy Club, Princeton College, and Boston University. He has a degree from SUNY Oneonta, where he double majored in Theater and Mass Communication, and has completed improv and sketch classes at UCB and The Magnet Theaters. He&#039;s a member of the sketch comedy team Sweet Boys Productions. </p>\n<p>He&#039;s the co host and producer of the monthly &quot;Big Weird Patio Show&quot; at Over The Eight in Williamsburg, Brooklyn and the weekly &quot;Big Ups at Little Skips&quot; comedy show in Bushwick, Brooklyn. He&#039;s also the host of the weekly comedy/wrestling podcast &quot;The Heavenly Bodcast,&quot; has been featured on the WWE Network, and regularly does play-by-play commentary for independent wrestling shows. Follow him on Twitter and Instagram @caseyJsalengo.</p>\n",
+      "pageUrl": "11780-casey-james-salengo"
     },
     {
       "id": 12538,
@@ -1544,6 +1544,26 @@
       "pageUrl": "12185-bri-pruett"
     },
     {
+      "id": 12289,
+      "events": [
+        12657,
+        12719,
+        12739,
+        12751,
+        12825
+      ],
+      "emceeEvents": [],
+      "name": "Carmen Lagala",
+      "twitter": "carmenlagala",
+      "website": "http://www.vermontcomedydivas.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/carmen_headshot.jpg",
+      "photoUrl": "/api/img/performer-images/performer-carmenlagala-300x300.jpg",
+      "sortOrder": 79,
+      "excludeFromList": false,
+      "bio": "<p>Carmen Lagala began doing comedy in her hometown in the state of Vermont. She tours with &quot;The Vermont Comedy Divas,&quot; and its charitable branch, &quot;Divas Do Good,&quot; which performs to raise money for human-service non-profit organizations. </p>\n<p>While in Vermont, Carmen placed first in the &quot;Higher Ground Comedy Battle,&quot; was a finalist in &quot;Vermont&#039;s Funniest Contest,&quot; performed in the Boston&#039;s Women in Comedy Festival, was a feature performer in the Green Mountain Comedy Festival, and performed several times at the new state-of-the-art Vermont Comedy Club.</p>\n<p>Since moving to New York City in 2014, Carmen has become a rising presence, hosting and headlining for the Devil Cup, She-Devil, and Laughing Devil festivals, and performing at beloved venues such The Creek and the Cave, UCBEast, and the Knitting Factory. She hosts two monthly comedy shows in New York City, &quot;Creek Bros&quot; and &quot;Wigging Out with Carmen.&quot;</p>\n",
+      "pageUrl": "12289-carmen-lagala"
+    },
+    {
       "id": 12535,
       "events": [
         12655
@@ -1558,26 +1578,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 11780,
-      "events": [
-        12733,
-        12796,
-        13022
-      ],
-      "emceeEvents": [
-        12825
-      ],
-      "name": "Casey James Salengo",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_0032.jpg",
-      "photoUrl": "/api/img/performer-images/performer-caseyjamessalengo-300x300.jpg",
-      "sortOrder": 80,
-      "excludeFromList": false,
-      "bio": "<p>Casey James Salengo is a comedian, actor, and writer from Vermont who now resides in New York City. He&#039;s been featured in the Brooklyn Comedy Festival, Riptide Comedy Festival, Green Mountain Comedy Festival, Red Clay Comedy Festival, and Binghamton Comedy Festival, where he featured for Kurt Metzger. </p>\n<p>He regularly performs in clubs and colleges all over New York and the east coast, including Caroline&#039;s, The Stand, Stand Up New York, Gotham Comedy Club, Princeton College, and Boston University. He has a degree from SUNY Oneonta, where he double majored in Theater and Mass Communication, and has completed improv and sketch classes at UCB and The Magnet Theaters. He&#039;s a member of the sketch comedy team Sweet Boys Productions. </p>\n<p>He&#039;s the co host and producer of the monthly &quot;Big Weird Patio Show&quot; at Over The Eight in Williamsburg, Brooklyn and the weekly &quot;Big Ups at Little Skips&quot; comedy show in Bushwick, Brooklyn. He&#039;s also the host of the weekly comedy/wrestling podcast &quot;The Heavenly Bodcast,&quot; has been featured on the WWE Network, and regularly does play-by-play commentary for independent wrestling shows. Follow him on Twitter and Instagram @caseyJsalengo.</p>\n",
-      "pageUrl": "11780-casey-james-salengo"
     },
     {
       "id": 12276,
@@ -3114,6 +3114,20 @@
       "excludeFromList": true,
       "bio": "<p>Dan Weber grew up in a town where the high school mascot was the Cheesemakers, which is funny until you realize it’s actually grimly prophetic.</p>\n<p>Dan has been many things, married, homeless, divorced, and dead for 15 minutes.</p>\n<p>He still is some of them.</p>\n<p>Dan talks on stage about all the topics you are supposed to never discuss in polite company.  From religion to politics to life experience over-sharing, he leaves no sacred cow untipped.</p>\n<p>Dan also has a podcast and live show, Reading The Bible With Dan, where he reads and mocks America’s most revered book.</p>\n<p>Dan runs a writing workshop named Comedy Write Now, a crowdwork/improv show named Crowd Control and (with Wednesday Weiss) the world’s most brutal game show Who’s Metal As Fuck.</p>\n<p>Dan has performed at the Idaho Laugh Fest, Mutiny Radio Comedy Festival, Seattle Comedy Underground, Punchline Comedy @ Jai Thai and nearly every showcase in Portland Oregon and surrounding areas.</p>\n<p>He also likes roleplaying games but please keep that to yourself.</p>\n",
       "pageUrl": "11856-dan-weber"
+    },
+    {
+      "id": 13093,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brett Morgan",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/imgres.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brettmorgan-300x300.jpg",
+      "sortOrder": 158,
+      "excludeFromList": true,
+      "bio": "<p>Tech guy for Aimee Mann</p>\n",
+      "pageUrl": "13093-brett-morgan"
     }
   ]
 }
