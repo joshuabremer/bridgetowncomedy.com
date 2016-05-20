@@ -1,6 +1,8 @@
 {
   "id": 12359,
-  "events": [],
+  "events": [
+    12780
+  ],
   "name": "Uncalled Four",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/facebook-logo-full.jpg",
   "photoUrl": "/api/img/show-images/show-uncalledfour-300x300.jpg",

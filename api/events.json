@@ -832,6 +832,7 @@
       ],
       "emcee": 13064,
       "venue": 10373,
+      "show": "12359",
       "name": "Uncalled Four",
       "description": "",
       "startDateTime": "2016-06-05T22:00:00.000Z",
@@ -1238,9 +1239,9 @@
       "performers": [
         11904,
         12446,
+        11473,
         12082,
         11427,
-        12007,
         12576
       ],
       "emcee": 11654,
