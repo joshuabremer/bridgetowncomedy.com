@@ -1885,7 +1885,7 @@
       "description": "",
       "startDateTime": "2016-06-03T03:00:00.000Z",
       "endDateTime": "2016-06-03T06:00:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "13071-open-mic"
     },
     {
@@ -1897,7 +1897,7 @@
       "description": "",
       "startDateTime": "2016-06-04T03:00:00.000Z",
       "endDateTime": "2016-06-04T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "13072-open-mic"
     },
     {
@@ -1909,7 +1909,7 @@
       "description": "",
       "startDateTime": "2016-06-05T03:00:00.000Z",
       "endDateTime": "2016-06-05T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "13073-open-mic"
     },
     {
