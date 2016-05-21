@@ -1923,6 +1923,19 @@
       "endDateTime": "2016-06-06T04:00:00.000Z",
       "price": 5,
       "pageUrl": "13074-open-mic"
+    },
+    {
+      "id": 15595,
+      "performers": [],
+      "emcee": 13046,
+      "venue": 10373,
+      "show": "13095",
+      "name": "\"Hidden America with Jonah Ray\" Screening and Q & A",
+      "description": "",
+      "startDateTime": "2016-06-03T20:00:00.000Z",
+      "endDateTime": "2016-06-03T21:30:00.000Z",
+      "price": 0,
+      "pageUrl": "15595-hidden-america-with-jonah-ray-screening-and-q--a"
     }
   ]
 }
