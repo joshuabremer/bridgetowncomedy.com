@@ -1936,6 +1936,19 @@
       "endDateTime": "2016-06-03T21:30:00.000Z",
       "price": 0,
       "pageUrl": "15595-hidden-america-with-jonah-ray-screening-and-q--a"
+    },
+    {
+      "id": 15596,
+      "performers": [],
+      "emcee": 13049,
+      "venue": 10376,
+      "show": "13086",
+      "name": "Hound Tall with Moshe Kasher",
+      "description": "",
+      "startDateTime": "2016-06-04T02:00:00.000Z",
+      "endDateTime": "2016-06-04T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "15596-hound-tall-with-moshe-kasher"
     }
   ]
 }

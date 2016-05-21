@@ -488,7 +488,9 @@
     },
     {
       "id": 13086,
-      "events": [],
+      "events": [
+        15596
+      ],
       "name": "Hound Tall with Moshe Kasher",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/hound.jpg",
       "photoUrl": "/api/img/show-images/show-houndtallwithmoshekasher-300x300.jpg",
