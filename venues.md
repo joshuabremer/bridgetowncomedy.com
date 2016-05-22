@@ -23,7 +23,7 @@ published: true
 
 <img src="/img/venue-images/venue-bossanova.png" />
 
-### Bossanova Ballroom & Bossanova Tent
+### Portland Mercury Stage/Bossanova Ballroom
 
 [www.bossanovaballroom.com](http://www.bossanovaballroom.com)
 
@@ -33,7 +33,7 @@ published: true
 
 <img src="/img/venue-images/venue-doug-fir.png" />
 
-### Doug Fir Lounge
+### Kill Rock Stars Stage/Doug Fir Lounge
 
 [www.dougfirlounge.com](http://www.dougfirlounge.com/)
 
