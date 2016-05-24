@@ -3152,7 +3152,9 @@
     {
       "id": 15607,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12823
+      ],
       "name": "Alice Mathias",
       "twitter": "",
       "website": "",
