@@ -1,24 +1,26 @@
 {
   "performers": [
     {
-      "id": 11780,
+      "id": 12276,
       "events": [
-        12733,
-        12796,
-        13022
+        12745,
+        12787,
+        12822,
+        12831,
+        12943
       ],
       "emceeEvents": [
-        12825
+        12727
       ],
-      "name": "Casey James Salengo",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_0032.jpg",
-      "photoUrl": "/api/img/performer-images/performer-caseyjamessalengo-300x300.jpg",
-      "sortOrder": 80,
+      "name": "Caitlin Weierhauser",
+      "twitter": "unclecait",
+      "website": "http://lezstandup.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_12.jpg",
+      "photoUrl": "/api/img/performer-images/performer-caitlinweierhauser-300x300.jpg",
+      "sortOrder": 81,
       "excludeFromList": false,
-      "bio": "<p>Casey James Salengo is a comedian, actor, and writer from Vermont who now resides in New York City. He&#039;s been featured in the Brooklyn Comedy Festival, Riptide Comedy Festival, Green Mountain Comedy Festival, Red Clay Comedy Festival, and Binghamton Comedy Festival, where he featured for Kurt Metzger. </p>\n<p>He regularly performs in clubs and colleges all over New York and the east coast, including Caroline&#039;s, The Stand, Stand Up New York, Gotham Comedy Club, Princeton College, and Boston University. He has a degree from SUNY Oneonta, where he double majored in Theater and Mass Communication, and has completed improv and sketch classes at UCB and The Magnet Theaters. He&#039;s a member of the sketch comedy team Sweet Boys Productions. </p>\n<p>He&#039;s the co host and producer of the monthly &quot;Big Weird Patio Show&quot; at Over The Eight in Williamsburg, Brooklyn and the weekly &quot;Big Ups at Little Skips&quot; comedy show in Bushwick, Brooklyn. He&#039;s also the host of the weekly comedy/wrestling podcast &quot;The Heavenly Bodcast,&quot; has been featured on the WWE Network, and regularly does play-by-play commentary for independent wrestling shows. Follow him on Twitter and Instagram @caseyJsalengo.</p>\n",
-      "pageUrl": "11780-casey-james-salengo"
+      "bio": "<p>Caitlin Weierhauser spent her childhood in an Ewok tree fort with a rubber band cross-bow, her wolf, and a budding resentment of The Man. She grew up to be a tantrum-prone queer, feminist, vegan liar that creates safer comedy spaces, and is never happier than when she&#039;s mad. </p>\n<p>Caitlin is a member of Lez Stand Up and has performed at All Jane Comedy Festival, Bumbershoot, and Seattle Sketchfest. She was included in the AfterEllen list of &quot;40 Hot Queer Ladies in Comedy,&quot; and plans to dismantle the patriarchy by Christmas.</p>\n",
+      "pageUrl": "12276-caitlin-weierhauser"
     },
     {
       "id": 12538,
@@ -1567,6 +1569,26 @@
       "pageUrl": "12289-carmen-lagala"
     },
     {
+      "id": 11780,
+      "events": [
+        12733,
+        12796,
+        13022
+      ],
+      "emceeEvents": [
+        12825
+      ],
+      "name": "Casey James Salengo",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_0032.jpg",
+      "photoUrl": "/api/img/performer-images/performer-caseyjamessalengo-300x300.jpg",
+      "sortOrder": 80,
+      "excludeFromList": false,
+      "bio": "<p>Casey James Salengo is a comedian, actor, and writer from Vermont who now resides in New York City. He&#039;s been featured in the Brooklyn Comedy Festival, Riptide Comedy Festival, Green Mountain Comedy Festival, Red Clay Comedy Festival, and Binghamton Comedy Festival, where he featured for Kurt Metzger. </p>\n<p>He regularly performs in clubs and colleges all over New York and the east coast, including Caroline&#039;s, The Stand, Stand Up New York, Gotham Comedy Club, Princeton College, and Boston University. He has a degree from SUNY Oneonta, where he double majored in Theater and Mass Communication, and has completed improv and sketch classes at UCB and The Magnet Theaters. He&#039;s a member of the sketch comedy team Sweet Boys Productions. </p>\n<p>He&#039;s the co host and producer of the monthly &quot;Big Weird Patio Show&quot; at Over The Eight in Williamsburg, Brooklyn and the weekly &quot;Big Ups at Little Skips&quot; comedy show in Bushwick, Brooklyn. He&#039;s also the host of the weekly comedy/wrestling podcast &quot;The Heavenly Bodcast,&quot; has been featured on the WWE Network, and regularly does play-by-play commentary for independent wrestling shows. Follow him on Twitter and Instagram @caseyJsalengo.</p>\n",
+      "pageUrl": "11780-casey-james-salengo"
+    },
+    {
       "id": 12535,
       "events": [
         12655
@@ -1581,28 +1603,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 12276,
-      "events": [
-        12745,
-        12787,
-        12822,
-        12831,
-        12943
-      ],
-      "emceeEvents": [
-        12727
-      ],
-      "name": "Caitlin Weierhauser",
-      "twitter": "unclecait",
-      "website": "http://lezstandup.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_12.jpg",
-      "photoUrl": "/api/img/performer-images/performer-caitlinweierhauser-300x300.jpg",
-      "sortOrder": 81,
-      "excludeFromList": false,
-      "bio": "<p>Caitlin Weierhauser spent her childhood in an Ewok tree fort with a rubber band cross-bow, her wolf, and a budding resentment of The Man. She grew up to be a tantrum-prone queer, feminist, vegan liar that creates safer comedy spaces, and is never happier than when she&#039;s mad. </p>\n<p>Caitlin is a member of Lez Stand Up and has performed at All Jane Comedy Festival, Bumbershoot, and Seattle Sketchfest. She was included in the AfterEllen list of &quot;40 Hot Queer Ladies in Comedy,&quot; and plans to dismantle the patriarchy by Christmas.</p>\n",
-      "pageUrl": "12276-caitlin-weierhauser"
     },
     {
       "id": 11441,
@@ -3148,6 +3148,20 @@
       "excludeFromList": true,
       "bio": "<p>Ian Karmel is a homegrown Portland comedian whose style zig-zags between the eclectic and the universal. Ian is currently a writer on CBS’ The Late Late Show with James Corden, previously he was writer and roundtable regular on E!’s Chelsea Lately.  In 2014, Karmel made his late night TV debut on TBS&#039; Conan and was featured on Comedy Central’s Adam Devine’s House Party Season 2. In 2013, Ian was invited to the prestigious Just for Laughs Festival in Montreal, where he was a breakout stand up in the New Faces category. Ian’s other television credits include IFC’s Portlandia and the Travel Channel’s Best Sandwich in America, as well as a post-game analyst and commentator for the Portland Trailblazers.  His debut album is set to release in 2015 from Portland based label Kill Rock Stars. Ian’s unique perspective helped him win the 2011 Funniest Person in Portland and has given him the opportunity to headline at various venues and festivals throughout America including the Bridgetown Comedy Festival and Moontower Comedy Festival in Austin. His training includes The Groundlings and the Upright Citizens Brigade and he is a regular contributor for the Portland Mercury in which is he currently writes the highly anticipated weekly column “Everything as F*ck”. He currently lives in Los Angeles.</p>\n",
       "pageUrl": "11974-ian-karmel-"
+    },
+    {
+      "id": 15607,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Alice Mathias",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/alice_m.jpg",
+      "photoUrl": "/api/img/performer-images/performer-alicemathias-300x300.jpg",
+      "sortOrder": 160,
+      "excludeFromList": false,
+      "bio": "<p>Alice Mathias works for Lorne Michaels’ TV company Broadway Video where she is a Co-Executive Producer of Portlandia and a Producer of Documentary Now! Alice has written and directed various projects with collaborator Fred Armisen, including Paul Simon at the NY Auto Show and The Dominizuelan Consulate. She wrote The Portlandia Cookbook and has occasionally contributed to The New York Times.</p>\n<p>Originally from Chicago she now splits her time between Los Angeles and Portland.</p>\n",
+      "pageUrl": "15607-alice-mathias"
     }
   ]
 }
