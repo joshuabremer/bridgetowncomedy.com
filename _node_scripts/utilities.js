@@ -104,9 +104,9 @@ Utilities.prototype.htmlToText = function(html) {
   html = html.replace(/<\/li>/ig, '\n');
   html = html.replace(/<li>/ig, '  *  ');
   html = html.replace(/<\/ul>/ig, '\n');
-  html = html.replace(/<\/p>/ig, '\n');
-  html = html.replace(/<br\s*[\/]?>/gi, "\n");
-  return html.replace(/<[^>]+>/ig, '');
+  // html = html.replace(/<\/p>/ig, '\n');
+  // html = html.replace(/<br\s*[\/]?>/gi, "\n");
+  // return html.replace(/<[^>]+>/ig, '');
 };
 
 module.exports = new Utilities();
