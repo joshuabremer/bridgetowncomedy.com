@@ -30,7 +30,8 @@
         11452,
         11320,
         11761,
-        12173
+        12173,
+        12557
       ],
       "emcee": 11981,
       "venue": 10373,
@@ -1730,7 +1731,6 @@
         11954,
         11327,
         12114,
-        12557,
         12576
       ],
       "emcee": 12093,
@@ -1921,7 +1921,7 @@
       "description": "",
       "startDateTime": "2016-06-04T20:00:00.000Z",
       "endDateTime": "2016-06-04T21:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "15595-hidden-america-with-jonah-ray-screening-and-q--a"
     },
     {
