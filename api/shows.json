@@ -259,7 +259,41 @@
     {
       "id": 12558,
       "events": [
-        12721
+        12721,
+        12774,
+        12782
+      ],
+      "name": "Set List",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/set_list_logo_live_j_higher_res.jpg",
+      "photoUrl": "/api/img/show-images/show-setlist-300x300.jpg",
+      "sortOrder": 17,
+      "bio": "<p>From Paul Provenza and Troy Conrad... Set List: Stand-Up Without A Net.<br />\nComics are given outrageous, never-before-seen topics in the moment, and perform as if it was the material they meant to do. Both the comic and the audience see the topics for the first time on the on-stage screen, and thus begins the  most exciting, edge-of-your seat stand-up show.<br />\nSet List is also a 60-episode web series on the Nerdist Channel and  a successful TV series in the UK.<br />\nPast performers on Set List include Greg Proops, Bob Odenkirk, Bobcat Goldthwait, Marc Maron, Reggie Watts, Jeff Garlin, Fred Willard, Roseanne Barr, Paul F. Tompkins, Russell Peters, Gilbert Gottfried, Drew Carey, Jim Norton, Hannibal Buress, Jay Mohr, Margaret Cho, and Eddie Izzard among many others.</p>\n",
+      "copy": "<p>From Paul Provenza and Troy Conrad… Comics are given outrageous, never-before-seen topics in the moment, and perform as if it was the material they meant to do. Both the comic and the audience see the topics for the first time on the onstage screen and thus begins the most exciting, edge-of-your seat stand-up show. </p>\n<p>Set List: Stand-Up Without A Net aired as a TV series on Sky Atlantic in the UK and on ABC2 in Australia. The show tours festivals worldwide, including Edinburgh, Melbourne, New York, Montreal, Austria, and Ireland.</p>\n<p>Set List is also a 60-episode web series on the Nerdist Channel on YouTube. Link: <a href=\"https://www.youtube.com/playlist?list=PLl4T6p7km9db1eGQyrMUkB07YBWYK3o2J\">https://www.youtube.com/playlist?list=PLl4T6p7km9db1eGQyrMUkB07YBWYK3o2J</a> </p>\n<p>Past performers on Set List include Greg Proops, Maria Bamford, Bob Odenkirk, Drew Carey, Bobcat Goldthwait, Marc Maron, Reggie Watts, Jeff Garlin, Fred Willard, Roseanne Barr, Paul F. Tompkins, Rob Delaney, Jen Kirkman, Gilbert Gottfried, Jim Norton, Hannibal Buress, Jay Mohr, Margaret Cho, and Eddie Izzard among many others.</p>\n",
+      "pageUrl": "12558-set-list",
+      "iTunesUrl": ""
+    },
+    {
+      "id": 12558,
+      "events": [
+        12721,
+        12774,
+        12782
+      ],
+      "name": "Set List",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/set_list_logo_live_j_higher_res.jpg",
+      "photoUrl": "/api/img/show-images/show-setlist-300x300.jpg",
+      "sortOrder": 17,
+      "bio": "<p>From Paul Provenza and Troy Conrad... Set List: Stand-Up Without A Net.<br />\nComics are given outrageous, never-before-seen topics in the moment, and perform as if it was the material they meant to do. Both the comic and the audience see the topics for the first time on the on-stage screen, and thus begins the  most exciting, edge-of-your seat stand-up show.<br />\nSet List is also a 60-episode web series on the Nerdist Channel and  a successful TV series in the UK.<br />\nPast performers on Set List include Greg Proops, Bob Odenkirk, Bobcat Goldthwait, Marc Maron, Reggie Watts, Jeff Garlin, Fred Willard, Roseanne Barr, Paul F. Tompkins, Russell Peters, Gilbert Gottfried, Drew Carey, Jim Norton, Hannibal Buress, Jay Mohr, Margaret Cho, and Eddie Izzard among many others.</p>\n",
+      "copy": "<p>From Paul Provenza and Troy Conrad… Comics are given outrageous, never-before-seen topics in the moment, and perform as if it was the material they meant to do. Both the comic and the audience see the topics for the first time on the onstage screen and thus begins the most exciting, edge-of-your seat stand-up show. </p>\n<p>Set List: Stand-Up Without A Net aired as a TV series on Sky Atlantic in the UK and on ABC2 in Australia. The show tours festivals worldwide, including Edinburgh, Melbourne, New York, Montreal, Austria, and Ireland.</p>\n<p>Set List is also a 60-episode web series on the Nerdist Channel on YouTube. Link: <a href=\"https://www.youtube.com/playlist?list=PLl4T6p7km9db1eGQyrMUkB07YBWYK3o2J\">https://www.youtube.com/playlist?list=PLl4T6p7km9db1eGQyrMUkB07YBWYK3o2J</a> </p>\n<p>Past performers on Set List include Greg Proops, Maria Bamford, Bob Odenkirk, Drew Carey, Bobcat Goldthwait, Marc Maron, Reggie Watts, Jeff Garlin, Fred Willard, Roseanne Barr, Paul F. Tompkins, Rob Delaney, Jen Kirkman, Gilbert Gottfried, Jim Norton, Hannibal Buress, Jay Mohr, Margaret Cho, and Eddie Izzard among many others.</p>\n",
+      "pageUrl": "12558-set-list",
+      "iTunesUrl": ""
+    },
+    {
+      "id": 12558,
+      "events": [
+        12721,
+        12774,
+        12782
       ],
       "name": "Set List",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/set_list_logo_live_j_higher_res.jpg",
