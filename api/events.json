@@ -1928,7 +1928,9 @@
     },
     {
       "id": 15596,
-      "performers": [],
+      "performers": [
+        12968
+      ],
       "emcee": 13049,
       "venue": 10376,
       "show": "13086",
