@@ -4,10 +4,11 @@
     12767,
     12802,
     12816,
-    12831,
     13034
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12826
+  ],
   "name": "Toby Muresianu",
   "twitter": "tobymuresianu",
   "website": "http://tobythecomic.com",

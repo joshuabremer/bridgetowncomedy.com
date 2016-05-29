@@ -1377,7 +1377,7 @@
     {
       "id": 12826,
       "performers": [
-        11613,
+        12370,
         11247,
         12094,
         11647,
@@ -1385,7 +1385,7 @@
         12493,
         13062
       ],
-      "emcee": 12370,
+      "emcee": 12283,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "<p>Standup showcase with a closing set from a surprise guest.</p>\n",
@@ -1448,10 +1448,10 @@
       "performers": [
         11693,
         12276,
-        12283,
         11376,
         11464,
         11778,
+        11498,
         12224
       ],
       "emcee": 11630,
@@ -1487,9 +1487,9 @@
       "id": 12834,
       "performers": [
         11452,
+        11613,
         11421,
         12268,
-        11498,
         12177,
         11952,
         12482

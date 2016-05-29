@@ -1429,7 +1429,7 @@
         12724,
         12775,
         12810,
-        12834
+        12831
       ],
       "emceeEvents": [],
       "name": "David Tveite",
@@ -2098,7 +2098,7 @@
       "events": [
         12764,
         12792,
-        12826,
+        12834,
         13009
       ],
       "emceeEvents": [
@@ -2620,10 +2620,11 @@
         12767,
         12802,
         12816,
-        12831,
         13034
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12826
+      ],
       "name": "Toby Muresianu",
       "twitter": "tobymuresianu",
       "website": "http://tobythecomic.com",
@@ -2678,11 +2679,10 @@
       "events": [
         12734,
         12775,
+        12826,
         13041
       ],
-      "emceeEvents": [
-        12826
-      ],
+      "emceeEvents": [],
       "name": "Devin Field",
       "twitter": "thatdevinfield",
       "website": "http://devinfield.com",
