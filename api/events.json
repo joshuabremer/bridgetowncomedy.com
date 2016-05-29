@@ -1888,19 +1888,19 @@
     {
       "id": 13073,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11856,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-05T03:00:00.000Z",
-      "endDateTime": "2016-06-05T06:59:00.000Z",
+      "endDateTime": "2016-06-05T05:00:00.000Z",
       "price": 5,
       "pageUrl": "13073-open-mic"
     },
     {
       "id": 13074,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11856,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
@@ -1987,6 +1987,30 @@
       "endDateTime": "2016-06-04T06:59:00.000Z",
       "price": 0,
       "pageUrl": "15699-open-mic"
+    },
+    {
+      "id": 15700,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-05T05:00:00.000Z",
+      "endDateTime": "2016-06-05T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "15700-open-mic"
+    },
+    {
+      "id": 15701,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-05T06:00:00.000Z",
+      "endDateTime": "2016-06-05T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "15701-open-mic"
     }
   ]
 }
