@@ -1864,24 +1864,24 @@
     {
       "id": 13071,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11856,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-03T03:00:00.000Z",
-      "endDateTime": "2016-06-03T06:00:00.000Z",
+      "endDateTime": "2016-06-03T05:00:00.000Z",
       "price": 5,
       "pageUrl": "13071-open-mic"
     },
     {
       "id": 13072,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11856,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-04T03:00:00.000Z",
-      "endDateTime": "2016-06-04T06:59:00.000Z",
+      "endDateTime": "2016-06-04T05:00:00.000Z",
       "price": 5,
       "pageUrl": "13072-open-mic"
     },
@@ -1939,6 +1939,54 @@
       "endDateTime": "2016-06-04T03:30:00.000Z",
       "price": 15,
       "pageUrl": "15596-hound-tall-with-moshe-kasher"
+    },
+    {
+      "id": 15696,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-03T05:00:00.000Z",
+      "endDateTime": "2016-06-03T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "15696-open-mic"
+    },
+    {
+      "id": 15697,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-03T06:00:00.000Z",
+      "endDateTime": "2016-06-03T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "15697-open-mic"
+    },
+    {
+      "id": 15698,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-04T05:00:00.000Z",
+      "endDateTime": "2016-06-04T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "15698-open-mic"
+    },
+    {
+      "id": 15699,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Open Mic",
+      "description": "",
+      "startDateTime": "2016-06-04T06:00:00.000Z",
+      "endDateTime": "2016-06-04T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "15699-open-mic"
     }
   ]
 }
