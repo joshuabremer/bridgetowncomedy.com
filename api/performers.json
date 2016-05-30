@@ -1,27 +1,24 @@
 {
   "performers": [
     {
-      "id": 12276,
+      "id": 11441,
       "events": [
-        12745,
-        12787,
-        12822,
-        12831,
+        12725,
+        12790,
         12943
       ],
       "emceeEvents": [
-        12727,
-        15700
+        13022
       ],
-      "name": "Caitlin Weierhauser",
-      "twitter": "unclecait",
-      "website": "http://lezstandup.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_12.jpg",
-      "photoUrl": "/api/img/performer-images/performer-caitlinweierhauser-300x300.jpg",
-      "sortOrder": 81,
+      "name": "Derek Gaines",
+      "twitter": "Derek1Gaines",
+      "website": "http://www.gershcomedy.com/gaines/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/optimized-derekgaines_172.jpg",
+      "photoUrl": "/api/img/performer-images/performer-derekgaines-300x300.jpg",
+      "sortOrder": 82,
       "excludeFromList": false,
-      "bio": "<p>Caitlin Weierhauser spent her childhood in an Ewok tree fort with a rubber band cross-bow, her wolf, and a budding resentment of The Man. She grew up to be a tantrum-prone queer, feminist, vegan liar that creates safer comedy spaces, and is never happier than when she&#039;s mad. </p>\n<p>Caitlin is a member of Lez Stand Up and has performed at All Jane Comedy Festival, Bumbershoot, and Seattle Sketchfest. She was included in the AfterEllen list of &quot;40 Hot Queer Ladies in Comedy,&quot; and plans to dismantle the patriarchy by Christmas.</p>\n",
-      "pageUrl": "12276-caitlin-weierhauser"
+      "bio": "<p>Derek Gaines was born in California, but found his comedy chops while growing up in Philadelphia. He currently calls New York City his home, where he regularly performs and brings a unique perspective to growing up African American in the suburbs. </p>\n<p>Derek&#039;s first break came when he reached the semi finals of Bill Bellamy&#039;s &quot;Who&#039;s Got Jokes&quot; in 2010. Also in 2010, Derek was a finalist in Philadelphia&#039;s Funniest Person Competition. Derek made his standup comedy television debut in 2014 when he appeared on AXS TV&#039;s &quot;Gotham Comedy Live,&quot; and was selected by the Just For Laughs Festival as part of their New Faces. He is a contributor to VH1’s &quot;Morning Buzz,&quot; starred in Morgan Spurlock’s docu-series “Connected,&quot; and is currently the co-host of MTV’s &quot;Broke Ass Game Show.&quot;</p>\n",
+      "pageUrl": "11441-derek-gaines"
     },
     {
       "id": 12538,
@@ -1592,6 +1589,29 @@
       "pageUrl": "11780-casey-james-salengo"
     },
     {
+      "id": 12276,
+      "events": [
+        12745,
+        12787,
+        12822,
+        12831,
+        12943
+      ],
+      "emceeEvents": [
+        12727,
+        15700
+      ],
+      "name": "Caitlin Weierhauser",
+      "twitter": "unclecait",
+      "website": "http://lezstandup.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/image_12.jpg",
+      "photoUrl": "/api/img/performer-images/performer-caitlinweierhauser-300x300.jpg",
+      "sortOrder": 81,
+      "excludeFromList": false,
+      "bio": "<p>Caitlin Weierhauser spent her childhood in an Ewok tree fort with a rubber band cross-bow, her wolf, and a budding resentment of The Man. She grew up to be a tantrum-prone queer, feminist, vegan liar that creates safer comedy spaces, and is never happier than when she&#039;s mad. </p>\n<p>Caitlin is a member of Lez Stand Up and has performed at All Jane Comedy Festival, Bumbershoot, and Seattle Sketchfest. She was included in the AfterEllen list of &quot;40 Hot Queer Ladies in Comedy,&quot; and plans to dismantle the patriarchy by Christmas.</p>\n",
+      "pageUrl": "12276-caitlin-weierhauser"
+    },
+    {
       "id": 12535,
       "events": [
         12655
@@ -1606,26 +1626,6 @@
       "excludeFromList": false,
       "bio": "<p>In the decades since going solo following the success of her band 'Til Tuesday, Aimee Mann has made a name for herself as one of the greatest singer/songwriters of her generation. In 1993 and 1995 she released the albums Whatever and I'm With Stupid, and then collaborated with director Paul Thomas Anderson to contribute eight songs to the soundtrack of Anderson's film Magnolia. The song \"Save Me\" was nominated for both an Academy Award and a Grammy, and introduced Mann to an even wider audience. Since then, Aimee released Lost in Space (2000), 2004's Live at St. Ann's Warehouse (a live album and DVD) and the concept album The Forgotten Arm (2005). In 2005, veering farther off the beaten path, Mann released a Christmas EP, following it up in 2006 with One More Drifter in the Snow, a full-length Christmas album. Her eighth solo studio album, Charmer, came out in 2012, and her collaboration The Both with fellow Bridgetown performer Ted Leo was released in 2014.</p>\n",
       "pageUrl": "12535-aimee-mann"
-    },
-    {
-      "id": 11441,
-      "events": [
-        12725,
-        12790,
-        12943
-      ],
-      "emceeEvents": [
-        13022
-      ],
-      "name": "Derek Gaines",
-      "twitter": "Derek1Gaines",
-      "website": "http://www.gershcomedy.com/gaines/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/optimized-derekgaines_172.jpg",
-      "photoUrl": "/api/img/performer-images/performer-derekgaines-300x300.jpg",
-      "sortOrder": 82,
-      "excludeFromList": false,
-      "bio": "<p>Derek Gaines was born in California, but found his comedy chops while growing up in Philadelphia. He currently calls New York City his home, where he regularly performs and brings a unique perspective to growing up African American in the suburbs. </p>\n<p>Derek&#039;s first break came when he reached the semi finals of Bill Bellamy&#039;s &quot;Who&#039;s Got Jokes&quot; in 2010. Also in 2010, Derek was a finalist in Philadelphia&#039;s Funniest Person Competition. Derek made his standup comedy television debut in 2014 when he appeared on AXS TV&#039;s &quot;Gotham Comedy Live,&quot; and was selected by the Just For Laughs Festival as part of their New Faces. He is a contributor to VH1’s &quot;Morning Buzz,&quot; starred in Morgan Spurlock’s docu-series “Connected,&quot; and is currently the co-host of MTV’s &quot;Broke Ass Game Show.&quot;</p>\n",
-      "pageUrl": "11441-derek-gaines"
     },
     {
       "id": 11506,
@@ -3192,6 +3192,22 @@
       "excludeFromList": false,
       "bio": "<p>Tres Shannon was born in Portland and moved to Denver in they early 70's where he attended grade &amp; high school. He later moved back to Oregon and started up the famous all ages venue The X Ray Cafe in downtown Portland with friend Benjamin Ellis (1990 to 1994). Tres has been hosting/singing in Karaoke From Hell, a live karaoke band, every Monday night at Dante's for over 20 years. In 2003, he started Voodoo Doughnut with business partner Kenneth “Cat Daddy” Pogson. Since then, Voodoo Doughnut has been on The Travel Channel, The Tonight Show, Wheel of Fortune, MTV, GRIMM, Leverage, Good Morning America, The Today Show, Access Hollywood and countless other programs. Voodoo Doughnut celebrate’s its 13th year of business on May 30th, 2016. It now has 5 US locations &amp; 1 in Taipei, Tawian, with more plans to expand in the future.</p>\n<p>World Doughnut Domination!</p>\n",
       "pageUrl": "15702-tres-shannon"
+    },
+    {
+      "id": 15713,
+      "events": [
+        12787
+      ],
+      "emceeEvents": [],
+      "name": "Douglas Gale",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/logo.png",
+      "photoUrl": "/api/img/performer-images/performer-douglasgale-300x300.jpg",
+      "sortOrder": 162,
+      "excludeFromList": true,
+      "bio": "<p>Douglas Gale is a hero. </p>\n",
+      "pageUrl": "15713-douglas-gale"
     }
   ]
 }
