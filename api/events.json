@@ -974,8 +974,8 @@
       "performers": [
         12384,
         11476,
-        11582,
         11376,
+        11582,
         11421,
         11821,
         12185
@@ -1586,10 +1586,10 @@
       "id": 12943,
       "performers": [
         12276,
-        12936,
         11882,
         11494,
         11496,
+        12936,
         12137,
         11956,
         11441,
@@ -1946,7 +1946,7 @@
     {
       "id": 15696,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11639,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
@@ -1958,43 +1958,43 @@
     {
       "id": 15697,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11482,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-03T06:00:00.000Z",
       "endDateTime": "2016-06-03T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "15697-open-mic"
     },
     {
       "id": 15698,
       "performers": [],
-      "emcee": 0,
+      "emcee": 11981,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-04T05:00:00.000Z",
       "endDateTime": "2016-06-04T06:00:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "15698-open-mic"
     },
     {
       "id": 15699,
       "performers": [],
-      "emcee": 0,
+      "emcee": 12031,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-04T06:00:00.000Z",
       "endDateTime": "2016-06-04T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "15699-open-mic"
     },
     {
       "id": 15700,
       "performers": [],
-      "emcee": 0,
+      "emcee": 12276,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
@@ -2006,13 +2006,13 @@
     {
       "id": 15701,
       "performers": [],
-      "emcee": 0,
+      "emcee": 12395,
       "venue": 10763,
       "name": "Open Mic",
       "description": "",
       "startDateTime": "2016-06-05T06:00:00.000Z",
       "endDateTime": "2016-06-05T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "15701-open-mic"
     }
   ]
