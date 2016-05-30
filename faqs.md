@@ -43,4 +43,4 @@ We usually publish the complete festival schedule about three weeks before the f
 
 **What venues is the festival using this year?**
 
-We’ll have a list of 2016 Bridgetown venues and a handy map published here on our site by the end of April.
+[Here's a handy list of all the venues hosting shows at this year's festival](http://www.bridgetowncomedy.com/venues).
