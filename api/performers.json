@@ -1079,9 +1079,7 @@
         12750,
         12772
       ],
-      "emceeEvents": [
-        12724
-      ],
+      "emceeEvents": [],
       "name": "Jenny Zigrino",
       "twitter": "jennyzisnice",
       "website": "http://jennyzigirno.com",
@@ -1384,13 +1382,14 @@
       "events": [
         12658,
         12682,
-        12733,
         12742,
         12780,
         12814,
         12830
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        12733
+      ],
       "name": "Casey Ley",
       "twitter": "caseywley",
       "website": "http://caseyley.com",
@@ -2663,9 +2662,7 @@
         12788,
         12943
       ],
-      "emceeEvents": [
-        12733
-      ],
+      "emceeEvents": [],
       "name": "Quincy Jones",
       "twitter": "",
       "website": "http://www.thatsnotquincyjones.com",

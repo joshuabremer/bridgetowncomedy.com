@@ -3,13 +3,14 @@
   "events": [
     12658,
     12682,
-    12733,
     12742,
     12780,
     12814,
     12830
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    12733
+  ],
   "name": "Casey Ley",
   "twitter": "caseywley",
   "website": "http://caseyley.com",
