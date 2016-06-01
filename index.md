@@ -6,7 +6,9 @@ description: "Bridgetown Comedy Festival, happening Portland, Oregon, June 1st-5
 published: true
 ---
 
-<h3> Tickets on sale!</h3>
+<h3> The ninth annual Bridgetown Comedy Festival is underway! If you've purchased a festival pass, you can pick it up at will call at [Jupiter Hotel](http://jupiterhotel.com/) (800 E Burnside) starting at 3pm on Wednesday, or at most festival venues ([listed here](http://www.bridgetowncomedy.com/venues)) starting half an hour before the first show scheduled at the venue on a given day. [For answers to questions about ticketing and more, take a look at our FAQs](http://www.bridgetowncomedy.com/faqs). For help navigating all the fun happening this week, [check out the festival schedule](http://www.bridgetowncomedy.com/schedule) (also available in printed grid form in festival programs at all venues) and browse our list of [performers](http://www.bridgetowncomedy.com/performers) and [shows](http://www.bridgetowncomedy.com/shows).
+
+Tickets for the entire festival and for individual shows at Revolution Hall are still available for purchase here:</h3>
 
 <h3>
   <a href="https://www.eventbrite.com/e/2016-bridgetown-comedy-festival-june-1-5-tickets-23824633119" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
@@ -41,8 +43,3 @@ published: true
 
 <hr />
 
-<h3>Performers and Shows Announced!</h3>
-
-<p>We’re proud to present the preliminary lineup for the ninth installment of the Bridgetown Comedy Festival, taking place June 1-5, 2016. With performances from recent Golden Globe and Critics’ Choice Award-winner Rachel Bloom of CW’s <em>Crazy Ex-Girlfriend</em>, Oscar nominee Aimee Mann, rock legend Ted Leo, long-form improv from alums of <em>SNL</em>, <em>Best in Show</em> and <em>The Office</em>, and standup from greats including Eddie Pepitone, Matt Braunger and Baron Vaughn, this year’s fest is not to be missed. <a target="_blank" href="http://www.eventbrite.com/e/2016-bridgetown-comedy-festival-june-1-5-tickets-23824633119">Five-day passes</a> and individual tickets to our <a target="_blank" href="http://www.revolutionhallpdx.com/">Revolution Hall</a> shows are on sale now. For information on attending single shows please visit our <a href="http://www.bridgetowncomedy.com/faqs">frequently asked questions</a> page</p>
-
-<p>Stay tuned for more lineup announcements over the coming weeks, and in the meantime browse our list of <a href="/performers">performers</a> and <a href="/shows">shows</a> to see what’s in store for this year’s Bridgetown, and we’ll see you in June!</p>
