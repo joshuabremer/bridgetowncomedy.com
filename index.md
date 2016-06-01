@@ -33,13 +33,5 @@ Tickets for the entire festival and for individual shows at Revolution Hall are 
 <hr />
 
 
-<h3>Interested in Volunteering?</h3>
-<h3>
-  <a href="http://bridgetown.festivalthing.com/volunteering" class="btn btn-primary btn-lg btn-block" target="_blank" style="white-space: normal">
- Click here to volunteer</a>
-</h3>
-
-
-
 <hr />
 
