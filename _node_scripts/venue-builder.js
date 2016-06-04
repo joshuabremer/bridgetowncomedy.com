@@ -5,7 +5,8 @@ const ObjectBuilder = require('./object-builder');
 const wrench = require('wrench');
 
 const VENUE_ADDRESSES = {
-  10763: "345 SE Taylor St, Portland, OR 97214",
+  10763: "720 SE Hawthorne Blvd, Portland, OR 97214",
+  10677: "720 SE Hawthorne Blvd, Portland, OR 97214",
   10377: "315 SE 3rd Ave, Portland, OR",
   10380: "910 E Burnside St, Portland, OR",
   12605: "722 E Burnside Street, Portland, OR 97214",
