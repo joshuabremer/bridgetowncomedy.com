@@ -21,4 +21,4 @@ We're also very excited to announce a handful of our confirmed performers for th
 - Nico Santos (_Superstore_, _Chelsea Lately_)
 - Dave Hill (_@midnight_, _Inside Amy Schumer_)
 
-*Note that festival passes do not include events taking place at Arlene Schnitzer Concert Hall or Revolution Hall
+_*Note that festival passes do not include events taking place at Arlene Schnitzer Concert Hall or Revolution Hall_
