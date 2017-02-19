@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16102,
+      "id": 16502,
       "events": [],
       "emceeEvents": [],
-      "name": "Naomi Karavani",
-      "twitter": "naomikaravani",
-      "website": "http://www.naomikaravani.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bymindytucker1000.jpg",
-      "photoUrl": "/api/img/performer-images/performer-naomikaravani-300x300.jpg",
-      "sortOrder": 12,
+      "name": "Matt Lieb",
+      "twitter": "lieb123456789",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_lieb_headshot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattlieb-300x300.jpg",
+      "sortOrder": 13,
       "excludeFromList": false,
-      "bio": "<p>Naomi Karavani is a comedian and a correspondent for the weekly news comedy show &quot;Redacted Tonight.&quot;  She appeared in comedy festivals such as the 202 Comedy Festival, Women in Comedy Conference - New York, and the District of Comedy Festival. She appeared in the mockumentary “Finding Simfeld” as Elaine Benis and is currently developing an original series.<br />\n​<br />\nBefore joining the Redacted team she worked as a high school history teacher in Brooklyn, New York for over five years.  Alongside her weekly news comedy segments, she performs stand up around the country and co-produces the weekly stand up comedy show &quot;Bitches&#039; Brew&quot; in Brooklyn and the monthly mock university lecture series &quot;Fale University&quot; in Washington, DC.</p>\n",
-      "pageUrl": "16102-naomi-karavani"
+      "bio": "<p>Matt Lieb is a comic and comedy writer from San Francisco, where he was named one of the &quot;Best Comedians in the Bay Area&quot; by SFist and Courting Comedy. Matt is a correspondent on The Star Wars Show on StarWars.com, a writer/performer on Al Jazeera&#039;s only comedy show Newsbroke, and staff writer for Audible&#039;s original series &quot;Bedtime Stories for Cynics with Nick Offerman.&quot; Matt&#039;s stand up was featured on the show &quot;Flophouse&quot; on VICELAND, &quot;The Guest List&quot; on SeeSo, Gabriel Iglesias&#039; &quot;Stand Up Revolution Radio&quot; on SiriusXM, and is featured on Hulu.</p>\n",
+      "pageUrl": "16502-matt-lieb"
     },
     {
       "id": 16103,
@@ -155,6 +155,20 @@
       "pageUrl": "16325-caleb-synan"
     },
     {
+      "id": 16102,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Naomi Karavani",
+      "twitter": "naomikaravani",
+      "website": "http://www.naomikaravani.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bymindytucker1000.jpg",
+      "photoUrl": "/api/img/performer-images/performer-naomikaravani-300x300.jpg",
+      "sortOrder": 12,
+      "excludeFromList": false,
+      "bio": "<p>Naomi Karavani is a comedian and a correspondent for the weekly news comedy show &quot;Redacted Tonight.&quot;  She appeared in comedy festivals such as the 202 Comedy Festival, Women in Comedy Conference - New York, and the District of Comedy Festival. She appeared in the mockumentary “Finding Simfeld” as Elaine Benis and is currently developing an original series.<br />\n​<br />\nBefore joining the Redacted team she worked as a high school history teacher in Brooklyn, New York for over five years.  Alongside her weekly news comedy segments, she performs stand up around the country and co-produces the weekly stand up comedy show &quot;Bitches&#039; Brew&quot; in Brooklyn and the monthly mock university lecture series &quot;Fale University&quot; in Washington, DC.</p>\n",
+      "pageUrl": "16102-naomi-karavani"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -167,20 +181,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16502,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Matt Lieb",
-      "twitter": "lieb123456789",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_lieb_headshot_2.jpg",
-      "photoUrl": "/api/img/performer-images/performer-mattlieb-300x300.jpg",
-      "sortOrder": 13,
-      "excludeFromList": false,
-      "bio": "<p>Matt Lieb is a comic and comedy writer from San Francisco, where he was named one of the &quot;Best Comedians in the Bay Area&quot; by SFist and Courting Comedy. Matt is a correspondent on The Star Wars Show on StarWars.com, a writer/performer on Al Jazeera&#039;s only comedy show Newsbroke, and staff writer for Audible&#039;s original series &quot;Bedtime Stories for Cynics with Nick Offerman.&quot; Matt&#039;s stand up was featured on the show &quot;Flophouse&quot; on VICELAND, &quot;The Guest List&quot; on SeeSo, Gabriel Iglesias&#039; &quot;Stand Up Revolution Radio&quot; on SiriusXM, and is featured on Hulu.</p>\n",
-      "pageUrl": "16502-matt-lieb"
     },
     {
       "id": 16591,
@@ -307,6 +307,34 @@
       "excludeFromList": false,
       "bio": "<p>Samantha Ruddy is a comedian who hails from just outside Scranton, Pennsylvania, and now lives in Brooklyn. She brings to the stage a world of goofy observations and witty one-liners. She has been named 1 of the 50 Funniest in Brooklyn by Brooklyn Magazine, called a comic &quot;you should be obsessed with&quot; by BUST, and selected to perform as part of the Caroline&#039;s Breakout Artist Series. She has performed in the New York Comedy Festival, Laugh Your Asheville Off Festival, and Limestone Comedy Festival. In addition to her standup, she is a contributing writer to Collegehumor, Someecards, and Reductress.</p>\n",
       "pageUrl": "15967-samantha-ruddy"
+    },
+    {
+      "id": 16429,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Robbie Pankow",
+      "twitter": "robbiepankow",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ice_cream.jpg",
+      "photoUrl": "/api/img/performer-images/performer-robbiepankow-300x300.jpg",
+      "sortOrder": 23,
+      "excludeFromList": false,
+      "bio": "<p>Robbie Pankow is a comedian and podcaster born and raised in Portland, OR. He has been described as &quot;right in my wheelhouse&quot; by some and &quot;acceptable&quot; by others. He placed in the finals of Helium Comedy Club&#039;s &quot;Portland&#039;s Funniest Person&quot; Contest in 2015. His podcast, Eat Food, Already and monthly showcase Whatever Forever have been taking Portland by a light storm and if he somehow gets his way, it&#039;s only gettin stormier!</p>\n",
+      "pageUrl": "16429-robbie-pankow"
+    },
+    {
+      "id": 16791,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Adam Christie",
+      "twitter": "theadamchristie",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/adamc.jpg",
+      "photoUrl": "/api/img/performer-images/performer-adamchristie-300x300.jpg",
+      "sortOrder": 24,
+      "excludeFromList": false,
+      "bio": "<p>Adam Christie is an award winning writer and stand-up comedian originally from Toronto, Canada. He&#039;s written on four seasons of the hit CBC show &#039;This Hour Has 22 Minutes&#039;, and has been featured on Muchmusic, MTV, NXNE, JFL 42, The Hubcap Comedy Festival, and has opened for Jen Kirkman and Eric Andre during the Halifax Pop Explosion.</p>\n<p>Adam is a former producer of the critically acclaimed &#039;Laugh Sabbath&#039; weekly show in Toronto. He&#039;s won a Canadian Comedy Award for writing in a television comedy, and has been nominated for two Canadian Screen Awards. </p>\n<p>Adam currently splits his time between Los Angeles, California, and Halifax, Nova Scotia.</p>\n",
+      "pageUrl": "16791-adam-christie"
     }
   ]
 }
