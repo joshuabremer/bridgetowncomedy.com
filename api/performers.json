@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16502,
+      "id": 16591,
       "events": [],
       "emceeEvents": [],
-      "name": "Matt Lieb",
-      "twitter": "lieb123456789",
+      "name": "Nick Vatterott",
+      "twitter": "nickvatterott",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_lieb_headshot_2.jpg",
-      "photoUrl": "/api/img/performer-images/performer-mattlieb-300x300.jpg",
-      "sortOrder": 13,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nickvatterottheadshot_01272017125716_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nickvatterott-300x300.jpg",
+      "sortOrder": 14,
       "excludeFromList": false,
-      "bio": "<p>Matt Lieb is a comic and comedy writer from San Francisco, where he was named one of the &quot;Best Comedians in the Bay Area&quot; by SFist and Courting Comedy. Matt is a correspondent on The Star Wars Show on StarWars.com, a writer/performer on Al Jazeera&#039;s only comedy show Newsbroke, and staff writer for Audible&#039;s original series &quot;Bedtime Stories for Cynics with Nick Offerman.&quot; Matt&#039;s stand up was featured on the show &quot;Flophouse&quot; on VICELAND, &quot;The Guest List&quot; on SeeSo, Gabriel Iglesias&#039; &quot;Stand Up Revolution Radio&quot; on SiriusXM, and is featured on Hulu.</p>\n",
-      "pageUrl": "16502-matt-lieb"
+      "bio": "<p>In 2010 The Hollywood Reporter named Nick Vatterott one of the “break-outs” at Montreal’s Just for Laughs Comedy Festival. Since then he has performed on <em>Conan</em>, <em>Late Night with Jimmy Fallon</em> and has a half hour special on Comedy Central. Nick was also a producer/writer/performer on Comedy Central’s stand-up sketch hybrid show <em>Mash-Up</em>, and with co-creator TJ Miller sold the project <em>Manimation</em> to Fox's ADHD. He was the recipient of the prestigious Andy Kaufman award in 2011 and before heading off to NYC, Chicago Magazine listed Nick as “The Funniest Man in Chicago.” Nick’s debut comedy record, FOR AMUSMENT ONLY was released in November 2014 by Comedy Central Records and was voted by Vulture, Laughspin, and Splitsider as one of the year’s best comedy albums. In addition to naming Vatterott’s album one of the best of 2014, Vulture.com also listed him as one of the top 50 comedians you should know in 2015. Nick has been called “one of the most dynamic performer’s today” by The Laugh Button and his LATE NIGHT WITH JIMMY FALLON set was received as “so damn brilliant” by The Chicago Reader.  Nick has also had correspondent work on THE BIG TEN NETWORK and is currently writing for GORBURGER on Comedy Central with TJ Miller.</p>\n",
+      "pageUrl": "16591-nick-vatterott"
     },
     {
       "id": 16103,
@@ -169,6 +169,20 @@
       "pageUrl": "16102-naomi-karavani"
     },
     {
+      "id": 16502,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Matt Lieb",
+      "twitter": "lieb123456789",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_lieb_headshot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattlieb-300x300.jpg",
+      "sortOrder": 13,
+      "excludeFromList": false,
+      "bio": "<p>Matt Lieb is a comic and comedy writer from San Francisco, where he was named one of the &quot;Best Comedians in the Bay Area&quot; by SFist and Courting Comedy. Matt is a correspondent on The Star Wars Show on StarWars.com, a writer/performer on Al Jazeera&#039;s only comedy show Newsbroke, and staff writer for Audible&#039;s original series &quot;Bedtime Stories for Cynics with Nick Offerman.&quot; Matt&#039;s stand up was featured on the show &quot;Flophouse&quot; on VICELAND, &quot;The Guest List&quot; on SeeSo, Gabriel Iglesias&#039; &quot;Stand Up Revolution Radio&quot; on SiriusXM, and is featured on Hulu.</p>\n",
+      "pageUrl": "16502-matt-lieb"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -181,20 +195,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16591,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Nick Vatterott",
-      "twitter": "nickvatterott",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nickvatterottheadshot_01272017125716_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nickvatterott-300x300.jpg",
-      "sortOrder": 14,
-      "excludeFromList": false,
-      "bio": "<p>In 2010 The Hollywood Reporter named Nick Vatterott one of the “break-outs” at Montreal’s Just for Laughs Comedy Festival. Since then he has performed on <em>Conan</em>, <em>Late Night with Jimmy Fallon</em> and has a half hour special on Comedy Central. Nick was also a producer/writer/performer on Comedy Central’s stand-up sketch hybrid show <em>Mash-Up</em>, and with co-creator TJ Miller sold the project <em>Manimation</em> to Fox's ADHD. He was the recipient of the prestigious Andy Kaufman award in 2011 and before heading off to NYC, Chicago Magazine listed Nick as “The Funniest Man in Chicago.” Nick’s debut comedy record, FOR AMUSMENT ONLY was released in November 2014 by Comedy Central Records and was voted by Vulture, Laughspin, and Splitsider as one of the year’s best comedy albums. In addition to naming Vatterott’s album one of the best of 2014, Vulture.com also listed him as one of the top 50 comedians you should know in 2015. Nick has been called “one of the most dynamic performer’s today” by The Laugh Button and his LATE NIGHT WITH JIMMY FALLON set was received as “so damn brilliant” by The Chicago Reader.  Nick has also had correspondent work on THE BIG TEN NETWORK and is currently writing for GORBURGER on Comedy Central with TJ Miller.</p>\n",
-      "pageUrl": "16591-nick-vatterott"
     },
     {
       "id": 16530,
@@ -335,6 +335,34 @@
       "excludeFromList": false,
       "bio": "<p>Adam Christie is an award winning writer and stand-up comedian originally from Toronto, Canada. He&#039;s written on four seasons of the hit CBC show &#039;This Hour Has 22 Minutes&#039;, and has been featured on Muchmusic, MTV, NXNE, JFL 42, The Hubcap Comedy Festival, and has opened for Jen Kirkman and Eric Andre during the Halifax Pop Explosion.</p>\n<p>Adam is a former producer of the critically acclaimed &#039;Laugh Sabbath&#039; weekly show in Toronto. He&#039;s won a Canadian Comedy Award for writing in a television comedy, and has been nominated for two Canadian Screen Awards. </p>\n<p>Adam currently splits his time between Los Angeles, California, and Halifax, Nova Scotia.</p>\n",
       "pageUrl": "16791-adam-christie"
+    },
+    {
+      "id": 16312,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Nick Chambers",
+      "twitter": "chamberscomedy",
+      "website": "http://www.chamberscomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_chambersheadshot2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nickchambers-300x300.jpg",
+      "sortOrder": 25,
+      "excludeFromList": false,
+      "bio": "<p>Born &amp; raised in Worcester MA, Nick Chambers began performing stand-up comedy on a whim in 2009 and hasn’t been able to stop since. His laid back delivery and conversational tone has quickly led to becoming a regular performer all over the East Coast where he has opened for national headliners like Kyle Dunnigan and Bridget Everett. In 2016, Nick was a semi-finalist in the Boston Comedy Festival and performed in the Oddball Comedy Festival. He also made is feature film debut in the comedy &quot;Good Kids.”</p>\n",
+      "pageUrl": "16312-nick-chambers"
+    },
+    {
+      "id": 16693,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Daniel Sloss",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/794210.jpg",
+      "photoUrl": "/api/img/performer-images/performer-danielsloss-300x300.jpg",
+      "sortOrder": 26,
+      "excludeFromList": false,
+      "bio": "<p>He started performing stand-up aged just 16 and has appeared on the UK’s premier television shows including <em>Sunday Night at the Palladium</em>, <em>Michael McIntyre’s Comedy Roadshow, 8 Out of 10 Cats, Rob Brydon Show, Jason Manford’s Comedy Rocks, Comic Relief’s Mock The Week, Paul O’Grady Show (</em>Daniel’s TV debut aged 18<em>), Comedy Store, BBC’s Stand Up For Sport Relief, Set List, Russell Howard’s Good News</em>, as well as starring in his own BBC show, <em>The Adventures Of Daniel</em> (aged 19). US television appearances to date include multiple appearances on <em>Conan</em>, <em>The Late Late Show with Craig Ferguson</em> and <em>@Midnight</em>.</p>\n<p>His new 2014 show <em>Really…?!</em> had its world premiere at the Edinburgh Fringe, yet again performing to huge audiences at the EICC with extra shows due to demand. <em>Really…?!</em>  subsequently embarked on a major European autumn tour with 20 shows across 15 countries as well as UK theatre dates including 2 shows at London's Royal Albert Hall, Elgar Room.</p>\n<p>Daniel has toured internationally throughout Australia, South East Asia and throughout Europe. He has starred at major UK outdoor Festivals including Rockness, Bestival, Latitude, Reading, Leeds and the all-star Austrian Alps Comedy &amp; snowboarding festival Altitude.</p>\n<p>In December 2013 Daniel made his USA television debut on <em>Conan</em>. To date Daniel has appeared on Conan 6 times and  has also appeared on <em>The Late Late Show with Craig Ferguson, </em><em>Pete Holmes Show</em> and<em> @Midnight</em>.</p>\n",
+      "pageUrl": "16693-daniel-sloss"
     }
   ]
 }
