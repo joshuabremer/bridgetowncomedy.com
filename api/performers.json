@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15957,
+      "id": 16865,
       "events": [],
       "emceeEvents": [],
-      "name": "Raj Desai",
-      "twitter": "_rajdesai",
+      "name": "Lashonda Lester",
+      "twitter": "glamgirl313",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/raj_desai_photo_.png",
-      "photoUrl": "/api/img/performer-images/performer-rajdesai-300x300.jpg",
-      "sortOrder": 6,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/shondee.png",
+      "photoUrl": "/api/img/performer-images/performer-lashondalester-300x300.jpg",
+      "sortOrder": 7,
       "excludeFromList": false,
-      "bio": "<p>Raj Desai is a writer and stand-up comedian residing in Los Angeles.  He recently wrote for Triumph the Insult Comic Dog&#039;s Hulu specials, for which he was nominated for a 2016 Primetime Emmy Award and a 2017 Writers Guild Award.  He also worked as a writer/blogger on Comedy Central&#039;s &quot;The Jeselnik Offensive&quot; and has had humor pieces published by &quot;The New Yorker&quot; and &quot;McSweeney&#039;s.&quot;</p>\n<p>He has performed stand-up on the &quot;Late Late Show with Craig Ferguson,&quot; &quot;Last Comic Standing,&quot; and Comedy Central’s &quot;Live at Gotham.&quot;   He continues to perform standup around L.A. at The Comedy Store, The Improv, Nerdmelt, UCB and other venues in and outside L.A.</p>\n<p>He has also acted in ABC&#039;s &quot;Fresh Off the Boat&quot; and Comedy Central&#039;s &quot;Hampton Deville,&quot; in addition to playing Reba on the hit sitcom &quot;Reba.&quot;</p>\n",
-      "pageUrl": "15957-raj-desai"
+      "bio": "<p>Lashonda Lester is an Austin based comedian and producer. Her down-to-earth observations and casual storytelling style will make you feel like you&#039;re hanging out with your funniest friend. Comedy Central recently named her as a Comic To Watch 2016. She’s appeared on Nickelodeon’s NickMom Night Out,  Laughs TV on Fox and was selected as one of the top 100 for season 9 of NBC’s Last Comic Standing. In addition she’s opened for Grammy award winning band Earth, Wind, &amp; Fire, performed at the Moontower Comedy Festival and is the winner of 2016’s Funniest Person In Austin competition. </p>\n<p>When not performing stand up, she’s the star/creator/executive producer of the biography lecture series Weird! True Hollywood Tales, now in its 5 season.</p>\n",
+      "pageUrl": "16865-lashonda-lester"
     },
     {
       "id": 16103,
@@ -71,6 +71,20 @@
       "pageUrl": "16647-marcella-arguello"
     },
     {
+      "id": 15957,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Raj Desai",
+      "twitter": "_rajdesai",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/raj_desai_photo_.png",
+      "photoUrl": "/api/img/performer-images/performer-rajdesai-300x300.jpg",
+      "sortOrder": 6,
+      "excludeFromList": false,
+      "bio": "<p>Raj Desai is a writer and stand-up comedian residing in Los Angeles.  He recently wrote for Triumph the Insult Comic Dog&#039;s Hulu specials, for which he was nominated for a 2016 Primetime Emmy Award and a 2017 Writers Guild Award.  He also worked as a writer/blogger on Comedy Central&#039;s &quot;The Jeselnik Offensive&quot; and has had humor pieces published by &quot;The New Yorker&quot; and &quot;McSweeney&#039;s.&quot;</p>\n<p>He has performed stand-up on the &quot;Late Late Show with Craig Ferguson,&quot; &quot;Last Comic Standing,&quot; and Comedy Central’s &quot;Live at Gotham.&quot;   He continues to perform standup around L.A. at The Comedy Store, The Improv, Nerdmelt, UCB and other venues in and outside L.A.</p>\n<p>He has also acted in ABC&#039;s &quot;Fresh Off the Boat&quot; and Comedy Central&#039;s &quot;Hampton Deville,&quot; in addition to playing Reba on the hit sitcom &quot;Reba.&quot;</p>\n",
+      "pageUrl": "15957-raj-desai"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -83,20 +97,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16865,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Lashonda Lester",
-      "twitter": "glamgirl313",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/shondee.png",
-      "photoUrl": "/api/img/performer-images/performer-lashondalester-300x300.jpg",
-      "sortOrder": 7,
-      "excludeFromList": false,
-      "bio": "<p>Lashonda Lester is an Austin based comedian and producer. Her down-to-earth observations and casual storytelling style will make you feel like you&#039;re hanging out with your funniest friend. Comedy Central recently named her as a Comic To Watch 2016. She’s appeared on Nickelodeon’s NickMom Night Out,  Laughs TV on Fox and was selected as one of the top 100 for season 9 of NBC’s Last Comic Standing. In addition she’s opened for Grammy award winning band Earth, Wind, &amp; Fire, performed at the Moontower Comedy Festival and is the winner of 2016’s Funniest Person In Austin competition. </p>\n<p>When not performing stand up, she’s the star/creator/executive producer of the biography lecture series Weird! True Hollywood Tales, now in its 5 season.</p>\n",
-      "pageUrl": "16865-lashonda-lester"
     },
     {
       "id": 16464,
@@ -153,6 +153,34 @@
       "excludeFromList": false,
       "bio": "<p>Caleb Synan<br />\nSo far in 2015, Caleb Synan has made appearances on CONAN, NBC’s Last Comic Standing, and the Bob and Tom Show. His deceptively smart blend of Southern charm and razor sharp wit has also made him a festival favorite, with appearances at Montreal’s Just For Laughs, Laugh Your Asheville Off, The Charleston Comedy Festival, and Athfest 2015. He also won “Wittiest” in Franklin County High School’s 2009 Yearbook. And he’s a pretty nice guy.</p>\n<p>\nWebsite:<br /><a href=\"http://calebsynan.tumblr.com/\">http://calebsynan.tumblr.com/</a></p>\n<p>\nStand up Sets:<br /><a href=\"https://www.youtube.com/watch?v=6WUImcSYyyQ\">https://www.youtube.com/watch?v=6WUImcSYyyQ</a><br /><a href=\"https://www.youtube.com/watch?v=6x4s7OeZd70\">https://www.youtube.com/watch?v=6x4s7OeZd70</a><br /><a href=\"https://www.youtube.com/watch?v=TxlBo5yzN9o\">https://www.youtube.com/watch?v=TxlBo5yzN9o</a><br /><a href=\"https://www.youtube.com/watch?v=qO_Si9on9LM\">https://www.youtube.com/watch?v=qO_Si9on9LM</a></p>\n",
       "pageUrl": "16325-caleb-synan"
+    },
+    {
+      "id": 16102,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Naomi Karavani",
+      "twitter": "naomikaravani",
+      "website": "http://www.naomikaravani.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bymindytucker1000.jpg",
+      "photoUrl": "/api/img/performer-images/performer-naomikaravani-300x300.jpg",
+      "sortOrder": 12,
+      "excludeFromList": false,
+      "bio": "<p>Naomi Karavani is a comedian and a correspondent for the weekly news comedy show &quot;Redacted Tonight.&quot;  She appeared in comedy festivals such as the 202 Comedy Festival, Women in Comedy Conference - New York, and the District of Comedy Festival. She appeared in the mockumentary “Finding Simfeld” as Elaine Benis and is currently developing an original series.<br />\n​<br />\nBefore joining the Redacted team she worked as a high school history teacher in Brooklyn, New York for over five years.  Alongside her weekly news comedy segments, she performs stand up around the country and co-produces the weekly stand up comedy show &quot;Bitches&#039; Brew&quot; in Brooklyn and the monthly mock university lecture series &quot;Fale University&quot; in Washington, DC.</p>\n",
+      "pageUrl": "16102-naomi-karavani"
+    },
+    {
+      "id": 16502,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Matt Lieb",
+      "twitter": "lieb123456789",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_lieb_headshot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattlieb-300x300.jpg",
+      "sortOrder": 13,
+      "excludeFromList": false,
+      "bio": "<p>Matt Lieb is a comic and comedy writer from San Francisco, where he was named one of the &quot;Best Comedians in the Bay Area&quot; by SFist and Courting Comedy. Matt is a correspondent on The Star Wars Show on StarWars.com, a writer/performer on Al Jazeera&#039;s only comedy show Newsbroke, and staff writer for Audible&#039;s original series &quot;Bedtime Stories for Cynics with Nick Offerman.&quot; Matt&#039;s stand up was featured on the show &quot;Flophouse&quot; on VICELAND, &quot;The Guest List&quot; on SeeSo, Gabriel Iglesias&#039; &quot;Stand Up Revolution Radio&quot; on SiriusXM, and is featured on Hulu.</p>\n",
+      "pageUrl": "16502-matt-lieb"
     }
   ]
 }
