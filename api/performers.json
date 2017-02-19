@@ -1,6 +1,20 @@
 {
   "performers": [
     {
+      "id": 15957,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Raj Desai",
+      "twitter": "_rajdesai",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/raj_desai_photo_.png",
+      "photoUrl": "/api/img/performer-images/performer-rajdesai-300x300.jpg",
+      "sortOrder": 6,
+      "excludeFromList": false,
+      "bio": "<p>Raj Desai is a writer and stand-up comedian residing in Los Angeles.  He recently wrote for Triumph the Insult Comic Dog&#039;s Hulu specials, for which he was nominated for a 2016 Primetime Emmy Award and a 2017 Writers Guild Award.  He also worked as a writer/blogger on Comedy Central&#039;s &quot;The Jeselnik Offensive&quot; and has had humor pieces published by &quot;The New Yorker&quot; and &quot;McSweeney&#039;s.&quot;</p>\n<p>He has performed stand-up on the &quot;Late Late Show with Craig Ferguson,&quot; &quot;Last Comic Standing,&quot; and Comedy Central’s &quot;Live at Gotham.&quot;   He continues to perform standup around L.A. at The Comedy Store, The Improv, Nerdmelt, UCB and other venues in and outside L.A.</p>\n<p>He has also acted in ABC&#039;s &quot;Fresh Off the Boat&quot; and Comedy Central&#039;s &quot;Hampton Deville,&quot; in addition to playing Reba on the hit sitcom &quot;Reba.&quot;</p>\n",
+      "pageUrl": "15957-raj-desai"
+    },
+    {
       "id": 16103,
       "events": [],
       "emceeEvents": [],
@@ -13,20 +27,6 @@
       "excludeFromList": false,
       "bio": "<p>My name is John Novosad. I am from Boulder, Colorado. I am based out of the Comedy Works in Denver, Colorado. I am a stand-up comic. I tour nationally. I was married for eleven years. I am divorced. We did not have any children. I’m six feet tall. I weigh one hundred and ninety-three pounds. I first did stand-up in 1980. I toured extensively between 1985 and 1993. I worked a day job and did comedy part-time from 1994 through 2001. I have been a full-time comic since 2002. Performing stand-up is great fun. It drives me to open mics on my nights off. </p>\n<p>My credits include:<br />\nWinner of the Laughing Skull Comedy Festival competition 2016<br />\nWinner of the Laughlin Comedy Festival competition 2015<br />\nComedy Exposition 2016<br />\nHigh Plains Comedy Festival 2016, 2015, 2013<br />\nAspen Laff Festival 2015, 2014<br />\nFeatured performer at the Comedy Works in Denver, Colorado<br />\nTwo appearances on the Late Late Show with Craig Ferguson<br />\nOne appearance on Bryon Allen’s Comedy.TV</p>\n",
       "pageUrl": "16103-john-novosad"
-    },
-    {
-      "id": 16768,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
-      "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16457,
@@ -71,18 +71,18 @@
       "pageUrl": "16647-marcella-arguello"
     },
     {
-      "id": 15957,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Raj Desai",
-      "twitter": "_rajdesai",
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/raj_desai_photo_.png",
-      "photoUrl": "/api/img/performer-images/performer-rajdesai-300x300.jpg",
-      "sortOrder": 6,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Raj Desai is a writer and stand-up comedian residing in Los Angeles.  He recently wrote for Triumph the Insult Comic Dog&#039;s Hulu specials, for which he was nominated for a 2016 Primetime Emmy Award and a 2017 Writers Guild Award.  He also worked as a writer/blogger on Comedy Central&#039;s &quot;The Jeselnik Offensive&quot; and has had humor pieces published by &quot;The New Yorker&quot; and &quot;McSweeney&#039;s.&quot;</p>\n<p>He has performed stand-up on the &quot;Late Late Show with Craig Ferguson,&quot; &quot;Last Comic Standing,&quot; and Comedy Central’s &quot;Live at Gotham.&quot;   He continues to perform standup around L.A. at The Comedy Store, The Improv, Nerdmelt, UCB and other venues in and outside L.A.</p>\n<p>He has also acted in ABC&#039;s &quot;Fresh Off the Boat&quot; and Comedy Central&#039;s &quot;Hampton Deville,&quot; in addition to playing Reba on the hit sitcom &quot;Reba.&quot;</p>\n",
-      "pageUrl": "15957-raj-desai"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16865,
@@ -111,6 +111,48 @@
       "excludeFromList": false,
       "bio": "<p>Sara June is a comedian based in Los Angeles. She’s performed at Fun Fun Fun Fest, SF Sketchfest and Riot LA; she also makes surreal sketch videos, which you can watch on heysarajune.com.</p>\n",
       "pageUrl": "16464-sara-june"
+    },
+    {
+      "id": 16169,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Dusty Slay",
+      "twitter": "dustyslay",
+      "website": "http://bridgetown.festivalthing.com/dustyslaycom",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/13592652_10157210742330245_7627880667630795170_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-dustyslay-300x300.jpg",
+      "sortOrder": 9,
+      "excludeFromList": false,
+      "bio": "<p>Dusty Slay is a stand-up comedian with a baritone voice so smooth it&#039;s like champagne in your ears. </p>\n<p>Slay has appeared on several network shows including NBC’s &quot;Last Comic Standing&quot;, the popular program &quot;Laughs on FOX&quot; and he was a featured comedian on &quot;TMZ&quot;.  </p>\n<p>Dusty&#039;s comedy is regularly showcased on many nationally syndicated radio programs including Sirius XM, Pandora Radio and &quot;The Bob and Tom Radio Show&quot;. He’s also been invited to numerous comedy festivals across America including: The Laughing Skull Festival, The Charleston Comedy Festival and The Cape Fear Comedy Festival. Dusty won both the &quot;Fight Night Competition&quot; and the “Almost Famous Competition” at the Charlotte Comedy Zone in 2014.  During his years in Charleston, SC Slay won The Charleston Comedy Festival Stand Up Competition two years in a row and was voted &quot;Best Local Comic&quot; by the readers of the Charleston City Paper in 2013 and 2014.</p>\n<p>Dusty was born in Alabama, his parents divorced when he was two, then there was a custody battle, his mom lost, so he had to go live with her. He split time between his dad who lived on a farm, and his mom who lived in a trailer park. When asked about his education, Slay says, “When I was kid, my dad asked me if I wanted to go to college or if I wanted a pool. Man, I love that pool.”</p>\n<p>Dusty Slay is based in Nashville, TN where he is a local favorite at his home club at Zanies and has opened for many touring celebrities such as Rob Schneider, Jeff Ross and Roseanne.  Dusty, however, spends most of his time on the road where he continues to make audiences laugh all over the country at comedy clubs such as: The Punchline and Laughing Skull in Atlanta, Crackers Comedy Club in Indianapolis, The Charlotte Comedy Zone, Funny Bone Clubs (Syracuse, NY; Albany, NY; Virginia Beach, VA; Richmond, VA; Toledo, OH; Columbus, OH; Dayton, OH; Des Moines, IA), Comedy Club on State in Madison, WI, The Improv (Tampa, FL; Kansas City, MO) as well as many other clubs.</p>\n<p>In 2014, Dusty released his debut comedy album “Makin’ That Fudge” which can be found at CDBaby.com, Amazon.com and ITunes and is featured on Sirius XM.</p>\n<p>Dusty&#039;s new album &quot;Son of a Ditch&quot; will be released later this year.</p>\n",
+      "pageUrl": "16169-dusty-slay"
+    },
+    {
+      "id": 15908,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Ben Harkins",
+      "twitter": "TheBenHarkins",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_4.jpg",
+      "photoUrl": "/api/img/performer-images/performer-benharkins-300x300.jpg",
+      "sortOrder": 10,
+      "excludeFromList": false,
+      "bio": "<p>Ben Harkins is a Pittsburgh native currently residing in Portland, Oregon. Harkins hosts Flyass Jokes, Portland’s longest running stand up showcase. His unsweetened insights and deadpan delivery have made him an audience favorite throughout the Pacific Northwest. His contentious material covers everything from the extinction of species to the price of groceries. Ben Harkins has performed at San Francisco Sketchfest, Mutiny X Radio Festival, the Helium Comedy Club in Portland and headlined at the Seven Nightclub in Bend Oregon</p>\n",
+      "pageUrl": "15908-ben-harkins"
+    },
+    {
+      "id": 16325,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Caleb Synan",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/caleb_synan.jpg",
+      "photoUrl": "/api/img/performer-images/performer-calebsynan-300x300.jpg",
+      "sortOrder": 11,
+      "excludeFromList": false,
+      "bio": "<p>Caleb Synan<br />\nSo far in 2015, Caleb Synan has made appearances on CONAN, NBC’s Last Comic Standing, and the Bob and Tom Show. His deceptively smart blend of Southern charm and razor sharp wit has also made him a festival favorite, with appearances at Montreal’s Just For Laughs, Laugh Your Asheville Off, The Charleston Comedy Festival, and Athfest 2015. He also won “Wittiest” in Franklin County High School’s 2009 Yearbook. And he’s a pretty nice guy.</p>\n<p>\nWebsite:<br /><a href=\"http://calebsynan.tumblr.com/\">http://calebsynan.tumblr.com/</a></p>\n<p>\nStand up Sets:<br /><a href=\"https://www.youtube.com/watch?v=6WUImcSYyyQ\">https://www.youtube.com/watch?v=6WUImcSYyyQ</a><br /><a href=\"https://www.youtube.com/watch?v=6x4s7OeZd70\">https://www.youtube.com/watch?v=6x4s7OeZd70</a><br /><a href=\"https://www.youtube.com/watch?v=TxlBo5yzN9o\">https://www.youtube.com/watch?v=TxlBo5yzN9o</a><br /><a href=\"https://www.youtube.com/watch?v=qO_Si9on9LM\">https://www.youtube.com/watch?v=qO_Si9on9LM</a></p>\n",
+      "pageUrl": "16325-caleb-synan"
     }
   ]
 }
