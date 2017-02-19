@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16591,
+      "id": 16530,
       "events": [],
       "emceeEvents": [],
-      "name": "Nick Vatterott",
-      "twitter": "nickvatterott",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nickvatterottheadshot_01272017125716_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nickvatterott-300x300.jpg",
-      "sortOrder": 14,
+      "name": "Irene Tu",
+      "twitter": "irene_tu",
+      "website": "http://irenetu.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/irene_tu_headshot_daniel_schuleman.jpg",
+      "photoUrl": "/api/img/performer-images/performer-irenetu-300x300.jpg",
+      "sortOrder": 15,
       "excludeFromList": false,
-      "bio": "<p>In 2010 The Hollywood Reporter named Nick Vatterott one of the “break-outs” at Montreal’s Just for Laughs Comedy Festival. Since then he has performed on <em>Conan</em>, <em>Late Night with Jimmy Fallon</em> and has a half hour special on Comedy Central. Nick was also a producer/writer/performer on Comedy Central’s stand-up sketch hybrid show <em>Mash-Up</em>, and with co-creator TJ Miller sold the project <em>Manimation</em> to Fox's ADHD. He was the recipient of the prestigious Andy Kaufman award in 2011 and before heading off to NYC, Chicago Magazine listed Nick as “The Funniest Man in Chicago.” Nick’s debut comedy record, FOR AMUSMENT ONLY was released in November 2014 by Comedy Central Records and was voted by Vulture, Laughspin, and Splitsider as one of the year’s best comedy albums. In addition to naming Vatterott’s album one of the best of 2014, Vulture.com also listed him as one of the top 50 comedians you should know in 2015. Nick has been called “one of the most dynamic performer’s today” by The Laugh Button and his LATE NIGHT WITH JIMMY FALLON set was received as “so damn brilliant” by The Chicago Reader.  Nick has also had correspondent work on THE BIG TEN NETWORK and is currently writing for GORBURGER on Comedy Central with TJ Miller.</p>\n",
-      "pageUrl": "16591-nick-vatterott"
+      "bio": "<p>Irene Tu is a San Francisco-based stand-up comedian, writer, and actor. In 2016, she was named one of the “Bay Area’s 11 Best Stand Up Comedians” by the SFist and one of 20 “Women to Watch” by KQED. She has been featured in SF Sketchfest, Limestone Comedy Festival, RIOT LA and on Seeso and Viceland. Irene hosts several popular shows in the Bay Area: Man Haters, The Mission Position, and Millennials Ruin Everything (they do). You can follow her @irene_tu. irenetu.com</p>\n",
+      "pageUrl": "16530-irene-tu"
     },
     {
       "id": 16103,
@@ -183,6 +183,20 @@
       "pageUrl": "16502-matt-lieb"
     },
     {
+      "id": 16591,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Nick Vatterott",
+      "twitter": "nickvatterott",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nickvatterottheadshot_01272017125716_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nickvatterott-300x300.jpg",
+      "sortOrder": 14,
+      "excludeFromList": false,
+      "bio": "<p>In 2010 The Hollywood Reporter named Nick Vatterott one of the “break-outs” at Montreal’s Just for Laughs Comedy Festival. Since then he has performed on <em>Conan</em>, <em>Late Night with Jimmy Fallon</em> and has a half hour special on Comedy Central. Nick was also a producer/writer/performer on Comedy Central’s stand-up sketch hybrid show <em>Mash-Up</em>, and with co-creator TJ Miller sold the project <em>Manimation</em> to Fox's ADHD. He was the recipient of the prestigious Andy Kaufman award in 2011 and before heading off to NYC, Chicago Magazine listed Nick as “The Funniest Man in Chicago.” Nick’s debut comedy record, FOR AMUSMENT ONLY was released in November 2014 by Comedy Central Records and was voted by Vulture, Laughspin, and Splitsider as one of the year’s best comedy albums. In addition to naming Vatterott’s album one of the best of 2014, Vulture.com also listed him as one of the top 50 comedians you should know in 2015. Nick has been called “one of the most dynamic performer’s today” by The Laugh Button and his LATE NIGHT WITH JIMMY FALLON set was received as “so damn brilliant” by The Chicago Reader.  Nick has also had correspondent work on THE BIG TEN NETWORK and is currently writing for GORBURGER on Comedy Central with TJ Miller.</p>\n",
+      "pageUrl": "16591-nick-vatterott"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -195,20 +209,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16530,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Irene Tu",
-      "twitter": "irene_tu",
-      "website": "http://irenetu.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/irene_tu_headshot_daniel_schuleman.jpg",
-      "photoUrl": "/api/img/performer-images/performer-irenetu-300x300.jpg",
-      "sortOrder": 15,
-      "excludeFromList": false,
-      "bio": "<p>Irene Tu is a San Francisco-based stand-up comedian, writer, and actor. In 2016, she was named one of the “Bay Area’s 11 Best Stand Up Comedians” by the SFist and one of 20 “Women to Watch” by KQED. She has been featured in SF Sketchfest, Limestone Comedy Festival, RIOT LA and on Seeso and Viceland. Irene hosts several popular shows in the Bay Area: Man Haters, The Mission Position, and Millennials Ruin Everything (they do). You can follow her @irene_tu. irenetu.com</p>\n",
-      "pageUrl": "16530-irene-tu"
     },
     {
       "id": 16718,
@@ -377,6 +377,20 @@
       "excludeFromList": false,
       "bio": "<p>Originally hailing from St. Louis (a fact he can’t stop bringing up.) Marcus Coleman was named of Portland’s “Geniuses of Comedy” by the Portland Mercury, he was also chosen to perform in their sold out showcase at the remarkable Revolution Hall.<br />\nA laid back shit-talker with a smile, he’s been called a “bright new star” and praised for “sharp, smart jabs on politics, family, and life as a black man” (Portland Mercury).</p>\n<p> Among the cool venues he’s been lucky enough to perform are: The Secret Society, Jackpot Recording Studios, Curious Comedy Theater, and Helium Comedy Club; where he was named Dirty Dozen Roast Battle champion and picked as one of their “New Faces”</p>\n<p>He hosts the raucous and unpredictable Midnight Mic every Friday night at Funhouse Lounge and was recently chosen to replace the beloved Nariko Ott (RIP) as of the many co-hosts of the weekly showcase You’re Welcome at the gorgeous stage at Mississippi Pizza.</p>\n",
       "pageUrl": "16677-marcus-coleman"
+    },
+    {
+      "id": 16603,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Debra DiGiovanni",
+      "twitter": "DEBRADIGIOVANNI",
+      "website": "http://www.debradigiovanni.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/debradig.jpg",
+      "photoUrl": "/api/img/performer-images/performer-debradigiovanni-300x300.jpg",
+      "sortOrder": 28,
+      "excludeFromList": false,
+      "bio": "<p>Comedian Debra DiGiovanni has been awarded the Canadian Comedy Award for best female comic for the third time in 5 years. She’s been called the “Best Comedian to see after a Messy Break Up” and for three years running-she was named her hometown Toronto’s favorite comedian. Debra’s a favorite at the Montreal Just for Laughs Comedy Festival, and attended in 2014 for the 9th time. She’s done the popular Bridgetown Fest in Portland (2013) the Glasgow Comedy Fest in Scotland (2013) and Debra was thrilled to do the Just For Laughs festival in Sydney Australia (2013).  Her first stand up DVD for the Showtime Network “Single, Awkward Female.” and is now available on Netflix.</p>\n",
+      "pageUrl": "16603-debra-digiovanni"
     }
   ]
 }
