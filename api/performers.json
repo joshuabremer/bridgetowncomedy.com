@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16530,
+      "id": 16718,
       "events": [],
       "emceeEvents": [],
-      "name": "Irene Tu",
-      "twitter": "irene_tu",
-      "website": "http://irenetu.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/irene_tu_headshot_daniel_schuleman.jpg",
-      "photoUrl": "/api/img/performer-images/performer-irenetu-300x300.jpg",
-      "sortOrder": 15,
+      "name": "Andie Main",
+      "twitter": "andiemain",
+      "website": "http://andiemaincomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot2_1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-andiemain-300x300.jpg",
+      "sortOrder": 16,
       "excludeFromList": false,
-      "bio": "<p>Irene Tu is a San Francisco-based stand-up comedian, writer, and actor. In 2016, she was named one of the “Bay Area’s 11 Best Stand Up Comedians” by the SFist and one of 20 “Women to Watch” by KQED. She has been featured in SF Sketchfest, Limestone Comedy Festival, RIOT LA and on Seeso and Viceland. Irene hosts several popular shows in the Bay Area: Man Haters, The Mission Position, and Millennials Ruin Everything (they do). You can follow her @irene_tu. irenetu.com</p>\n",
-      "pageUrl": "16530-irene-tu"
+      "bio": "<p>Andie Main is a Portland based comedian who keeps busy by producing/hosting The Doug Fir Lounge&#039;s summer series The Cool Kids Patio Show, and her politically themed series called Revolution Comedy; which organizes fundraisers for worthy causes like Planned Parenthood, The ACLU, and Black Lives Matter.<br />\nAt this point, she has raised over $10,000 for #TheResistance and although she&#039;s a lifelong punk rocker, is proud to see these shows selling out.</p>\n<p>Festival credits include The Comedy Exposition, Bumbershoot, Seattle Sketchfest, SF Sketchfest, The All Jane Comedy Festival, Portland Pride 2014, Treefort Festival and Cromfest. She;s performed at UCBeast, UCB Chelsea and The Stand Nightclub in NYC, Put Your Hands Together and The Rabbit Hole in LA.  and hosts shows at Helium Comedy Club in Portland.</p>\n<p>She is a regular feature act for comedians like TJ Miller, Myq Kaplan and James Adomian and after her set they&#039;ve all said &quot;hey Andie that was great!&quot; and got brunch because you can order brunch whenever you want in Portland.</p>\n<p>In her spare time she enjoys taking hikes with her not-so-smart dog, punk and post punk music, making goofy paintings, nature documentaries and yelling about the patriarchy.</p>\n",
+      "pageUrl": "16718-andie-main"
     },
     {
       "id": 16103,
@@ -197,6 +197,20 @@
       "pageUrl": "16591-nick-vatterott"
     },
     {
+      "id": 16530,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Irene Tu",
+      "twitter": "irene_tu",
+      "website": "http://irenetu.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/irene_tu_headshot_daniel_schuleman.jpg",
+      "photoUrl": "/api/img/performer-images/performer-irenetu-300x300.jpg",
+      "sortOrder": 15,
+      "excludeFromList": false,
+      "bio": "<p>Irene Tu is a San Francisco-based stand-up comedian, writer, and actor. In 2016, she was named one of the “Bay Area’s 11 Best Stand Up Comedians” by the SFist and one of 20 “Women to Watch” by KQED. She has been featured in SF Sketchfest, Limestone Comedy Festival, RIOT LA and on Seeso and Viceland. Irene hosts several popular shows in the Bay Area: Man Haters, The Mission Position, and Millennials Ruin Everything (they do). You can follow her @irene_tu. irenetu.com</p>\n",
+      "pageUrl": "16530-irene-tu"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -209,20 +223,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16718,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Andie Main",
-      "twitter": "andiemain",
-      "website": "http://andiemaincomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot2_1.jpg",
-      "photoUrl": "/api/img/performer-images/performer-andiemain-300x300.jpg",
-      "sortOrder": 16,
-      "excludeFromList": false,
-      "bio": "<p>Andie Main is a Portland based comedian who keeps busy by producing/hosting The Doug Fir Lounge&#039;s summer series The Cool Kids Patio Show, and her politically themed series called Revolution Comedy; which organizes fundraisers for worthy causes like Planned Parenthood, The ACLU, and Black Lives Matter.<br />\nAt this point, she has raised over $10,000 for #TheResistance and although she&#039;s a lifelong punk rocker, is proud to see these shows selling out.</p>\n<p>Festival credits include The Comedy Exposition, Bumbershoot, Seattle Sketchfest, SF Sketchfest, The All Jane Comedy Festival, Portland Pride 2014, Treefort Festival and Cromfest. She;s performed at UCBeast, UCB Chelsea and The Stand Nightclub in NYC, Put Your Hands Together and The Rabbit Hole in LA.  and hosts shows at Helium Comedy Club in Portland.</p>\n<p>She is a regular feature act for comedians like TJ Miller, Myq Kaplan and James Adomian and after her set they&#039;ve all said &quot;hey Andie that was great!&quot; and got brunch because you can order brunch whenever you want in Portland.</p>\n<p>In her spare time she enjoys taking hikes with her not-so-smart dog, punk and post punk music, making goofy paintings, nature documentaries and yelling about the patriarchy.</p>\n",
-      "pageUrl": "16718-andie-main"
     },
     {
       "id": 16021,
@@ -405,6 +405,20 @@
       "excludeFromList": false,
       "bio": "<p>Casey Crawford is a stand up comedian originally from South Dakota now living in Boston. He tells short, dumb jokes in the style of Emo Philips, Steven Wright, and Zach Galifianakis. You might like Casey if you like those guys. Casey has participated in the Green Gravel Comedy Festival, the Limestone Comedy Festival, the Boston Comedy Festival, and the 2016 New Faces un-repped category at the Just For Laughs Festival.</p>\n",
       "pageUrl": "15767-casey-crawford"
+    },
+    {
+      "id": 16853,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Phoebe Bottoms ",
+      "twitter": "phoebebottoms",
+      "website": "http://phoebebottoms.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/phoebe_.jpg",
+      "photoUrl": "/api/img/performer-images/performer-phoebebottoms-300x300.jpg",
+      "sortOrder": 30,
+      "excludeFromList": false,
+      "bio": "<p>Phoebe Bottoms is an Los Angeles based comedian, writer and Jim Henson Company trained puppeteer.  Since 2007 she has performed in clubs, basements, bars and VFW&#039;s all over the great country of ours.  Once described as, &quot;A fun thing that happened&quot; by one of the 453 citizens of Glenburn, North Dakota, her credits also include: Akumal Comedy Festival, Jewish Humor Festival and 10k Laughs Festival.  She is a two time winner  of Competitive Erotic Fan Fiction and has appeared on MTV, Adult Swim, TBS, Loot Crate and JASH.  Phoebe also produces and hosts The Comedy Palace in Los Feliz, which was recently named by Thrillist as one of the 10 Best Underground Comedy Shows in LA.</p>\n",
+      "pageUrl": "16853-phoebe-bottoms-"
     }
   ]
 }
