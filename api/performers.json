@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16718,
+      "id": 16894,
       "events": [],
       "emceeEvents": [],
-      "name": "Andie Main",
-      "twitter": "andiemain",
-      "website": "http://andiemaincomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot2_1.jpg",
-      "photoUrl": "/api/img/performer-images/performer-andiemain-300x300.jpg",
-      "sortOrder": 16,
+      "name": "Eliza Skinner",
+      "twitter": "elizaskinner",
+      "website": "http://eliza.skinner@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/eliza_skinner_2017.jpg",
+      "photoUrl": "/api/img/performer-images/performer-elizaskinner-300x300.jpg",
+      "sortOrder": 19,
       "excludeFromList": false,
-      "bio": "<p>Andie Main is a Portland based comedian who keeps busy by producing/hosting The Doug Fir Lounge&#039;s summer series The Cool Kids Patio Show, and her politically themed series called Revolution Comedy; which organizes fundraisers for worthy causes like Planned Parenthood, The ACLU, and Black Lives Matter.<br />\nAt this point, she has raised over $10,000 for #TheResistance and although she&#039;s a lifelong punk rocker, is proud to see these shows selling out.</p>\n<p>Festival credits include The Comedy Exposition, Bumbershoot, Seattle Sketchfest, SF Sketchfest, The All Jane Comedy Festival, Portland Pride 2014, Treefort Festival and Cromfest. She;s performed at UCBeast, UCB Chelsea and The Stand Nightclub in NYC, Put Your Hands Together and The Rabbit Hole in LA.  and hosts shows at Helium Comedy Club in Portland.</p>\n<p>She is a regular feature act for comedians like TJ Miller, Myq Kaplan and James Adomian and after her set they&#039;ve all said &quot;hey Andie that was great!&quot; and got brunch because you can order brunch whenever you want in Portland.</p>\n<p>In her spare time she enjoys taking hikes with her not-so-smart dog, punk and post punk music, making goofy paintings, nature documentaries and yelling about the patriarchy.</p>\n",
-      "pageUrl": "16718-andie-main"
+      "bio": "<p>Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal, MTV, Showtime, AMC and the BBC. She has performed in festivals all over the world including RiotLA, SXSW, Bridgetown, the NY Comedy Festival and the Edinburgh Fringe. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), Fashion Police (with Joan Rivers), Adam Ruins Everything (truTV) and she was a staff writer for The Late Late Show with James Corden. In 2014 she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival. In 2015 she was selected for the “SF Sketchfest Dozen” and TimeOut LA named her one of 9 “Comics To Watch in 2015″. She is currently the headwriter of Drop The Mic coming to TBS this spring.</p>\n",
+      "pageUrl": "16894-eliza-skinner"
     },
     {
       "id": 16103,
@@ -211,18 +211,18 @@
       "pageUrl": "16530-irene-tu"
     },
     {
-      "id": 16768,
+      "id": 16718,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Andie Main",
+      "twitter": "andiemain",
+      "website": "http://andiemaincomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot2_1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-andiemain-300x300.jpg",
+      "sortOrder": 16,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>Andie Main is a Portland based comedian who keeps busy by producing/hosting The Doug Fir Lounge&#039;s summer series The Cool Kids Patio Show, and her politically themed series called Revolution Comedy; which organizes fundraisers for worthy causes like Planned Parenthood, The ACLU, and Black Lives Matter.<br />\nAt this point, she has raised over $10,000 for #TheResistance and although she&#039;s a lifelong punk rocker, is proud to see these shows selling out.</p>\n<p>Festival credits include The Comedy Exposition, Bumbershoot, Seattle Sketchfest, SF Sketchfest, The All Jane Comedy Festival, Portland Pride 2014, Treefort Festival and Cromfest. She;s performed at UCBeast, UCB Chelsea and The Stand Nightclub in NYC, Put Your Hands Together and The Rabbit Hole in LA.  and hosts shows at Helium Comedy Club in Portland.</p>\n<p>She is a regular feature act for comedians like TJ Miller, Myq Kaplan and James Adomian and after her set they&#039;ve all said &quot;hey Andie that was great!&quot; and got brunch because you can order brunch whenever you want in Portland.</p>\n<p>In her spare time she enjoys taking hikes with her not-so-smart dog, punk and post punk music, making goofy paintings, nature documentaries and yelling about the patriarchy.</p>\n",
+      "pageUrl": "16718-andie-main"
     },
     {
       "id": 16021,
@@ -253,18 +253,18 @@
       "pageUrl": "15951-pat-brown"
     },
     {
-      "id": 16894,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Eliza Skinner",
-      "twitter": "elizaskinner",
-      "website": "http://eliza.skinner@gmail.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/eliza_skinner_2017.jpg",
-      "photoUrl": "/api/img/performer-images/performer-elizaskinner-300x300.jpg",
-      "sortOrder": 19,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal, MTV, Showtime, AMC and the BBC. She has performed in festivals all over the world including RiotLA, SXSW, Bridgetown, the NY Comedy Festival and the Edinburgh Fringe. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), Fashion Police (with Joan Rivers), Adam Ruins Everything (truTV) and she was a staff writer for The Late Late Show with James Corden. In 2014 she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival. In 2015 she was selected for the “SF Sketchfest Dozen” and TimeOut LA named her one of 9 “Comics To Watch in 2015″. She is currently the headwriter of Drop The Mic coming to TBS this spring.</p>\n",
-      "pageUrl": "16894-eliza-skinner"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16283,
@@ -419,6 +419,90 @@
       "excludeFromList": false,
       "bio": "<p>Phoebe Bottoms is an Los Angeles based comedian, writer and Jim Henson Company trained puppeteer.  Since 2007 she has performed in clubs, basements, bars and VFW&#039;s all over the great country of ours.  Once described as, &quot;A fun thing that happened&quot; by one of the 453 citizens of Glenburn, North Dakota, her credits also include: Akumal Comedy Festival, Jewish Humor Festival and 10k Laughs Festival.  She is a two time winner  of Competitive Erotic Fan Fiction and has appeared on MTV, Adult Swim, TBS, Loot Crate and JASH.  Phoebe also produces and hosts The Comedy Palace in Los Feliz, which was recently named by Thrillist as one of the 10 Best Underground Comedy Shows in LA.</p>\n",
       "pageUrl": "16853-phoebe-bottoms-"
+    },
+    {
+      "id": 16572,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Dan Harmon",
+      "twitter": "danharmon",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/harmonapprovedphoto_04062016103330_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-danharmon-300x300.jpg",
+      "sortOrder": 31,
+      "excludeFromList": false,
+      "bio": "<p>Dan Harmon is the Emmy® winning creator/executive producer of the comedy series <em><strong>Community </strong></em>as well as the co-creator/executive producer of Adult Swim’s<em><strong> Rick &amp; Morty</strong></em>.<br />\nHarmon co-founded Channel 101, an untelevised non-profit audience-controlled network for undiscovered filmmakers, many of whom used it to launch mainstream careers, including the boys behind SNL’s Digital Shorts. Harmon, also partnered with Sarah Silverman to create her Comedy Central series, <em><strong>The Sarah Silverman Program</strong></em>, where he served as head writer for the first season.<br />\nHarmon went on to create, write and perform in the short-lived VH1 sketch series <em><strong>Acceptable TV</strong></em> before eventually creating the critically acclaimed and fan favorite comedy <em><strong>Community</strong></em>. The show originally aired on NBC for five seasons before being acquired by Yahoo which premiered season six of the show in March of 2015. In 2009 he won an Emmy for Outstanding Music and Lyrics for the opening number of the 81st Annual Academy Awards.</p>\n<p>In 2014 Harmon was the star of the documentary <em><strong>Harmontown </strong></em>which chronicled his 20-city stand-up / podcast tour of the same name. The film premiered at the SXSW Film Festival and was released theatrically in October of 2014.</p>\n<p>Through his production company Starburns, Harmon served as executive producer for the critically acclaimed animated feature film “Anomalisa”. After winning the Grand Jury Prize at the 2015 Venice Film Festival, the film was distributed by Paramount Pictures. “Anomalisa” has garnered numerous nominations and awards including an Oscar nomination for Animated Feature Film. Harmon most recently can be found hosting and executive producing <strong><em>History’s Great Minds</em></strong>. Harmon has an extensive upcoming slate including Seeso’s “HarmonQuest,” a fantasy comedy adventure series that melds live action comedians, a live studio audience, and animated sequences.</p>\n",
+      "pageUrl": "16572-dan-harmon"
+    },
+    {
+      "id": 16574,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Shane Torres",
+      "twitter": "SyrupMountain",
+      "website": "http://www.shaneisacomedian.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/shane_torres.jpg",
+      "photoUrl": "/api/img/performer-images/performer-shanetorres-300x300.jpg",
+      "sortOrder": 32,
+      "excludeFromList": false,
+      "bio": "<p>Shane Torres is a New York based standup comedian, writer, and actor originally from Fort Worth, TX.  Having made his late night debut on Conan just this year, you may have also seen him on Last Comic Standing or on IFC’s Comedy Bang Bang. He was featured at the Montreal Just For Laugh’s festival as a New Faces in 2013 and was one of Comedy Central’s Comics to Watch in 2012.</p>\n<p> </p>\n<p>Shane has performed at many festivals all over the country including Bridgetown Comedy Festival, Bumbershoot Music and Arts Festival, and many more. Shane has appeared on popular podcast such as Savage Love and Comedy Bang Bang. He tours across the globe at comedy clubs, rock venues, and theaters.</p>\n<p> </p>\n<p>Shane has appeared on popular podcast such as Savage Love and Comedy Bang Bang. He tours across the globe at comedy clubs, rock venues, and theaters. He is the creator of the podcast radio show Help Wanted . Shane has also contributed writing to Paste </p>\n<p>Magazine, Laughspin, The Portland Mercury, and Nailed Magazine.</p>\n",
+      "pageUrl": "16574-shane-torres"
+    },
+    {
+      "id": 16571,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brent Weinbach",
+      "twitter": "BrentWeinbach",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/brentweinbachheadshot_06302016050128_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brentweinbach-300x300.jpg",
+      "sortOrder": 33,
+      "excludeFromList": false,
+      "bio": "<p>Brent Weinbach's stand-up comedy is weird and visual and post-modern and random and other stuff.  He also has a t-shirt with his name and his face on it.</p>\n<p>Brent is a winner and recipient of the Andy Kaufman Award, which is given out once a year to recognize innovation in stand-up comedy.  He is also responsible for various internet video sensations such as <em>Gangster Party Line</em> and <em>Early Facebook Commercial</em>, as well as the cult web series,<em> Pound House</em>.  Brent has appeared on <em>Conan</em>, <em>Lopez Tonight, Comedy Bang Bang, @midnight, Meltdown, The Middle, Eric Andre Show, Kroll Show</em>, and <em>Adventure Time</em>.</p>\n",
+      "pageUrl": "16571-brent-weinbach"
+    },
+    {
+      "id": 16589,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Mike Lawrence",
+      "twitter": "TheMikeLawrence",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mikelawrenceheadshotnormal_08042016091910_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mikelawrence-300x300.jpg",
+      "sortOrder": 34,
+      "excludeFromList": false,
+      "bio": "<p>Mike Lawrence is a New York City based comedian from South Florida who has found success in both writing and stand up. He is a staff writer on Comedy Central’s <strong>Inside Amy Schumer</strong>, A&amp;E’s <strong>Black and White</strong>, and has written for TV Land’s<strong> The Jim Gaffigan Show</strong>, and Hulu’s<strong> Triumph 2016 Election Special</strong>, the 2015 <strong>MTV Movie Awards</strong>, the 2015 <strong>Webby Awards</strong>, and <strong>We Have Issues</strong> on E! Mike was recently nominated for two <strong>Emmy’s</strong> for being of the staff of <strong>Inside Amy Schumer</strong> and the <strong>Triumph 2016 Election Special</strong>, and won the inaugural Comedy Central special <strong>Roast Battle</strong> tournament, recorded live at the 2016 Just For Laughs Festival in Montreal.</p>\n<p>Mike is host of the Comedy Central Snapchat series <strong>You’re Wrong</strong> and is a recurring guest on the Comedy Central TV show <strong>@midnight.</strong> His stand-up has been featured on NBC’s <strong>Late Night with Seth Meyers</strong>, TBS’ <strong>Conan</strong>, FX’s <strong>Totally Biased</strong>, SyFy’s <strong>The Will Wheaton Project</strong>, and John Oliver’s <strong>New York Stand-Up Show</strong> on Comedy Central. In 2013 His half hour special for Comedy Central aired in conjunction with the release of his album “Sadamantium”, produced by Comedy Central Records.</p>\n<p>Additionally, Mike co-hosts the podcast <strong>Nerd of Mouth</strong> on Cave Comedy Radio and has appeared on countless others such as <strong>WTF with Marc Maron</strong>, Robert Kelly’s <strong>You Know What Dude</strong>, <strong>You Made It Weird with Pete Holmes</strong>, <strong>Who Charted</strong>, <strong>The Dana Gould Hour</strong>, <strong>The Adam Corolla Show</strong>, and <strong>The Artie Lange Show</strong>.</p>\n",
+      "pageUrl": "16589-mike-lawrence"
+    },
+    {
+      "id": 16521,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Bri Pruett",
+      "twitter": "bripruett",
+      "website": "http://bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/14633485_1217134591684653_2842367725205405589_o_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 35,
+      "excludeFromList": false,
+      "bio": "<p>This Portland original just wrapped a run of her comedic solo show Stellar, which the Willamette Week called &quot;Body-positive, pro-self-love, and pro-female sexuality...&quot;</p>\n<p>In addition to clubs and festivals, she&#039;s brought her sparkle to Doug Loves Movies, NPR&#039;s Live Wire!, and Comedy Central&#039;s Roast Battle.</p>\n<p>Someone once described her as a female Jack Black, she took it as a compliment.</p>\n",
+      "pageUrl": "16521-bri-pruett"
+    },
+    {
+      "id": 15971,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Robert Jenkins",
+      "twitter": "RobJComedy",
+      "website": "http://Robjcomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_5346.jpg",
+      "photoUrl": "/api/img/performer-images/performer-robertjenkins-300x300.jpg",
+      "sortOrder": 36,
+      "excludeFromList": false,
+      "bio": "<p>Rob Jenkins uses his unique point of view, quick wit, and disarming delivery to tell you why he&#039;s right. You&#039;ll disagree, but you&#039;ll laugh anyway.</p>\n<p>A Detroit native, Rob has performed at many festivals including the Oddball Comedy &amp; Curiousity Festival, Crossroads Comedy Festival, and Laughfest where he was a 2016 participant in the Best of the Midwest Comedy Competition. Rob has appeared on the Fox Stand-Up Comedy Show “Laughs” and appeared in Dave Landau’s Detroit-based comedy “The King.” Rob has opened for Hannibal Buress, Kyle Kinane, Matt Broussard, Alonzo Bodden, Red Grant, and many others. In 2015, Rob released his first comedy CD &quot;Achievement Unlocked&quot; - it&#039;s available on iTunes, Amazon, xBox Music, and many other places.</p>\n",
+      "pageUrl": "15971-robert-jenkins"
     }
   ]
 }
