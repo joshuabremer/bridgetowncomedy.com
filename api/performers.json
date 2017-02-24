@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16791,
+      "id": 16312,
       "events": [],
       "emceeEvents": [],
-      "name": "Adam Christie",
-      "twitter": "theadamchristie",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/adamc.jpg",
-      "photoUrl": "/api/img/performer-images/performer-adamchristie-300x300.jpg",
-      "sortOrder": 24,
+      "name": "Nick Chambers",
+      "twitter": "chamberscomedy",
+      "website": "http://www.chamberscomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_chambersheadshot2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nickchambers-300x300.jpg",
+      "sortOrder": 25,
       "excludeFromList": false,
-      "bio": "<p>Adam Christie is an award winning writer and stand-up comedian originally from Toronto, Canada. He&#039;s written on four seasons of the hit CBC show &#039;This Hour Has 22 Minutes&#039;, and has been featured on Muchmusic, MTV, NXNE, JFL 42, The Hubcap Comedy Festival, and has opened for Jen Kirkman and Eric Andre during the Halifax Pop Explosion.</p>\n<p>Adam is a former producer of the critically acclaimed &#039;Laugh Sabbath&#039; weekly show in Toronto. He&#039;s won a Canadian Comedy Award for writing in a television comedy, and has been nominated for two Canadian Screen Awards. </p>\n<p>Adam currently splits his time between Los Angeles, California, and Halifax, Nova Scotia.</p>\n",
-      "pageUrl": "16791-adam-christie"
+      "bio": "<p>Born &amp; raised in Worcester MA, Nick Chambers began performing stand-up comedy on a whim in 2009 and hasn’t been able to stop since. His laid back delivery and conversational tone has quickly led to becoming a regular performer all over the East Coast where he has opened for national headliners like Kyle Dunnigan and Bridget Everett. In 2016, Nick was a semi-finalist in the Boston Comedy Festival and performed in the Oddball Comedy Festival. He also made is feature film debut in the comedy &quot;Good Kids.”</p>\n",
+      "pageUrl": "16312-nick-chambers"
     },
     {
       "id": 16103,
@@ -323,6 +323,20 @@
       "pageUrl": "16429-robbie-pankow"
     },
     {
+      "id": 16791,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Adam Christie",
+      "twitter": "theadamchristie",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/adamc.jpg",
+      "photoUrl": "/api/img/performer-images/performer-adamchristie-300x300.jpg",
+      "sortOrder": 24,
+      "excludeFromList": false,
+      "bio": "<p>Adam Christie is an award winning writer and stand-up comedian originally from Toronto, Canada. He&#039;s written on four seasons of the hit CBC show &#039;This Hour Has 22 Minutes&#039;, and has been featured on Muchmusic, MTV, NXNE, JFL 42, The Hubcap Comedy Festival, and has opened for Jen Kirkman and Eric Andre during the Halifax Pop Explosion.</p>\n<p>Adam is a former producer of the critically acclaimed &#039;Laugh Sabbath&#039; weekly show in Toronto. He&#039;s won a Canadian Comedy Award for writing in a television comedy, and has been nominated for two Canadian Screen Awards. </p>\n<p>Adam currently splits his time between Los Angeles, California, and Halifax, Nova Scotia.</p>\n",
+      "pageUrl": "16791-adam-christie"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -335,20 +349,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16312,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Nick Chambers",
-      "twitter": "chamberscomedy",
-      "website": "http://www.chamberscomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_chambersheadshot2.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nickchambers-300x300.jpg",
-      "sortOrder": 25,
-      "excludeFromList": false,
-      "bio": "<p>Born &amp; raised in Worcester MA, Nick Chambers began performing stand-up comedy on a whim in 2009 and hasn’t been able to stop since. His laid back delivery and conversational tone has quickly led to becoming a regular performer all over the East Coast where he has opened for national headliners like Kyle Dunnigan and Bridget Everett. In 2016, Nick was a semi-finalist in the Boston Comedy Festival and performed in the Oddball Comedy Festival. He also made is feature film debut in the comedy &quot;Good Kids.”</p>\n",
-      "pageUrl": "16312-nick-chambers"
     },
     {
       "id": 16693,
@@ -643,6 +643,48 @@
       "excludeFromList": false,
       "bio": "<p>First stepping on stage in Omaha, NE and later relocating to Austin, TX in 2010, Cody quickly became a favorite all over Texas and has since been featured at such festivals as the Montreal JFL Festival, Moontower Comedy Festival, SXSW, and Fun Fun Fun Fest. A finalist in the 2010, '11, '12, '13, and winner of the 2014 Funniest Person In Austin Contest, Cody has been described as offering thoughtful, methodic, absurdity complimented by a unique delivery and timing. These certainly aren't the bird, poop, and dick jokes your parents grew up knowing and loving.</p>\n",
       "pageUrl": "16689-cody-hustak"
+    },
+    {
+      "id": 16578,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Fahim Anwar",
+      "twitter": "fahimanwar",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/fahimanwar_03102016090331_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-fahimanwar-300x300.jpg",
+      "sortOrder": 47,
+      "excludeFromList": false,
+      "bio": "<p>Fahim Anwar is a talented comedian with multiple characters up his sleeve. He was featured on season 5 of <em><strong>Guy Code</strong></em> for MTV, and his recent FILM/TV credits include <em><strong>Neighbors, Kirstie, @midnight, </strong></em>and<em><strong> Chuck</strong></em>. You can see Fahim in Tina Fey’s war comedy film, based on Kim Barker’s memoir, titled “<em><strong>Whiskey Tango Foxtrot</strong></em>,” which was just released this March, 2016. Up next, you can catch Fahim's first one-hour special on <strong>Seeso</strong>.</p>\n",
+      "pageUrl": "16578-fahim-anwar"
+    },
+    {
+      "id": 16903,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Matt Knudsen ",
+      "twitter": "mattknudsen",
+      "website": "http://mattknudsen.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/0412_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattknudsen-300x300.jpg",
+      "sortOrder": 48,
+      "excludeFromList": false,
+      "bio": "<p>Matt Knudsen (Kah-nood-son) was born in Hawaii, raised in the Mid-west and sailed around the world as a merchant marine. After trips to Europe, Africa and The Far East, he eventually put down his sea bag, picked up a microphone and began performing stand up comedy all across the country. </p>\n<p>As an actor, you may have seen Matt share the big screen with Oscar winner Sean Penn, in the Warner Brothers feature Gangster Squad or you may also recognize him from his appearances in shows like Crazy Ex-Girlfriend, Key &amp; Peele, Workaholics, The League, Big Love, Boston Legal or Malcolm in the Middle just to name a few. Matt has also been a part of several high profile commercial campaigns for companies including: Apple, IBM, GE, Volkswagen, DirecTV, Pepsi and more; which have aired during the Superbowl and The Olympics.  </p>\n<p>As a comedian, he’s appeared on Conan, The Late Late Show, Last Call, ASX Live and Comics Unleashed, as well as dozens of festivals, including: Montreal Just for Laughs (Best of the Fest), The San Francisco Sketchfest, Bridgetown, High Plains, Limestone; and has even been part of an evening of entertainment at The White House for President and Mrs. Obama. </p>\n<p>His critically acclaimed albums The Comedy Stylings of Matt Knudsen and American are top downloads on iTunes, heard regularly on SiriusXM radio and “Mix droll observation with a dry, almost hypnotic delivery,” (The Onion A.V. Club); and with Knudsen’s unique style, “The personal feels universal, and the universal feels personal. The only explanation for this phenomenon is that it&#039;s all finely crafted comedy from a strong central voice…a great stand up album.” (The Huffington Post)</p>\n",
+      "pageUrl": "16903-matt-knudsen-"
+    },
+    {
+      "id": 16904,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Anthony Atamanuik",
+      "twitter": "TonyAtamanuik",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/atamanuik_headshot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-anthonyatamanuik-300x300.jpg",
+      "sortOrder": 49,
+      "excludeFromList": false,
+      "bio": "<p>Anthony Atamanuik is a comedian and actor in New York City. He is a member of the legendary improv team DEATH BY ROO ROO and is the co-host of ASSSSCAT3000 at UCB New York. Anthony has appeared on 30 ROCK, BROAD CITY, HULU&#039;s DIFFICULT PEOPLE, DINNER WITH BRETT GELMAN specials on Adult Swim, MTV&#039;s TEACHERS LOUNGE and as himself, bar tending on Bravo&#039;s WATCH WHAT HAPPENS LIFE. As Donald Trump, Anthony is one-half of TRUMP VS. BERNIE, a comedy debate act that includes a memorable guest appearance on Comedy Central and two TV specials for Fusion, along with a live international tour in 2016.</p>\n<p>You can see him on a variety of platforms, College Humor, Funny Or Die, Comedy Central Digital and even a ViewMaster photo series by Colbert Show writer Erik Drysdale </p>\n<p>Anthony will be appearing in upcoming episodes of USED PEOPLE and the feature film THE OUTSKIRTS.</p>\n",
+      "pageUrl": "16904-anthony-atamanuik"
     }
   ]
 }
