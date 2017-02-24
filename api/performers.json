@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16429,
+      "id": 16791,
       "events": [],
       "emceeEvents": [],
-      "name": "Robbie Pankow",
-      "twitter": "robbiepankow",
+      "name": "Adam Christie",
+      "twitter": "theadamchristie",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ice_cream.jpg",
-      "photoUrl": "/api/img/performer-images/performer-robbiepankow-300x300.jpg",
-      "sortOrder": 23,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/adamc.jpg",
+      "photoUrl": "/api/img/performer-images/performer-adamchristie-300x300.jpg",
+      "sortOrder": 24,
       "excludeFromList": false,
-      "bio": "<p>Robbie Pankow is a comedian and podcaster born and raised in Portland, OR. He has been described as &quot;right in my wheelhouse&quot; by some and &quot;acceptable&quot; by others. He placed in the finals of Helium Comedy Club&#039;s &quot;Portland&#039;s Funniest Person&quot; Contest in 2015. His podcast, Eat Food, Already and monthly showcase Whatever Forever have been taking Portland by a light storm and if he somehow gets his way, it&#039;s only gettin stormier!</p>\n",
-      "pageUrl": "16429-robbie-pankow"
+      "bio": "<p>Adam Christie is an award winning writer and stand-up comedian originally from Toronto, Canada. He&#039;s written on four seasons of the hit CBC show &#039;This Hour Has 22 Minutes&#039;, and has been featured on Muchmusic, MTV, NXNE, JFL 42, The Hubcap Comedy Festival, and has opened for Jen Kirkman and Eric Andre during the Halifax Pop Explosion.</p>\n<p>Adam is a former producer of the critically acclaimed &#039;Laugh Sabbath&#039; weekly show in Toronto. He&#039;s won a Canadian Comedy Award for writing in a television comedy, and has been nominated for two Canadian Screen Awards. </p>\n<p>Adam currently splits his time between Los Angeles, California, and Halifax, Nova Scotia.</p>\n",
+      "pageUrl": "16791-adam-christie"
     },
     {
       "id": 16103,
@@ -309,6 +309,20 @@
       "pageUrl": "15967-samantha-ruddy"
     },
     {
+      "id": 16429,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Robbie Pankow",
+      "twitter": "robbiepankow",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ice_cream.jpg",
+      "photoUrl": "/api/img/performer-images/performer-robbiepankow-300x300.jpg",
+      "sortOrder": 23,
+      "excludeFromList": false,
+      "bio": "<p>Robbie Pankow is a comedian and podcaster born and raised in Portland, OR. He has been described as &quot;right in my wheelhouse&quot; by some and &quot;acceptable&quot; by others. He placed in the finals of Helium Comedy Club&#039;s &quot;Portland&#039;s Funniest Person&quot; Contest in 2015. His podcast, Eat Food, Already and monthly showcase Whatever Forever have been taking Portland by a light storm and if he somehow gets his way, it&#039;s only gettin stormier!</p>\n",
+      "pageUrl": "16429-robbie-pankow"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -321,20 +335,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16791,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Adam Christie",
-      "twitter": "theadamchristie",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/adamc.jpg",
-      "photoUrl": "/api/img/performer-images/performer-adamchristie-300x300.jpg",
-      "sortOrder": 24,
-      "excludeFromList": false,
-      "bio": "<p>Adam Christie is an award winning writer and stand-up comedian originally from Toronto, Canada. He&#039;s written on four seasons of the hit CBC show &#039;This Hour Has 22 Minutes&#039;, and has been featured on Muchmusic, MTV, NXNE, JFL 42, The Hubcap Comedy Festival, and has opened for Jen Kirkman and Eric Andre during the Halifax Pop Explosion.</p>\n<p>Adam is a former producer of the critically acclaimed &#039;Laugh Sabbath&#039; weekly show in Toronto. He&#039;s won a Canadian Comedy Award for writing in a television comedy, and has been nominated for two Canadian Screen Awards. </p>\n<p>Adam currently splits his time between Los Angeles, California, and Halifax, Nova Scotia.</p>\n",
-      "pageUrl": "16791-adam-christie"
     },
     {
       "id": 16312,
@@ -629,6 +629,20 @@
       "excludeFromList": false,
       "bio": "<p>Dash Kwiatkowski is a chubby nerd. He&#039;s into comic books and jokes.</p>\n<p>He is currently the longest reigning Intercontinental Comedy Champion.</p>\n<p>Dash features at The Comedy Attic, Comedy on State, Dr. Grins, The Seattle Comedy Underground, and he is a regular at the SF Punch Line, The Sacramento Punch Line, and Cobbs comedy club. He&#039;s been featured in Sketchfest, Limestone, Laugh Your Asheville Off, Crom Omaha, and The Arch City Comedy Festival, as well as SF Comedy Day and the SF International Competition. He&#039;s the star of popular web series, Neighborhood Watchmen. </p>\n<p>He&#039;s really into Dim Sum. He has dope sideburns, but it&#039;s not a Wolverine thing, so be cool about it.</p>\n",
       "pageUrl": "16108-dash-kwiatkowski"
+    },
+    {
+      "id": 16689,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Cody Hustak",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/cody_hustak.jpg",
+      "photoUrl": "/api/img/performer-images/performer-codyhustak-300x300.jpg",
+      "sortOrder": 46,
+      "excludeFromList": false,
+      "bio": "<p>First stepping on stage in Omaha, NE and later relocating to Austin, TX in 2010, Cody quickly became a favorite all over Texas and has since been featured at such festivals as the Montreal JFL Festival, Moontower Comedy Festival, SXSW, and Fun Fun Fun Fest. A finalist in the 2010, '11, '12, '13, and winner of the 2014 Funniest Person In Austin Contest, Cody has been described as offering thoughtful, methodic, absurdity complimented by a unique delivery and timing. These certainly aren't the bird, poop, and dick jokes your parents grew up knowing and loving.</p>\n",
+      "pageUrl": "16689-cody-hustak"
     }
   ]
 }
