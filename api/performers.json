@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15799,
+      "id": 15967,
       "events": [],
       "emceeEvents": [],
-      "name": "Robby Hoffman",
-      "twitter": "iAmRobbyHoffman",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/robbyhoffman_v1.jpg",
-      "photoUrl": "/api/img/performer-images/performer-robbyhoffman-300x300.jpg",
-      "sortOrder": 21,
+      "name": "Samantha Ruddy",
+      "twitter": "Samlymatters",
+      "website": "http://samantharuddy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_7176.jpg",
+      "photoUrl": "/api/img/performer-images/performer-samantharuddy-300x300.jpg",
+      "sortOrder": 22,
       "excludeFromList": false,
-      "bio": "<p>Robby Hoffman is a small red-headed ex-Chasidic lesbian Jew stand-up comedian and writer. She was recently New Faces at JFL42 (2015) and asked back to the festival (2016). She also performed at Off-JFL in Montreal (2016). She also performed at the All Jane festival in Portland (2016) and has been asked for industry selection at the Funny Women Fest in Los Angeles (2016). </p>\n<p>In her first couple years doing stand up, she had also won the WICF scholarship for Best Newcomer (2013) was named one of the “Top 10 Comedians” by the popular Montreal Mirror (2014), and hottest Top 50 on afterellen.com (2014). She was also in the TOP 10 of SiriusXM&#039;s Canada&#039;s Next Top Comic (2013) and created a hit mini web-series sponsored by Just for Laughs called Comedy in Biblical Proportions.</p>\n<p>Robby also writes a whole bunch for TV, most recently for Odd Squad (PBS), who took home the Emmy Award for Outstanding Writing in April (2016). She recently relocated from Toronto to LA where she is consistently booked on some of the most sought after shows in town.</p>\n",
-      "pageUrl": "15799-robby-hoffman"
+      "bio": "<p>Samantha Ruddy is a comedian who hails from just outside Scranton, Pennsylvania, and now lives in Brooklyn. She brings to the stage a world of goofy observations and witty one-liners. She has been named 1 of the 50 Funniest in Brooklyn by Brooklyn Magazine, called a comic &quot;you should be obsessed with&quot; by BUST, and selected to perform as part of the Caroline&#039;s Breakout Artist Series. She has performed in the New York Comedy Festival, Laugh Your Asheville Off Festival, and Limestone Comedy Festival. In addition to her standup, she is a contributing writer to Collegehumor, Someecards, and Reductress.</p>\n",
+      "pageUrl": "15967-samantha-ruddy"
     },
     {
       "id": 16103,
@@ -281,6 +281,20 @@
       "pageUrl": "16283-clara-n-bijl"
     },
     {
+      "id": 15799,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Robby Hoffman",
+      "twitter": "iAmRobbyHoffman",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/robbyhoffman_v1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-robbyhoffman-300x300.jpg",
+      "sortOrder": 21,
+      "excludeFromList": false,
+      "bio": "<p>Robby Hoffman is a small red-headed ex-Chasidic lesbian Jew stand-up comedian and writer. She was recently New Faces at JFL42 (2015) and asked back to the festival (2016). She also performed at Off-JFL in Montreal (2016). She also performed at the All Jane festival in Portland (2016) and has been asked for industry selection at the Funny Women Fest in Los Angeles (2016). </p>\n<p>In her first couple years doing stand up, she had also won the WICF scholarship for Best Newcomer (2013) was named one of the “Top 10 Comedians” by the popular Montreal Mirror (2014), and hottest Top 50 on afterellen.com (2014). She was also in the TOP 10 of SiriusXM&#039;s Canada&#039;s Next Top Comic (2013) and created a hit mini web-series sponsored by Just for Laughs called Comedy in Biblical Proportions.</p>\n<p>Robby also writes a whole bunch for TV, most recently for Odd Squad (PBS), who took home the Emmy Award for Outstanding Writing in April (2016). She recently relocated from Toronto to LA where she is consistently booked on some of the most sought after shows in town.</p>\n",
+      "pageUrl": "15799-robby-hoffman"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -293,20 +307,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 15967,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Samantha Ruddy",
-      "twitter": "Samlymatters",
-      "website": "http://samantharuddy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_7176.jpg",
-      "photoUrl": "/api/img/performer-images/performer-samantharuddy-300x300.jpg",
-      "sortOrder": 22,
-      "excludeFromList": false,
-      "bio": "<p>Samantha Ruddy is a comedian who hails from just outside Scranton, Pennsylvania, and now lives in Brooklyn. She brings to the stage a world of goofy observations and witty one-liners. She has been named 1 of the 50 Funniest in Brooklyn by Brooklyn Magazine, called a comic &quot;you should be obsessed with&quot; by BUST, and selected to perform as part of the Caroline&#039;s Breakout Artist Series. She has performed in the New York Comedy Festival, Laugh Your Asheville Off Festival, and Limestone Comedy Festival. In addition to her standup, she is a contributing writer to Collegehumor, Someecards, and Reductress.</p>\n",
-      "pageUrl": "15967-samantha-ruddy"
     },
     {
       "id": 16429,
@@ -559,6 +559,34 @@
       "excludeFromList": false,
       "bio": "<p>Jason Goad wanted a job working the fewest hours in the day, the fewest days of the week, and didn’t require getting up early. Jason found comedy later in life after attempts at being a novelist, short-story writer, and slam poet. He has squandered multiple thousands of dot com stock-option dollars and quit a career in the culinary arts twice.</p>\n<p>Comedy is the only thing Jason hasn’t had an overwhelming desire to quit. Described as “the Scared Straight of Seattle comedy,” or “if a Lou Reed song was funny,” Jason’s comedy comes from society’s grimy corners. Making frank jokes about terrible things, Jason has been featured at the Redwood Comedy Festival, the Bumbershoot Music and Arts Festival, the 36th Annual Seattle International Comedy Competition, and has written jokes for Brian Posehn.</p>\n<p>Jason lives in Seattle, Washington.</p>\n",
       "pageUrl": "16549-jason-goad"
+    },
+    {
+      "id": 16593,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Tony Hinchcliffe",
+      "twitter": "TonyHinchcliffe",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot3_04192016101338_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tonyhinchcliffe-300x300.jpg",
+      "sortOrder": 41,
+      "excludeFromList": false,
+      "bio": "<p>A stand-up comedian considered a fresh new evolution to the now immensely popular roasting scene, Tony Hinchcliffe has worked as a staff-writer on the past five <em><strong>Comedy Central Roasts</strong></em>, including the most recent, Justin Bieber Roast, where he worked exclusively with Martha Stewart. He is also writing for the upcoming Roast of Rob Lowe. Tony hosts his own weekly show and podcast, “<em><strong>Kill Tony</strong></em>,” which has over 100k downloads per week. On the road he sells out with strong drawing power due to his podcast, being a regular on <em><strong>The Joe Rogan Experience</strong></em>, and years of opening theaters on tours with Jeffrey Ross, Joe Rogan, Dave Attell, and most recently Dave Chappelle. Here are some more of Tony's accomplishments just from 2015...NBC NYE writer, Will Ferrell one-hour special writer, <strong><em>Roast of Justin Bieber</em> writer</strong>, 311 tour opener, <em>On <strong>NBC last call w/ Carson Daly</strong></em>, Jeffrey Ross live from Prison (Comedy Central Special) writer, Congressional Correspondents Dinner writer, Dave Chappelle tour opener, and <em>Sleight of Mouth</em> Comedy Central Special writer. Most recently, Tony’s 1-hour special for Netflix, “<em><strong>One-Shot</strong></em>,” released on January 15, 2016. You can also catch Tony's roasting skills on Comedy Central's <strong>Roast Battle</strong> which took stage at the <strong>Just For Laughs</strong> Festival in Montreal this past July, 2016, as well as his stand-out performance on <strong>The Roast of Snoop Dogg.</strong></p>\n",
+      "pageUrl": "16593-tony-hinchcliffe"
+    },
+    {
+      "id": 16821,
+      "events": [],
+      "emceeEvents": [],
+      "name": "George Civeris",
+      "twitter": "georgeciveris",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/georgec.jpg",
+      "photoUrl": "/api/img/performer-images/performer-georgeciveris-300x300.jpg",
+      "sortOrder": 42,
+      "excludeFromList": false,
+      "bio": "<p>George Civeris is a Boston-based writer and comedian who performs all over New England and New York. Most recently, he won MoveOn.org&#039;s nationwide &quot;Laughter Trumps Hate&quot; contest, which was judged by a panel that included Judd Apatow, Adam McKay, and Baratunde Thurston (<a href=\"http://www.laughtertrumpshate.com/winners\">http://www.laughtertrumpshate.com/winners</a>). Last year, he performed at the Boston Comedy Festival, and in March 2017 he will be the comic-in-residence at Boston&#039;s famous Comedy Studio. He co-produces an award-winning weekly alternative comedy showcase called The Mendoza Line. As a gay immigrant, George is feeling pretty chill about the future.</p>\n",
+      "pageUrl": "16821-george-civeris"
     }
   ]
 }
