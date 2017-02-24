@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16894,
+      "id": 16283,
       "events": [],
       "emceeEvents": [],
-      "name": "Eliza Skinner",
-      "twitter": "elizaskinner",
-      "website": "http://eliza.skinner@gmail.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/eliza_skinner_2017.jpg",
-      "photoUrl": "/api/img/performer-images/performer-elizaskinner-300x300.jpg",
-      "sortOrder": 19,
+      "name": "Clara N Bijl",
+      "twitter": "clarabijl",
+      "website": "http://www.funnyfrench.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bijl_headshot_2105_-_sabrinabot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-claranbijl-300x300.jpg",
+      "sortOrder": 20,
       "excludeFromList": false,
-      "bio": "<p>Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal, MTV, Showtime, AMC and the BBC. She has performed in festivals all over the world including RiotLA, SXSW, Bridgetown, the NY Comedy Festival and the Edinburgh Fringe. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), Fashion Police (with Joan Rivers), Adam Ruins Everything (truTV) and she was a staff writer for The Late Late Show with James Corden. In 2014 she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival. In 2015 she was selected for the “SF Sketchfest Dozen” and TimeOut LA named her one of 9 “Comics To Watch in 2015″. She is currently the headwriter of Drop The Mic coming to TBS this spring.</p>\n",
-      "pageUrl": "16894-eliza-skinner"
+      "bio": "<p>Clara is an internationally-unknown stand-up comedian: one of the few humorists to be unknown in the entire world! </p>\n<p>Clara was raised in both the French Alps and Germany before she attended college in South Carolina; as you do when you come from France. </p>\n<p>Clara’s humor is witty and observational and comes with a European twang. </p>\n<p>Clara has appeared in the San Francisco International Comedy Competition, SF SketchFest, the Charleston Comedy Festival, the Montreux Comedy Festival, the San Diego Comedy Festival… She’s performed with Robin Williams, Tom Papa, Paul Reiser, Laurie Kilmartin, Anne Roumanoff &amp; many more.</p>\n<p>She was once stranded for hours on a broken escalator due to a power outage. </p>\n",
+      "pageUrl": "16283-clara-n-bijl"
     },
     {
       "id": 16103,
@@ -253,6 +253,20 @@
       "pageUrl": "15951-pat-brown"
     },
     {
+      "id": 16894,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Eliza Skinner",
+      "twitter": "elizaskinner",
+      "website": "http://eliza.skinner@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/eliza_skinner_2017.jpg",
+      "photoUrl": "/api/img/performer-images/performer-elizaskinner-300x300.jpg",
+      "sortOrder": 19,
+      "excludeFromList": false,
+      "bio": "<p>Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal, MTV, Showtime, AMC and the BBC. She has performed in festivals all over the world including RiotLA, SXSW, Bridgetown, the NY Comedy Festival and the Edinburgh Fringe. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), Fashion Police (with Joan Rivers), Adam Ruins Everything (truTV) and she was a staff writer for The Late Late Show with James Corden. In 2014 she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival. In 2015 she was selected for the “SF Sketchfest Dozen” and TimeOut LA named her one of 9 “Comics To Watch in 2015″. She is currently the headwriter of Drop The Mic coming to TBS this spring.</p>\n",
+      "pageUrl": "16894-eliza-skinner"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -265,20 +279,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16283,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Clara N Bijl",
-      "twitter": "clarabijl",
-      "website": "http://www.funnyfrench.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bijl_headshot_2105_-_sabrinabot_2.jpg",
-      "photoUrl": "/api/img/performer-images/performer-claranbijl-300x300.jpg",
-      "sortOrder": 20,
-      "excludeFromList": false,
-      "bio": "<p>Clara is an internationally-unknown stand-up comedian: one of the few humorists to be unknown in the entire world! </p>\n<p>Clara was raised in both the French Alps and Germany before she attended college in South Carolina; as you do when you come from France. </p>\n<p>Clara’s humor is witty and observational and comes with a European twang. </p>\n<p>Clara has appeared in the San Francisco International Comedy Competition, SF SketchFest, the Charleston Comedy Festival, the Montreux Comedy Festival, the San Diego Comedy Festival… She’s performed with Robin Williams, Tom Papa, Paul Reiser, Laurie Kilmartin, Anne Roumanoff &amp; many more.</p>\n<p>She was once stranded for hours on a broken escalator due to a power outage. </p>\n",
-      "pageUrl": "16283-clara-n-bijl"
     },
     {
       "id": 15799,
@@ -517,6 +517,20 @@
       "excludeFromList": false,
       "bio": "<p>Tom Thakkar (formerly Thomas Brady) is a comic living in Brooklyn by way of Bloomington, IN and Chicago. He is the son of a great, Red Lobster-managing mom and a deadbeat Indian dad, giving him the odd childhood experience of being a poor, pudgy Indian boy southern Indiana. In 2015, Tom was named a “New Face” by the Just for Laughs comedy festival in Montreal, as well as one of the “Best of the Midwest” by Gilda’s Laugh Fest. Ole Tom Thakkar has also been a featured performer at Limestone Comedy Festival, Chicago Comedy Exposition, Crom Fest Omaha, and more. Tom has been featured on Doug Loves Movies, VICE, NPR, The Todd Glass Show, PBS, and was named a &quot;Comedian you should know&quot; by Chicago Magazine. You can see Tom all over New York, opening for Nikki Glaser all over the country, or standing outside of a Chipotle trying to decide if he&#039;s earned it that day.</p>\n",
       "pageUrl": "16519-tom-thakkar"
+    },
+    {
+      "id": 15859,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Kirsten Kuppenbender",
+      "twitter": "kupptastic",
+      "website": "http://www.kirstenkuppenbender.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dsc_1378.jpg",
+      "photoUrl": "/api/img/performer-images/performer-kirstenkuppenbender-300x300.jpg",
+      "sortOrder": 38,
+      "excludeFromList": false,
+      "bio": "<p>Kirsten Kuppenbender is a Power House with a heart made of precious metal. She&#039;s a comedian, she&#039;s an actor and she is the visionary of a comedic revolution. In addition to her brilliant stand up and hosting skills, she is The Founder and Producer of Lez Stand Up: a Portland-based, all-queer, feminist comedy collective and showcase which performs up and down the West Coast.<br />\nYou may have seen her in Mercury&#039;s Undisputable Geniuses of Comedy showcase - 2016, Funny Women Festival LA - 2015, All Jane Festival 2015 &amp; 2013</p>\n",
+      "pageUrl": "15859-kirsten-kuppenbender"
     }
   ]
 }
