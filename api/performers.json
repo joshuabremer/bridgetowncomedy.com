@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16603,
+      "id": 16853,
       "events": [],
       "emceeEvents": [],
-      "name": "Debra DiGiovanni",
-      "twitter": "DEBRADIGIOVANNI",
-      "website": "http://www.debradigiovanni.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/debradig.jpg",
-      "photoUrl": "/api/img/performer-images/performer-debradigiovanni-300x300.jpg",
-      "sortOrder": 28,
+      "name": "Phoebe Bottoms ",
+      "twitter": "phoebebottoms",
+      "website": "http://phoebebottoms.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/phoebe_.jpg",
+      "photoUrl": "/api/img/performer-images/performer-phoebebottoms-300x300.jpg",
+      "sortOrder": 30,
       "excludeFromList": false,
-      "bio": "<p>Comedian Debra DiGiovanni has been awarded the Canadian Comedy Award for best female comic for the third time in 5 years. She’s been called the “Best Comedian to see after a Messy Break Up” and for three years running-she was named her hometown Toronto’s favorite comedian. Debra’s a favorite at the Montreal Just for Laughs Comedy Festival, and attended in 2014 for the 9th time. She’s done the popular Bridgetown Fest in Portland (2013) the Glasgow Comedy Fest in Scotland (2013) and Debra was thrilled to do the Just For Laughs festival in Sydney Australia (2013).  Her first stand up DVD for the Showtime Network “Single, Awkward Female.” and is now available on Netflix.</p>\n",
-      "pageUrl": "16603-debra-digiovanni"
+      "bio": "<p>Phoebe Bottoms is an Los Angeles based comedian, writer and Jim Henson Company trained puppeteer.  Since 2007 she has performed in clubs, basements, bars and VFW&#039;s all over the great country of ours.  Once described as, &quot;A fun thing that happened&quot; by one of the 453 citizens of Glenburn, North Dakota, her credits also include: Akumal Comedy Festival, Jewish Humor Festival and 10k Laughs Festival.  She is a two time winner  of Competitive Erotic Fan Fiction and has appeared on MTV, Adult Swim, TBS, Loot Crate and JASH.  Phoebe also produces and hosts The Comedy Palace in Los Feliz, which was recently named by Thrillist as one of the 10 Best Underground Comedy Shows in LA.</p>\n",
+      "pageUrl": "16853-phoebe-bottoms-"
     },
     {
       "id": 16103,
@@ -379,18 +379,18 @@
       "pageUrl": "16677-marcus-coleman"
     },
     {
-      "id": 16768,
+      "id": 16603,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Debra DiGiovanni",
+      "twitter": "DEBRADIGIOVANNI",
+      "website": "http://www.debradigiovanni.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/debradig.jpg",
+      "photoUrl": "/api/img/performer-images/performer-debradigiovanni-300x300.jpg",
+      "sortOrder": 28,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>Comedian Debra DiGiovanni has been awarded the Canadian Comedy Award for best female comic for the third time in 5 years. She’s been called the “Best Comedian to see after a Messy Break Up” and for three years running-she was named her hometown Toronto’s favorite comedian. Debra’s a favorite at the Montreal Just for Laughs Comedy Festival, and attended in 2014 for the 9th time. She’s done the popular Bridgetown Fest in Portland (2013) the Glasgow Comedy Fest in Scotland (2013) and Debra was thrilled to do the Just For Laughs festival in Sydney Australia (2013).  Her first stand up DVD for the Showtime Network “Single, Awkward Female.” and is now available on Netflix.</p>\n",
+      "pageUrl": "16603-debra-digiovanni"
     },
     {
       "id": 15767,
@@ -407,18 +407,18 @@
       "pageUrl": "15767-casey-crawford"
     },
     {
-      "id": 16853,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Phoebe Bottoms ",
-      "twitter": "phoebebottoms",
-      "website": "http://phoebebottoms.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/phoebe_.jpg",
-      "photoUrl": "/api/img/performer-images/performer-phoebebottoms-300x300.jpg",
-      "sortOrder": 30,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Phoebe Bottoms is an Los Angeles based comedian, writer and Jim Henson Company trained puppeteer.  Since 2007 she has performed in clubs, basements, bars and VFW&#039;s all over the great country of ours.  Once described as, &quot;A fun thing that happened&quot; by one of the 453 citizens of Glenburn, North Dakota, her credits also include: Akumal Comedy Festival, Jewish Humor Festival and 10k Laughs Festival.  She is a two time winner  of Competitive Erotic Fan Fiction and has appeared on MTV, Adult Swim, TBS, Loot Crate and JASH.  Phoebe also produces and hosts The Comedy Palace in Los Feliz, which was recently named by Thrillist as one of the 10 Best Underground Comedy Shows in LA.</p>\n",
-      "pageUrl": "16853-phoebe-bottoms-"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16572,
@@ -769,6 +769,62 @@
       "excludeFromList": false,
       "bio": "<p>Justin Hicks is a stand up comedian based in Austin, TX.  Justin was raised in small town Connecticut and has lived in Texas since 2010.  Much of his comedy is drawn from his upbringing and southern experiences.  He has a calm demeanor and cool delivery that is unique and easy to connect with.  Justin&#039;s humor covers topics ranging from chap-stick to R&amp;B music (he may or may not be the best R&amp;B comic in central Texas).  Justin began performing comedy in 2015.  He was a semi-finalist in the 2016 Funniest Person in Austin competition and has preformed at the Crossroads Comedy Festival (Indianapolis, IN)  and MR Fest (San Marcos, TX).</p>\n",
       "pageUrl": "16715-justin-hicks-"
+    },
+    {
+      "id": 16808,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Greg Coleman II",
+      "twitter": "SayGCole",
+      "website": "https://tinyurl.com/zevcqku",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_1_3.jpg",
+      "photoUrl": "/api/img/performer-images/performer-gregcolemanii-300x300.jpg",
+      "sortOrder": 56,
+      "excludeFromList": false,
+      "bio": "<p>Greg Coleman has been active in the Minnesota comedy scene since 2012. Coleman was voted Best Comic of 2012 at the MN Comedy Awards, was acknowledged as a Top 10 Performer at the ABFF Comedy Competition in Los Angeles, CA, and was named one of the top 5 comics to watch in 2016 by The Growler dot com. Coleman has gained a reputation as a strong performer, with a twisted point of view and fun stories from his many years working in education. On stage, Coleman comes across as cool, confident, and comfortable</p>\n",
+      "pageUrl": "16808-greg-coleman-ii"
+    },
+    {
+      "id": 15905,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Kenice Mobley",
+      "twitter": "kfmawesomeness",
+      "website": "http://www.kenicemobley.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_kenice_mobley.jpg",
+      "photoUrl": "/api/img/performer-images/performer-kenicemobley-300x300.jpg",
+      "sortOrder": 57,
+      "excludeFromList": false,
+      "bio": "<p>Kenice performs stand up comedy around the country and recently participated in the Women in Comedy Festival, the Boston Comedy Festival, and the Outside the Box Festival. She recently appeared on WGBH discussing comedy and politics and will be featured in the upcoming season of Laughs on FOX. She has opened for W. Kamau Bell at the Wilbur Theater and was named Comic in Residence (November 2016) for the Comedy Studio in Harvard Square. She currently hosts Person About Town, and interview and relationship podcast. Her jokes usually center around dating, race and her eccentric Southern family; her mother is very proud.</p>\n",
+      "pageUrl": "15905-kenice-mobley"
+    },
+    {
+      "id": 16641,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Shane Mauss",
+      "twitter": "shanecomedy",
+      "website": "http://shanemauss.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/shane.mauss_dmt.portrait_without.molecule_web.jpg",
+      "photoUrl": "/api/img/performer-images/performer-shanemauss-300x300.jpg",
+      "sortOrder": 58,
+      "excludeFromList": false,
+      "bio": "<p>Originally from Wisconsin, Shane Mauss caught his first break when he was awarded ‘Best Stand-Up” at The HBO US Comedy Arts Festival in 2007.  This led to his TV debut and first of five appearances on Conan.<br />\n <br />\nSince that time he’s been on Jimmy Kimmel, Showtime, has had a Comedy Central Presents, a Netflix special ‘Mating Season’, and most recently released album inspired by breaking both of his feet in a hiking mishap called ‘My Big Break’ which spent time at #1 on the comedy iTunes charts. <br />\n <br />\nShane has also been getting a lot of attention as a popular guest on podcasts such as Marc Maron’s WTF, Pete Holmes’ You Made It Weird, The Joe Rogan Experience, Bertcast, Duncan Trussell’s Family Hour, TOFOP, Crabfeast, Ari Shaffir&#039;s Skeptic Tanks, Doug Loves Movies, Never Not Funny, Getting Doug with High, Keith and The Girl.</p>\n<p>His favorite thing to do while traveling around the country is to find scientists in the area to interview for his podcast “Here We Are”.  The podcast explores psychology, sociology, neuroscience, behavioral economics, evolution, marketing and all things related to the meanings of life.</p>\n",
+      "pageUrl": "16641-shane-mauss"
+    },
+    {
+      "id": 15786,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Michelle Biloon",
+      "twitter": "biloon",
+      "website": "http://www.biloon.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/biloonheadshotweb2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-michellebiloon-300x300.jpg",
+      "sortOrder": 59,
+      "excludeFromList": false,
+      "bio": "<p>Michelle Biloon is is a standup comic straight outta Philly by way of Los Angeles by way of Austin. You may have heard her on the popular podcasts Comedy Bang Bang, 2 Dope Queens, or Doug Loves Movies. You may have seen her perform standup in your city opening for Patton Oswalt or headlining a show her down damn self (in a much much much smaller venue). She&#039;s also appeared on Chelsea Lately, The Late Late Show with Craig Ferguson, Comics Unleashed, Comedy.tv, and Premium Blend.</p>\n<p>Want to know more about Michelle? She loves Judge Judy. She does the New York Times Crossword Puzzle every day. And she is motherfucking hilarious.</p>\n<p>Her mother has been quoted as saying, &quot;I watched the tape of her before I left for bowling and I laughed so hard that I had to go redo my makeup.&quot; And that&#039;s the truth, jackasses.</p>\n",
+      "pageUrl": "15786-michelle-biloon"
     }
   ]
 }
