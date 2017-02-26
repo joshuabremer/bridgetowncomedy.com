@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16589,
+      "id": 16521,
       "events": [],
       "emceeEvents": [],
-      "name": "Mike Lawrence",
-      "twitter": "TheMikeLawrence",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mikelawrenceheadshotnormal_08042016091910_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-mikelawrence-300x300.jpg",
-      "sortOrder": 34,
+      "name": "Bri Pruett",
+      "twitter": "bripruett",
+      "website": "http://bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/14633485_1217134591684653_2842367725205405589_o_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 35,
       "excludeFromList": false,
-      "bio": "<p>Mike Lawrence is a New York City based comedian from South Florida who has found success in both writing and stand up. He is a staff writer on Comedy Central’s <strong>Inside Amy Schumer</strong>, A&amp;E’s <strong>Black and White</strong>, and has written for TV Land’s<strong> The Jim Gaffigan Show</strong>, and Hulu’s<strong> Triumph 2016 Election Special</strong>, the 2015 <strong>MTV Movie Awards</strong>, the 2015 <strong>Webby Awards</strong>, and <strong>We Have Issues</strong> on E! Mike was recently nominated for two <strong>Emmy’s</strong> for being of the staff of <strong>Inside Amy Schumer</strong> and the <strong>Triumph 2016 Election Special</strong>, and won the inaugural Comedy Central special <strong>Roast Battle</strong> tournament, recorded live at the 2016 Just For Laughs Festival in Montreal.</p>\n<p>Mike is host of the Comedy Central Snapchat series <strong>You’re Wrong</strong> and is a recurring guest on the Comedy Central TV show <strong>@midnight.</strong> His stand-up has been featured on NBC’s <strong>Late Night with Seth Meyers</strong>, TBS’ <strong>Conan</strong>, FX’s <strong>Totally Biased</strong>, SyFy’s <strong>The Will Wheaton Project</strong>, and John Oliver’s <strong>New York Stand-Up Show</strong> on Comedy Central. In 2013 His half hour special for Comedy Central aired in conjunction with the release of his album “Sadamantium”, produced by Comedy Central Records.</p>\n<p>Additionally, Mike co-hosts the podcast <strong>Nerd of Mouth</strong> on Cave Comedy Radio and has appeared on countless others such as <strong>WTF with Marc Maron</strong>, Robert Kelly’s <strong>You Know What Dude</strong>, <strong>You Made It Weird with Pete Holmes</strong>, <strong>Who Charted</strong>, <strong>The Dana Gould Hour</strong>, <strong>The Adam Corolla Show</strong>, and <strong>The Artie Lange Show</strong>.</p>\n",
-      "pageUrl": "16589-mike-lawrence"
+      "bio": "<p>This Portland original just wrapped a run of her comedic solo show Stellar, which the Willamette Week called &quot;Body-positive, pro-self-love, and pro-female sexuality...&quot;</p>\n<p>In addition to clubs and festivals, she&#039;s brought her sparkle to Doug Loves Movies, NPR&#039;s Live Wire!, and Comedy Central&#039;s Roast Battle.</p>\n<p>Someone once described her as a female Jack Black, she took it as a compliment.</p>\n",
+      "pageUrl": "16521-bri-pruett"
     },
     {
       "id": 16103,
@@ -463,6 +463,20 @@
       "pageUrl": "16571-brent-weinbach"
     },
     {
+      "id": 16589,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Mike Lawrence",
+      "twitter": "TheMikeLawrence",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/mikelawrenceheadshotnormal_08042016091910_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mikelawrence-300x300.jpg",
+      "sortOrder": 34,
+      "excludeFromList": false,
+      "bio": "<p>Mike Lawrence is a New York City based comedian from South Florida who has found success in both writing and stand up. He is a staff writer on Comedy Central’s <strong>Inside Amy Schumer</strong>, A&amp;E’s <strong>Black and White</strong>, and has written for TV Land’s<strong> The Jim Gaffigan Show</strong>, and Hulu’s<strong> Triumph 2016 Election Special</strong>, the 2015 <strong>MTV Movie Awards</strong>, the 2015 <strong>Webby Awards</strong>, and <strong>We Have Issues</strong> on E! Mike was recently nominated for two <strong>Emmy’s</strong> for being of the staff of <strong>Inside Amy Schumer</strong> and the <strong>Triumph 2016 Election Special</strong>, and won the inaugural Comedy Central special <strong>Roast Battle</strong> tournament, recorded live at the 2016 Just For Laughs Festival in Montreal.</p>\n<p>Mike is host of the Comedy Central Snapchat series <strong>You’re Wrong</strong> and is a recurring guest on the Comedy Central TV show <strong>@midnight.</strong> His stand-up has been featured on NBC’s <strong>Late Night with Seth Meyers</strong>, TBS’ <strong>Conan</strong>, FX’s <strong>Totally Biased</strong>, SyFy’s <strong>The Will Wheaton Project</strong>, and John Oliver’s <strong>New York Stand-Up Show</strong> on Comedy Central. In 2013 His half hour special for Comedy Central aired in conjunction with the release of his album “Sadamantium”, produced by Comedy Central Records.</p>\n<p>Additionally, Mike co-hosts the podcast <strong>Nerd of Mouth</strong> on Cave Comedy Radio and has appeared on countless others such as <strong>WTF with Marc Maron</strong>, Robert Kelly’s <strong>You Know What Dude</strong>, <strong>You Made It Weird with Pete Holmes</strong>, <strong>Who Charted</strong>, <strong>The Dana Gould Hour</strong>, <strong>The Adam Corolla Show</strong>, and <strong>The Artie Lange Show</strong>.</p>\n",
+      "pageUrl": "16589-mike-lawrence"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -475,20 +489,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16521,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Bri Pruett",
-      "twitter": "bripruett",
-      "website": "http://bripruett.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/14633485_1217134591684653_2842367725205405589_o_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
-      "sortOrder": 35,
-      "excludeFromList": false,
-      "bio": "<p>This Portland original just wrapped a run of her comedic solo show Stellar, which the Willamette Week called &quot;Body-positive, pro-self-love, and pro-female sexuality...&quot;</p>\n<p>In addition to clubs and festivals, she&#039;s brought her sparkle to Doug Loves Movies, NPR&#039;s Live Wire!, and Comedy Central&#039;s Roast Battle.</p>\n<p>Someone once described her as a female Jack Black, she took it as a compliment.</p>\n",
-      "pageUrl": "16521-bri-pruett"
     },
     {
       "id": 15971,
@@ -937,6 +937,34 @@
       "excludeFromList": false,
       "bio": "<p>Annie can most recently been seen as a cast member on MTV's GIRL CODE and as the voice of Cheryl on GRAND THEFT AUTO 5. Annie Lederman also starred in WE HAVE ISSUES, a pop-culture talk show on E! with co-host Julian McCullough. She has also recently appeared on THIS IS NOT HAPPENING on Comedy Central, CHELSEA LATELY, @MIDNIGHT on Comedy Central, THE SOUP INVESTIGATES and ADAM DEVINE'S HOUSE PARTY.  In addition, Annie starred and wrote, STAND UPS, a scripted Comedy Central pilot, produced by Dan Powell (co-creator of INSIDE AMY SCHUMER), with comedians Kurt Metzger &amp; Monroe Martin. She tours regularly worldwide as a stand-up comedian.</p>\n",
       "pageUrl": "16685-annie-lederman"
+    },
+    {
+      "id": 16051,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Guy Branum",
+      "twitter": "guybranum",
+      "website": "http://www.guybranum.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/branum_black_fleece.jpg",
+      "photoUrl": "/api/img/performer-images/performer-guybranum-300x300.jpg",
+      "sortOrder": 68,
+      "excludeFromList": false,
+      "bio": "<p>Guy Branum is a writer and comedian best known for his recurring segment \"No More Mr. Nice Gay\" on <em>Totally Biased with W. Kamau Bell</em>, serving as \"Staff Homosexual\" on <em>Chelsea Lately</em> and his performance as Natalie Portman's sassy gay friend in <em>No Strings Attached</em>. Noticing a trend? He's a recurring panelist on Comedy Central's <em>@Midnight</em> and <em>The Nightly Show with Larry Wilmore</em>. He is also the host and the creator of the beloved <em>Talk Show The Game Show</em> where celebrity guests face off to prove who's the best talk show guest by plugging, name-dropping, and anecdoteing their way to victory. The show takes place monthly at the Nerdmelt Showroom in LA and was just ordered to series for TruTV. Other TV credits include the upcoming <em>Road to Roast</em>, also on Comedy Central, SeeSo's <em>Comedy Show Show</em> and <em>Debate Wars</em>, or maybe you have seen Guy on E!, MTV, G4, CurrentTV and lots of other channels you'd need to upgrade your cable to watch. Guy's writing credits include <em>The Mindy Project</em> on Hulu, <em>Punk'd</em> and <em>Awkward</em> on MTV, <em>Billy on the Street</em> on truTV and <em>Fashion Police</em> on E!. That means he's watched the Grammys at Joan Rivers's house. Jealous? </p>\n<p>As a standup comic Guy has appeared at San Francisco Sketchfest, Moontower Comedy Festival in Austin, TX, Riot LA and Bridgetown Comedy Festival in Portland, OR. In 2015 Guy released his debut album <em>Effable</em> on AST Records. He also writes self-important essays for various blogs, had an editorial column in The New York Times and occasionally makes web videos where he dances around without his shirt on. But mostly, Guy is very, very beautiful and good at having sex.</p>\n",
+      "pageUrl": "16051-guy-branum"
+    },
+    {
+      "id": 15738,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Sonia Denis",
+      "twitter": "sonideni",
+      "website": "http://sonideni.tumblr.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sonia_denis_-_headshot.jpg",
+      "photoUrl": "/api/img/performer-images/performer-soniadenis-300x300.jpg",
+      "sortOrder": 69,
+      "excludeFromList": false,
+      "bio": "<p>Sonia is a NYC-based comedian who just relocated from Chicago in August this year. She was recently honored as a Comedy Central 2016 Comic to Watch at the New York Comedy Festival in November. Sonia is currently on tour with her live show “Afrofuturism” in DC and Chicago through the Second City Touring Company. *Attaching an early draft of her pilot DON’T KILL YOURSELF.</p>\n",
+      "pageUrl": "15738-sonia-denis"
     }
   ]
 }
