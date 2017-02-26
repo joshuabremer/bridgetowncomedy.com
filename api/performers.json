@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16903,
+      "id": 16904,
       "events": [],
       "emceeEvents": [],
-      "name": "Matt Knudsen ",
-      "twitter": "mattknudsen",
-      "website": "http://mattknudsen.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/0412_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-mattknudsen-300x300.jpg",
-      "sortOrder": 46,
+      "name": "Anthony Atamanuik",
+      "twitter": "TonyAtamanuik",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/atamanuik_headshot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-anthonyatamanuik-300x300.jpg",
+      "sortOrder": 47,
       "excludeFromList": false,
-      "bio": "<p>Matt Knudsen (Kah-nood-son) was born in Hawaii, raised in the Mid-west and sailed around the world as a merchant marine. After trips to Europe, Africa and The Far East, he eventually put down his sea bag, picked up a microphone and began performing stand up comedy all across the country. </p>\n<p>As an actor, you may have seen Matt share the big screen with Oscar winner Sean Penn, in the Warner Brothers feature Gangster Squad or you may also recognize him from his appearances in shows like Crazy Ex-Girlfriend, Key &amp; Peele, Workaholics, The League, Big Love, Boston Legal or Malcolm in the Middle just to name a few. Matt has also been a part of several high profile commercial campaigns for companies including: Apple, IBM, GE, Volkswagen, DirecTV, Pepsi and more; which have aired during the Superbowl and The Olympics.  </p>\n<p>As a comedian, he’s appeared on Conan, The Late Late Show, Last Call, ASX Live and Comics Unleashed, as well as dozens of festivals, including: Montreal Just for Laughs (Best of the Fest), The San Francisco Sketchfest, Bridgetown, High Plains, Limestone; and has even been part of an evening of entertainment at The White House for President and Mrs. Obama. </p>\n<p>His critically acclaimed albums The Comedy Stylings of Matt Knudsen and American are top downloads on iTunes, heard regularly on SiriusXM radio and “Mix droll observation with a dry, almost hypnotic delivery,” (The Onion A.V. Club); and with Knudsen’s unique style, “The personal feels universal, and the universal feels personal. The only explanation for this phenomenon is that it&#039;s all finely crafted comedy from a strong central voice…a great stand up album.” (The Huffington Post)</p>\n",
-      "pageUrl": "16903-matt-knudsen-"
+      "bio": "<p>Anthony Atamanuik is a comedian and actor in New York City. He is a member of the legendary improv team DEATH BY ROO ROO and is the co-host of ASSSSCAT3000 at UCB New York. Anthony has appeared on 30 ROCK, BROAD CITY, HULU&#039;s DIFFICULT PEOPLE, DINNER WITH BRETT GELMAN specials on Adult Swim, MTV&#039;s TEACHERS LOUNGE and as himself, bar tending on Bravo&#039;s WATCH WHAT HAPPENS LIFE. As Donald Trump, Anthony is one-half of TRUMP VS. BERNIE, a comedy debate act that includes a memorable guest appearance on Comedy Central and two TV specials for Fusion, along with a live international tour in 2016.</p>\n<p>You can see him on a variety of platforms, College Humor, Funny Or Die, Comedy Central Digital and even a ViewMaster photo series by Colbert Show writer Erik Drysdale </p>\n<p>Anthony will be appearing in upcoming episodes of USED PEOPLE and the feature film THE OUTSKIRTS.</p>\n",
+      "pageUrl": "16904-anthony-atamanuik"
     },
     {
       "id": 16103,
@@ -631,6 +631,20 @@
       "pageUrl": "16578-fahim-anwar"
     },
     {
+      "id": 16903,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Matt Knudsen ",
+      "twitter": "mattknudsen",
+      "website": "http://mattknudsen.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/0412_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattknudsen-300x300.jpg",
+      "sortOrder": 46,
+      "excludeFromList": false,
+      "bio": "<p>Matt Knudsen (Kah-nood-son) was born in Hawaii, raised in the Mid-west and sailed around the world as a merchant marine. After trips to Europe, Africa and The Far East, he eventually put down his sea bag, picked up a microphone and began performing stand up comedy all across the country. </p>\n<p>As an actor, you may have seen Matt share the big screen with Oscar winner Sean Penn, in the Warner Brothers feature Gangster Squad or you may also recognize him from his appearances in shows like Crazy Ex-Girlfriend, Key &amp; Peele, Workaholics, The League, Big Love, Boston Legal or Malcolm in the Middle just to name a few. Matt has also been a part of several high profile commercial campaigns for companies including: Apple, IBM, GE, Volkswagen, DirecTV, Pepsi and more; which have aired during the Superbowl and The Olympics.  </p>\n<p>As a comedian, he’s appeared on Conan, The Late Late Show, Last Call, ASX Live and Comics Unleashed, as well as dozens of festivals, including: Montreal Just for Laughs (Best of the Fest), The San Francisco Sketchfest, Bridgetown, High Plains, Limestone; and has even been part of an evening of entertainment at The White House for President and Mrs. Obama. </p>\n<p>His critically acclaimed albums The Comedy Stylings of Matt Knudsen and American are top downloads on iTunes, heard regularly on SiriusXM radio and “Mix droll observation with a dry, almost hypnotic delivery,” (The Onion A.V. Club); and with Knudsen’s unique style, “The personal feels universal, and the universal feels personal. The only explanation for this phenomenon is that it&#039;s all finely crafted comedy from a strong central voice…a great stand up album.” (The Huffington Post)</p>\n",
+      "pageUrl": "16903-matt-knudsen-"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -643,20 +657,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16904,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Anthony Atamanuik",
-      "twitter": "TonyAtamanuik",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/atamanuik_headshot_2.jpg",
-      "photoUrl": "/api/img/performer-images/performer-anthonyatamanuik-300x300.jpg",
-      "sortOrder": 47,
-      "excludeFromList": false,
-      "bio": "<p>Anthony Atamanuik is a comedian and actor in New York City. He is a member of the legendary improv team DEATH BY ROO ROO and is the co-host of ASSSSCAT3000 at UCB New York. Anthony has appeared on 30 ROCK, BROAD CITY, HULU&#039;s DIFFICULT PEOPLE, DINNER WITH BRETT GELMAN specials on Adult Swim, MTV&#039;s TEACHERS LOUNGE and as himself, bar tending on Bravo&#039;s WATCH WHAT HAPPENS LIFE. As Donald Trump, Anthony is one-half of TRUMP VS. BERNIE, a comedy debate act that includes a memorable guest appearance on Comedy Central and two TV specials for Fusion, along with a live international tour in 2016.</p>\n<p>You can see him on a variety of platforms, College Humor, Funny Or Die, Comedy Central Digital and even a ViewMaster photo series by Colbert Show writer Erik Drysdale </p>\n<p>Anthony will be appearing in upcoming episodes of USED PEOPLE and the feature film THE OUTSKIRTS.</p>\n",
-      "pageUrl": "16904-anthony-atamanuik"
     },
     {
       "id": 15977,
@@ -1273,6 +1273,20 @@
       "excludeFromList": false,
       "bio": "<p>Lisa Best is a comedian, writer and performer from Los Angeles and has quickly made a name for herself in LA’s alternative scene as a brilliantly quirky comic and skilled story teller. In the spring of 2014, Lisa began headlining colleges across the country. She is a regular performer at Meltdown with Jonah and Kumail, The Laugh Factory in Hollywood, The Hollywood Improv, the Upright Citizens Brigade theatre, and was chosen to perform her hour at the Nerdmelt showroom for An Evening with Lisa Best. She has been showcased by Comedy Central and IFC, and has been seen at The Laugh Factory in Scottsdale, The Comedy Attic in Bloomington, Comedy Works in Denver, The Laughing Skull and The Improv in Atlanta and numerous other clubs around the county. She has been a featured performer at Sarah Silverman's 1st annual JASH Fesht in Palm Springs, All Jane Comedy Festival in Portland, Los Angeles' alternative comedy festival RIOT, and two years in a row at the Bridgetown Comedy Festival where The Portland Monthly wrote that Lisa \"has a flair for turning embarrassing stories into comedy gold.\" She is also a co-host for the Travel Channel pilot <em>Cheat Day, </em>performed stand up on Viceland’s <em>Flophouse </em>and appeared in digital sketches for Comedy Central, Funny or Die and IFC's Comedy Crib. But enough about her, how are you?</p>\n",
       "pageUrl": "16037-lisa-best"
+    },
+    {
+      "id": 16261,
+      "events": [],
+      "emceeEvents": [],
+      "name": "T.J. Chambers",
+      "twitter": "tjchambersLA",
+      "website": "http://www.imdb.com/name/nm3811789/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/17923_10153007202657530_3007057481884671315_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tjchambers-300x300.jpg",
+      "sortOrder": 92,
+      "excludeFromList": false,
+      "bio": "<p>A 10-year veteran of the Great Stand Up Wars, T.J. Chambers escaped largely unharmed and was later awarded the lauded Presidential Drink Ticket of Freedom. He now whiles away his days as a barely sought-after comedy writer in both his home port of Los Angeles and abroad. Some of his many credits include Betty White&#039;s Off Their Rockers (starring old people!) and Dancing With The Stars (watched by old people!). A few groups of letters that have seen fit to trade him money for jokes are NBC, Fox, MTV, ITV, USA, Syfy, and Channel 4. That one has a number in it! T.J. is proud to return to Bridgetown.</p>\n",
+      "pageUrl": "16261-tj-chambers"
     }
   ]
 }
