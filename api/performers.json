@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15971,
+      "id": 16549,
       "events": [],
       "emceeEvents": [],
-      "name": "Robert Jenkins",
-      "twitter": "RobJComedy",
-      "website": "http://Robjcomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_5346.jpg",
-      "photoUrl": "/api/img/performer-images/performer-robertjenkins-300x300.jpg",
-      "sortOrder": 36,
+      "name": "Jason Goad",
+      "twitter": "jjgoad",
+      "website": "http://www.jjgoad.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/10491239_10204184552756621_6137886026090611465_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jasongoad-300x300.jpg",
+      "sortOrder": 40,
       "excludeFromList": false,
-      "bio": "<p>Rob Jenkins uses his unique point of view, quick wit, and disarming delivery to tell you why he&#039;s right. You&#039;ll disagree, but you&#039;ll laugh anyway.</p>\n<p>A Detroit native, Rob has performed at many festivals including the Oddball Comedy &amp; Curiousity Festival, Crossroads Comedy Festival, and Laughfest where he was a 2016 participant in the Best of the Midwest Comedy Competition. Rob has appeared on the Fox Stand-Up Comedy Show “Laughs” and appeared in Dave Landau’s Detroit-based comedy “The King.” Rob has opened for Hannibal Buress, Kyle Kinane, Matt Broussard, Alonzo Bodden, Red Grant, and many others. In 2015, Rob released his first comedy CD &quot;Achievement Unlocked&quot; - it&#039;s available on iTunes, Amazon, xBox Music, and many other places.</p>\n",
-      "pageUrl": "15971-robert-jenkins"
+      "bio": "<p>Jason Goad wanted a job working the fewest hours in the day, the fewest days of the week, and didn’t require getting up early. Jason found comedy later in life after attempts at being a novelist, short-story writer, and slam poet. He has squandered multiple thousands of dot com stock-option dollars and quit a career in the culinary arts twice.</p>\n<p>Comedy is the only thing Jason hasn’t had an overwhelming desire to quit. Described as “the Scared Straight of Seattle comedy,” or “if a Lou Reed song was funny,” Jason’s comedy comes from society’s grimy corners. Making frank jokes about terrible things, Jason has been featured at the Redwood Comedy Festival, the Bumbershoot Music and Arts Festival, the 36th Annual Seattle International Comedy Competition, and has written jokes for Brian Posehn.</p>\n<p>Jason lives in Seattle, Washington.</p>\n",
+      "pageUrl": "16549-jason-goad"
     },
     {
       "id": 16103,
@@ -491,18 +491,18 @@
       "pageUrl": "16521-bri-pruett"
     },
     {
-      "id": 16768,
+      "id": 15971,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Robert Jenkins",
+      "twitter": "RobJComedy",
+      "website": "http://Robjcomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_5346.jpg",
+      "photoUrl": "/api/img/performer-images/performer-robertjenkins-300x300.jpg",
+      "sortOrder": 36,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>Rob Jenkins uses his unique point of view, quick wit, and disarming delivery to tell you why he&#039;s right. You&#039;ll disagree, but you&#039;ll laugh anyway.</p>\n<p>A Detroit native, Rob has performed at many festivals including the Oddball Comedy &amp; Curiousity Festival, Crossroads Comedy Festival, and Laughfest where he was a 2016 participant in the Best of the Midwest Comedy Competition. Rob has appeared on the Fox Stand-Up Comedy Show “Laughs” and appeared in Dave Landau’s Detroit-based comedy “The King.” Rob has opened for Hannibal Buress, Kyle Kinane, Matt Broussard, Alonzo Bodden, Red Grant, and many others. In 2015, Rob released his first comedy CD &quot;Achievement Unlocked&quot; - it&#039;s available on iTunes, Amazon, xBox Music, and many other places.</p>\n",
+      "pageUrl": "15971-robert-jenkins"
     },
     {
       "id": 16519,
@@ -547,18 +547,18 @@
       "pageUrl": "16508-andrew-orolfo"
     },
     {
-      "id": 16549,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Jason Goad",
-      "twitter": "jjgoad",
-      "website": "http://www.jjgoad.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/10491239_10204184552756621_6137886026090611465_n.jpg",
-      "photoUrl": "/api/img/performer-images/performer-jasongoad-300x300.jpg",
-      "sortOrder": 40,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Jason Goad wanted a job working the fewest hours in the day, the fewest days of the week, and didn’t require getting up early. Jason found comedy later in life after attempts at being a novelist, short-story writer, and slam poet. He has squandered multiple thousands of dot com stock-option dollars and quit a career in the culinary arts twice.</p>\n<p>Comedy is the only thing Jason hasn’t had an overwhelming desire to quit. Described as “the Scared Straight of Seattle comedy,” or “if a Lou Reed song was funny,” Jason’s comedy comes from society’s grimy corners. Making frank jokes about terrible things, Jason has been featured at the Redwood Comedy Festival, the Bumbershoot Music and Arts Festival, the 36th Annual Seattle International Comedy Competition, and has written jokes for Brian Posehn.</p>\n<p>Jason lives in Seattle, Washington.</p>\n",
-      "pageUrl": "16549-jason-goad"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16593,
@@ -993,6 +993,118 @@
       "excludeFromList": false,
       "bio": "<p>Brad Silnutzer is a stand up, writer, producer, and host who was recently named one of Comedy Central’s 2016 Comics to Watch.  Brad created, produces, and hosts Brew HaHa: The Comedy Show Drinking game and has written for shows such as PENN AND TELLER: FOOL US for CW,  TALENT OVERLOAD, and THE HOOK UP for MTV.  As a young lad, Brad started his performing career as the Ovaltine boy saying such lines as, &quot;More Ovaltine Please&quot; and &quot;Mom, why are you making me do this?&quot;.  Now, he can be found wandering the streets on LA wondering why he left 2 promising careers to start doing comedy.</p>\n",
       "pageUrl": "16352-brad-silnutzer"
+    },
+    {
+      "id": 16097,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Will Weldon",
+      "twitter": "oldmanweldon",
+      "website": "http://weldon.will@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/unhappy.jpg",
+      "photoUrl": "/api/img/performer-images/performer-willweldon-300x300.jpg",
+      "sortOrder": 72,
+      "excludeFromList": false,
+      "bio": "<p>Will Weldon is a comedian who has come to recognize the futility in putting a lot of effort into writing a bio. He&#039;s performed all across North America; at the Just for Laughs Comedy Festival (twice, bragging), on Comedy Central&#039;s This Is Not Happening, and on such well known live comedy shows as The Meltdown w/Jonah &amp; Kumail, Big Terrific, Put Your Hands Together, and Whiplash. Patton Oswalt said he was a &quot;comic you don&#039;t know and should be YouTubing.&quot; Will looks forward to performing where and whenever, because it gets him out of the house.</p>\n",
+      "pageUrl": "16097-will-weldon"
+    },
+    {
+      "id": 15749,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Chris Fairbanks ",
+      "twitter": "chrisfairbanks",
+      "website": "http://www.chrisfairbanks.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/chris_fairbanks_sharks.jpg",
+      "photoUrl": "/api/img/performer-images/performer-chrisfairbanks-300x300.jpg",
+      "sortOrder": 73,
+      "excludeFromList": false,
+      "bio": "<p>CHRIS FAIRBANKS is the co-host of ALMOST GENIUS on truTV. </p>\n<p> </p>\n<p>Originally from Montana, Chris headlines comedy venues nationally. His fast paced, quirky and constantly improvised act has been showcased on Comedy Central, Conan, Last Comic Standing, Jimmy Kimmel Live, Vh1 and TruTV. Chris will also be seen in the 2016 film “Still Punching the Clown', recently appeared on @midnight w/ Chris Hardwick, and performing on Seeso (NBC’s new comedy streaming platform) and opening for Daniel Tosh. </p>\n<p>Chris’ first comedy album, “Fairbanks!” was named one of Amazon and Amazon MP3’s Top Ten of 2010. He also hosts the popular podcast, “Do You Need a Ride”, with Karen Kilgariff on All Things Comedy. They shuttle their guests to or from the airport, somewhat dangerously, in a '08 Honda Accord mobile sound studio. </p>\n<p> </p>\n<p>Chris is also self-employed as a freelance artist, illustrating for magazines, skateboards, and educational textbooks.</p>\n",
+      "pageUrl": "15749-chris-fairbanks-"
+    },
+    {
+      "id": 16474,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Andrew Sleighter",
+      "twitter": "andrewsleighter",
+      "website": "http://andrewcomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/photographedbyrobertmarejr.jpg",
+      "photoUrl": "/api/img/performer-images/performer-andrewsleighter-300x300.jpg",
+      "sortOrder": 74,
+      "excludeFromList": false,
+      "bio": "<p>Andrew Sleighter started in comedy looking for the perfect funny line to open a biography. Since then, Andrew’s laid-back style and clever writing has won him appreciation from fans and respect from his peers.</p>\n<p>A regular at colleges and comedy clubs across the country,  Andrew’s also performed (and gotten drunk) at some of the most prestigious comedy festivals in and out of the country including Bumbershoot, Bridgetown, The Cabo Comedy Festival, The Aspen Comedy  Festival, Laughing Skull, and the Johnny Carson Great American Comedy Festival.</p>\n<p>Andrew wrote and blogged for the Sports Show with Norm Macdonald on Comedy Central and was a regular on the MTV prank show Money From Strangers. He’s performed on Nuvo TV’s Stand Up &amp; Deliver, Last Comic Standing, and made his late-night stand-up debut on Conan earlier this year.</p>\n<p>Andrew’s comedy has the ability to reach wide ranges of audiences and works in a diversity of rooms. Reliable and consistent, he rarely ends a show by lighting the stage on fire out of rage. Most importantly, he’s constantly fascinated by and eager to keep learning about stand-up.</p>\n",
+      "pageUrl": "16474-andrew-sleighter"
+    },
+    {
+      "id": 16800,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Sean Jordan",
+      "twitter": "SeanSJordan",
+      "website": "http://seanjordancomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/denver.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seanjordan-300x300.jpg",
+      "sortOrder": 75,
+      "excludeFromList": false,
+      "bio": "<p>Sean is a stand up comedian living in Los Angeles by way of South Dakota.  He made it out even though South Dakota is the greatest state in the country!  Sean spent his formative years in Portland OR where voted the funniest person in 2014.  In 2015 he was named one of the &quot;Comics to Watch&quot; by Splitsider and in 2016 was awarded the same title by Comedy Central.  Sean moved to Los Angeles almost a year ago where he waisted no time digging into the stand up scene performing on the top shows in the city while also maintaining a non stop touring schedule.  If you&#039;re a podcast fan then you&#039;ve most likely heard Sean as a regular guest and fan favorite on Doug Benson&#039;s podcast Doug Loves Movies.  You may have also heard him on Professor Blastoff, The Crabfeast, All Fantasy Everything, Competitive Erotic Fan Fiction, Put Your Hands Together and ARIYNBF (Alison Rosen is Your New Best Friend).  Sean is no stranger to the festival circuit doing festivals like this one all over the country.  Those festivals include: Sketchfest in San Francisco, High Plains Comedy Festival in Denver and CROM Comedy Fest in Omaha to name a few.  Sean was also a part time staff writer on Live Wire radio and just recently wrapped up as a member of a writing team for a Comedy Central pilot.</p>\n",
+      "pageUrl": "16800-sean-jordan"
+    },
+    {
+      "id": 16687,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brody Stevens",
+      "twitter": "",
+      "website": "http://brodystevens.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/brody.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brodystevens-300x300.jpg",
+      "sortOrder": 76,
+      "excludeFromList": false,
+      "bio": "<p><strong>BRODY STEVENS</strong> was the executive producer and star of the unique Comedy Central TV series Brody Stevens: Enjoy It! Other credits include Conan, Chelsea Lately, @Midnight, Premium Blend, TMZ, The Late Late Show with Craig Kilborn, Late World with Zach, The Best Damn Sports Show Period, Tosh.0 Fox NFL Sunday, Jesus is Magic, Due Date, and The Hangover parts 1 and 2. He has positive energy.</p>\n<p>Links to Persicope profile: <a href=\"https://www.periscope.tv/BrodyismeFriend/1ZkKznvZAavKv\">https://www.periscope.tv/BrodyismeFriend/1ZkKznvZAavKv</a></p>\n<p><strong>He has 144K periscope followers, and has amassed over “21M hearts” and is the self-described “Prince of Periscope”</strong></p>\n",
+      "pageUrl": "16687-brody-stevens"
+    },
+    {
+      "id": 15923,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Gabe Dinger",
+      "twitter": "GabeDinger",
+      "website": "http://www.GabeDinger.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
+      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
+      "sortOrder": 77,
+      "excludeFromList": false,
+      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
+      "pageUrl": "15923-gabe-dinger"
+    },
+    {
+      "id": 16212,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Nathan Brannon",
+      "twitter": "nathanbrannon",
+      "website": "http://www.nathanbrannon.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/20160728_094253_2_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nathanbrannon-300x300.jpg",
+      "sortOrder": 78,
+      "excludeFromList": false,
+      "bio": "<p> </p>\n<p>Bio: \" Nathan is a comedian out of Portland, Oregon, who is consistently adding to his list of accomplishment year after year.  In 2016, Nathan recorded his second album, titled 'Because', with distinguished record label Kill Rock Stars. Nathan also signed with Kill Rock Stars in 2015, was the winner of the Seattle International Comedy Competition in 2014, voted into the Willamette Week's \"Portland's Funniest 5\" in 2013 while releasing his first comedy album \"I Black Out\" that same year, and was crowned “Portland’s Funniest Person” in 2012.</p>\n<p>He has been featured on national programs such as NPR's 'Weekend Edition,' and 'Laughs' on Fox. Nathan has also opened for national headliners such as Dave Chappelle, Damon Wayans, Maria Bamford, and has photoshopped himself into photos with many more. Currently, Nathan is seeking a funnier way to end this paragraph. \"</p>\n",
+      "pageUrl": "16212-nathan-brannon"
+    },
+    {
+      "id": 16869,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Steven Wilber",
+      "twitter": "WilberWithAnE",
+      "website": "http://stevenstevensteven.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/photofunia-1486527963.jpg",
+      "photoUrl": "/api/img/performer-images/performer-stevenwilber-300x300.jpg",
+      "sortOrder": 79,
+      "excludeFromList": false,
+      "bio": "<p>Steven Wilber (born July 31, 1962) is an American actor, film producer and martial artist.<br />\nHis prominent film roles include New Jack City (1991), White Men Can&#039;t Jump (1992) and the Marvel Comics character Blade in the Blade film trilogy (1998–2004).<br />\nHe formed a production company, Amen-Ra Films, in 1991, and a subsidiary, Black Dot Media, to develop projects for film and television.<br />\nHe has been training in martial arts since the age of 12, earning a 5th dan black belt in Shotokan Karate and 2nd dan black belt in Hapkido.</p>\n",
+      "pageUrl": "16869-steven-wilber"
     }
   ]
 }
