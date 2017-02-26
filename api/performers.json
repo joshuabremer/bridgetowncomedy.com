@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16904,
+      "id": 15977,
       "events": [],
       "emceeEvents": [],
-      "name": "Anthony Atamanuik",
-      "twitter": "TonyAtamanuik",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/atamanuik_headshot_2.jpg",
-      "photoUrl": "/api/img/performer-images/performer-anthonyatamanuik-300x300.jpg",
-      "sortOrder": 47,
+      "name": "Drennon Davis",
+      "twitter": "DrennonDavis",
+      "website": "http://www.drennondavis.org/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/drennon_davis_01_-_photo_by_mandee_johnson_-_www.mandeejohnson.com_-_c_mjp_cleftclips.jpg",
+      "photoUrl": "/api/img/performer-images/performer-drennondavis-300x300.jpg",
+      "sortOrder": 48,
       "excludeFromList": false,
-      "bio": "<p>Anthony Atamanuik is a comedian and actor in New York City. He is a member of the legendary improv team DEATH BY ROO ROO and is the co-host of ASSSSCAT3000 at UCB New York. Anthony has appeared on 30 ROCK, BROAD CITY, HULU&#039;s DIFFICULT PEOPLE, DINNER WITH BRETT GELMAN specials on Adult Swim, MTV&#039;s TEACHERS LOUNGE and as himself, bar tending on Bravo&#039;s WATCH WHAT HAPPENS LIFE. As Donald Trump, Anthony is one-half of TRUMP VS. BERNIE, a comedy debate act that includes a memorable guest appearance on Comedy Central and two TV specials for Fusion, along with a live international tour in 2016.</p>\n<p>You can see him on a variety of platforms, College Humor, Funny Or Die, Comedy Central Digital and even a ViewMaster photo series by Colbert Show writer Erik Drysdale </p>\n<p>Anthony will be appearing in upcoming episodes of USED PEOPLE and the feature film THE OUTSKIRTS.</p>\n",
-      "pageUrl": "16904-anthony-atamanuik"
+      "bio": "<p>From his elaborate characters and sketches, to his provocative songs and animation, Drennon has made a name for himself as one of the most innovative minds in today’s comedy scene. His live performances of the Imaginary Radio Program combine live music and beat-boxing with one-man sketches into a show that the Los Angeles Comedy Bureau writes \"not only lives up to its name, but exceeds expectation in what you could possibly think it is.\"</p>\n<p>Drennon recently appeared on TBS’s <em>Conan</em>, and has previously appeared on Comedy Central's <em>Adam Devine's House Party</em>, NBC's <em>Last Call</em> and was a semifinalist on <em>Last Comic Standing</em>.  His animated show The Long Legs can be seen on MTV's New Liquid Television. Drennon also provided the theme song to Seeso’s <em>The Show Show</em>, which also features Drennon’s Imaginary Radio Program live show.</p>\n<p>He was featured in LA Weekly's Top 10 Comedy Acts to Watch in 2014 and 2015 Best Comedy Duo (with Karen Kilgariff), as well as Splitsider's Top 10 Up &amp; Coming Acts in LA in 2015. Drennon is a recurring presence at comedy festivals all over the world including the Edinburgh Fringe Festival, SXSW, Riot LA Alternative Comedy Festival, San Francisco’s Sketchfest, Vancouver Comedy Festival, the Oddball Comedy Festival and many more!</p>\n",
+      "pageUrl": "15977-drennon-davis"
     },
     {
       "id": 16103,
@@ -645,6 +645,20 @@
       "pageUrl": "16903-matt-knudsen-"
     },
     {
+      "id": 16904,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Anthony Atamanuik",
+      "twitter": "TonyAtamanuik",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/atamanuik_headshot_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-anthonyatamanuik-300x300.jpg",
+      "sortOrder": 47,
+      "excludeFromList": false,
+      "bio": "<p>Anthony Atamanuik is a comedian and actor in New York City. He is a member of the legendary improv team DEATH BY ROO ROO and is the co-host of ASSSSCAT3000 at UCB New York. Anthony has appeared on 30 ROCK, BROAD CITY, HULU&#039;s DIFFICULT PEOPLE, DINNER WITH BRETT GELMAN specials on Adult Swim, MTV&#039;s TEACHERS LOUNGE and as himself, bar tending on Bravo&#039;s WATCH WHAT HAPPENS LIFE. As Donald Trump, Anthony is one-half of TRUMP VS. BERNIE, a comedy debate act that includes a memorable guest appearance on Comedy Central and two TV specials for Fusion, along with a live international tour in 2016.</p>\n<p>You can see him on a variety of platforms, College Humor, Funny Or Die, Comedy Central Digital and even a ViewMaster photo series by Colbert Show writer Erik Drysdale </p>\n<p>Anthony will be appearing in upcoming episodes of USED PEOPLE and the feature film THE OUTSKIRTS.</p>\n",
+      "pageUrl": "16904-anthony-atamanuik"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -657,20 +671,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 15977,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Drennon Davis",
-      "twitter": "DrennonDavis",
-      "website": "http://www.drennondavis.org/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/drennon_davis_01_-_photo_by_mandee_johnson_-_www.mandeejohnson.com_-_c_mjp_cleftclips.jpg",
-      "photoUrl": "/api/img/performer-images/performer-drennondavis-300x300.jpg",
-      "sortOrder": 48,
-      "excludeFromList": false,
-      "bio": "<p>From his elaborate characters and sketches, to his provocative songs and animation, Drennon has made a name for himself as one of the most innovative minds in today’s comedy scene. His live performances of the Imaginary Radio Program combine live music and beat-boxing with one-man sketches into a show that the Los Angeles Comedy Bureau writes \"not only lives up to its name, but exceeds expectation in what you could possibly think it is.\"</p>\n<p>Drennon recently appeared on TBS’s <em>Conan</em>, and has previously appeared on Comedy Central's <em>Adam Devine's House Party</em>, NBC's <em>Last Call</em> and was a semifinalist on <em>Last Comic Standing</em>.  His animated show The Long Legs can be seen on MTV's New Liquid Television. Drennon also provided the theme song to Seeso’s <em>The Show Show</em>, which also features Drennon’s Imaginary Radio Program live show.</p>\n<p>He was featured in LA Weekly's Top 10 Comedy Acts to Watch in 2014 and 2015 Best Comedy Duo (with Karen Kilgariff), as well as Splitsider's Top 10 Up &amp; Coming Acts in LA in 2015. Drennon is a recurring presence at comedy festivals all over the world including the Edinburgh Fringe Festival, SXSW, Riot LA Alternative Comedy Festival, San Francisco’s Sketchfest, Vancouver Comedy Festival, the Oddball Comedy Festival and many more!</p>\n",
-      "pageUrl": "15977-drennon-davis"
     },
     {
       "id": 16912,
@@ -1287,6 +1287,34 @@
       "excludeFromList": false,
       "bio": "<p>A 10-year veteran of the Great Stand Up Wars, T.J. Chambers escaped largely unharmed and was later awarded the lauded Presidential Drink Ticket of Freedom. He now whiles away his days as a barely sought-after comedy writer in both his home port of Los Angeles and abroad. Some of his many credits include Betty White&#039;s Off Their Rockers (starring old people!) and Dancing With The Stars (watched by old people!). A few groups of letters that have seen fit to trade him money for jokes are NBC, Fox, MTV, ITV, USA, Syfy, and Channel 4. That one has a number in it! T.J. is proud to return to Bridgetown.</p>\n",
       "pageUrl": "16261-tj-chambers"
+    },
+    {
+      "id": 16147,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Carolyn Busa",
+      "twitter": "misstoiletslave",
+      "website": "http://www.carolynbusa.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/carolyn.jpg",
+      "photoUrl": "/api/img/performer-images/performer-carolynbusa-300x300.jpg",
+      "sortOrder": 93,
+      "excludeFromList": false,
+      "bio": "<p>Carolyn Busa began her comedy career on the stages of poorly-lit bars all over Philadelphia. She now lives in NYC and has performed at the Bridgetown Comedy Festival, Boston Comedy Festival, &amp; on Good Day New York. She is the proud creator &amp; producer of Side Ponytail, a stand-up comedy show in Brooklyn rated a Time Out NY Critic&#039;s Pick. Carolyn is also the creator of the Instagram account OnlySeatTaken featured on Gothamist and Daily Mail. She may have even unsuccessfully auditioned for America&#039;s Next Top Model. Twice</p>\n",
+      "pageUrl": "16147-carolyn-busa"
+    },
+    {
+      "id": 15722,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Amy Miller",
+      "twitter": "amymiller",
+      "website": "http://amymillercomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_0138.png",
+      "photoUrl": "/api/img/performer-images/performer-amymiller-300x300.jpg",
+      "sortOrder": 94,
+      "excludeFromList": false,
+      "bio": "<p>Amy Miller is a fast-rising talent on the West Coast and national scene. Originally from Oakland, California Amy found her comedy chops in the Bay Area scene and is still a favorite at the San Francisco Punch Line and Cobb’s Comedy Club. After a move to Portland, Amy quickly rose to the top of the Northwest comedy scene, winning Portland’s Funniest Comedian in Helium Comedy Club’s contest, as well as being voted Portland’s Funniest 2013 and 2015 in the Willamette Week. Amy was a breakout favorite in Season 9 of Last Comic Standing. Roseanne Barr called her “a star” and a “contender for next alpha female comedian.” Keenen Ivory Wayans said she had one of the “fiercest jokes he had ever heard.” Amy works comedy clubs and festivals around the country, working with headliners from Norm Macdonald to Arsenio Hall to singer Ryan Adams.</p>\n<p>Recent credits:<br />\n- Last Comic Standing Semi-Finalist, Season 9<br />\n- Viceland&#039;s Flophouse, featured comic<br />\n- Doug Loves Movies, regular guest<br />\n- Winner, Portland’s Funniest Person, Helium Comedy Club<br />\n- Album being released on Kill Rock Stars November 25th<br />\n- First woman to win Helium&#039;s contest<br />\n- San Francisco Sketchfest multiple years<br />\n- Bridgetown Comedy Festival multiple years<br />\n- Riot LA Festival<br />\n- NPR’s Marketplace<br />\n- The Bennington Show</p>\n",
+      "pageUrl": "15722-amy-miller"
     }
   ]
 }
