@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16657,
+      "id": 15979,
       "events": [],
       "emceeEvents": [],
-      "name": "Brooke Van Poppelen",
-      "twitter": "BVPcomedy",
-      "website": "http://www.brookevanpoppelen.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bvp_headshot_blonde.jpg",
-      "photoUrl": "/api/img/performer-images/performer-brookevanpoppelen-300x300.jpg",
-      "sortOrder": 61,
+      "name": "Hampton Yount",
+      "twitter": "Hamptonyount",
+      "website": "http://www.hamptonyount.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/hampton_yount_standup.jpg",
+      "photoUrl": "/api/img/performer-images/performer-hamptonyount-300x300.jpg",
+      "sortOrder": 62,
       "excludeFromList": false,
-      "bio": "<p>Brooke Van Poppelen is a NYC based comic, actress, writer, and host of Hack My Life on truTV and Season Three starts airing in January 2017! Brooke has appeared on The Nightly Show with Larry Wilmore, @Midnightand John Oliver’s New York Stand Up Show on Comedy Central, The Late Late Show with Craig Ferguson on CBS, IFC’s Comedy Drop and Night Train hosted by Wyatt Cenac for NBC’s See So. She has appeared as a guest on ABC’s The View and Dr. Oz and also as a talking head &amp; panelist on multiple MTV, truTV &amp; vh1 shows. Brooke worked as a writer &amp; producer for several seasons of Girl Code and Guy Code and many other MTV shows. Her first comedy album, Hard Feelings was released by <a href=\"http://www.surethingrecords.com/\" target=\"_blank\">Sure Thing ATX</a> in October and hit #1 on iTunes.</p>\n<p>Brooke can be seen in the web series <a href=\"http://www.seeingotherpeopleseries.com/\" target=\"_blank\">Seeing Other People</a> which she co-wrote and co-stars in with Giulia Rozzi. The six episode web series has been gathering attention from the likes of <a href=\"http://www.ifc.com/fix/2015/03/seeing-other-people\" target=\"_blank\">IFC.com</a>, <a href=\"http://www.glamour.com/entertainment/blogs/obsessed/2015/04/best-web-series-other-space/\" target=\"_blank\">Glamour</a>, &amp; <a href=\"http://www.laughspin.com/2015/03/20/seeing-other-people-hilarious-web-series-probes-the-awkwardness-of-a-bff-breakup/\" target=\"_blank\">Laugh Spin</a>.</p>\n<p>Brooke’s stand up comedy has been praised by <a href=\"http://splitsider.com/2015/04/the-next-wave-2015-the-top-up-and-coming-comics-in-new-york/\" target=\"_blank\">Splitsider</a>, <a href=\"http://www.esquire.com/news-politics/g1229/best-new-comedians-2012/\" target=\"_blank\">Esquire</a>, and <a href=\"http://nyc.brightestyoungthings.com/articles/brook-van-poppelen.htm\" target=\"_blank\">Brightest Young Things</a>. She was recently selected for the Headliners Showcase as part of the Melbourne International Comedy Festival and has also performed at The Bentzen Ball, Riot Fest LA, SXSW, The Eugene Mirman Comedy Festival and Bridgetown and returned to <a href=\"http://www.sxsw.com/interactive/news/2016/interactive-innovation-award-finalists-and-emcee-announced\" target=\"_blank\">SXSW 2016 as host of the Interactive Awards Ceremony</a>.</p>\n<p>In NYC &amp; LA she performs at UCB on shows like Whiplash or Fresh Out! In Brooklyn she can be seen at Union Hall — a lot — especially on her show Comfort Zone which she hosts with singer songwriter <a href=\"http://julianvelard.tumblr.com/\" target=\"_blank\">Julian Velard</a>.</p>\n<p>Prior to NYC she performed and trained in Chicago at IO, The Second City, and The Playground Theater. Brooke hails from the Detroit suburbs and loves coney dogs.</p>\n",
-      "pageUrl": "16657-brooke-van-poppelen"
+      "bio": "<p>Hampton is a comedian and is also a human being filled with blood and guts. </p>\n<p> </p>\n<p>He started comedy in DC and later moved to LA where he’s currently working as a writer and performer. Please hire him (me, it’s always been me)</p>\n<p> </p>\n<p>He’s written and produced for:</p>\n<p>Ridiculousness on MTV</p>\n<p>The Eric Andre Show</p>\n<p>Loiter Squad</p>\n<p>The Meltdown</p>\n<p>Mystery Science Theater 3000</p>\n<p> </p>\n<p>Hampton has performed his stand up on Conan, Comedy Central, MTV, and for multiple festivals:</p>\n<p>Just For Laughs</p>\n<p>SXSW</p>\n<p>FYF</p>\n<p>Bridgetown Comedy Festival</p>\n<p>Oddball Comedy Fest</p>\n<p>New York Comedy Festival</p>\n<p>Comedy Central South Beach Festival</p>\n<p> </p>\n<p>Currently he is the voice of Crow T. Robot on Mystery Science Theater 3000 coming soon to Netflix. </p>\n<p> </p>\n<p>He has a new album out called \"Bearable\" that is his follow up to \"Unbearable\" and Joss Whedon called it “very funny” right before quitting twitter.</p>\n<p> </p>\n<p>His new hour of material is hella tight.</p>\n",
+      "pageUrl": "15979-hampton-yount"
     },
     {
       "id": 16103,
@@ -841,6 +841,20 @@
       "pageUrl": "16177-andy-erikson"
     },
     {
+      "id": 16657,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brooke Van Poppelen",
+      "twitter": "BVPcomedy",
+      "website": "http://www.brookevanpoppelen.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bvp_headshot_blonde.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brookevanpoppelen-300x300.jpg",
+      "sortOrder": 61,
+      "excludeFromList": false,
+      "bio": "<p>Brooke Van Poppelen is a NYC based comic, actress, writer, and host of Hack My Life on truTV and Season Three starts airing in January 2017! Brooke has appeared on The Nightly Show with Larry Wilmore, @Midnightand John Oliver’s New York Stand Up Show on Comedy Central, The Late Late Show with Craig Ferguson on CBS, IFC’s Comedy Drop and Night Train hosted by Wyatt Cenac for NBC’s See So. She has appeared as a guest on ABC’s The View and Dr. Oz and also as a talking head &amp; panelist on multiple MTV, truTV &amp; vh1 shows. Brooke worked as a writer &amp; producer for several seasons of Girl Code and Guy Code and many other MTV shows. Her first comedy album, Hard Feelings was released by <a href=\"http://www.surethingrecords.com/\" target=\"_blank\">Sure Thing ATX</a> in October and hit #1 on iTunes.</p>\n<p>Brooke can be seen in the web series <a href=\"http://www.seeingotherpeopleseries.com/\" target=\"_blank\">Seeing Other People</a> which she co-wrote and co-stars in with Giulia Rozzi. The six episode web series has been gathering attention from the likes of <a href=\"http://www.ifc.com/fix/2015/03/seeing-other-people\" target=\"_blank\">IFC.com</a>, <a href=\"http://www.glamour.com/entertainment/blogs/obsessed/2015/04/best-web-series-other-space/\" target=\"_blank\">Glamour</a>, &amp; <a href=\"http://www.laughspin.com/2015/03/20/seeing-other-people-hilarious-web-series-probes-the-awkwardness-of-a-bff-breakup/\" target=\"_blank\">Laugh Spin</a>.</p>\n<p>Brooke’s stand up comedy has been praised by <a href=\"http://splitsider.com/2015/04/the-next-wave-2015-the-top-up-and-coming-comics-in-new-york/\" target=\"_blank\">Splitsider</a>, <a href=\"http://www.esquire.com/news-politics/g1229/best-new-comedians-2012/\" target=\"_blank\">Esquire</a>, and <a href=\"http://nyc.brightestyoungthings.com/articles/brook-van-poppelen.htm\" target=\"_blank\">Brightest Young Things</a>. She was recently selected for the Headliners Showcase as part of the Melbourne International Comedy Festival and has also performed at The Bentzen Ball, Riot Fest LA, SXSW, The Eugene Mirman Comedy Festival and Bridgetown and returned to <a href=\"http://www.sxsw.com/interactive/news/2016/interactive-innovation-award-finalists-and-emcee-announced\" target=\"_blank\">SXSW 2016 as host of the Interactive Awards Ceremony</a>.</p>\n<p>In NYC &amp; LA she performs at UCB on shows like Whiplash or Fresh Out! In Brooklyn she can be seen at Union Hall — a lot — especially on her show Comfort Zone which she hosts with singer songwriter <a href=\"http://julianvelard.tumblr.com/\" target=\"_blank\">Julian Velard</a>.</p>\n<p>Prior to NYC she performed and trained in Chicago at IO, The Second City, and The Playground Theater. Brooke hails from the Detroit suburbs and loves coney dogs.</p>\n",
+      "pageUrl": "16657-brooke-van-poppelen"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -853,20 +867,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 15979,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Hampton Yount",
-      "twitter": "Hamptonyount",
-      "website": "http://www.hamptonyount.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/hampton_yount_standup.jpg",
-      "photoUrl": "/api/img/performer-images/performer-hamptonyount-300x300.jpg",
-      "sortOrder": 62,
-      "excludeFromList": false,
-      "bio": "<p>Hampton is a comedian and is also a human being filled with blood and guts. </p>\n<p> </p>\n<p>He started comedy in DC and later moved to LA where he’s currently working as a writer and performer. Please hire him (me, it’s always been me)</p>\n<p> </p>\n<p>He’s written and produced for:</p>\n<p>Ridiculousness on MTV</p>\n<p>The Eric Andre Show</p>\n<p>Loiter Squad</p>\n<p>The Meltdown</p>\n<p>Mystery Science Theater 3000</p>\n<p> </p>\n<p>Hampton has performed his stand up on Conan, Comedy Central, MTV, and for multiple festivals:</p>\n<p>Just For Laughs</p>\n<p>SXSW</p>\n<p>FYF</p>\n<p>Bridgetown Comedy Festival</p>\n<p>Oddball Comedy Fest</p>\n<p>New York Comedy Festival</p>\n<p>Comedy Central South Beach Festival</p>\n<p> </p>\n<p>Currently he is the voice of Crow T. Robot on Mystery Science Theater 3000 coming soon to Netflix. </p>\n<p> </p>\n<p>He has a new album out called \"Bearable\" that is his follow up to \"Unbearable\" and Joss Whedon called it “very funny” right before quitting twitter.</p>\n<p> </p>\n<p>His new hour of material is hella tight.</p>\n",
-      "pageUrl": "15979-hampton-yount"
     },
     {
       "id": 16042,
@@ -1679,6 +1679,48 @@
       "excludeFromList": false,
       "bio": "<p>Winner of Just For Laugh&#039;s 2011 Irwin Barker Homegrown Comic Award and NOW Magazine&#039;s 2011 Best of Toronto Award for Best Male Stand-up in 2011, a Canadian Comedy Award-nominee for Best Stand-up in 2012 and another nomination for NOW Magazine&#039;s Best of Toronto Award in 2013. Merheje was profiled as one of Canada&#039;s next breakout stars on CBC Radio One&#039;s Laugh Out Loud. He has been featured on CBC Radio One&#039;s The Debaters, XM Radio&#039;s Laugh Attack, Bite TV&#039;s Stand Up with Bite and Stand up &amp; Bite Me Competition, MTV&#039;s MTV Showtown, MuchMusic&#039;s Video on Trial and Stars Gone Wild, MTV&#039;sCocktails and The Comedy Network short Worst Gig Ever.</p>\n",
       "pageUrl": "16435-dave-merheje-"
+    },
+    {
+      "id": 16917,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Dave Hill",
+      "twitter": "mrdavehill",
+      "website": "http://davehillonline.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dave-hill1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-davehill-300x300.jpg",
+      "sortOrder": 121,
+      "excludeFromList": false,
+      "bio": "<p>Dave Hill is a comedian, writer, musician, actor, radio host, and man-about-town originally from Cleveland, Ohio but now living in New York City in a totally sweet apartment with a party deck and everything. Hot chicks come over to hang out and eat cheese plates and stuff with him all the time and it’s awesome.</p>\n<p>Anyway, on the show business front, Dave has appeared on Comedy Central’s <em>@midnight</em> and<em> Inside Amy Schumer</em> programs, TBS' <em>Full Frontal with Samantha Bee, </em>and TruTV's <em>Comedy Knockout</em> others. He is a frequent on-air host for HBO and Cinemax and has been on channels like MTV, VH1, BBC-America, and the Sundance Channel a whole bunch too. Dave also starred in his own television program <em>The King of Miami</em> on the Mojo Network, which was cancelled even though Dave really liked it. The show also aired in the United Kingdom on Sky TV’s Film24 Channel. And you can still watch <a href=\"http://www.hulu.com/search?q=King+of+Miami\"><em>The King of Miami</em> on Hulu</a> too, which Dave is super pumped about. Oh, and Dave was a correspondent on <em>Hoppus on Music</em> starring Blink 182’s Mark Hoppus on the Fuse channel, which ruled. Dave has been on other shows and in obscure movies too but let’s keep moving for now.</p>\n<p>Dave performs live comedy over the world and has appeared at such festivals as the Melbourne International Comedy Festival, San Francisco Sketchfest, the Edinburgh Fringe Festival, the U.S. Comedy Arts Festival in Aspen, Sasquatch Festival, Bumbershoot, Bonnaroo, the Bridgetown Comedy Festival in Portland, the Crap Comedy Festival in Oslo, Outside Lands in San Francisco, and then some other ones too. He has also performed comedy at Sing Sing Correctional Facility twice and even ripped some guitar solos inside a Mexican prison once. In 2007, <em>Variety</em> magazine named Dave one of their “10 Comedians to Watch,” something he still won’t shut up about..</p>\n<p>Dave is also a musician who currently sings and plays guitar in the power pop band Valley Lodge, whose song “Go” is the theme song to HBO’s <em>Last Week Tonight with John Oliver</em>. He was also a member of Cleveland rock bands Sons of Elvis and Cobra Verde as well as Diamondsnake, a heavy metal band with Moby. Additionally, Dave has played guitar for Walter Schreifels and muscle metal band Thor and bass for Lucy Wainwright Roche and former Faith No More singer Chuck Mosley. He also contributed musical stores to films such as <em>Dirty Deeds</em>, <em>Shoot First and Pray You Live</em>, and then some other ones besides those two.</p>\n<p>Dave has made out with a lot of chicks, is sweet at guitar, and smells really great. You can ask anyone.</p>\n",
+      "pageUrl": "16917-dave-hill"
+    },
+    {
+      "id": 16918,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Matt Braunger",
+      "twitter": "Braunger",
+      "website": "http://www.mattbraunger.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/1046_matt_braunger_07.23.15_07-1438.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattbraunger-300x300.jpg",
+      "sortOrder": 122,
+      "excludeFromList": false,
+      "bio": "<p>Matt Braunger was raised in Portland, Oregon. A headlining comedian since 2007 and an actor since childhood, Matt studied theatre in New York and improvisation in Chicago.</p>\n<p>Matt’s television credits include a recurring role on ABC’s \"Agent Carter,\" NBC’s \"Up All Night,\" a series regular role on \"MADtv,\" as well as appearances on \"BoJack<br />\nHorseman,\" \"Garfunkel and Oates,\" \"Maron,\" HBO’s \"Family Tree,\" \"The Michael J Fox Show,\" \"Happy Endings,\" \"CONAN,\" \"The Tonight Show with Conan O’Brien,\" \"The Late Show with David Letterman,\" \"The Pete Holmes Show,\" \"United States of Tara,\" \"Pushing Daisies,\" \"Carpoolers,\" \"The Late Late Show with Craig Ferguson, \" \"Acceptable TV,\" and \"Live At Gotham.\" He was also a regular guest on the \"Chelsea Lately\" roundtable and \"@midnight.\" Most recently Matt joined the cast of the popular TruTV series \"How to Be a Grown Up,\" and appeared in Showtime’s \"SXSW Comedy with W. Kamau Bell\" and Comedy Central’s \"The Meltdown.\"</p>\n<p>He won the 2008 “Best Of The Fest” at the inaugural Rooftop Comedy Festival in Aspen. In 2009, he was named to Variety’s Top 10 \"Comics to Watch,\" and Comedy Central’s \"Hot 9 in ’09\" list, his debut album \"Soak Up The Night\" was released by Comedy Central Records and he was named to the iTunes REWIND \"Top 20 Albums of 2009.\" In 2010, he recorded his half hour Comedy Central Presents special and in 2012 released his debut hour-long special entitled \"Shovel Fighter,\" also released as an album. Matt’s latest hour-long comedy special, \"Big, Dumb Animal\" is now available on Netflix.</p>\n<p>Along with touring comedy clubs across the country, Matt is also a regular at the Upright Citizens Brigade in Los Angeles, and he headlined the Old Milwaukee Comedy Tour for Funny Or Die in 2013. Matt has also performed at a variety of prestigious comedy festivals including the Just For Laughs Festival in Montreal and Chicago, The TBS Comedy Festival Las Vegas, and South By Southwest. Matt also co-founded the popular Bridgetown Comedy Festival that takes place annually in Portland.</p>\n",
+      "pageUrl": "16918-matt-braunger"
+    },
+    {
+      "id": 16898,
+      "events": [],
+      "emceeEvents": [],
+      "name": "JO FIRESTONE",
+      "twitter": "kingfirestorm",
+      "website": "http://www.jofirestone.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jo_firestone.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jofirestone-300x300.jpg",
+      "sortOrder": 123,
+      "excludeFromList": false,
+      "bio": "<p><em>Jo Firestone was selected as one 2016’s New Faces at JFL, and is becoming a staple at comedy festivals around the United States for her unique, left of center voice.  She is the co-creator and star of the popular RIOT digital series, WOMANHOOD.  She is also the creator and producer of 16 active live comedy shows in New York, including FRIENDS OF SINGLE PEOPLE, which is being developed for television.  She and her father host the long-running NY show PUNDERDOME 3000, which was recently made into a card game published by Random House.  It is currently the #1 bestselling card game <a href=\"https://www.amazon.com/Punderdome-Card-Game-Pun-Lovers/dp/1101905654\">Amazon</a>.</em></p>\n<p> </p>\n<p>“The most distinctive experimentalist in New York right now is Jo Firestone, who brings a radiant, big-hearted spirit to deeply committed stunts like hosting an Inner Beauty Pageant.”</p>\n<p>– <em>The New York Times</em></p>\n",
+      "pageUrl": "16898-jo-firestone"
     }
   ]
 }
