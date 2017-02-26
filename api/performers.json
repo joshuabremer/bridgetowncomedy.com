@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16593,
+      "id": 16821,
       "events": [],
       "emceeEvents": [],
-      "name": "Tony Hinchcliffe",
-      "twitter": "TonyHinchcliffe",
+      "name": "George Civeris",
+      "twitter": "georgeciveris",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot3_04192016101338_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-tonyhinchcliffe-300x300.jpg",
-      "sortOrder": 41,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/georgec.jpg",
+      "photoUrl": "/api/img/performer-images/performer-georgeciveris-300x300.jpg",
+      "sortOrder": 42,
       "excludeFromList": false,
-      "bio": "<p>A stand-up comedian considered a fresh new evolution to the now immensely popular roasting scene, Tony Hinchcliffe has worked as a staff-writer on the past five <em><strong>Comedy Central Roasts</strong></em>, including the most recent, Justin Bieber Roast, where he worked exclusively with Martha Stewart. He is also writing for the upcoming Roast of Rob Lowe. Tony hosts his own weekly show and podcast, “<em><strong>Kill Tony</strong></em>,” which has over 100k downloads per week. On the road he sells out with strong drawing power due to his podcast, being a regular on <em><strong>The Joe Rogan Experience</strong></em>, and years of opening theaters on tours with Jeffrey Ross, Joe Rogan, Dave Attell, and most recently Dave Chappelle. Here are some more of Tony's accomplishments just from 2015...NBC NYE writer, Will Ferrell one-hour special writer, <strong><em>Roast of Justin Bieber</em> writer</strong>, 311 tour opener, <em>On <strong>NBC last call w/ Carson Daly</strong></em>, Jeffrey Ross live from Prison (Comedy Central Special) writer, Congressional Correspondents Dinner writer, Dave Chappelle tour opener, and <em>Sleight of Mouth</em> Comedy Central Special writer. Most recently, Tony’s 1-hour special for Netflix, “<em><strong>One-Shot</strong></em>,” released on January 15, 2016. You can also catch Tony's roasting skills on Comedy Central's <strong>Roast Battle</strong> which took stage at the <strong>Just For Laughs</strong> Festival in Montreal this past July, 2016, as well as his stand-out performance on <strong>The Roast of Snoop Dogg.</strong></p>\n",
-      "pageUrl": "16593-tony-hinchcliffe"
+      "bio": "<p>George Civeris is a Boston-based writer and comedian who performs all over New England and New York. Most recently, he won MoveOn.org&#039;s nationwide &quot;Laughter Trumps Hate&quot; contest, which was judged by a panel that included Judd Apatow, Adam McKay, and Baratunde Thurston (<a href=\"http://www.laughtertrumpshate.com/winners\">http://www.laughtertrumpshate.com/winners</a>). Last year, he performed at the Boston Comedy Festival, and in March 2017 he will be the comic-in-residence at Boston&#039;s famous Comedy Studio. He co-produces an award-winning weekly alternative comedy showcase called The Mendoza Line. As a gay immigrant, George is feeling pretty chill about the future.</p>\n",
+      "pageUrl": "16821-george-civeris"
     },
     {
       "id": 16103,
@@ -561,6 +561,20 @@
       "pageUrl": "16549-jason-goad"
     },
     {
+      "id": 16593,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Tony Hinchcliffe",
+      "twitter": "TonyHinchcliffe",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot3_04192016101338_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tonyhinchcliffe-300x300.jpg",
+      "sortOrder": 41,
+      "excludeFromList": false,
+      "bio": "<p>A stand-up comedian considered a fresh new evolution to the now immensely popular roasting scene, Tony Hinchcliffe has worked as a staff-writer on the past five <em><strong>Comedy Central Roasts</strong></em>, including the most recent, Justin Bieber Roast, where he worked exclusively with Martha Stewart. He is also writing for the upcoming Roast of Rob Lowe. Tony hosts his own weekly show and podcast, “<em><strong>Kill Tony</strong></em>,” which has over 100k downloads per week. On the road he sells out with strong drawing power due to his podcast, being a regular on <em><strong>The Joe Rogan Experience</strong></em>, and years of opening theaters on tours with Jeffrey Ross, Joe Rogan, Dave Attell, and most recently Dave Chappelle. Here are some more of Tony's accomplishments just from 2015...NBC NYE writer, Will Ferrell one-hour special writer, <strong><em>Roast of Justin Bieber</em> writer</strong>, 311 tour opener, <em>On <strong>NBC last call w/ Carson Daly</strong></em>, Jeffrey Ross live from Prison (Comedy Central Special) writer, Congressional Correspondents Dinner writer, Dave Chappelle tour opener, and <em>Sleight of Mouth</em> Comedy Central Special writer. Most recently, Tony’s 1-hour special for Netflix, “<em><strong>One-Shot</strong></em>,” released on January 15, 2016. You can also catch Tony's roasting skills on Comedy Central's <strong>Roast Battle</strong> which took stage at the <strong>Just For Laughs</strong> Festival in Montreal this past July, 2016, as well as his stand-out performance on <strong>The Roast of Snoop Dogg.</strong></p>\n",
+      "pageUrl": "16593-tony-hinchcliffe"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -573,20 +587,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16821,
-      "events": [],
-      "emceeEvents": [],
-      "name": "George Civeris",
-      "twitter": "georgeciveris",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/georgec.jpg",
-      "photoUrl": "/api/img/performer-images/performer-georgeciveris-300x300.jpg",
-      "sortOrder": 42,
-      "excludeFromList": false,
-      "bio": "<p>George Civeris is a Boston-based writer and comedian who performs all over New England and New York. Most recently, he won MoveOn.org&#039;s nationwide &quot;Laughter Trumps Hate&quot; contest, which was judged by a panel that included Judd Apatow, Adam McKay, and Baratunde Thurston (<a href=\"http://www.laughtertrumpshate.com/winners\">http://www.laughtertrumpshate.com/winners</a>). Last year, he performed at the Boston Comedy Festival, and in March 2017 he will be the comic-in-residence at Boston&#039;s famous Comedy Studio. He co-produces an award-winning weekly alternative comedy showcase called The Mendoza Line. As a gay immigrant, George is feeling pretty chill about the future.</p>\n",
-      "pageUrl": "16821-george-civeris"
     },
     {
       "id": 16818,
@@ -1133,6 +1133,20 @@
       "excludeFromList": false,
       "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
       "pageUrl": "16876-eli-yudin"
+    },
+    {
+      "id": 16304,
+      "events": [],
+      "emceeEvents": [],
+      "name": "JR De Guzman",
+      "twitter": "jrdeguzm",
+      "website": "http://j.deguzman.r@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
+      "sortOrder": 82,
+      "excludeFromList": false,
+      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
+      "pageUrl": "16304-jr-de-guzman"
     }
   ]
 }
