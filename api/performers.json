@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15749,
+      "id": 16800,
       "events": [],
       "emceeEvents": [],
-      "name": "Chris Fairbanks ",
-      "twitter": "chrisfairbanks",
-      "website": "http://www.chrisfairbanks.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/chris_fairbanks_sharks.jpg",
-      "photoUrl": "/api/img/performer-images/performer-chrisfairbanks-300x300.jpg",
-      "sortOrder": 71,
+      "name": "Sean Jordan",
+      "twitter": "SeanSJordan",
+      "website": "http://seanjordancomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/denver.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seanjordan-300x300.jpg",
+      "sortOrder": 73,
       "excludeFromList": false,
-      "bio": "<p>CHRIS FAIRBANKS is the co-host of ALMOST GENIUS on truTV. </p>\n<p> </p>\n<p>Originally from Montana, Chris headlines comedy venues nationally. His fast paced, quirky and constantly improvised act has been showcased on Comedy Central, Conan, Last Comic Standing, Jimmy Kimmel Live, Vh1 and TruTV. Chris will also be seen in the 2016 film “Still Punching the Clown', recently appeared on @midnight w/ Chris Hardwick, and performing on Seeso (NBC’s new comedy streaming platform) and opening for Daniel Tosh. </p>\n<p>Chris’ first comedy album, “Fairbanks!” was named one of Amazon and Amazon MP3’s Top Ten of 2010. He also hosts the popular podcast, “Do You Need a Ride”, with Karen Kilgariff on All Things Comedy. They shuttle their guests to or from the airport, somewhat dangerously, in a '08 Honda Accord mobile sound studio. </p>\n<p> </p>\n<p>Chris is also self-employed as a freelance artist, illustrating for magazines, skateboards, and educational textbooks.</p>\n",
-      "pageUrl": "15749-chris-fairbanks-"
+      "bio": "<p>Sean is a stand up comedian living in Los Angeles by way of South Dakota.  He made it out even though South Dakota is the greatest state in the country!  Sean spent his formative years in Portland OR where voted the funniest person in 2014.  In 2015 he was named one of the &quot;Comics to Watch&quot; by Splitsider and in 2016 was awarded the same title by Comedy Central.  Sean moved to Los Angeles almost a year ago where he waisted no time digging into the stand up scene performing on the top shows in the city while also maintaining a non stop touring schedule.  If you&#039;re a podcast fan then you&#039;ve most likely heard Sean as a regular guest and fan favorite on Doug Benson&#039;s podcast Doug Loves Movies.  You may have also heard him on Professor Blastoff, The Crabfeast, All Fantasy Everything, Competitive Erotic Fan Fiction, Put Your Hands Together and ARIYNBF (Alison Rosen is Your New Best Friend).  Sean is no stranger to the festival circuit doing festivals like this one all over the country.  Those festivals include: Sketchfest in San Francisco, High Plains Comedy Festival in Denver and CROM Comedy Fest in Omaha to name a few.  Sean was also a part time staff writer on Live Wire radio and just recently wrapped up as a member of a writing team for a Comedy Central pilot.</p>\n",
+      "pageUrl": "16800-sean-jordan"
     },
     {
       "id": 16103,
@@ -981,18 +981,18 @@
       "pageUrl": "16097-will-weldon"
     },
     {
-      "id": 16768,
+      "id": 15749,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Chris Fairbanks ",
+      "twitter": "chrisfairbanks",
+      "website": "http://www.chrisfairbanks.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/chris_fairbanks_sharks.jpg",
+      "photoUrl": "/api/img/performer-images/performer-chrisfairbanks-300x300.jpg",
+      "sortOrder": 71,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>CHRIS FAIRBANKS is the co-host of ALMOST GENIUS on truTV. </p>\n<p> </p>\n<p>Originally from Montana, Chris headlines comedy venues nationally. His fast paced, quirky and constantly improvised act has been showcased on Comedy Central, Conan, Last Comic Standing, Jimmy Kimmel Live, Vh1 and TruTV. Chris will also be seen in the 2016 film “Still Punching the Clown', recently appeared on @midnight w/ Chris Hardwick, and performing on Seeso (NBC’s new comedy streaming platform) and opening for Daniel Tosh. </p>\n<p>Chris’ first comedy album, “Fairbanks!” was named one of Amazon and Amazon MP3’s Top Ten of 2010. He also hosts the popular podcast, “Do You Need a Ride”, with Karen Kilgariff on All Things Comedy. They shuttle their guests to or from the airport, somewhat dangerously, in a '08 Honda Accord mobile sound studio. </p>\n<p> </p>\n<p>Chris is also self-employed as a freelance artist, illustrating for magazines, skateboards, and educational textbooks.</p>\n",
+      "pageUrl": "15749-chris-fairbanks-"
     },
     {
       "id": 16474,
@@ -1009,18 +1009,18 @@
       "pageUrl": "16474-andrew-sleighter"
     },
     {
-      "id": 16800,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Jordan",
-      "twitter": "SeanSJordan",
-      "website": "http://seanjordancomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/denver.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seanjordan-300x300.jpg",
-      "sortOrder": 73,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Sean is a stand up comedian living in Los Angeles by way of South Dakota.  He made it out even though South Dakota is the greatest state in the country!  Sean spent his formative years in Portland OR where voted the funniest person in 2014.  In 2015 he was named one of the &quot;Comics to Watch&quot; by Splitsider and in 2016 was awarded the same title by Comedy Central.  Sean moved to Los Angeles almost a year ago where he waisted no time digging into the stand up scene performing on the top shows in the city while also maintaining a non stop touring schedule.  If you&#039;re a podcast fan then you&#039;ve most likely heard Sean as a regular guest and fan favorite on Doug Benson&#039;s podcast Doug Loves Movies.  You may have also heard him on Professor Blastoff, The Crabfeast, All Fantasy Everything, Competitive Erotic Fan Fiction, Put Your Hands Together and ARIYNBF (Alison Rosen is Your New Best Friend).  Sean is no stranger to the festival circuit doing festivals like this one all over the country.  Those festivals include: Sketchfest in San Francisco, High Plains Comedy Festival in Denver and CROM Comedy Fest in Omaha to name a few.  Sean was also a part time staff writer on Live Wire radio and just recently wrapped up as a member of a writing team for a Comedy Central pilot.</p>\n",
-      "pageUrl": "16800-sean-jordan"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16687,
@@ -1959,6 +1959,62 @@
       "excludeFromList": false,
       "bio": "<p>In 2015, Drew Lynch captured the hearts of America with his Golden Buzzer performance on Season 10 of America’s Got Talent. “The person I was before would probably never hangout with who I am today” is the statement that resonated most in capturing audiences across the country, as they fell in love with Drew’s charming wit and genuine vulnerability every week of the competition. “Do something every day that scares you” is a motto Drew lives by.</p>\n<p>Drew becoming a comedian was almost as unintentional as capturing America’s hearts.  Originally from Indianapolis, at the age of 19, Drew moved to Los Angeles with aspirations of becoming an actor; a dream he had since he was a kid. An unexpected softball accident just a year into his acting career left Drew with a severe stutter and crushed his hopes of ever performing again.</p>\n<p>But his continued drive to become an entertainer forced him in a different direction, often reflecting on the “softball that humbly changed his life and gave him a career”. Drew’s vulnerabilty in dealing with his stutter and making it relatable to real-life situations propelled him each week of the competition – advancing him to the finals and ultimately landing him first runner-up on season 10 of America’s Got Talent.  Drew attributes much of his success from his ability to be honest, genuinely facing the “elephant in the room” head on.  Inspired by comedians Bo Burnham, Louis C.K, he now headlines Comedy Clubs across the country.</p>\n<p>Since his success on America’s Got Talent, Drew’s career has come full circle and he has broken back into the acting scene. Drew recently garnered a recurring role on the Marc Maron Show, has appeared on “Dr. Oz,” and as a celebrity guest on the game show “Idiot Test.” He is collaborating on a book, and ultimately becoming the actor he always dreamed of, with a now different and enlightened perspective on who he thought he was, and who he is today.</p>\n<p> </p>\n",
       "pageUrl": "16346-drew-lynch"
+    },
+    {
+      "id": 15825,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Amy Bugg",
+      "twitter": "amy_bugg",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_1_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-amybugg-300x300.jpg",
+      "sortOrder": 141,
+      "excludeFromList": false,
+      "bio": "<p>Amy Bugg knows good gravy. Dipping into snippets of her life growing up with mischievous brothers, a concerned mother and an idiosyncratic father, Amy treats audiences to a rich smothering of autobiographical laugh sauce. Her soft-spoken delivery will gently spoon happiness into your ears and leave you patting your tummies with mirthful satisfaction. Wear your stretchy pants and get ready for a belly full of delicious laughs!</p>\n<p>Amy has performed on Sled Island, CBC’s “Grown-ups Read Things They Wrote as Kids”, and Sirius Xm’s Top Comic. She was also featured in Canadian Living’s  “A Year of Firsts.”</p>\n",
+      "pageUrl": "15825-amy-bugg"
+    },
+    {
+      "id": 15858,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brodie Reed",
+      "twitter": "ayobrobro",
+      "website": "http://brodiereed.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/surewhynot.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brodiereed-300x300.jpg",
+      "sortOrder": 142,
+      "excludeFromList": false,
+      "bio": "<p>Brodie is a Los Angeles native who translates a tough, unconventional childhood into an act that expresses the desire to be understood on a broader emotional spectrum while also chronicling the pursuit of comfort. Black, nerdy, politically conscious, he has been slowing rising through the ranks of the LA comedy scene, featured in dozens of sketches and performing at venues like the Improv. and raised in Inglewood, California. He’ll transition from Black Lives Matter to Star Trek material with a genuine, trademark giggle</p>\n",
+      "pageUrl": "15858-brodie-reed"
+    },
+    {
+      "id": 15774,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Aaron Naylor",
+      "twitter": "IamAaronNaylor",
+      "website": "http://aaronnaylor.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/heeeeeeeeeeyyyyyyy.jpg",
+      "photoUrl": "/api/img/performer-images/performer-aaronnaylor-300x300.jpg",
+      "sortOrder": 143,
+      "excludeFromList": false,
+      "bio": "<p>Aaron Naylor is a stand-up comedian from Kansas City, MO. He was the winner of the 2014 Kansas City Local Comic Standing Competition, has performed at the 2015 Devils Cup Comedy Festival, the 2015 Orlando Indie Comedy Festival, the 2015 Sacramento Comedy Festival, Gilda&#039;s Laughfest 2016, the 2016 Bird City Comedy Festival, the 2016 Kansas City Comedy Festival and placed 2nd in the 2016 Cleveland Comedy Festival. Aaron has also opened for national headliners Jimmy Shubert, Bret Ernst, Ryan Hamilton, and Tony Hinchcliffe. He&#039;s been called &quot;all right&quot; by his parents and &quot;a total delight&quot; by other people who have seen him. Aaron&#039;s clever writing style and dry sense of humor is almost guaranteed to bring a smile to your face.</p>\n",
+      "pageUrl": "15774-aaron-naylor"
+    },
+    {
+      "id": 16602,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Josh Johnson",
+      "twitter": "joshjohnson",
+      "website": "http://therealjoshjohnson.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/josh.jpg",
+      "photoUrl": "/api/img/performer-images/performer-joshjohnson-300x300.jpg",
+      "sortOrder": 144,
+      "excludeFromList": false,
+      "bio": "<p>Josh Johnson, most recently featured on Kevin Hart's “Hart of the City” on Comedy Central, was named one of Comedy Central's Comics to Watch in 2015 and a ‘New Face’ at the Just For Laughs Comedy Festival in 2016. Currently a writer for “The Tonight Show Starring Jimmy Fallon” and with a calendar filled with festivals and over 70+ college dates this year alone, he is quickly becoming one of the fastest rising stars of the year. A native of Louisiana and Chicago-bred comic, Josh has performed at festivals across the country such as Bridgetown, Out of Bounds, New York Comedy Festival, and Riot LA. Josh was a 2014 NBC Stand Up for Diversity semifinalist, and the 2015 winner of Snubfest in Chicago and the Devil Cup in New York.</p>\n<p> ‘[Josh] Johnson is only 24 years old and probably shouldn’t be this good this soon.’ - The Chicago Tribune</p>\n<p>‘and we can’t do a list without mentioning Josh Johnson, who has some killer material and is going to be a serious powerhouse’- Interrobang<strong> </strong></p>\n",
+      "pageUrl": "16602-josh-johnson"
     }
   ]
 }
