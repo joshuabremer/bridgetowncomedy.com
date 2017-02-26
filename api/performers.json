@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16641,
+      "id": 15819,
       "events": [],
       "emceeEvents": [],
-      "name": "Shane Mauss",
-      "twitter": "shanecomedy",
-      "website": "http://shanemauss.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/shane.mauss_dmt.portrait_without.molecule_web.jpg",
-      "photoUrl": "/api/img/performer-images/performer-shanemauss-300x300.jpg",
-      "sortOrder": 56,
+      "name": "Lizzy Cooperman",
+      "twitter": "lizzycooperman",
+      "website": "http://lizzycooperman.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lizzy_cooperman_red.jpg",
+      "photoUrl": "/api/img/performer-images/performer-lizzycooperman-300x300.jpg",
+      "sortOrder": 59,
       "excludeFromList": false,
-      "bio": "<p>Originally from Wisconsin, Shane Mauss caught his first break when he was awarded ‘Best Stand-Up” at The HBO US Comedy Arts Festival in 2007.  This led to his TV debut and first of five appearances on Conan.<br />\n <br />\nSince that time he’s been on Jimmy Kimmel, Showtime, has had a Comedy Central Presents, a Netflix special ‘Mating Season’, and most recently released album inspired by breaking both of his feet in a hiking mishap called ‘My Big Break’ which spent time at #1 on the comedy iTunes charts. <br />\n <br />\nShane has also been getting a lot of attention as a popular guest on podcasts such as Marc Maron’s WTF, Pete Holmes’ You Made It Weird, The Joe Rogan Experience, Bertcast, Duncan Trussell’s Family Hour, TOFOP, Crabfeast, Ari Shaffir&#039;s Skeptic Tanks, Doug Loves Movies, Never Not Funny, Getting Doug with High, Keith and The Girl.</p>\n<p>His favorite thing to do while traveling around the country is to find scientists in the area to interview for his podcast “Here We Are”.  The podcast explores psychology, sociology, neuroscience, behavioral economics, evolution, marketing and all things related to the meanings of life.</p>\n",
-      "pageUrl": "16641-shane-mauss"
+      "bio": "<p>Lizzy&#039;s appeared on the Late Late Show with Craig Ferguson and written for several shows including Comedy Central&#039;s Not Safe with Nikki Glaser, Adult Swim&#039;s The Eric Andre Show, The Soup TV, Style Network’s The Dish, and a show that only aired in the Ukraine &amp; on German Comedy Central called Naked &amp; Funny. She&#039;s performed at the Just for Laughs Comedy Festival, Bentzen Ball, Red Clay Comedy Festival,  Bridgetown, &quot;Change the Ratio&quot; at South by Southwest, and The Las Vegas Comedy Festival. She can be seen live-streaming tarot readings as Mountain Schwartz on Super Deluxe, and has been recognized for her &quot;avant-garde&quot; videos on Instagram @avant_gram and you can see her lay eggs on Snapchat @visitlizzy.</p>\n",
+      "pageUrl": "15819-lizzy-cooperman"
     },
     {
       "id": 16103,
@@ -771,18 +771,18 @@
       "pageUrl": "15905-kenice-mobley"
     },
     {
-      "id": 16768,
+      "id": 16641,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Shane Mauss",
+      "twitter": "shanecomedy",
+      "website": "http://shanemauss.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/shane.mauss_dmt.portrait_without.molecule_web.jpg",
+      "photoUrl": "/api/img/performer-images/performer-shanemauss-300x300.jpg",
+      "sortOrder": 56,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>Originally from Wisconsin, Shane Mauss caught his first break when he was awarded ‘Best Stand-Up” at The HBO US Comedy Arts Festival in 2007.  This led to his TV debut and first of five appearances on Conan.<br />\n <br />\nSince that time he’s been on Jimmy Kimmel, Showtime, has had a Comedy Central Presents, a Netflix special ‘Mating Season’, and most recently released album inspired by breaking both of his feet in a hiking mishap called ‘My Big Break’ which spent time at #1 on the comedy iTunes charts. <br />\n <br />\nShane has also been getting a lot of attention as a popular guest on podcasts such as Marc Maron’s WTF, Pete Holmes’ You Made It Weird, The Joe Rogan Experience, Bertcast, Duncan Trussell’s Family Hour, TOFOP, Crabfeast, Ari Shaffir&#039;s Skeptic Tanks, Doug Loves Movies, Never Not Funny, Getting Doug with High, Keith and The Girl.</p>\n<p>His favorite thing to do while traveling around the country is to find scientists in the area to interview for his podcast “Here We Are”.  The podcast explores psychology, sociology, neuroscience, behavioral economics, evolution, marketing and all things related to the meanings of life.</p>\n",
+      "pageUrl": "16641-shane-mauss"
     },
     {
       "id": 15786,
@@ -813,18 +813,18 @@
       "pageUrl": "16107-katie-nguyen"
     },
     {
-      "id": 15819,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Lizzy Cooperman",
-      "twitter": "lizzycooperman",
-      "website": "http://lizzycooperman.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lizzy_cooperman_red.jpg",
-      "photoUrl": "/api/img/performer-images/performer-lizzycooperman-300x300.jpg",
-      "sortOrder": 59,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Lizzy&#039;s appeared on the Late Late Show with Craig Ferguson and written for several shows including Comedy Central&#039;s Not Safe with Nikki Glaser, Adult Swim&#039;s The Eric Andre Show, The Soup TV, Style Network’s The Dish, and a show that only aired in the Ukraine &amp; on German Comedy Central called Naked &amp; Funny. She&#039;s performed at the Just for Laughs Comedy Festival, Bentzen Ball, Red Clay Comedy Festival,  Bridgetown, &quot;Change the Ratio&quot; at South by Southwest, and The Las Vegas Comedy Festival. She can be seen live-streaming tarot readings as Mountain Schwartz on Super Deluxe, and has been recognized for her &quot;avant-garde&quot; videos on Instagram @avant_gram and you can see her lay eggs on Snapchat @visitlizzy.</p>\n",
-      "pageUrl": "15819-lizzy-cooperman"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16177,
@@ -1539,6 +1539,90 @@
       "excludeFromList": false,
       "bio": "<p>Dan Soder is a comedian whose first stand up special, NOT SPECIAL premiered on Comedy Central this year. Other credits include: Comedy Central's The Half Hour, John Oliver's New York Stand Up show, Inside Amy Schumer and he's appeared multiple times on CONAN and @midnight. He can be seen as Mafee on Showtime's Billions and you can listen to The Bonfire radio show, which he co-hosts with Big Jay Oakerson, on Sirius XM every Monday and Wednesday at 6pm ET.</p>\n",
       "pageUrl": "16691-dan-soder"
+    },
+    {
+      "id": 16915,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Laurie Kilmartin",
+      "twitter": "anylaurie16",
+      "website": "http://www.kilmartin.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/images-2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-lauriekilmartin-300x300.jpg",
+      "sortOrder": 111,
+      "excludeFromList": false,
+      "bio": "<p>Laurie Kilmartin was a finalist on Last Comic Standing and has appeared on CONAN and Jimmy Kimmel Live. She is the co-author of the NYT bestseller \"Sh*tty Mom\" and is currently a staff writer on CONAN.</p>\n",
+      "pageUrl": "16915-laurie-kilmartin"
+    },
+    {
+      "id": 16136,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Janine Brito",
+      "twitter": "janinebrito",
+      "website": "http://janinebrito.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/13680855_10154156252391072_2100082690096703802_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-janinebrito-300x300.jpg",
+      "sortOrder": 112,
+      "excludeFromList": false,
+      "bio": "<p>JANINE BRITO is a stand up comic, and was a writer and on-air correspondent on the FX series, Totally Biased with W. Kamau Bell, produced by Chris Rock. She&#039;s also half Cuban, half Icelandic, and aaaall lesbian.</p>\n",
+      "pageUrl": "16136-janine-brito"
+    },
+    {
+      "id": 16658,
+      "events": [],
+      "emceeEvents": [],
+      "name": "JoAnn Schinderle ",
+      "twitter": "joannlizabeth",
+      "website": "http://www.joannschinderle.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/btcf2016_joannschinderle-015.jpg",
+      "photoUrl": "/api/img/performer-images/performer-joannschinderle-300x300.jpg",
+      "sortOrder": 113,
+      "excludeFromList": false,
+      "bio": "<p>JOANN SCHINDERLE is a comic, actress, writer and producer living in Portland, OR.  Her MidWestern roots paired with inherited snarky charm will make you feel like she&#039;s your best friend letting you in a social awareness dirty little secret. JoAnn has been seen on LaughsTV, Rooftop Comedy, VICE, and has performed in such festivals as All Jane, Bridgetown, Bumbershoot, Chicago Comedy Expo, Hell Yes Fest, SF Sketchfest, and the Out of Bounds Comedy Festival.</p>\n<p>As an actress JoAnn is rep&#039;d by the top NW talent agency, Option Talent; wherein she has landed both national and local commercials. As a writer, Schinderle works with LaughStaff, Live Wire Radio, and has won several rounds of Competitive Erotic Fan Fiction. When not hosting at Helium Comedy Club- Portland, Schinderle produces a high profile weekly comedy showcase called, CONTROL YOURSELF. CONTROL YOURSELF (featured in Paste Magazine, Voted &#039;Top 5 Local Comedy Showcases by the Willamette Week in &#039;14/&#039;15/&#039;16) recently celebrated it&#039;s 3rd year running. CY is also produced as a podcast found on iTunes &amp; Soundcloud. If you enjoy friendly banter and/or can connect with &#039;person of singleness&#039; woe&#039;s, follow JoAnn on twitter @joannlizabeth.</p>\n",
+      "pageUrl": "16658-joann-schinderle-"
+    },
+    {
+      "id": 15820,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Alex Falcone",
+      "twitter": "alex_falcone",
+      "website": "http://alexfalconecomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/wweek-donut-web.png",
+      "photoUrl": "/api/img/performer-images/performer-alexfalcone-300x300.jpg",
+      "sortOrder": 114,
+      "excludeFromList": false,
+      "bio": "<p>Alex Falcone is a comedian, writer, and moderately snappy dresser from Portland, OR. He&#039;s a regular on the IFC show Portlandia, has appeared at numerous comedy festivals including Bumbershoot, Sketchfest, Laugh Your Asheville Off, and the Brooklyn Comedy Festival, and he was named one of the Willamette Week&#039;s Funniest 5 and the Mercury&#039;s Undisputable Geniuses of Comedy.</p>\n<p>His writing has been quoted in Rolling Stone, VOX, Boing Boing, and been featured on the front page of Reddit. He recently released his debut novel &quot;Unwrap My Heart&quot; about a girl who falls in love with a very sexy mummy.</p>\n<p>In 2015, ice cream legends Salt &amp; Straw named a flavor after him and it was delicious.</p>\n<p>Despite these modest accomplishments, he somehow remains totally down to earth and approachable.</p>\n",
+      "pageUrl": "15820-alex-falcone"
+    },
+    {
+      "id": 15888,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Joel Kim Booster",
+      "twitter": "ihatejoelkim",
+      "website": "http://www.ihatejoelkim.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joel_conan.jpg",
+      "photoUrl": "/api/img/performer-images/performer-joelkimbooster-300x300.jpg",
+      "sortOrder": 115,
+      "excludeFromList": false,
+      "bio": "<p>Joel Kim Booster is a Chicago bred, Brooklyn based comedian, writer and playwright. Born in Seoul, South Korea, Joel was adopted at a young age and moved to the southwest suburbs of Chicago. Both homeschooled and evangelical, Joel has read the bible literally dozens of times, but has no idea where the state of Oregon is on a map. As a comedian he has appeared on CONAN, LOGO, MTV and <em>The Meltdown with Jonah and Kumail </em>on Comedy Central. His writing credits include <em>Billy on the Street </em>and the Comedy Central pilot <em>Problematic with Moshe Kasher</em>. Joel is a frequent collaborator on MTV’s <em>Decoded</em> webseries, Bravo’s <em>Guide To..., </em>and regularly appears in a number of Internet Action Force shorts. He loves to chat.</p>\n<p>Joel has performed at numerous comedy clubs, bar basements and festivals all across the country. Most recently and notably he was a New Face for the world renowned Just For Laughs Comedy Festival in Montreal, Canada.  Additionally he has featured at Funny or Die's Oddball Comedy Festival, Riot LA and The Bridgetown Comedy Festival. Joel has also performed at Stand Up NY and Gotham Comedy Club in New York City and the Laugh Factory and Zanies in Chicago. Joel was just listed as one of Brooklyn Magazine’s 50 funniest people and Paper Magazine recently called him one of their \"10 Comedians You Need to Know,\" saying that if you like \"cats, hot men, and insecurity, then you'll love Joel Kim Booster.\"</p>\n",
+      "pageUrl": "15888-joel-kim-booster"
+    },
+    {
+      "id": 16112,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Wilfred Padua",
+      "twitter": "wilfredpadua",
+      "website": "http://wilfredpadua.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot.jpeg",
+      "photoUrl": "/api/img/performer-images/performer-wilfredpadua-300x300.jpg",
+      "sortOrder": 116,
+      "excludeFromList": false,
+      "bio": "<p>Wilfred Padua is a comedian from Seattle who has an MFA in Writing from some school that doesn&#039;t matter. He has performed at Bumbershoot, Bridgetown Comedy Festival, the Boring Time Comedy Festival, the Summer Meltdown Music Festival, the Laughing Devil Festival in New York City, and his comedy can be found on SiriusXM and NBC&#039;s SeeSo. He’s usually an idiot.</p>\n",
+      "pageUrl": "16112-wilfred-padua"
     }
   ]
 }
