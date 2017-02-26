@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16549,
+      "id": 16593,
       "events": [],
       "emceeEvents": [],
-      "name": "Jason Goad",
-      "twitter": "jjgoad",
-      "website": "http://www.jjgoad.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/10491239_10204184552756621_6137886026090611465_n.jpg",
-      "photoUrl": "/api/img/performer-images/performer-jasongoad-300x300.jpg",
-      "sortOrder": 40,
+      "name": "Tony Hinchcliffe",
+      "twitter": "TonyHinchcliffe",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot3_04192016101338_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tonyhinchcliffe-300x300.jpg",
+      "sortOrder": 41,
       "excludeFromList": false,
-      "bio": "<p>Jason Goad wanted a job working the fewest hours in the day, the fewest days of the week, and didn’t require getting up early. Jason found comedy later in life after attempts at being a novelist, short-story writer, and slam poet. He has squandered multiple thousands of dot com stock-option dollars and quit a career in the culinary arts twice.</p>\n<p>Comedy is the only thing Jason hasn’t had an overwhelming desire to quit. Described as “the Scared Straight of Seattle comedy,” or “if a Lou Reed song was funny,” Jason’s comedy comes from society’s grimy corners. Making frank jokes about terrible things, Jason has been featured at the Redwood Comedy Festival, the Bumbershoot Music and Arts Festival, the 36th Annual Seattle International Comedy Competition, and has written jokes for Brian Posehn.</p>\n<p>Jason lives in Seattle, Washington.</p>\n",
-      "pageUrl": "16549-jason-goad"
+      "bio": "<p>A stand-up comedian considered a fresh new evolution to the now immensely popular roasting scene, Tony Hinchcliffe has worked as a staff-writer on the past five <em><strong>Comedy Central Roasts</strong></em>, including the most recent, Justin Bieber Roast, where he worked exclusively with Martha Stewart. He is also writing for the upcoming Roast of Rob Lowe. Tony hosts his own weekly show and podcast, “<em><strong>Kill Tony</strong></em>,” which has over 100k downloads per week. On the road he sells out with strong drawing power due to his podcast, being a regular on <em><strong>The Joe Rogan Experience</strong></em>, and years of opening theaters on tours with Jeffrey Ross, Joe Rogan, Dave Attell, and most recently Dave Chappelle. Here are some more of Tony's accomplishments just from 2015...NBC NYE writer, Will Ferrell one-hour special writer, <strong><em>Roast of Justin Bieber</em> writer</strong>, 311 tour opener, <em>On <strong>NBC last call w/ Carson Daly</strong></em>, Jeffrey Ross live from Prison (Comedy Central Special) writer, Congressional Correspondents Dinner writer, Dave Chappelle tour opener, and <em>Sleight of Mouth</em> Comedy Central Special writer. Most recently, Tony’s 1-hour special for Netflix, “<em><strong>One-Shot</strong></em>,” released on January 15, 2016. You can also catch Tony's roasting skills on Comedy Central's <strong>Roast Battle</strong> which took stage at the <strong>Just For Laughs</strong> Festival in Montreal this past July, 2016, as well as his stand-out performance on <strong>The Roast of Snoop Dogg.</strong></p>\n",
+      "pageUrl": "16593-tony-hinchcliffe"
     },
     {
       "id": 16103,
@@ -547,6 +547,20 @@
       "pageUrl": "16508-andrew-orolfo"
     },
     {
+      "id": 16549,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Jason Goad",
+      "twitter": "jjgoad",
+      "website": "http://www.jjgoad.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/10491239_10204184552756621_6137886026090611465_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jasongoad-300x300.jpg",
+      "sortOrder": 40,
+      "excludeFromList": false,
+      "bio": "<p>Jason Goad wanted a job working the fewest hours in the day, the fewest days of the week, and didn’t require getting up early. Jason found comedy later in life after attempts at being a novelist, short-story writer, and slam poet. He has squandered multiple thousands of dot com stock-option dollars and quit a career in the culinary arts twice.</p>\n<p>Comedy is the only thing Jason hasn’t had an overwhelming desire to quit. Described as “the Scared Straight of Seattle comedy,” or “if a Lou Reed song was funny,” Jason’s comedy comes from society’s grimy corners. Making frank jokes about terrible things, Jason has been featured at the Redwood Comedy Festival, the Bumbershoot Music and Arts Festival, the 36th Annual Seattle International Comedy Competition, and has written jokes for Brian Posehn.</p>\n<p>Jason lives in Seattle, Washington.</p>\n",
+      "pageUrl": "16549-jason-goad"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -559,20 +573,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16593,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Tony Hinchcliffe",
-      "twitter": "TonyHinchcliffe",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot3_04192016101338_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-tonyhinchcliffe-300x300.jpg",
-      "sortOrder": 41,
-      "excludeFromList": false,
-      "bio": "<p>A stand-up comedian considered a fresh new evolution to the now immensely popular roasting scene, Tony Hinchcliffe has worked as a staff-writer on the past five <em><strong>Comedy Central Roasts</strong></em>, including the most recent, Justin Bieber Roast, where he worked exclusively with Martha Stewart. He is also writing for the upcoming Roast of Rob Lowe. Tony hosts his own weekly show and podcast, “<em><strong>Kill Tony</strong></em>,” which has over 100k downloads per week. On the road he sells out with strong drawing power due to his podcast, being a regular on <em><strong>The Joe Rogan Experience</strong></em>, and years of opening theaters on tours with Jeffrey Ross, Joe Rogan, Dave Attell, and most recently Dave Chappelle. Here are some more of Tony's accomplishments just from 2015...NBC NYE writer, Will Ferrell one-hour special writer, <strong><em>Roast of Justin Bieber</em> writer</strong>, 311 tour opener, <em>On <strong>NBC last call w/ Carson Daly</strong></em>, Jeffrey Ross live from Prison (Comedy Central Special) writer, Congressional Correspondents Dinner writer, Dave Chappelle tour opener, and <em>Sleight of Mouth</em> Comedy Central Special writer. Most recently, Tony’s 1-hour special for Netflix, “<em><strong>One-Shot</strong></em>,” released on January 15, 2016. You can also catch Tony's roasting skills on Comedy Central's <strong>Roast Battle</strong> which took stage at the <strong>Just For Laughs</strong> Festival in Montreal this past July, 2016, as well as his stand-out performance on <strong>The Roast of Snoop Dogg.</strong></p>\n",
-      "pageUrl": "16593-tony-hinchcliffe"
     },
     {
       "id": 16821,
@@ -1105,6 +1105,34 @@
       "excludeFromList": false,
       "bio": "<p>Steven Wilber (born July 31, 1962) is an American actor, film producer and martial artist.<br />\nHis prominent film roles include New Jack City (1991), White Men Can&#039;t Jump (1992) and the Marvel Comics character Blade in the Blade film trilogy (1998–2004).<br />\nHe formed a production company, Amen-Ra Films, in 1991, and a subsidiary, Black Dot Media, to develop projects for film and television.<br />\nHe has been training in martial arts since the age of 12, earning a 5th dan black belt in Shotokan Karate and 2nd dan black belt in Hapkido.</p>\n",
       "pageUrl": "16869-steven-wilber"
+    },
+    {
+      "id": 16187,
+      "events": [],
+      "emceeEvents": [],
+      "name": "RON LYNCH",
+      "twitter": "ronlynch1",
+      "website": "https://www.facebook.com/ron.lynch1",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
+      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
+      "sortOrder": 80,
+      "excludeFromList": false,
+      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
+      "pageUrl": "16187-ron-lynch"
+    },
+    {
+      "id": 16876,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Eli Yudin",
+      "twitter": "eliyudin",
+      "website": "http://www.eliyudin.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
+      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
+      "sortOrder": 81,
+      "excludeFromList": false,
+      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
+      "pageUrl": "16876-eli-yudin"
     }
   ]
 }
