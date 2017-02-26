@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16521,
+      "id": 15971,
       "events": [],
       "emceeEvents": [],
-      "name": "Bri Pruett",
-      "twitter": "bripruett",
-      "website": "http://bripruett.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/14633485_1217134591684653_2842367725205405589_o_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
-      "sortOrder": 35,
+      "name": "Robert Jenkins",
+      "twitter": "RobJComedy",
+      "website": "http://Robjcomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_5346.jpg",
+      "photoUrl": "/api/img/performer-images/performer-robertjenkins-300x300.jpg",
+      "sortOrder": 36,
       "excludeFromList": false,
-      "bio": "<p>This Portland original just wrapped a run of her comedic solo show Stellar, which the Willamette Week called &quot;Body-positive, pro-self-love, and pro-female sexuality...&quot;</p>\n<p>In addition to clubs and festivals, she&#039;s brought her sparkle to Doug Loves Movies, NPR&#039;s Live Wire!, and Comedy Central&#039;s Roast Battle.</p>\n<p>Someone once described her as a female Jack Black, she took it as a compliment.</p>\n",
-      "pageUrl": "16521-bri-pruett"
+      "bio": "<p>Rob Jenkins uses his unique point of view, quick wit, and disarming delivery to tell you why he&#039;s right. You&#039;ll disagree, but you&#039;ll laugh anyway.</p>\n<p>A Detroit native, Rob has performed at many festivals including the Oddball Comedy &amp; Curiousity Festival, Crossroads Comedy Festival, and Laughfest where he was a 2016 participant in the Best of the Midwest Comedy Competition. Rob has appeared on the Fox Stand-Up Comedy Show “Laughs” and appeared in Dave Landau’s Detroit-based comedy “The King.” Rob has opened for Hannibal Buress, Kyle Kinane, Matt Broussard, Alonzo Bodden, Red Grant, and many others. In 2015, Rob released his first comedy CD &quot;Achievement Unlocked&quot; - it&#039;s available on iTunes, Amazon, xBox Music, and many other places.</p>\n",
+      "pageUrl": "15971-robert-jenkins"
     },
     {
       "id": 16103,
@@ -477,6 +477,20 @@
       "pageUrl": "16589-mike-lawrence"
     },
     {
+      "id": 16521,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Bri Pruett",
+      "twitter": "bripruett",
+      "website": "http://bripruett.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/14633485_1217134591684653_2842367725205405589_o_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-bripruett-300x300.jpg",
+      "sortOrder": 35,
+      "excludeFromList": false,
+      "bio": "<p>This Portland original just wrapped a run of her comedic solo show Stellar, which the Willamette Week called &quot;Body-positive, pro-self-love, and pro-female sexuality...&quot;</p>\n<p>In addition to clubs and festivals, she&#039;s brought her sparkle to Doug Loves Movies, NPR&#039;s Live Wire!, and Comedy Central&#039;s Roast Battle.</p>\n<p>Someone once described her as a female Jack Black, she took it as a compliment.</p>\n",
+      "pageUrl": "16521-bri-pruett"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -489,20 +503,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 15971,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Robert Jenkins",
-      "twitter": "RobJComedy",
-      "website": "http://Robjcomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_5346.jpg",
-      "photoUrl": "/api/img/performer-images/performer-robertjenkins-300x300.jpg",
-      "sortOrder": 36,
-      "excludeFromList": false,
-      "bio": "<p>Rob Jenkins uses his unique point of view, quick wit, and disarming delivery to tell you why he&#039;s right. You&#039;ll disagree, but you&#039;ll laugh anyway.</p>\n<p>A Detroit native, Rob has performed at many festivals including the Oddball Comedy &amp; Curiousity Festival, Crossroads Comedy Festival, and Laughfest where he was a 2016 participant in the Best of the Midwest Comedy Competition. Rob has appeared on the Fox Stand-Up Comedy Show “Laughs” and appeared in Dave Landau’s Detroit-based comedy “The King.” Rob has opened for Hannibal Buress, Kyle Kinane, Matt Broussard, Alonzo Bodden, Red Grant, and many others. In 2015, Rob released his first comedy CD &quot;Achievement Unlocked&quot; - it&#039;s available on iTunes, Amazon, xBox Music, and many other places.</p>\n",
-      "pageUrl": "15971-robert-jenkins"
     },
     {
       "id": 16519,
@@ -965,6 +965,34 @@
       "excludeFromList": false,
       "bio": "<p>Sonia is a NYC-based comedian who just relocated from Chicago in August this year. She was recently honored as a Comedy Central 2016 Comic to Watch at the New York Comedy Festival in November. Sonia is currently on tour with her live show “Afrofuturism” in DC and Chicago through the Second City Touring Company. *Attaching an early draft of her pilot DON’T KILL YOURSELF.</p>\n",
       "pageUrl": "15738-sonia-denis"
+    },
+    {
+      "id": 16607,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Gina Brillon",
+      "twitter": "GINABRILLON",
+      "website": "http://www.ginabrilloncomedy.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gina.jpg",
+      "photoUrl": "/api/img/performer-images/performer-ginabrillon-300x300.jpg",
+      "sortOrder": 70,
+      "excludeFromList": false,
+      "bio": "<p> </p>\n<p>Actress, comedian, and writer Gina Brillon was born and raised in Bronx, New York. She’s been a standup comic since she was 17 years old. Her first one hour special, ‘Pacifically Speaking, was produced by Gabriel Iglesias and debuted on NuvoTV this past fall. Gina has a featured role in Gabriel Iglesias’ theatrical film, The Fluffy Movie. She's made appearances on E!’s Chelsea Lately, AXS’ Gotham Comedy Live, The View, and Late Night with Seth Meyers. Gina is the first Latina winner of NBC’s 2012 Stand up for Diversity Showcase. She is also an accomplished singer, published writer, and poet. Her pieces have appeared in the New York Post and Daily News among others.</p>\n<p> </p>\n<p>Gina is currently developing scripted content for Broadway Video’s new digital studio Mas Mejor with Horatio Sanz, as well as a scripted network pitch based around her life and comedy with Universal Cable Productions, and she was seen this summer headlining 3 weeks of sold out ‘Ethnic Show’s at the Just For Laughs Montreal Comedy Festival 2016. She will next appear on KEVIN CAN WAIT on CBS and is currently developing a <a href=\"http://deadline.com/2016/10/kevin-james-produce-cbs-comedy-comedian-gina-brillon-star-1201844199/\">sitcom</a> for CBS about her life with Kevin James. </p>\n",
+      "pageUrl": "16607-gina-brillon"
+    },
+    {
+      "id": 16352,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Brad Silnutzer",
+      "twitter": "bradlivesdreams",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bradpic.jpg",
+      "photoUrl": "/api/img/performer-images/performer-bradsilnutzer-300x300.jpg",
+      "sortOrder": 71,
+      "excludeFromList": false,
+      "bio": "<p>Brad Silnutzer is a stand up, writer, producer, and host who was recently named one of Comedy Central’s 2016 Comics to Watch.  Brad created, produces, and hosts Brew HaHa: The Comedy Show Drinking game and has written for shows such as PENN AND TELLER: FOOL US for CW,  TALENT OVERLOAD, and THE HOOK UP for MTV.  As a young lad, Brad started his performing career as the Ovaltine boy saying such lines as, &quot;More Ovaltine Please&quot; and &quot;Mom, why are you making me do this?&quot;.  Now, he can be found wandering the streets on LA wondering why he left 2 promising careers to start doing comedy.</p>\n",
+      "pageUrl": "16352-brad-silnutzer"
     }
   ]
 }
