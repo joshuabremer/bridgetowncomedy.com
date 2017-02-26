@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16685,
+      "id": 15738,
       "events": [],
       "emceeEvents": [],
-      "name": "Annie Lederman",
-      "twitter": "annielederman",
-      "website": "http://www.annielederman.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/annie_lederman_approved_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-annielederman-300x300.jpg",
-      "sortOrder": 65,
+      "name": "Sonia Denis",
+      "twitter": "sonideni",
+      "website": "http://sonideni.tumblr.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sonia_denis_-_headshot.jpg",
+      "photoUrl": "/api/img/performer-images/performer-soniadenis-300x300.jpg",
+      "sortOrder": 67,
       "excludeFromList": false,
-      "bio": "<p>Annie can most recently been seen as a cast member on MTV's GIRL CODE and as the voice of Cheryl on GRAND THEFT AUTO 5. Annie Lederman also starred in WE HAVE ISSUES, a pop-culture talk show on E! with co-host Julian McCullough. She has also recently appeared on THIS IS NOT HAPPENING on Comedy Central, CHELSEA LATELY, @MIDNIGHT on Comedy Central, THE SOUP INVESTIGATES and ADAM DEVINE'S HOUSE PARTY.  In addition, Annie starred and wrote, STAND UPS, a scripted Comedy Central pilot, produced by Dan Powell (co-creator of INSIDE AMY SCHUMER), with comedians Kurt Metzger &amp; Monroe Martin. She tours regularly worldwide as a stand-up comedian.</p>\n",
-      "pageUrl": "16685-annie-lederman"
+      "bio": "<p>Sonia is a NYC-based comedian who just relocated from Chicago in August this year. She was recently honored as a Comedy Central 2016 Comic to Watch at the New York Comedy Festival in November. Sonia is currently on tour with her live show “Afrofuturism” in DC and Chicago through the Second City Touring Company. *Attaching an early draft of her pilot DON’T KILL YOURSELF.</p>\n",
+      "pageUrl": "15738-sonia-denis"
     },
     {
       "id": 16103,
@@ -897,18 +897,18 @@
       "pageUrl": "16855-maggie-maye"
     },
     {
-      "id": 16768,
+      "id": 16685,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Annie Lederman",
+      "twitter": "annielederman",
+      "website": "http://www.annielederman.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/annie_lederman_approved_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-annielederman-300x300.jpg",
+      "sortOrder": 65,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>Annie can most recently been seen as a cast member on MTV's GIRL CODE and as the voice of Cheryl on GRAND THEFT AUTO 5. Annie Lederman also starred in WE HAVE ISSUES, a pop-culture talk show on E! with co-host Julian McCullough. She has also recently appeared on THIS IS NOT HAPPENING on Comedy Central, CHELSEA LATELY, @MIDNIGHT on Comedy Central, THE SOUP INVESTIGATES and ADAM DEVINE'S HOUSE PARTY.  In addition, Annie starred and wrote, STAND UPS, a scripted Comedy Central pilot, produced by Dan Powell (co-creator of INSIDE AMY SCHUMER), with comedians Kurt Metzger &amp; Monroe Martin. She tours regularly worldwide as a stand-up comedian.</p>\n",
+      "pageUrl": "16685-annie-lederman"
     },
     {
       "id": 16051,
@@ -925,18 +925,18 @@
       "pageUrl": "16051-guy-branum"
     },
     {
-      "id": 15738,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "Sonia Denis",
-      "twitter": "sonideni",
-      "website": "http://sonideni.tumblr.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sonia_denis_-_headshot.jpg",
-      "photoUrl": "/api/img/performer-images/performer-soniadenis-300x300.jpg",
-      "sortOrder": 67,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Sonia is a NYC-based comedian who just relocated from Chicago in August this year. She was recently honored as a Comedy Central 2016 Comic to Watch at the New York Comedy Festival in November. Sonia is currently on tour with her live show “Afrofuturism” in DC and Chicago through the Second City Touring Company. *Attaching an early draft of her pilot DON’T KILL YOURSELF.</p>\n",
-      "pageUrl": "15738-sonia-denis"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16607,
@@ -1805,6 +1805,62 @@
       "excludeFromList": false,
       "bio": "<p><strong>GARETH REYNOLDS</strong> hails from the sweet streets of Milwaukee, Wisconsin originally. After moving to Los Angeles, Gareth starred in NBC’s ‘The Real Wedding Crashers’ which was as creatively stimulating as it was successful. However, through that show he began producing and writing their own material, eventually making shows at COMEDY CENTRAL, the TRAVEL CHANNEL, and MTV.</p>\n<p>In 2015 he began doing an American History podcast called ‘The Dollop’ with Dave Anthony which currently gets over 1.3 million downloads each month. The podcast has taken him all over the world to perform it. He just appeared in the ABC show ‘Hail Mary’ in which he is one of the leads and is a writer on NETFLIX original series Flaked. He currently has a development deal with FOX and he now tours the country doing stand up. He also has a cat named Jose.</p>\n",
       "pageUrl": "15748-gareth-reynolds-"
+    },
+    {
+      "id": 16699,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Matt Ingebretson",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/matt_ingebretson.jpg",
+      "photoUrl": "/api/img/performer-images/performer-mattingebretson-300x300.jpg",
+      "sortOrder": 130,
+      "excludeFromList": false,
+      "bio": "<p>Matt co-wrote, Executive Produces &amp; stars in the upcoming Comedy Central show HAMPTON DEVILLE, which is currently in production. Matt is also a standup comedian, he will appear on this upcoming season of <em>Adam DeVine’s House Party </em>and was voted Comedy Central’s <em>Comics To Watch</em> in 2014. He also hosts the weekly LA-based comedy show <em>Good Heroin</em> – which LA Weekly named one of the top 10 best comedy shows in LA this past year. As a writer, Matt has contributed to <em>The Onion, McSweeney’s, Funny or Die, </em>and <em>The Soup. </em></p>\n",
+      "pageUrl": "16699-matt-ingebretson"
+    },
+    {
+      "id": 15930,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Chinedu Unaka",
+      "twitter": "chineducomedy",
+      "website": "http://chineducomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/chinedu.jpg",
+      "photoUrl": "/api/img/performer-images/performer-chineduunaka-300x300.jpg",
+      "sortOrder": 131,
+      "excludeFromList": false,
+      "bio": "<p>Chinedu is a LA based comedian, actor and writer best known for his stand up appearances on television, internationally and around the United States. Recently Chinedu was seen on the latest season of Coming to the Stage (HULU) and on the hit comedy series The Mindy Project (FOX/HULU) and just came back from an overseas tour performing for the US Troops stationed across the Middle East and a comedy tour of India. He also has a short film he starred, alongside Luke Cage&#039;s Simone Missick, that&#039;s coming to HBO in 2017.  Chinedu was also a top finalist in 3 comedy festivals, headlines his own college tour and features for Damon Wayans Jr.</p>\n",
+      "pageUrl": "15930-chinedu-unaka"
+    },
+    {
+      "id": 16420,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Devon Walker ",
+      "twitter": "internetdevon",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/12640466_10207294577754353_3832689113169756010_o.jpg",
+      "photoUrl": "/api/img/performer-images/performer-devonwalker-300x300.jpg",
+      "sortOrder": 132,
+      "excludeFromList": false,
+      "bio": "<p>Devon Walker performs in Austin, TX near where he grew up. Devon was recently featured on the Moontower Comedy Festival, and was named a Semi-Finalist in the Funniest Person in Austin Competition. Devon has a Master&#039;s degree in a field that nobody knows about. Devon doesn&#039;t really like writing bios about himself. Come support his shows so that he can pursue his dreams of having someone else write bios for him.</p>\n",
+      "pageUrl": "16420-devon-walker-"
+    },
+    {
+      "id": 16277,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Ismael Loutfi",
+      "twitter": "Ismaelian",
+      "website": "http://ishmaeliswrong.tumblr.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/knittingfactorypicture_003_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-ismaelloutfi-300x300.jpg",
+      "sortOrder": 133,
+      "excludeFromList": false,
+      "bio": "<p>Ismael Loutfi is a sweet boy with a kind face. He’s been called “gifted,” “quick-witted,” and a “neurotic toe-rag” by numerous friends’ parents. Underneath that sweetness lies a deeply acerbic sense of humor- the sort of thing you might develop growing up a Muslim in rural North Florida. In 2016, he was a finalist in the Laughing Skull Comedy Festival. A month later, he went on to be a New Face of comedy at the Just For Laughs Comedy Festival in Montreal. Since then, he has been a Stand Up NBC finalist and Comic to Watch at LA’s Riot Comedy Festival. He can be seen on the VICELAND series Flophouse.</p>\n",
+      "pageUrl": "16277-ismael-loutfi"
     }
   ]
 }
