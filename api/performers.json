@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15923,
+      "id": 16187,
       "events": [],
       "emceeEvents": [],
-      "name": "Gabe Dinger",
-      "twitter": "GabeDinger",
-      "website": "http://www.GabeDinger.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
-      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
-      "sortOrder": 75,
+      "name": "RON LYNCH",
+      "twitter": "ronlynch1",
+      "website": "https://www.facebook.com/ron.lynch1",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
+      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
+      "sortOrder": 78,
       "excludeFromList": false,
-      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
-      "pageUrl": "15923-gabe-dinger"
+      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
+      "pageUrl": "16187-ron-lynch"
     },
     {
       "id": 16103,
@@ -1037,18 +1037,18 @@
       "pageUrl": "16687-brody-stevens"
     },
     {
-      "id": 16768,
+      "id": 15923,
       "events": [],
       "emceeEvents": [],
-      "name": "Sean Devlin 叶 世民",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
-      "sortOrder": 2,
+      "name": "Gabe Dinger",
+      "twitter": "GabeDinger",
+      "website": "http://www.GabeDinger.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
+      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
+      "sortOrder": 75,
       "excludeFromList": false,
-      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
-      "pageUrl": "16768-sean-devlin--"
+      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
+      "pageUrl": "15923-gabe-dinger"
     },
     {
       "id": 16212,
@@ -1079,18 +1079,18 @@
       "pageUrl": "16869-steven-wilber"
     },
     {
-      "id": 16187,
+      "id": 16768,
       "events": [],
       "emceeEvents": [],
-      "name": "RON LYNCH",
-      "twitter": "ronlynch1",
-      "website": "https://www.facebook.com/ron.lynch1",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
-      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
-      "sortOrder": 78,
+      "name": "Sean Devlin 叶 世民",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/sean_devlin_photo.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seandevlin-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
-      "pageUrl": "16187-ron-lynch"
+      "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
+      "pageUrl": "16768-sean-devlin--"
     },
     {
       "id": 16876,
@@ -2071,6 +2071,90 @@
       "excludeFromList": false,
       "bio": "<p>In addition to performing standup comedy for the last ten years at places including Bumbershoot and High Plains Comedy Festival, Andy Wood has written for and produced shows such as E!'s Love You, Mean It with Whitney Cummings, Ridiculousness, the MTV Movie Awards and an upcoming program for Discovery's Science Channel. He also produced and acted in Jason Nash Is Married, the first feature released by Comedy Central’s CC: Studios. Andy's the director of both the Bridgetown Comedy Festival and the LA Podcast Festival, and along with Matt Kirshen and Jesse Case he co-hosts the weekly podcast Probably Science, allowing him to trick his parents into believing he hasn't wasted his engineering degree. He's also a bit trivia-obsessed, and if you ask him to join your pub quiz team he is honor-bound to accept.</p>\n",
       "pageUrl": "16926-andy-wood"
+    },
+    {
+      "id": 16048,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Scott Losse",
+      "twitter": "coolbathroom",
+      "website": "http://bridgetown.festivalthing.com/scottlosse%40gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/scottlosseheadshot.jpg",
+      "photoUrl": "/api/img/performer-images/performer-scottlosse-300x300.jpg",
+      "sortOrder": 149,
+      "excludeFromList": false,
+      "bio": "<p>Scott Losse is a stand-up comedian from Seattle, Washington. He is married and has two chihuahuas. Scott has performed at SF Sketchfest, Bumbershoot: Seattle’s Music &amp; Arts Festival, Sketchfest Seattle, and lots of other places that aren’t festivals. Comedy Clubs. Colleges. Bars. Dive Bars. Elks Lodges. Regular Lodges. Scott recently appeared on Laughs on FOX. You have never heard of him.</p>\n",
+      "pageUrl": "16048-scott-losse"
+    },
+    {
+      "id": 16190,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Myq Kaplan",
+      "twitter": "myqkaplan",
+      "website": "http://myqkaplan.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/myq-kaplan-b46a5276-5_1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-myqkaplan-300x300.jpg",
+      "sortOrder": 150,
+      "excludeFromList": false,
+      "bio": "<p>Myq Kaplan is a comedian named Mike Kaplan.<br />\nHe has been seen on the Tonight Show, Conan, the Late Show with David Letterman, Late Night with Seth Meyers, in his own half-hour Comedy Central Presents special, and in his own one-hour special on Netflix, &quot;Small, Dork, and Handsome.&quot; He has been a finalist on Last Comic Standing and most recently appeared on America&#039;s Got Talent. His album &quot;Vegan Mind Meld&quot; was one of iTunes&#039; top 10 comedy albums of the year. And that&#039;s only the past! Even more to come in the future! Check out myqkaplan.com for more information, and/or live your life however you choose. Thanks!</p>\n",
+      "pageUrl": "16190-myq-kaplan"
+    },
+    {
+      "id": 16279,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Billy Prinsell",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/billy_photo_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-billyprinsell-300x300.jpg",
+      "sortOrder": 151,
+      "excludeFromList": false,
+      "bio": "<p>Billy Prinsell was one of Comedy Central&#039;s &#039;top comics to watch&#039; in 2015. With an instantly recognizable onstage persona he&#039;s been doing stand-up in New York City for close to a decade. He&#039;s acted in Tru Tv&#039;s &#039;friends of the people&#039; and performed in the New York and Bridgetown Comedy festivals. He regularly does stand-up at Carolines comedy club in New York City as well as co-hosts an interactive story telling show at Carolines called, &#039;Hindsight.&#039; Get pumped for a fun show!</p>\n",
+      "pageUrl": "16279-billy-prinsell"
+    },
+    {
+      "id": 16318,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Mike Lebovitz",
+      "twitter": "mikelebovitz",
+      "website": "http://bridgetown.festivalthing.com/mikelebovitz%40gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_1165.png",
+      "photoUrl": "/api/img/performer-images/performer-mikelebovitz-300x300.jpg",
+      "sortOrder": 152,
+      "excludeFromList": false,
+      "bio": "<p>Mike Lebovitz began his comedy career at the age of six with clowning classes at the local JCC. He&#039;s been delighting and confounding audiences with his intoxicating brand of wild-eyed humor ever since. Equal parts lovable and absurd, Mike&#039;s act careens from topic to topic like a runaway freight train with some questionable couplings. Audiences have described the experience as &quot;spontaneous,&quot; &quot;joyful&quot; and &quot;slightly terrifying.&quot; </p>\n<p>A burgeoning international star now based in New York, Mike has offended nostrils in Montreal as a &quot;New Face&quot; of the 2013 Just For Laughs, and in Switzerland where he won the international competition at the 2013 The Montreux Comedy Fest. He returned to Montreux in 2014 as the &quot;Godfather&quot; of the competition.</p>\n",
+      "pageUrl": "16318-mike-lebovitz"
+    },
+    {
+      "id": 16150,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Milan Patel",
+      "twitter": "Milan_Patel",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/milanpatel.jpg",
+      "photoUrl": "/api/img/performer-images/performer-milanpatel-300x300.jpg",
+      "sortOrder": 153,
+      "excludeFromList": false,
+      "bio": "<p>Milan Patel is a stand up comedian from Seattle, WA. He has regularly performed in Seattle&#039;s Bumbershoot Music &amp; Comedy festival and has produced sketch and stand-up shows in Seattle. He currently lives in Portland, OR and is quickly becoming one of Portland&#039;s favorite new comedians to watch. His comedy style ranges from dead-pan jokes to strange observational pieces to lighting fast crowd-work.</p>\n",
+      "pageUrl": "16150-milan-patel"
+    },
+    {
+      "id": 16559,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Jesse Villacis",
+      "twitter": "cutebbapplepie",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/profile_pic.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jessevillacis-300x300.jpg",
+      "sortOrder": 154,
+      "excludeFromList": false,
+      "bio": "<p>Im a nice boy, I grey up in Seattle and I love food and comedy.</p>\n",
+      "pageUrl": "16559-jesse-villacis"
     }
   ]
 }
