@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16876,
+      "id": 16187,
       "events": [],
       "emceeEvents": [],
-      "name": "Eli Yudin",
-      "twitter": "eliyudin",
-      "website": "http://www.eliyudin.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
-      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
-      "sortOrder": 79,
+      "name": "RON LYNCH",
+      "twitter": "ronlynch1",
+      "website": "https://www.facebook.com/ron.lynch1",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
+      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
+      "sortOrder": 78,
       "excludeFromList": false,
-      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
-      "pageUrl": "16876-eli-yudin"
+      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
+      "pageUrl": "16187-ron-lynch"
     },
     {
       "id": 16103,
@@ -1079,20 +1079,6 @@
       "pageUrl": "16869-steven-wilber"
     },
     {
-      "id": 16187,
-      "events": [],
-      "emceeEvents": [],
-      "name": "RON LYNCH",
-      "twitter": "ronlynch1",
-      "website": "https://www.facebook.com/ron.lynch1",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
-      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
-      "sortOrder": 78,
-      "excludeFromList": false,
-      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
-      "pageUrl": "16187-ron-lynch"
-    },
-    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -1105,6 +1091,20 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
+    },
+    {
+      "id": 16876,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Eli Yudin",
+      "twitter": "eliyudin",
+      "website": "http://www.eliyudin.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
+      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
+      "sortOrder": 79,
+      "excludeFromList": false,
+      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
+      "pageUrl": "16876-eli-yudin"
     },
     {
       "id": 16304,
@@ -2031,20 +2031,6 @@
       "pageUrl": "16581-james-davis"
     },
     {
-      "id": 16924,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Jackie Kashian",
-      "twitter": "jackiekashian",
-      "website": "http://jackiekashian.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jackie_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-jackiekashian-300x300.jpg",
-      "sortOrder": 146,
-      "excludeFromList": false,
-      "bio": "<p>Jackie Kashian's comedy is like listening to a really racy episode of All Things Considered. She is a national touring comic with a new hour standup special \"This Will Make an Excellent Horcrux.\" It is available digitally or on CD or DVD. It's also available for $5 download on<a href=\"http://www.allthingsrecords.com/\">www.allthingsrecords.com</a>. She recently made her late night comedy debut on the Conan O'Brien show, has her own half hour special on Comedy Central, was a semi-finalist on Last Comic Standing and has recorded This American Life with Ira Glass for NPR. She has a weekly Podcast where she interviews people about their obsessions. Tune into The Dork Forest on iTunes or at her website:<a href=\"http://www.dorkforest.com/\">www.dorkforest.com</a></p>\n",
-      "pageUrl": "16924-jackie-kashian"
-    },
-    {
       "id": 16925,
       "events": [],
       "emceeEvents": [],
@@ -2053,7 +2039,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/janeane_garofalo_headshot.jpg",
       "photoUrl": "/api/img/performer-images/performer-janeanegarofalo-300x300.jpg",
-      "sortOrder": 147,
+      "sortOrder": 146,
       "excludeFromList": false,
       "bio": "<p>Actress and comedian Janeane Garofalo has had many memorable and critically acclaimed roles in film and television since bursting on the scene in 1992. She's appeared in films such as “Wet Hot American Summer,” “Ratatouille,” \"The Truth About Cats and Dogs,\" and \"Reality Bites\". She was a cast member of the Emmy award winning \"Ben Stiller Show,\" as well as comedy classic \"The Larry Sanders Show,\" and had recurring roles on “24” and “The West Wing”. She tours as a stand up comedian, is one of the stars of the first scripted show on Bravo, and will reprise her role as Beth in the forthcoming, highly anticipated Netflix \"Wet Hot American Summer\" series.</p>\n",
       "pageUrl": "16925-janeane-garofalo"
@@ -2067,7 +2053,7 @@
       "website": "http://andytwood.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/andy_wood_headshot_1.jpg",
       "photoUrl": "/api/img/performer-images/performer-andywood-300x300.jpg",
-      "sortOrder": 148,
+      "sortOrder": 147,
       "excludeFromList": false,
       "bio": "<p>In addition to performing standup comedy for the last ten years at places including Bumbershoot and High Plains Comedy Festival, Andy Wood has written for and produced shows such as E!'s Love You, Mean It with Whitney Cummings, Ridiculousness, the MTV Movie Awards and an upcoming program for Discovery's Science Channel. He also produced and acted in Jason Nash Is Married, the first feature released by Comedy Central’s CC: Studios. Andy's the director of both the Bridgetown Comedy Festival and the LA Podcast Festival, and along with Matt Kirshen and Jesse Case he co-hosts the weekly podcast Probably Science, allowing him to trick his parents into believing he hasn't wasted his engineering degree. He's also a bit trivia-obsessed, and if you ask him to join your pub quiz team he is honor-bound to accept.</p>\n",
       "pageUrl": "16926-andy-wood"
@@ -2081,7 +2067,7 @@
       "website": "http://bridgetown.festivalthing.com/scottlosse%40gmail.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/scottlosseheadshot.jpg",
       "photoUrl": "/api/img/performer-images/performer-scottlosse-300x300.jpg",
-      "sortOrder": 149,
+      "sortOrder": 148,
       "excludeFromList": false,
       "bio": "<p>Scott Losse is a stand-up comedian from Seattle, Washington. He is married and has two chihuahuas. Scott has performed at SF Sketchfest, Bumbershoot: Seattle’s Music &amp; Arts Festival, Sketchfest Seattle, and lots of other places that aren’t festivals. Comedy Clubs. Colleges. Bars. Dive Bars. Elks Lodges. Regular Lodges. Scott recently appeared on Laughs on FOX. You have never heard of him.</p>\n",
       "pageUrl": "16048-scott-losse"
@@ -2095,7 +2081,7 @@
       "website": "http://myqkaplan.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/myq-kaplan-b46a5276-5_1.jpg",
       "photoUrl": "/api/img/performer-images/performer-myqkaplan-300x300.jpg",
-      "sortOrder": 150,
+      "sortOrder": 149,
       "excludeFromList": false,
       "bio": "<p>Myq Kaplan is a comedian named Mike Kaplan.<br />\nHe has been seen on the Tonight Show, Conan, the Late Show with David Letterman, Late Night with Seth Meyers, in his own half-hour Comedy Central Presents special, and in his own one-hour special on Netflix, &quot;Small, Dork, and Handsome.&quot; He has been a finalist on Last Comic Standing and most recently appeared on America&#039;s Got Talent. His album &quot;Vegan Mind Meld&quot; was one of iTunes&#039; top 10 comedy albums of the year. And that&#039;s only the past! Even more to come in the future! Check out myqkaplan.com for more information, and/or live your life however you choose. Thanks!</p>\n",
       "pageUrl": "16190-myq-kaplan"
@@ -2109,7 +2095,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/billy_photo_2.jpg",
       "photoUrl": "/api/img/performer-images/performer-billyprinsell-300x300.jpg",
-      "sortOrder": 151,
+      "sortOrder": 150,
       "excludeFromList": false,
       "bio": "<p>Billy Prinsell was one of Comedy Central&#039;s &#039;top comics to watch&#039; in 2015. With an instantly recognizable onstage persona he&#039;s been doing stand-up in New York City for close to a decade. He&#039;s acted in Tru Tv&#039;s &#039;friends of the people&#039; and performed in the New York and Bridgetown Comedy festivals. He regularly does stand-up at Carolines comedy club in New York City as well as co-hosts an interactive story telling show at Carolines called, &#039;Hindsight.&#039; Get pumped for a fun show!</p>\n",
       "pageUrl": "16279-billy-prinsell"
@@ -2123,7 +2109,7 @@
       "website": "http://bridgetown.festivalthing.com/mikelebovitz%40gmail.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_1165.png",
       "photoUrl": "/api/img/performer-images/performer-mikelebovitz-300x300.jpg",
-      "sortOrder": 152,
+      "sortOrder": 151,
       "excludeFromList": false,
       "bio": "<p>Mike Lebovitz began his comedy career at the age of six with clowning classes at the local JCC. He&#039;s been delighting and confounding audiences with his intoxicating brand of wild-eyed humor ever since. Equal parts lovable and absurd, Mike&#039;s act careens from topic to topic like a runaway freight train with some questionable couplings. Audiences have described the experience as &quot;spontaneous,&quot; &quot;joyful&quot; and &quot;slightly terrifying.&quot; </p>\n<p>A burgeoning international star now based in New York, Mike has offended nostrils in Montreal as a &quot;New Face&quot; of the 2013 Just For Laughs, and in Switzerland where he won the international competition at the 2013 The Montreux Comedy Fest. He returned to Montreux in 2014 as the &quot;Godfather&quot; of the competition.</p>\n",
       "pageUrl": "16318-mike-lebovitz"
@@ -2137,7 +2123,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/milanpatel.jpg",
       "photoUrl": "/api/img/performer-images/performer-milanpatel-300x300.jpg",
-      "sortOrder": 153,
+      "sortOrder": 152,
       "excludeFromList": false,
       "bio": "<p>Milan Patel is a stand up comedian from Seattle, WA. He has regularly performed in Seattle&#039;s Bumbershoot Music &amp; Comedy festival and has produced sketch and stand-up shows in Seattle. He currently lives in Portland, OR and is quickly becoming one of Portland&#039;s favorite new comedians to watch. His comedy style ranges from dead-pan jokes to strange observational pieces to lighting fast crowd-work.</p>\n",
       "pageUrl": "16150-milan-patel"
@@ -2151,7 +2137,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/profile_pic.jpg",
       "photoUrl": "/api/img/performer-images/performer-jessevillacis-300x300.jpg",
-      "sortOrder": 154,
+      "sortOrder": 153,
       "excludeFromList": false,
       "bio": "<p>Im a nice boy, I grey up in Seattle and I love food and comedy.</p>\n",
       "pageUrl": "16559-jesse-villacis"
@@ -2165,7 +2151,7 @@
       "website": "http://www.allenstricklandwilliams.com/",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/williams_blue_sweater_vest.jpg",
       "photoUrl": "/api/img/performer-images/performer-allenstricklandwilliams-300x300.jpg",
-      "sortOrder": 155,
+      "sortOrder": 154,
       "excludeFromList": false,
       "bio": "<p>Allen Strickland Williams is a stand-up comedian and writer in Los Angeles. In the fall of 2014 Allen made his television stand-up debut on <em>Conan. </em>He’s appeared on <em>Comedy Dynamics: Coming to the Stage </em>on Hulu, <em>After Darth </em>from Abominable Pictures and <em>Flophouse </em>on Viceland. Allen was recently listed as one of the 10 Best Rising Stars in LA Comedy by The Culture Trip and appeared at the 2016 New York Comedy Festival as one of Comedy Central’s <em>Comics to Watch</em>, a showcase for the hottest up-and-coming comedians in the nation. Allen was featured on the <em>Holy Fuck</em> live comedy album, and has performed at SXSW and Moontower in Austin, Texas, the Bridgetown Comedy Festival in Portland, Oregon and Funny or Die's Oddball Comedy Festival in both San Diego and Irvine, California. He has performed in Los Angeles at the Upright Citizens Brigade Theatre, The Hollywood Improv, The Laugh Factory, The Comedy Store, Holy Fuck at The Downtown Independent and Nerdmelt Showroom. He’s headlined at Acme Comedy Co. in Minneapolis and featured at Comedy Works in Denver, the Punchline in San Francisco, the American Comedy Co. in San Diego and both of the UCB Theatres in New York City. When not tinkering with jokes or going up on stage, Allen works as a freelance writer for VICE.com and produces videos with his sketch group WOMEN, which has been featured on <em>Tosh.0</em> and IFC.com's<em> Comedy Crib.</em></p>\n",
       "pageUrl": "16039-allen-strickland-williams"
@@ -2179,7 +2165,7 @@
       "website": "http://spaceprincejulio.tumblr.com/",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/julio.png",
       "photoUrl": "/api/img/performer-images/performer-juliotorres-300x300.jpg",
-      "sortOrder": 156,
+      "sortOrder": 155,
       "excludeFromList": false,
       "bio": "<p>Julio is a Brooklyn-based comedian who moved to NYC from El Salvador to study literature at the New School. In 2013, Julio was a finalist in the NBC Stand-Up for Diversity showcase, then was named one of Comedy Central’s 2014 Comics to Watch. Last summer, Julio was named one of the New Faces in the 2015 Montreal Just for Laughs Comedy Festival. Julio is currently developing original content with Fred Armisen and Horatio Sanz for Broadway Video’s Mas Mejor network, with his new series DIEGO + VALENTINA now up. Julio just finished guest writing on the 41st season of SATURDAY NIGHT LIVE, previously writing for THE CHRIS GETHARD SHOW and BILLY ON THE STREET this year as well. Julio can also be seen on Louis CK’s HORACE &amp; PETE as well as the upcoming season of HIGH MAINTENANCE on HBO. </p>\n",
       "pageUrl": "15740-julio-torres"
