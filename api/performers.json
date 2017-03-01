@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16187,
+      "id": 16876,
       "events": [],
       "emceeEvents": [],
-      "name": "RON LYNCH",
-      "twitter": "ronlynch1",
-      "website": "https://www.facebook.com/ron.lynch1",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
-      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
-      "sortOrder": 78,
+      "name": "Eli Yudin",
+      "twitter": "eliyudin",
+      "website": "http://www.eliyudin.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
+      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
+      "sortOrder": 79,
       "excludeFromList": false,
-      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
-      "pageUrl": "16187-ron-lynch"
+      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
+      "pageUrl": "16876-eli-yudin"
     },
     {
       "id": 16103,
@@ -1079,6 +1079,20 @@
       "pageUrl": "16869-steven-wilber"
     },
     {
+      "id": 16187,
+      "events": [],
+      "emceeEvents": [],
+      "name": "RON LYNCH",
+      "twitter": "ronlynch1",
+      "website": "https://www.facebook.com/ron.lynch1",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/ron_lynch_2016.jpg",
+      "photoUrl": "/api/img/performer-images/performer-ronlynch-300x300.jpg",
+      "sortOrder": 78,
+      "excludeFromList": false,
+      "bio": "<p>Been doing comedy forever.  TV stuff.  Used to do jokey jokes, now more characters and weird stuff.<br />\n<a href=\"http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1\">http://www.imdb.com/name/nm0528438/?ref_=nv_sr_1</a></p>\n",
+      "pageUrl": "16187-ron-lynch"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -1091,20 +1105,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16876,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Eli Yudin",
-      "twitter": "eliyudin",
-      "website": "http://www.eliyudin.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
-      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
-      "sortOrder": 79,
-      "excludeFromList": false,
-      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
-      "pageUrl": "16876-eli-yudin"
     },
     {
       "id": 16304,
@@ -2169,6 +2169,34 @@
       "excludeFromList": false,
       "bio": "<p>Julio is a Brooklyn-based comedian who moved to NYC from El Salvador to study literature at the New School. In 2013, Julio was a finalist in the NBC Stand-Up for Diversity showcase, then was named one of Comedy Central’s 2014 Comics to Watch. Last summer, Julio was named one of the New Faces in the 2015 Montreal Just for Laughs Comedy Festival. Julio is currently developing original content with Fred Armisen and Horatio Sanz for Broadway Video’s Mas Mejor network, with his new series DIEGO + VALENTINA now up. Julio just finished guest writing on the 41st season of SATURDAY NIGHT LIVE, previously writing for THE CHRIS GETHARD SHOW and BILLY ON THE STREET this year as well. Julio can also be seen on Louis CK’s HORACE &amp; PETE as well as the upcoming season of HIGH MAINTENANCE on HBO. </p>\n",
       "pageUrl": "15740-julio-torres"
+    },
+    {
+      "id": 16360,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Kristin Key",
+      "twitter": "thekristinkey",
+      "website": "http://www.kristinkey.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kristin_key_headshot.png",
+      "photoUrl": "/api/img/performer-images/performer-kristinkey-300x300.jpg",
+      "sortOrder": 156,
+      "excludeFromList": false,
+      "bio": "<p>Kristin Key grew up a minister’s daughter in a small town in West Texas. Much like Footloose, she was raised in a no-drinking, no-dancing, no instrumental music environment, so she immediately took up drinking, dancing and playing an instrument. Proving that the almighty has a strange sense of humor, Kristin came out of the closet at 15. Needless to say, it did not go well. So, Kristin decided to “take it back”, retreat back into the closet, and try a little harder to be straight.</p>\n<p>At 19, while in college to become a paramedic, Key signed up for Open Mic Night at the local comedy club. As soon as she took the stage she felt at home. Though her observations and wit made her a local favorite, she remained in the closet, fearful of losing her local fan base. Small shows in the Texas panhandle turned into 35 states worth of comedy over the next 5 years. Audiences couldn't help but love the original comedy songs and rapid-fire style of comedy coming from the \"Preacher's Kid\", and though female comics struggled to find work she was booked not for being a woman, but for simply being funny.</p>\n<p>When Last Comic Standing held their auditions in Austin, Texas, she stood in line hoping for a chance to be seen. After 7 hours of waiting, she got her chance and her ticket to Hollywood to compete with the best in the comedy world. At the end of the season she stood among the final six and watched as her fan base exploded. With validation from millions of comedy fans, Key moved to L.A. and began preparing a new act to take on the road.</p>\n<p>While participating in an anti-bullying fundraiser, Kristin finally broke her silence and decided to share her hilarious story of coming out, taking it back, living in the closet, and meeting her wife. After 15 years in comedy, Kristin has found a way to perfectly blend together her thought provoking hilarious true stories and original songs with outrageous off-the-cuff improv moments, ensuring that no two shows are the same.</p>\n<p>She is most recognized for her appearance on Last Comic Standing, additional credits include: Comics Unleashed, VH- 1’s 100 Greatest Series, The Bob and Tom show and Sirius and XM Satellite Radio. She has released several comedy and music albums, including a new Christmas album, “It’s Beginning to Look a Lot Like Kristin” (now available on Amazon, Google, and iTunes). Much has changed from the dusty west Texas town of Amarillo to the bright lights of L.A. but the one thing that hasn't changed is that fast-paced quick witted comedy that has kept audiences rolling in the aisles from the beginning.</p>\n",
+      "pageUrl": "16360-kristin-key"
+    },
+    {
+      "id": 16358,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Tyler Boeh",
+      "twitter": "TylerBoeh",
+      "website": "http://www.tylerboeh.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/tyler_boeh_headshot_lq.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tylerboeh-300x300.jpg",
+      "sortOrder": 157,
+      "excludeFromList": false,
+      "bio": "<p>Who goes from being a mild-mannered nationally recognized vocal percussionist in his college Acapella group to becoming a high-energy, intelligent, physical, beat-boxing and downright silly comedian with a comedy CD chosen by Under the Gun Review as the best Comedy Album of 2012?  None other than Comedian <strong>Tyler Boeh,</strong> who shifted his emphasis from singing acapella (a word he describes as Latin for “Without Girlfriend”) when he won a comedy contest in his home town of Portland Oregon.  After winning and placing in the finals of numerous Comedy Competitions from San Francisco to Portland to Seattle to Boston to The World Series of Comedy, Tyler not only launched a great career in comedy which has included television appearances, colleges, cruise ships and headlining clubs all across the county, he also found a girlfriend.</p>\n<p>Now well established in the comedy scene (and finding a girlfriend that has since become his wife)  you may have seen Tyler on such shows as FOX’s Laughs, Craig Fergusson’s <em>Celebrity Name Game, Moms Rule</em>, <em>NESN’s Comedy All Stars</em>, or  heard him on Sirius XM Radio, Pandora, iTunes, heard his album “Carpool Companion”  or heard about one of the two television pilots he recently completed, but don’t miss a chance to see Tyler Boeh live.</p>\n",
+      "pageUrl": "16358-tyler-boeh"
     }
   ]
 }
