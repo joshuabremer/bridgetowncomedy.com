@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16876,
+      "id": 16304,
       "events": [],
       "emceeEvents": [],
-      "name": "Eli Yudin",
-      "twitter": "eliyudin",
-      "website": "http://www.eliyudin.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
-      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
-      "sortOrder": 79,
+      "name": "JR De Guzman",
+      "twitter": "jrdeguzm",
+      "website": "http://j.deguzman.r@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
+      "sortOrder": 80,
       "excludeFromList": false,
-      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
-      "pageUrl": "16876-eli-yudin"
+      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
+      "pageUrl": "16304-jr-de-guzman"
     },
     {
       "id": 16103,
@@ -1093,6 +1093,20 @@
       "pageUrl": "16187-ron-lynch"
     },
     {
+      "id": 16876,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Eli Yudin",
+      "twitter": "eliyudin",
+      "website": "http://www.eliyudin.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_24.jpg",
+      "photoUrl": "/api/img/performer-images/performer-eliyudin-300x300.jpg",
+      "sortOrder": 79,
+      "excludeFromList": false,
+      "bio": "<p>Eli Yudin is a comedian based in Brooklyn, NY. He started comedy while at college in Ann Arbor, Michigan, during which time he won the &quot;MI Favorite Comic&quot; competition for best student comedian, as well as opening for Russell Brand at Eastern Michigan University. After graduating, he moved to New York City, where he&#039;s been ever since, performing all over the city &amp; outer boroughs. He&#039;s performed in comedy festivals across the country, including the Brooklyn Comedy Festival, Bridgetown Comedy Festival in Portland, Oregon, Cape Fear Comedy Festival in North Carolina, Hell Yes Festival in New Orleans, and Crom Fest in Denver and Atlanta. He has a personal twitter account at @eliyudin with &gt;15,000 followers, as well as co-creating the parody twitter account @NotTildaSwinton, which got over 45,000 followers in just 5 days.</p>\n",
+      "pageUrl": "16876-eli-yudin"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -1105,20 +1119,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16304,
-      "events": [],
-      "emceeEvents": [],
-      "name": "JR De Guzman",
-      "twitter": "jrdeguzm",
-      "website": "http://j.deguzman.r@gmail.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
-      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
-      "sortOrder": 80,
-      "excludeFromList": false,
-      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
-      "pageUrl": "16304-jr-de-guzman"
     },
     {
       "id": 16616,
@@ -2197,6 +2197,20 @@
       "excludeFromList": false,
       "bio": "<p>Who goes from being a mild-mannered nationally recognized vocal percussionist in his college Acapella group to becoming a high-energy, intelligent, physical, beat-boxing and downright silly comedian with a comedy CD chosen by Under the Gun Review as the best Comedy Album of 2012?  None other than Comedian <strong>Tyler Boeh,</strong> who shifted his emphasis from singing acapella (a word he describes as Latin for “Without Girlfriend”) when he won a comedy contest in his home town of Portland Oregon.  After winning and placing in the finals of numerous Comedy Competitions from San Francisco to Portland to Seattle to Boston to The World Series of Comedy, Tyler not only launched a great career in comedy which has included television appearances, colleges, cruise ships and headlining clubs all across the county, he also found a girlfriend.</p>\n<p>Now well established in the comedy scene (and finding a girlfriend that has since become his wife)  you may have seen Tyler on such shows as FOX’s Laughs, Craig Fergusson’s <em>Celebrity Name Game, Moms Rule</em>, <em>NESN’s Comedy All Stars</em>, or  heard him on Sirius XM Radio, Pandora, iTunes, heard his album “Carpool Companion”  or heard about one of the two television pilots he recently completed, but don’t miss a chance to see Tyler Boeh live.</p>\n",
       "pageUrl": "16358-tyler-boeh"
+    },
+    {
+      "id": 16276,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Nick Sahoyah",
+      "twitter": "sahoyah",
+      "website": "http://facebook.com/nicksahoyah",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/80s.png",
+      "photoUrl": "/api/img/performer-images/performer-nicksahoyah-300x300.jpg",
+      "sortOrder": 158,
+      "excludeFromList": false,
+      "bio": "<p>Nick Sahoyah started his comedy career in the summer of 2010 at a gross coffee shop on Capitol Hill. Since then he has had the pleasure of performing stand up across the country participating in festivals such as Limestone Comedy Festival, Out of Bounds, The Comedy Exposition, Hell Yes Fest, and SF Sketchfest,. In Seattle he cohosts the live talk show Not Too Late with Elicia Sanchez at Eclectic Theater, and QTPOC Is Not A Rapper, a showcase and mic at Scratch Deli. Aside from stand up, you may recognize Nick from his web show 8-Hit Gaming, his short film Poster Boy! on vimeo, or his appearance in the feature length Jinkx Monsoon documentary Drag Becomes Him.</p>\n",
+      "pageUrl": "16276-nick-sahoyah"
     }
   ]
 }
