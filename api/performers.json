@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15923,
+      "id": 16212,
       "events": [],
       "emceeEvents": [],
-      "name": "Gabe Dinger",
-      "twitter": "GabeDinger",
-      "website": "http://www.GabeDinger.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
-      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
-      "sortOrder": 69,
+      "name": "Nathan Brannon",
+      "twitter": "nathanbrannon",
+      "website": "http://www.nathanbrannon.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/20160728_094253_2_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nathanbrannon-300x300.jpg",
+      "sortOrder": 70,
       "excludeFromList": false,
-      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
-      "pageUrl": "15923-gabe-dinger"
+      "bio": "<p> </p>\n<p>Bio: \" Nathan is a comedian out of Portland, Oregon, who is consistently adding to his list of accomplishment year after year.  In 2016, Nathan recorded his second album, titled 'Because', with distinguished record label Kill Rock Stars. Nathan also signed with Kill Rock Stars in 2015, was the winner of the Seattle International Comedy Competition in 2014, voted into the Willamette Week's \"Portland's Funniest 5\" in 2013 while releasing his first comedy album \"I Black Out\" that same year, and was crowned “Portland’s Funniest Person” in 2012.</p>\n<p>He has been featured on national programs such as NPR's 'Weekend Edition,' and 'Laughs' on Fox. Nathan has also opened for national headliners such as Dave Chappelle, Damon Wayans, Maria Bamford, and has photoshopped himself into photos with many more. Currently, Nathan is seeking a funnier way to end this paragraph. \"</p>\n",
+      "pageUrl": "16212-nathan-brannon"
     },
     {
       "id": 16103,
@@ -953,6 +953,20 @@
       "pageUrl": "16687-brody-stevens"
     },
     {
+      "id": 15923,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Gabe Dinger",
+      "twitter": "GabeDinger",
+      "website": "http://www.GabeDinger.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
+      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
+      "sortOrder": 69,
+      "excludeFromList": false,
+      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
+      "pageUrl": "15923-gabe-dinger"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -965,20 +979,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16212,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Nathan Brannon",
-      "twitter": "nathanbrannon",
-      "website": "http://www.nathanbrannon.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/20160728_094253_2_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nathanbrannon-300x300.jpg",
-      "sortOrder": 70,
-      "excludeFromList": false,
-      "bio": "<p> </p>\n<p>Bio: \" Nathan is a comedian out of Portland, Oregon, who is consistently adding to his list of accomplishment year after year.  In 2016, Nathan recorded his second album, titled 'Because', with distinguished record label Kill Rock Stars. Nathan also signed with Kill Rock Stars in 2015, was the winner of the Seattle International Comedy Competition in 2014, voted into the Willamette Week's \"Portland's Funniest 5\" in 2013 while releasing his first comedy album \"I Black Out\" that same year, and was crowned “Portland’s Funniest Person” in 2012.</p>\n<p>He has been featured on national programs such as NPR's 'Weekend Edition,' and 'Laughs' on Fox. Nathan has also opened for national headliners such as Dave Chappelle, Damon Wayans, Maria Bamford, and has photoshopped himself into photos with many more. Currently, Nathan is seeking a funnier way to end this paragraph. \"</p>\n",
-      "pageUrl": "16212-nathan-brannon"
     },
     {
       "id": 16869,
@@ -1917,6 +1917,20 @@
       "excludeFromList": false,
       "bio": "<p>Beginning comedy in her hometown of Chicago, Julia Shiplett has been performing standup and telling stories for the past four years. Her comedy has evolved into a seamless blend of feminism, self-deprecation and personal experiences as a biracially confused Midwesterner. She often explores key topics like pop culture, women&#039;s issues and gross things happening to her body.</p>\n<p>She has been seen in the Brooklyn Comedy Festival, Hell Yes Fest, Cinder Block Comedy Fest and the Chicago Women’s Funny Fest. Other credits include winning a Moth StorySLAM and making it to the 2015 StandUp NBC semifinals. </p>\n<p>Now in New York, Julia co-produces two popular comedy shows in Brooklyn called DEVOUR HOUR &amp; Side Ponytail.</p>\n<p>She’s been told she would make an adorable villain.</p>\n",
       "pageUrl": "16396-julia-shiplett"
+    },
+    {
+      "id": 16691,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Dan Soder",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dan_soder_-_pic_2.jpg",
+      "photoUrl": "/api/img/performer-images/performer-dansoder-300x300.jpg",
+      "sortOrder": 138,
+      "excludeFromList": false,
+      "bio": "<p>Dan Soder is a comedian whose first stand up special, NOT SPECIAL premiered on Comedy Central this year. Other credits include: Comedy Central's The Half Hour, John Oliver's New York Stand Up show, Inside Amy Schumer and he's appeared multiple times on CONAN and @midnight. He can be seen as Mafee on Showtime's Billions and you can listen to The Bonfire radio show, which he co-hosts with Big Jay Oakerson, on Sirius XM every Monday and Wednesday at 6pm ET.</p>\n",
+      "pageUrl": "16691-dan-soder"
     }
   ]
 }
