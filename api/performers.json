@@ -1863,20 +1863,6 @@
       "pageUrl": "16039-allen-strickland-williams"
     },
     {
-      "id": 15740,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Julio Torres",
-      "twitter": "juliothesquare",
-      "website": "http://spaceprincejulio.tumblr.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/julio.png",
-      "photoUrl": "/api/img/performer-images/performer-juliotorres-300x300.jpg",
-      "sortOrder": 134,
-      "excludeFromList": false,
-      "bio": "<p>Julio is a Brooklyn-based comedian who moved to NYC from El Salvador to study literature at the New School. In 2013, Julio was a finalist in the NBC Stand-Up for Diversity showcase, then was named one of Comedy Central’s 2014 Comics to Watch. Last summer, Julio was named one of the New Faces in the 2015 Montreal Just for Laughs Comedy Festival. Julio is currently developing original content with Fred Armisen and Horatio Sanz for Broadway Video’s Mas Mejor network, with his new series DIEGO + VALENTINA now up. Julio just finished guest writing on the 41st season of SATURDAY NIGHT LIVE, previously writing for THE CHRIS GETHARD SHOW and BILLY ON THE STREET this year as well. Julio can also be seen on Louis CK’s HORACE &amp; PETE as well as the upcoming season of HIGH MAINTENANCE on HBO. </p>\n",
-      "pageUrl": "15740-julio-torres"
-    },
-    {
       "id": 16360,
       "events": [],
       "emceeEvents": [],
@@ -1885,7 +1871,7 @@
       "website": "http://www.kristinkey.com/",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kristin_key_headshot.png",
       "photoUrl": "/api/img/performer-images/performer-kristinkey-300x300.jpg",
-      "sortOrder": 135,
+      "sortOrder": 134,
       "excludeFromList": false,
       "bio": "<p>Kristin Key grew up a minister’s daughter in a small town in West Texas. Much like Footloose, she was raised in a no-drinking, no-dancing, no instrumental music environment, so she immediately took up drinking, dancing and playing an instrument. Proving that the almighty has a strange sense of humor, Kristin came out of the closet at 15. Needless to say, it did not go well. So, Kristin decided to “take it back”, retreat back into the closet, and try a little harder to be straight.</p>\n<p>At 19, while in college to become a paramedic, Key signed up for Open Mic Night at the local comedy club. As soon as she took the stage she felt at home. Though her observations and wit made her a local favorite, she remained in the closet, fearful of losing her local fan base. Small shows in the Texas panhandle turned into 35 states worth of comedy over the next 5 years. Audiences couldn't help but love the original comedy songs and rapid-fire style of comedy coming from the \"Preacher's Kid\", and though female comics struggled to find work she was booked not for being a woman, but for simply being funny.</p>\n<p>When Last Comic Standing held their auditions in Austin, Texas, she stood in line hoping for a chance to be seen. After 7 hours of waiting, she got her chance and her ticket to Hollywood to compete with the best in the comedy world. At the end of the season she stood among the final six and watched as her fan base exploded. With validation from millions of comedy fans, Key moved to L.A. and began preparing a new act to take on the road.</p>\n<p>While participating in an anti-bullying fundraiser, Kristin finally broke her silence and decided to share her hilarious story of coming out, taking it back, living in the closet, and meeting her wife. After 15 years in comedy, Kristin has found a way to perfectly blend together her thought provoking hilarious true stories and original songs with outrageous off-the-cuff improv moments, ensuring that no two shows are the same.</p>\n<p>She is most recognized for her appearance on Last Comic Standing, additional credits include: Comics Unleashed, VH- 1’s 100 Greatest Series, The Bob and Tom show and Sirius and XM Satellite Radio. She has released several comedy and music albums, including a new Christmas album, “It’s Beginning to Look a Lot Like Kristin” (now available on Amazon, Google, and iTunes). Much has changed from the dusty west Texas town of Amarillo to the bright lights of L.A. but the one thing that hasn't changed is that fast-paced quick witted comedy that has kept audiences rolling in the aisles from the beginning.</p>\n",
       "pageUrl": "16360-kristin-key"
@@ -1899,7 +1885,7 @@
       "website": "http://facebook.com/nicksahoyah",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/80s.png",
       "photoUrl": "/api/img/performer-images/performer-nicksahoyah-300x300.jpg",
-      "sortOrder": 136,
+      "sortOrder": 135,
       "excludeFromList": false,
       "bio": "<p>Nick Sahoyah started his comedy career in the summer of 2010 at a gross coffee shop on Capitol Hill. Since then he has had the pleasure of performing stand up across the country participating in festivals such as Limestone Comedy Festival, Out of Bounds, The Comedy Exposition, Hell Yes Fest, and SF Sketchfest,. In Seattle he cohosts the live talk show Not Too Late with Elicia Sanchez at Eclectic Theater, and QTPOC Is Not A Rapper, a showcase and mic at Scratch Deli. Aside from stand up, you may recognize Nick from his web show 8-Hit Gaming, his short film Poster Boy! on vimeo, or his appearance in the feature length Jinkx Monsoon documentary Drag Becomes Him.</p>\n",
       "pageUrl": "16276-nick-sahoyah"
@@ -1913,7 +1899,7 @@
       "website": "http://juliashiplett.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/julia_shiplett.jpg",
       "photoUrl": "/api/img/performer-images/performer-juliashiplett-300x300.jpg",
-      "sortOrder": 137,
+      "sortOrder": 136,
       "excludeFromList": false,
       "bio": "<p>Beginning comedy in her hometown of Chicago, Julia Shiplett has been performing standup and telling stories for the past four years. Her comedy has evolved into a seamless blend of feminism, self-deprecation and personal experiences as a biracially confused Midwesterner. She often explores key topics like pop culture, women&#039;s issues and gross things happening to her body.</p>\n<p>She has been seen in the Brooklyn Comedy Festival, Hell Yes Fest, Cinder Block Comedy Fest and the Chicago Women’s Funny Fest. Other credits include winning a Moth StorySLAM and making it to the 2015 StandUp NBC semifinals. </p>\n<p>Now in New York, Julia co-produces two popular comedy shows in Brooklyn called DEVOUR HOUR &amp; Side Ponytail.</p>\n<p>She’s been told she would make an adorable villain.</p>\n",
       "pageUrl": "16396-julia-shiplett"
@@ -1927,10 +1913,24 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dan_soder_-_pic_2.jpg",
       "photoUrl": "/api/img/performer-images/performer-dansoder-300x300.jpg",
-      "sortOrder": 138,
+      "sortOrder": 137,
       "excludeFromList": false,
       "bio": "<p>Dan Soder is a comedian whose first stand up special, NOT SPECIAL premiered on Comedy Central this year. Other credits include: Comedy Central's The Half Hour, John Oliver's New York Stand Up show, Inside Amy Schumer and he's appeared multiple times on CONAN and @midnight. He can be seen as Mafee on Showtime's Billions and you can listen to The Bonfire radio show, which he co-hosts with Big Jay Oakerson, on Sirius XM every Monday and Wednesday at 6pm ET.</p>\n",
       "pageUrl": "16691-dan-soder"
+    },
+    {
+      "id": 16930,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Nate Craig",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nate.jpg",
+      "photoUrl": "/api/img/performer-images/performer-natecraig-300x300.jpg",
+      "sortOrder": 138,
+      "excludeFromList": false,
+      "bio": "<p>This is Nate's 2nd appearance at Bridgetown. He's a nationally touring headliner and regular at The Hollywood Improv, Comedy Store, UCB Theaters (NY &amp; LA) and Nerdmelt Showroom. He was recently featured on Season two of Comedy Central's \"Roast Battle\" and MTV's \"Acting Out\". He's been on AXS Gotham Comedy Live and has appeared on Comedy Central's Tosh.0 and \"Mash-up\" which he also wrote for. He's also written for \"Ridiculousness\" on MTV and his new album Nate Craig \"Eggshell\" is featured in the Pandora \"Comedy Spotlight\" at Pandora.com. Nate has headlined both the \"Laugh Your Asheville Off\" and \"San Francisco Comedy and Burrito Festivals\" and been featured at the Bridgetown, RIOT LA, and HBO Las Vegas Comedy Festivals. He's been on \"You Made it Weird\" with Pete Holmes, has written for \"A Prairie Home Companion\" with Garrison Keillor, and was featured on the \"Best of the Bob &amp; Tom Radio Show\".  He does theater tours with Bill Burr, headlines all over the country and has multiple full length comedy albums available on iTunes and everywhere else.</p>\n",
+      "pageUrl": "16930-nate-craig"
     }
   ]
 }
