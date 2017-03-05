@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 15923,
+      "id": 16212,
       "events": [],
       "emceeEvents": [],
-      "name": "Gabe Dinger",
-      "twitter": "GabeDinger",
-      "website": "http://www.GabeDinger.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
-      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
-      "sortOrder": 67,
+      "name": "Nathan Brannon",
+      "twitter": "nathanbrannon",
+      "website": "http://www.nathanbrannon.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/20160728_094253_2_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nathanbrannon-300x300.jpg",
+      "sortOrder": 68,
       "excludeFromList": false,
-      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
-      "pageUrl": "15923-gabe-dinger"
+      "bio": "<p> </p>\n<p>Bio: \" Nathan is a comedian out of Portland, Oregon, who is consistently adding to his list of accomplishment year after year.  In 2016, Nathan recorded his second album, titled 'Because', with distinguished record label Kill Rock Stars. Nathan also signed with Kill Rock Stars in 2015, was the winner of the Seattle International Comedy Competition in 2014, voted into the Willamette Week's \"Portland's Funniest 5\" in 2013 while releasing his first comedy album \"I Black Out\" that same year, and was crowned “Portland’s Funniest Person” in 2012.</p>\n<p>He has been featured on national programs such as NPR's 'Weekend Edition,' and 'Laughs' on Fox. Nathan has also opened for national headliners such as Dave Chappelle, Damon Wayans, Maria Bamford, and has photoshopped himself into photos with many more. Currently, Nathan is seeking a funnier way to end this paragraph. \"</p>\n",
+      "pageUrl": "16212-nathan-brannon"
     },
     {
       "id": 16103,
@@ -925,6 +925,20 @@
       "pageUrl": "16687-brody-stevens"
     },
     {
+      "id": 15923,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Gabe Dinger",
+      "twitter": "GabeDinger",
+      "website": "http://www.GabeDinger.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_eep5822.jpg",
+      "photoUrl": "/api/img/performer-images/performer-gabedinger-300x300.jpg",
+      "sortOrder": 67,
+      "excludeFromList": false,
+      "bio": "<p>Portland native, Gabe Dinger, has been making audiences laugh for the last 10 years. His sharp wit, irreverent observations, and ability to improvise make Gabe’s shows varied and exciting. He has performed at several comedy festivals, including: Bridgetown Comedy Festival, Laughing Skull, and SF Sketchfest. As a member of the improv troupe Whiskey Tango, he has also performed in the LA Improv Festival, SF Sketchfest, and the Del Close Marathon in New York City. More notably Gabe was recently on Fuse TV&#039;s new show &quot;Uproarious&quot;, and was featured in Big Freeda&#039;s video &quot;Make It Jingle&quot;.</p>\n",
+      "pageUrl": "15923-gabe-dinger"
+    },
+    {
       "id": 16768,
       "events": [],
       "emceeEvents": [],
@@ -937,20 +951,6 @@
       "excludeFromList": false,
       "bio": "<p>Sean Devlin 叶 世民 is a Filipino-Canadian comedian and filmmaker who has been performing stand up for 14 years. Previous festival appearances include Just For Laughs Northwest and Bumbershoot Festival. He has performed as an opening act for Hari Kondabolu, Aamer Rahman, Reggie Watts and Tig Notaro - as well musical acts Of Montreal and MGMT. His comedy has also been featured on CBC Radio, XM radio, Upworthy.com and in the CTV mini-mini series The Party.  His film work has been featured in the New York Times, The Guardian and popular online platforms such as Buzzfeed and Boing Boing. He works as a filmmaker and action coordinator for political pranksters The Yes Men.</p>\n",
       "pageUrl": "16768-sean-devlin--"
-    },
-    {
-      "id": 16212,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Nathan Brannon",
-      "twitter": "nathanbrannon",
-      "website": "http://www.nathanbrannon.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/20160728_094253_2_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nathanbrannon-300x300.jpg",
-      "sortOrder": 68,
-      "excludeFromList": false,
-      "bio": "<p> </p>\n<p>Bio: \" Nathan is a comedian out of Portland, Oregon, who is consistently adding to his list of accomplishment year after year.  In 2016, Nathan recorded his second album, titled 'Because', with distinguished record label Kill Rock Stars. Nathan also signed with Kill Rock Stars in 2015, was the winner of the Seattle International Comedy Competition in 2014, voted into the Willamette Week's \"Portland's Funniest 5\" in 2013 while releasing his first comedy album \"I Black Out\" that same year, and was crowned “Portland’s Funniest Person” in 2012.</p>\n<p>He has been featured on national programs such as NPR's 'Weekend Edition,' and 'Laughs' on Fox. Nathan has also opened for national headliners such as Dave Chappelle, Damon Wayans, Maria Bamford, and has photoshopped himself into photos with many more. Currently, Nathan is seeking a funnier way to end this paragraph. \"</p>\n",
-      "pageUrl": "16212-nathan-brannon"
     },
     {
       "id": 16869,
@@ -1861,6 +1861,20 @@
       "excludeFromList": false,
       "bio": "<p><strong>GARETH REYNOLDS</strong> hails from the sweet streets of Milwaukee, Wisconsin originally. After moving to Los Angeles, Gareth starred in NBC’s ‘The Real Wedding Crashers’ which was as creatively stimulating as it was successful. However, through that show he began producing and writing their own material, eventually making shows at COMEDY CENTRAL, the TRAVEL CHANNEL, and MTV.</p>\n<p>In 2015 he began doing an American History podcast called ‘The Dollop’ with Dave Anthony which currently gets over 1.3 million downloads each month. The podcast has taken him all over the world to perform it. He just appeared in the ABC show ‘Hail Mary’ in which he is one of the leads and is a writer on NETFLIX original series Flaked. He currently has a development deal with FOX and he now tours the country doing stand up. He also has a cat named Jose.</p>\n",
       "pageUrl": "15748-gareth-reynolds-"
+    },
+    {
+      "id": 16393,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Barbara Holm",
+      "twitter": "barbara_holm",
+      "website": "http://barbaraholm.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/15226477_10105807861570758_646096088_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-barbaraholm-300x300.jpg",
+      "sortOrder": 134,
+      "excludeFromList": false,
+      "bio": "<p>Portland comedian Barbara Holm has performed at the San Francisco Sketchfest, the Bridgetown Comedy Festival, the All Jane Comedy Festival, Bumbershoot Arts festival, Rose City Comic Con, PAX Convention, and the Women in Comedy Festival in Boston. She has written for IGN, Live Wire, The Portland Mercury, and the Huffington Post. She has been awarded Time Out New York’s Joke of the Week and was named “one of the best things about comedy in 2012” by the Comedy Bureau. Her comedy has been described as clever, unique, idiosyncratic, and exuberant. Seattle City Arts Magazine called her a “comedy wizard” and Seattle Stranger Newspaper described her as an “adorable wunderkind” and she describes herself as “running away from this question to hide under the desk right now.”</p>\n",
+      "pageUrl": "16393-barbara-holm"
     }
   ]
 }
