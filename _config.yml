@@ -13,7 +13,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-exclude: ['bridgetown-ember','tests', 'bridgetown-ember/tmp','tests', 'CNAME','tests', 'tmp','tests', 'node_modules','tests',  'package.json','tests',  'npm-debug.log','tests',  'Gruntfile.js','tests',  'spec','tests', 'config.ru','tests',  'Gemfile','tests',  'Gemfile.lock','tests',  'vendor','tests',  'build.sh']
+exclude: ['bridgetown-ember','tests', 'bridgetown-ember/tmp','tests', 'CNAME','tests', 'tmp','tests', 'node_modules','tests',  'package.json','tests',  'npm-debug.log','tests',  'Gruntfile.js','tests',  'spec','tests', 'config.ru','tests',  'Gemfile','tests',  'Gemfile.lock','tests',  'vendor','tests',  'build.sh', 'heroku-build.sh']
 
 collections:
   event:

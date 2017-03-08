@@ -22,7 +22,7 @@ dir=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
 echo "${dir}"
 cd "${dir}"
 
-if git pull --ff origin gh-pages ; then
+if git pull origin gh-pages ; then
     echo "."
 else
     echo "You have local changes that need to be resolved..."
@@ -114,3 +114,6 @@ vendorcss=$(find ./assets -name "vendor*.css" -type f -exec basename {} \; 2>&1)
 printf "<!-- This file was generated with build.sh -->\n\n" > _includes/styles.html
 printf "<link rel='stylesheet' href='/assets/${vendorcss}'></link>" >> _includes/styles.html
 printf "<link rel='stylesheet' href='/assets/${appcss}'></link>" >> _includes/styles.html
+
+bundle exec jekyll build
+cp -a ./_site/. ../btown-secure/htdocs
