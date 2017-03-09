@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16519,
+      "id": 15859,
       "events": [],
       "emceeEvents": [],
-      "name": "Tom Thakkar",
-      "twitter": "tomathakkar",
-      "website": "http://tomthakkar.tumblr.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/9171_10106863273157439_7810243713824647968_n.jpg",
-      "photoUrl": "/api/img/performer-images/performer-tomthakkar-300x300.jpg",
-      "sortOrder": 65,
+      "name": "Kirsten Kuppenbender",
+      "twitter": "kupptastic",
+      "website": "http://www.kirstenkuppenbender.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dsc_1378.jpg",
+      "photoUrl": "/api/img/performer-images/performer-kirstenkuppenbender-300x300.jpg",
+      "sortOrder": 66,
       "excludeFromList": false,
-      "bio": "<p>Tom Thakkar (formerly Thomas Brady) is a comic living in Brooklyn by way of Bloomington, IN and Chicago. He is the son of a great, Red Lobster-managing mom and a deadbeat Indian dad, giving him the odd childhood experience of being a poor, pudgy Indian boy southern Indiana. In 2015, Tom was named a “New Face” by the Just for Laughs comedy festival in Montreal, as well as one of the “Best of the Midwest” by Gilda’s Laugh Fest. Ole Tom Thakkar has also been a featured performer at Limestone Comedy Festival, Chicago Comedy Exposition, Crom Fest Omaha, and more. Tom has been featured on Doug Loves Movies, VICE, NPR, The Todd Glass Show, PBS, and was named a &quot;Comedian you should know&quot; by Chicago Magazine. You can see Tom all over New York, opening for Nikki Glaser all over the country, or standing outside of a Chipotle trying to decide if he&#039;s earned it that day.</p>\n",
-      "pageUrl": "16519-tom-thakkar"
+      "bio": "<p>Kirsten Kuppenbender is a Power House with a heart made of precious metal. She&#039;s a comedian, she&#039;s an actor and she is the visionary of a comedic revolution. In addition to her brilliant stand up and hosting skills, she is The Founder and Producer of Lez Stand Up: a Portland-based, all-queer, feminist comedy collective and showcase which performs up and down the West Coast.<br />\nYou may have seen her in Mercury&#039;s Undisputable Geniuses of Comedy showcase - 2016, Funny Women Festival LA - 2015, All Jane Festival 2015 &amp; 2013</p>\n",
+      "pageUrl": "15859-kirsten-kuppenbender"
     },
     {
       "id": 16925,
@@ -897,6 +897,20 @@
       "pageUrl": "15971-robert-jenkins"
     },
     {
+      "id": 16519,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Tom Thakkar",
+      "twitter": "tomathakkar",
+      "website": "http://tomthakkar.tumblr.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/9171_10106863273157439_7810243713824647968_n.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tomthakkar-300x300.jpg",
+      "sortOrder": 65,
+      "excludeFromList": false,
+      "bio": "<p>Tom Thakkar (formerly Thomas Brady) is a comic living in Brooklyn by way of Bloomington, IN and Chicago. He is the son of a great, Red Lobster-managing mom and a deadbeat Indian dad, giving him the odd childhood experience of being a poor, pudgy Indian boy southern Indiana. In 2015, Tom was named a “New Face” by the Just for Laughs comedy festival in Montreal, as well as one of the “Best of the Midwest” by Gilda’s Laugh Fest. Ole Tom Thakkar has also been a featured performer at Limestone Comedy Festival, Chicago Comedy Exposition, Crom Fest Omaha, and more. Tom has been featured on Doug Loves Movies, VICE, NPR, The Todd Glass Show, PBS, and was named a &quot;Comedian you should know&quot; by Chicago Magazine. You can see Tom all over New York, opening for Nikki Glaser all over the country, or standing outside of a Chipotle trying to decide if he&#039;s earned it that day.</p>\n",
+      "pageUrl": "16519-tom-thakkar"
+    },
+    {
       "id": 16918,
       "events": [],
       "emceeEvents": [],
@@ -909,20 +923,6 @@
       "excludeFromList": false,
       "bio": "<p>Matt Braunger was raised in Portland, Oregon. A headlining comedian since 2007 and an actor since childhood, Matt studied theatre in New York and improvisation in Chicago.</p>\n<p>Matt’s television credits include a recurring role on ABC’s \"Agent Carter,\" NBC’s \"Up All Night,\" a series regular role on \"MADtv,\" as well as appearances on \"BoJack<br />\nHorseman,\" \"Garfunkel and Oates,\" \"Maron,\" HBO’s \"Family Tree,\" \"The Michael J Fox Show,\" \"Happy Endings,\" \"CONAN,\" \"The Tonight Show with Conan O’Brien,\" \"The Late Show with David Letterman,\" \"The Pete Holmes Show,\" \"United States of Tara,\" \"Pushing Daisies,\" \"Carpoolers,\" \"The Late Late Show with Craig Ferguson, \" \"Acceptable TV,\" and \"Live At Gotham.\" He was also a regular guest on the \"Chelsea Lately\" roundtable and \"@midnight.\" Most recently Matt joined the cast of the popular TruTV series \"How to Be a Grown Up,\" and appeared in Showtime’s \"SXSW Comedy with W. Kamau Bell\" and Comedy Central’s \"The Meltdown.\"</p>\n<p>He won the 2008 “Best Of The Fest” at the inaugural Rooftop Comedy Festival in Aspen. In 2009, he was named to Variety’s Top 10 \"Comics to Watch,\" and Comedy Central’s \"Hot 9 in ’09\" list, his debut album \"Soak Up The Night\" was released by Comedy Central Records and he was named to the iTunes REWIND \"Top 20 Albums of 2009.\" In 2010, he recorded his half hour Comedy Central Presents special and in 2012 released his debut hour-long special entitled \"Shovel Fighter,\" also released as an album. Matt’s latest hour-long comedy special, \"Big, Dumb Animal\" is now available on Netflix.</p>\n<p>Along with touring comedy clubs across the country, Matt is also a regular at the Upright Citizens Brigade in Los Angeles, and he headlined the Old Milwaukee Comedy Tour for Funny Or Die in 2013. Matt has also performed at a variety of prestigious comedy festivals including the Just For Laughs Festival in Montreal and Chicago, The TBS Comedy Festival Las Vegas, and South By Southwest. Matt also co-founded the popular Bridgetown Comedy Festival that takes place annually in Portland.</p>\n",
       "pageUrl": "16918-matt-braunger"
-    },
-    {
-      "id": 15859,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Kirsten Kuppenbender",
-      "twitter": "kupptastic",
-      "website": "http://www.kirstenkuppenbender.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dsc_1378.jpg",
-      "photoUrl": "/api/img/performer-images/performer-kirstenkuppenbender-300x300.jpg",
-      "sortOrder": 66,
-      "excludeFromList": false,
-      "bio": "<p>Kirsten Kuppenbender is a Power House with a heart made of precious metal. She&#039;s a comedian, she&#039;s an actor and she is the visionary of a comedic revolution. In addition to her brilliant stand up and hosting skills, she is The Founder and Producer of Lez Stand Up: a Portland-based, all-queer, feminist comedy collective and showcase which performs up and down the West Coast.<br />\nYou may have seen her in Mercury&#039;s Undisputable Geniuses of Comedy showcase - 2016, Funny Women Festival LA - 2015, All Jane Festival 2015 &amp; 2013</p>\n",
-      "pageUrl": "15859-kirsten-kuppenbender"
     },
     {
       "id": 16405,
@@ -1805,6 +1805,20 @@
       "excludeFromList": false,
       "bio": "<p>Can you say &#039;awesome sauce&#039;? Christian Ricketts is an accomplished professional standup comedian who has been performing tons of amazing material since 2008. Asides from having written more than several hours of amazing material, they also perform as such memorable characters as Terry MacKulkan, Racist Old Man, and Carl Sagan. Lots of people have seen him and like it. He has appeared in several Bridgetown Comedy Festivals, Seattle Sketchfest, won the SF Comedy and Burrito Festival, was the #1 winner twice in Competitive Erotic Fan Fiction, he&#039;s contributing writer for Exotic Magazine, and Ricketts even got an award at the Oregon International Film Festival for straight up acting. He most often perform at venues in the Pacific Northwest, California, and the illegally annexed Kingdom of Hawaii.</p>\n",
       "pageUrl": "16447-christian-ricketts"
+    },
+    {
+      "id": 16503,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Stephen Agyei",
+      "twitter": "Stephenagyei",
+      "website": "http://StephenAgyei.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/12466123_10153822141765420_1574491555529955152_o.jpg",
+      "photoUrl": "/api/img/performer-images/performer-stephenagyei-300x300.jpg",
+      "sortOrder": 130,
+      "excludeFromList": false,
+      "bio": "<p>One of Riot LA comedy festival&#039;s comics to watch(2017), Stephen Agyei has the whitest teeth in Denver. One of the city&#039;s most sought-after comedians shines as brightly as his mischievous smile, not to mention a style described as “calculated fearlessness.” A regular at Comedy Works, Stephen has opened for some of the most prominent comedians in the country. The Limestone Comedy Festival alum(2016) has toured internationally in South Korea, and was hand picked by Duncan Trussell to open for his most recent &quot;I am God&quot; tour(2016). Stephen was introduced to a national audience thanks to his TV debut on VICELAND’s Flophouse(2016), as well as being featured on NPR&#039;s &quot;All Things Considered&quot;(2016) with Roy Wood Jr. A finalist in the 2012 Great American Comedy Festival, winner of the 2012 Comedy Works’ Clean Comedy contest, and 3-time finalist in the venue’s New Faces contest, he quickly made a name for himself on the Denver scene.</p>\n",
+      "pageUrl": "16503-stephen-agyei"
     }
   ]
 }
