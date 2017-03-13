@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16591,
+      "id": 16571,
       "events": [],
       "emceeEvents": [],
-      "name": "Nick Vatterott",
-      "twitter": "nickvatterott",
+      "name": "Brent Weinbach",
+      "twitter": "BrentWeinbach",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nickvatterottheadshot_01272017125716_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-nickvatterott-300x300.jpg",
-      "sortOrder": 13,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/brentweinbachheadshot_06302016050128_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-brentweinbach-300x300.jpg",
+      "sortOrder": 11,
       "excludeFromList": false,
-      "bio": "<p>In 2010 The Hollywood Reporter named Nick Vatterott one of the “break-outs” at Montreal’s Just for Laughs Comedy Festival. Since then he has performed on <em>Conan</em>, <em>Late Night with Jimmy Fallon</em> and has a half hour special on Comedy Central. Nick was also a producer/writer/performer on Comedy Central’s stand-up sketch hybrid show <em>Mash-Up</em>, and with co-creator TJ Miller sold the project <em>Manimation</em> to Fox's ADHD. He was the recipient of the prestigious Andy Kaufman award in 2011 and before heading off to NYC, Chicago Magazine listed Nick as “The Funniest Man in Chicago.” Nick’s debut comedy record, FOR AMUSMENT ONLY was released in November 2014 by Comedy Central Records and was voted by Vulture, Laughspin, and Splitsider as one of the year’s best comedy albums. In addition to naming Vatterott’s album one of the best of 2014, Vulture.com also listed him as one of the top 50 comedians you should know in 2015. Nick has been called “one of the most dynamic performer’s today” by The Laugh Button and his LATE NIGHT WITH JIMMY FALLON set was received as “so damn brilliant” by The Chicago Reader.  Nick has also had correspondent work on THE BIG TEN NETWORK and is currently writing for GORBURGER on Comedy Central with TJ Miller.</p>\n",
-      "pageUrl": "16591-nick-vatterott"
+      "bio": "<p>Brent Weinbach's stand-up comedy is weird and visual and post-modern and random and other stuff.  He also has a t-shirt with his name and his face on it.</p>\n<p>Brent is a winner and recipient of the Andy Kaufman Award, which is given out once a year to recognize innovation in stand-up comedy.  He is also responsible for various internet video sensations such as <em>Gangster Party Line</em> and <em>Early Facebook Commercial</em>, as well as the cult web series,<em> Pound House</em>.  Brent has appeared on <em>Conan</em>, <em>Lopez Tonight, Comedy Bang Bang, @midnight, Meltdown, The Middle, Eric Andre Show, Kroll Show</em>, and <em>Adventure Time</em>.</p>\n",
+      "pageUrl": "16571-brent-weinbach"
     },
     {
       "id": 16925,
@@ -141,18 +141,18 @@
       "pageUrl": "16904-anthony-atamanuik"
     },
     {
-      "id": 16571,
+      "id": 16927,
       "events": [],
       "emceeEvents": [],
-      "name": "Brent Weinbach",
-      "twitter": "BrentWeinbach",
+      "name": "Karen Kilgariff",
+      "twitter": "KarenKilgariff",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/brentweinbachheadshot_06302016050128_large.jpg",
-      "photoUrl": "/api/img/performer-images/performer-brentweinbach-300x300.jpg",
-      "sortOrder": 11,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/karen.jpg",
+      "photoUrl": "/api/img/performer-images/performer-karenkilgariff-300x300.jpg",
+      "sortOrder": 2,
       "excludeFromList": false,
-      "bio": "<p>Brent Weinbach's stand-up comedy is weird and visual and post-modern and random and other stuff.  He also has a t-shirt with his name and his face on it.</p>\n<p>Brent is a winner and recipient of the Andy Kaufman Award, which is given out once a year to recognize innovation in stand-up comedy.  He is also responsible for various internet video sensations such as <em>Gangster Party Line</em> and <em>Early Facebook Commercial</em>, as well as the cult web series,<em> Pound House</em>.  Brent has appeared on <em>Conan</em>, <em>Lopez Tonight, Comedy Bang Bang, @midnight, Meltdown, The Middle, Eric Andre Show, Kroll Show</em>, and <em>Adventure Time</em>.</p>\n",
-      "pageUrl": "16571-brent-weinbach"
+      "bio": "<p>Comedian Karen Kilgariff worked as an actor on HBO's legendary sketch program Mr. Show and as the head writer for Ellen DeGeneres. But she's found a niche for herself as the composer of scathingly-funny songs about smart-phone obsession, drinking on holidays and dysfunctional relationships and as the co-host of the smash hit podcast My Favorite Murder.</p>\n",
+      "pageUrl": "16927-karen-kilgariff"
     },
     {
       "id": 16691,
@@ -169,18 +169,18 @@
       "pageUrl": "16691-dan-soder"
     },
     {
-      "id": 16927,
+      "id": 16591,
       "events": [],
       "emceeEvents": [],
-      "name": "Karen Kilgariff",
-      "twitter": "KarenKilgariff",
+      "name": "Nick Vatterott",
+      "twitter": "nickvatterott",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/karen.jpg",
-      "photoUrl": "/api/img/performer-images/performer-karenkilgariff-300x300.jpg",
-      "sortOrder": 2,
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/nickvatterottheadshot_01272017125716_large.jpg",
+      "photoUrl": "/api/img/performer-images/performer-nickvatterott-300x300.jpg",
+      "sortOrder": 13,
       "excludeFromList": false,
-      "bio": "<p>Comedian Karen Kilgariff worked as an actor on HBO's legendary sketch program Mr. Show and as the head writer for Ellen DeGeneres. But she's found a niche for herself as the composer of scathingly-funny songs about smart-phone obsession, drinking on holidays and dysfunctional relationships and as the co-host of the smash hit podcast My Favorite Murder.</p>\n",
-      "pageUrl": "16927-karen-kilgariff"
+      "bio": "<p>In 2010 The Hollywood Reporter named Nick Vatterott one of the “break-outs” at Montreal’s Just for Laughs Comedy Festival. Since then he has performed on <em>Conan</em>, <em>Late Night with Jimmy Fallon</em> and has a half hour special on Comedy Central. Nick was also a producer/writer/performer on Comedy Central’s stand-up sketch hybrid show <em>Mash-Up</em>, and with co-creator TJ Miller sold the project <em>Manimation</em> to Fox's ADHD. He was the recipient of the prestigious Andy Kaufman award in 2011 and before heading off to NYC, Chicago Magazine listed Nick as “The Funniest Man in Chicago.” Nick’s debut comedy record, FOR AMUSMENT ONLY was released in November 2014 by Comedy Central Records and was voted by Vulture, Laughspin, and Splitsider as one of the year’s best comedy albums. In addition to naming Vatterott’s album one of the best of 2014, Vulture.com also listed him as one of the top 50 comedians you should know in 2015. Nick has been called “one of the most dynamic performer’s today” by The Laugh Button and his LATE NIGHT WITH JIMMY FALLON set was received as “so damn brilliant” by The Chicago Reader.  Nick has also had correspondent work on THE BIG TEN NETWORK and is currently writing for GORBURGER on Comedy Central with TJ Miller.</p>\n",
+      "pageUrl": "16591-nick-vatterott"
     },
     {
       "id": 15887,
@@ -211,20 +211,6 @@
       "pageUrl": "16578-fahim-anwar"
     },
     {
-      "id": 16325,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Caleb Synan",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/caleb_synan.jpg",
-      "photoUrl": "/api/img/performer-images/performer-calebsynan-300x300.jpg",
-      "sortOrder": 16,
-      "excludeFromList": false,
-      "bio": "<p>Caleb Synan has made appearances on CONAN, NBC’s Last Comic Standing, and the Bob and Tom Show. His deceptively smart blend of Southern charm and razor sharp wit has also made him a festival favorite, with appearances at Montreal’s Just For Laughs, Laugh Your Asheville Off, The Charleston Comedy Festival, and Athfest 2015. He also won “Wittiest” in Franklin County High School’s 2009 Yearbook. And he’s a pretty nice guy.</p>\n<p>\n </p>\n<p>\n </p>\n",
-      "pageUrl": "16325-caleb-synan"
-    },
-    {
       "id": 16581,
       "events": [],
       "emceeEvents": [],
@@ -233,7 +219,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/36632_5dedfab6-22d1-42f2-9ea0-1ff1562cb983_06182015045537_large.jpg",
       "photoUrl": "/api/img/performer-images/performer-jamesdavis-300x300.jpg",
-      "sortOrder": 17,
+      "sortOrder": 16,
       "excludeFromList": false,
       "bio": "<p>James Davis is a rising force in comedy. Comedy Central has just given a series order to Davis' primetime TV show, <strong>The James Davis Show</strong> where Davis will explore contemporary urban topics and share his perspective on the world he grew up in through a unique, hybrid style of comedy that bridges the gap between urban and mainstream comedy. Prior to this, Davis was a recurring character on Kevin Hart’s hit show, <strong>Real Husbands of Hollywood</strong>, and a round table regular on <strong>Chelsea Lately</strong>.  James is constantly writing, directing, and producing original content for Funny Or Die and recently finished writing for James Corden’s <strong>Late Late Show</strong> on CBS. </p>\n<p>You can also catch James hosting his monthly stand-up show,<em> Urban Dictionary,</em> at the Nerdist Showroom at Meltdown Comics in Los Angeles, starring in Comedy Central’s Snapchat original series, Swag-a-Saurus, which is Comedy Centrals' most-watched Snapachat show, and performing in Comedy Central's musical number, <strong>The Jam</strong>.</p>\n",
       "pageUrl": "16581-james-davis"
@@ -247,7 +233,7 @@
       "website": "http://www.nathanbrannon.com",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/20160728_094253_2_0.jpg",
       "photoUrl": "/api/img/performer-images/performer-nathanbrannon-300x300.jpg",
-      "sortOrder": 18,
+      "sortOrder": 17,
       "excludeFromList": false,
       "bio": "<p>Bio: \" Nathan is a comedian out of Portland, Oregon, who is consistently adding to his list of accomplishment year after year.  In 2016, Nathan recorded his second album, titled 'Because', with distinguished record label Kill Rock Stars. Nathan also signed with Kill Rock Stars in 2015, was the winner of the Seattle International Comedy Competition in 2014, voted into the Willamette Week's \"Portland's Funniest 5\" in 2013 while releasing his first comedy album \"I Black Out\" that same year, and was crowned “Portland’s Funniest Person” in 2012.</p>\n<p>He has been featured on national programs such as NPR's 'Weekend Edition,' and 'Laughs' on Fox. Nathan has also opened for national headliners such as Dave Chappelle, Damon Wayans, Maria Bamford, and has photoshopped himself into photos with many more. Currently, Nathan is seeking a funnier way to end this paragraph. \"</p>\n",
       "pageUrl": "16212-nathan-brannon"
@@ -261,7 +247,7 @@
       "website": "http://www.lisabestcomedy.com/",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/lisa_best_blue_t_smile.jpg",
       "photoUrl": "/api/img/performer-images/performer-lisabest-300x300.jpg",
-      "sortOrder": 19,
+      "sortOrder": 18,
       "excludeFromList": false,
       "bio": "<p>Lisa Best is a comedian, writer and performer from Los Angeles and has quickly made a name for herself in LA’s alternative scene as a brilliantly quirky comic and skilled story teller. In the spring of 2014, Lisa began headlining colleges across the country. She is a regular performer at Meltdown with Jonah and Kumail, The Laugh Factory in Hollywood, The Hollywood Improv, the Upright Citizens Brigade theatre, and was chosen to perform her hour at the Nerdmelt showroom for An Evening with Lisa Best. She has been showcased by Comedy Central and IFC, and has been seen at The Laugh Factory in Scottsdale, The Comedy Attic in Bloomington, Comedy Works in Denver, The Laughing Skull and The Improv in Atlanta and numerous other clubs around the county. She has been a featured performer at Sarah Silverman's 1st annual JASH Fesht in Palm Springs, All Jane Comedy Festival in Portland, Los Angeles' alternative comedy festival RIOT, and two years in a row at the Bridgetown Comedy Festival where The Portland Monthly wrote that Lisa \"has a flair for turning embarrassing stories into comedy gold.\" She is also a co-host for the Travel Channel pilot <em>Cheat Day, </em>performed stand up on Viceland’s <em>Flophouse </em>and appeared in digital sketches for Comedy Central, Funny or Die and IFC's Comedy Crib. But enough about her, how are you?</p>\n",
       "pageUrl": "16037-lisa-best"
@@ -275,66 +261,10 @@
       "website": "http://www.ihatejoelkim.com/",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/joel_conan.jpg",
       "photoUrl": "/api/img/performer-images/performer-joelkimbooster-300x300.jpg",
-      "sortOrder": 20,
+      "sortOrder": 19,
       "excludeFromList": false,
       "bio": "<p>Joel Kim Booster is a Chicago bred, Brooklyn based comedian, writer and playwright. Born in Jeju, South Korea, Joel was adopted at a young age and moved to the southwest suburbs of Chicago. Both homeschooled and evangelical, Joel has read the bible literally dozens of times, but has no idea where the state of Oregon is on a map. As a comedian he has appeared on <em>Conan</em>, Comedy Central’s <em>The Meltdown with Jonah and Kumail, </em>Logo’s <em>Comedy Cabaret </em>and truTV’s <em>Comedy Knockout</em>. His writing credits include <em>Billy on the Street </em>and the Comedy Central pilot <em>Problematic with Moshe Kasher</em>. Esquire Magazine recently listed Joel as one of their 10 Comedians to Watch in 2017.</p>\n",
       "pageUrl": "15888-joel-kim-booster"
-    },
-    {
-      "id": 16732,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Caitlin Gill",
-      "twitter": "ROBOTCAITLIN",
-      "website": "http://www.caitlingillcomedy.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/c.gill_.jpg",
-      "photoUrl": "/api/img/performer-images/performer-caitlingill-300x300.jpg",
-      "sortOrder": 21,
-      "excludeFromList": false,
-      "bio": "<p>Caitlin has performed for Flophouse on Viceland, at the Oddball Comedy Tour, the Outside Lands Festival, SF Sketchfest, Bridgetown Comedy Festival and in some of the best comedy clubs in the nation. Her writing has been featured on Hidden America with Jonah Ray, the series Take My Wife and in The New York Times. She was voted Best Comedian in the East Bay Express “Best Of” Edition in 2013.  You can also hear her on podcasts like Put Your Hands Together, Competitive Erotic Fan Fiction and NPR's Snap Judgement. She co-hosts Crabapples every week at the Hollywood Improv Lab with Bobcat Goldthwait.</p>\n",
-      "pageUrl": "16732-caitlin-gill"
-    },
-    {
-      "id": 16337,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Troy Walker",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/troy_11_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-troywalker-300x300.jpg",
-      "sortOrder": 22,
-      "excludeFromList": false,
-      "bio": "<p>If you haven't heard yet, the Denver comedy scene is blowing up and comedian Troy Walker is one of the most talented local rising stars.</p>\n<p>Troy Walker has quickly become one of Denver's most sought-after comedians, a designation he'd dismiss with a modest scoff, despite its accuracy. A regular at Comedy Works, Walker has won the Comedy Works \"New Faces\" contest twice.</p>\n<p>Walker has had the pleasure of opening for some of the most  prominent comedians in the country and also serves as a fine ambassador of Denver comedy at national and local comedy festivals including The Aspen Rooftop Comedy Festival, The Great American Comedy Festival, The Laughing Skull Comedy Festival, Portland's Bridgetown Comedy Festival, The Telluride Comedy Festival, and most recently as one of Just for Laughs Montreal's New Faces of Comedy.</p>\n<p>After witnessing his storytelling abilities and commanding  presence on-stage it should come as no surprise that he's also a licensed attorney  who graduated  from The University of Denver's Sturm College of Law.</p>\n",
-      "pageUrl": "16337-troy-walker"
-    },
-    {
-      "id": 16346,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Drew Lynch",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/drewlynch002.jpg",
-      "photoUrl": "/api/img/performer-images/performer-drewlynch-300x300.jpg",
-      "sortOrder": 23,
-      "excludeFromList": false,
-      "bio": "<p>In 2015, Drew Lynch captured the hearts of America with his Golden Buzzer performance on Season 10 of America’s Got Talent. “The person I was before would probably never hangout with who I am today” is the statement that resonated most in capturing audiences across the country, as they fell in love with Drew’s charming wit and genuine vulnerability every week of the competition. “Do something every day that scares you” is a motto Drew lives by.</p>\n<p>Drew becoming a comedian was almost as unintentional as capturing America’s hearts.  Originally from Indianapolis, at the age of 19, Drew moved to Los Angeles with aspirations of becoming an actor; a dream he had since he was a kid. An unexpected softball accident just a year into his acting career left Drew with a severe stutter and crushed his hopes of ever performing again.</p>\n<p>But his continued drive to become an entertainer forced him in a different direction, often reflecting on the “softball that humbly changed his life and gave him a career”. Drew’s vulnerabilty in dealing with his stutter and making it relatable to real-life situations propelled him each week of the competition – advancing him to the finals and ultimately landing him first runner-up on season 10 of America’s Got Talent.  Drew attributes much of his success from his ability to be honest, genuinely facing the “elephant in the room” head on.  Inspired by comedians Bo Burnham, Louis C.K, he now headlines Comedy Clubs across the country.</p>\n<p>Since his success on America’s Got Talent, Drew’s career has come full circle and he has broken back into the acting scene. Drew recently garnered a recurring role on the Marc Maron Show, has appeared on “Dr. Oz,” and as a celebrity guest on the game show “Idiot Test.” He is collaborating on a book, and ultimately becoming the actor he always dreamed of, with a now different and enlightened perspective on who he thought he was, and who he is today.</p>\n<p> </p>\n",
-      "pageUrl": "16346-drew-lynch"
-    },
-    {
-      "id": 16360,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Kristin Key",
-      "twitter": "thekristinkey",
-      "website": "http://www.kristinkey.com/",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kristin_key_headshot.png",
-      "photoUrl": "/api/img/performer-images/performer-kristinkey-300x300.jpg",
-      "sortOrder": 24,
-      "excludeFromList": false,
-      "bio": "<p>Kristin Key grew up a minister’s daughter in a small town in West Texas. Much like Footloose, she was raised in a no-drinking, no-dancing, no instrumental music environment, so she immediately took up drinking, dancing and playing an instrument. Proving that the almighty has a strange sense of humor, Kristin came out of the closet at 15. Needless to say, it did not go well. So, Kristin decided to “take it back”, retreat back into the closet, and try a little harder to be straight.</p>\n<p>At 19, while in college to become a paramedic, Key signed up for Open Mic Night at the local comedy club. As soon as she took the stage she felt at home. Though her observations and wit made her a local favorite, she remained in the closet, fearful of losing her local fan base. Small shows in the Texas panhandle turned into 35 states worth of comedy over the next 5 years. Audiences couldn't help but love the original comedy songs and rapid-fire style of comedy coming from the \"Preacher's Kid\", and though female comics struggled to find work she was booked not for being a woman, but for simply being funny.</p>\n<p>When Last Comic Standing held their auditions in Austin, Texas, she stood in line hoping for a chance to be seen. After 7 hours of waiting, she got her chance and her ticket to Hollywood to compete with the best in the comedy world. At the end of the season she stood among the final six and watched as her fan base exploded. With validation from millions of comedy fans, Key moved to L.A. and began preparing a new act to take on the road.</p>\n<p>While participating in an anti-bullying fundraiser, Kristin finally broke her silence and decided to share her hilarious story of coming out, taking it back, living in the closet, and meeting her wife. After 15 years in comedy, Kristin has found a way to perfectly blend together her thought provoking hilarious true stories and original songs with outrageous off-the-cuff improv moments, ensuring that no two shows are the same.</p>\n<p>She is most recognized for her appearance on Last Comic Standing, additional credits include: Comics Unleashed, VH- 1’s 100 Greatest Series, The Bob and Tom show and Sirius and XM Satellite Radio. She has released several comedy and music albums, including a new Christmas album, “It’s Beginning to Look a Lot Like Kristin” (now available on Amazon, Google, and iTunes). Much has changed from the dusty west Texas town of Amarillo to the bright lights of L.A. but the one thing that hasn't changed is that fast-paced quick witted comedy that has kept audiences rolling in the aisles from the beginning.</p>\n",
-      "pageUrl": "16360-kristin-key"
     },
     {
       "id": 17008,
@@ -345,7 +275,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/kindler_2012_small.jpg",
       "photoUrl": "/api/img/performer-images/performer-andykindler-300x300.jpg",
-      "sortOrder": 25,
+      "sortOrder": 20,
       "excludeFromList": false,
       "bio": "<p>Andy Kindler currently recurs on Fox’s hit animation, <em>Bob’s Burgers </em>and Comedy Central’s <em>Tosh. O.   </em>He is also the host of Season 4 and 5 of Hulu’s standup series, <em>Coming to the Stage.  </em> Andy was a series judge on the seventh season of NBC’s <em>Last Comic Standing</em>, the star of two half-hour <em>Comedy Central Presents</em> specials and was a frequent guest and correspondent on <em>The Late Show with David Letterman </em>with over 40 appearances.  He recurred on <em>Everybody Loves Raymond</em>, Disney’s <em>Wizards of Waverly Place, </em>and IFC’s <em>Maron</em>.  Other noteworthy credits include the <em>HBO Young Comedians Special, Conan, The Daily Show, Dr. Katz Professional Therapist, Home Movies </em>and <em>The Larry Sanders Show</em>.  Every year Andy delivers his infamous <em>State of the Industry Address</em> each year at the Just for Laughs Festival in Montreal.</p>\n",
       "pageUrl": "17008-andy-kindler-"
