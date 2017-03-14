@@ -6,19 +6,8 @@ description: 'Bridgetown Comedy Festival, happening Portland, Oregon, June 1st-5
 published: true
 ---
 
-<h3>2017 Early Bird Passes on sale!</h3>
+<h3>2017 Performers and Shows Announced!</h3>
 
-The tenth annual Bridgetown Comedy Festival returns to Portland May 4-7, 2017 and you can lock in your four-day passes at the discounted price of just $79 before the complete lineup of 100+ performers is announced in March. Visit [bridgetown2017.eventbrite.com](http://bridgetown2017.eventbrite.com) now!
-
-We're also very excited to announce a handful of our confirmed performers for this year, including:
-
-- Janeane Garofalo (_Saturday Night Live_, _The Larry Sanders Show_)
-- Karen Kilgariff (_My Favorite Murder_, _Mr. Show_)
-- Baron Vaughn (_Grace and Frankie_, _Fairly Legal_)
-- Jackie Kashian (_The Dork Forest_, _Lady Dynamite_)
-- Laurie Kilmartin (_Conan_, _Last Comic Standing_)
-- Matt Braunger (_Agent Carter_, _Big Dumb Animal_)
-- Nico Santos (_Superstore_, _Chelsea Lately_)
-- Dave Hill (_@midnight_, _Inside Amy Schumer_)
+The tenth annual Bridgetown Comedy Festival returns to Portland May 4-7, 2017 featuring over 100 of the top comedians in the business, with over 50 of those making their Bridgetown debut. Take a look at our [list of performers](https://www.bridgetowncomedy.com/performers) and [themed shows](https://www.bridgetowncomedy.com/shows), and get your pre-sale discount festival pass at [bridgetown2017.eventbrite.com](http://bridgetown2017.eventbrite.com) now!
 
 _*Note that festival passes do not include admission to events taking place at Arlene Schnitzer Concert Hall or Revolution Hall_
