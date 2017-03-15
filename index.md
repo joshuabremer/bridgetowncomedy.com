@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-description: 'Bridgetown Comedy Festival, happening Portland, Oregon, June 1st-5th, 2016!'
+description: 'Bridgetown Comedy Festival, happening Portland, Oregon, May 4th-7th, 2017!'
 published: true
 ---
 
