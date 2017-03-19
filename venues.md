@@ -40,6 +40,13 @@ published: true
 830 E Burnside Street, Portland, OR 97214
 
 
+<img src="/img/venue-images/venue-paris.png" />
+
+### Paris Theatre
+
+[www.facebook.com/TheParisPdx/](https://www.facebook.com/TheParisPdx/)
+
+6 SW 3rd Ave, Portland, OR 97204
 
 
 
@@ -51,17 +58,6 @@ published: true
 
 315 NW Davis St, Portland, OR 97209
 
-
-
-
-
-<img src="/img/venue-images/venue-paris.png" />
-
-### Paris Theatre
-
-[www.facebook.com/TheParisPdx/](https://www.facebook.com/TheParisPdx/)
-
-6 SW 3rd Ave, Portland, OR 97204
 
 
 
