@@ -55,6 +55,16 @@ published: true
 
 
 
+<img src="/img/venue-images/venue-paris.png" />
+
+### Paris Theatre
+
+[www.facebook.com/TheParisPdx/](https://www.facebook.com/TheParisPdx/)
+
+6 SW 3rd Ave, Portland, OR 97204
+
+
+
 
 
 <img src="/img/venue-images/venue-trio-club.jpg" />
