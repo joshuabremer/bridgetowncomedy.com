@@ -1,6 +1,9 @@
 {
   "id": 12478,
-  "events": [],
+  "events": [
+    17160,
+    17161
+  ],
   "name": "Paris Theater",
   "address": "116 SE Yamhill St, Portland, OR 97217",
   "pageUrl": "12478-paris-theater"

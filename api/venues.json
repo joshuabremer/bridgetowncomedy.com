@@ -3,7 +3,8 @@
     {
       "id": 10763,
       "events": [
-        17156
+        17156,
+        17157
       ],
       "name": "Analog Lounge (Downstairs)",
       "address": "720 SE Hawthorne Blvd, Portland, OR 97214",
@@ -30,14 +31,18 @@
       "id": 10374,
       "events": [
         17148,
-        17149
+        17149,
+        17164
       ],
       "name": "Portland Mercury Stage at Bossanova Ballroom",
       "pageUrl": "10374-portland-mercury-stage-at-bossanova-ballroom"
     },
     {
       "id": 10378,
-      "events": [],
+      "events": [
+        17158,
+        17159
+      ],
       "name": "Bunk Bar",
       "address": "1028 SE Water Street, Portland, OR 97214",
       "pageUrl": "10378-bunk-bar"
@@ -63,11 +68,20 @@
       "id": 10373,
       "events": [
         17150,
-        17151
+        17151,
+        17165
       ],
       "name": "Kill Rock Stars Stage at Doug Fir Lounge",
       "address": "830 E Burnside Street, Portland, OR 97214",
       "pageUrl": "10373-kill-rock-stars-stage-at-doug-fir-lounge"
+    },
+    {
+      "id": 17162,
+      "events": [
+        17163
+      ],
+      "name": "Ground Kontrol",
+      "pageUrl": "17162-ground-kontrol"
     },
     {
       "id": 10379,
@@ -78,7 +92,10 @@
     },
     {
       "id": 12478,
-      "events": [],
+      "events": [
+        17160,
+        17161
+      ],
       "name": "Paris Theater",
       "address": "116 SE Yamhill St, Portland, OR 97217",
       "pageUrl": "12478-paris-theater"
