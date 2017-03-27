@@ -208,6 +208,105 @@
       "endDateTime": "2017-05-06T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17165-guest-list"
+    },
+    {
+      "id": 17167,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "show": "16929",
+      "name": "Turnt Up with Eliza Skinner",
+      "description": "",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17167-turnt-up-with-eliza-skinner"
+    },
+    {
+      "id": 17168,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "show": "16923",
+      "name": "Rants Off/ Dance Off",
+      "description": "",
+      "startDateTime": "2017-05-06T06:00:00.000Z",
+      "endDateTime": "2017-05-06T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "17168-rants-off-dance-off"
+    },
+    {
+      "id": 17169,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10380,
+      "name": "Cider Riot Early Show",
+      "description": "",
+      "startDateTime": "2017-05-06T02:00:00.000Z",
+      "endDateTime": "2017-05-06T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17169-cider-riot-early-show"
+    },
+    {
+      "id": 17170,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10380,
+      "name": "Cider Riot Prime Time Show",
+      "description": "",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17170-cider-riot-prime-time-show"
+    },
+    {
+      "id": 17171,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10380,
+      "name": "Cider Riot Late Night",
+      "description": "",
+      "startDateTime": "2017-05-06T06:00:00.000Z",
+      "endDateTime": "2017-05-06T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "17171-cider-riot-late-night"
+    },
+    {
+      "id": 17172,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10677,
+      "name": "Analog Theater Early Show",
+      "description": "",
+      "startDateTime": "2017-05-06T02:00:00.000Z",
+      "endDateTime": "2017-05-06T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17172-analog-theater-early-show"
+    },
+    {
+      "id": 17173,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10677,
+      "name": "Analog Theater Prime Time",
+      "description": "",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17173-analog-theater-prime-time"
+    },
+    {
+      "id": 17174,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10677,
+      "show": "16642",
+      "name": "A Good Trip with Shane Mauss",
+      "description": "",
+      "startDateTime": "2017-05-06T06:00:00.000Z",
+      "endDateTime": "2017-05-06T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "17174-a-good-trip-with-shane-mauss"
     }
   ]
 }

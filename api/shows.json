@@ -76,7 +76,9 @@
     },
     {
       "id": 16642,
-      "events": [],
+      "events": [
+        17174
+      ],
       "name": "A Good Trip with Shane Mauss",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/facebookaddrugs_0.jpg",
       "photoUrl": "/api/img/show-images/show-agoodtripwithshanemauss-300x300.jpg",
@@ -148,7 +150,9 @@
     },
     {
       "id": 16929,
-      "events": [],
+      "events": [
+        17167
+      ],
       "name": "Turnt Up with Eliza Skinner",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/turntup.jpg",
       "photoUrl": "/api/img/show-images/show-turntupwithelizaskinner-300x300.jpg",
@@ -196,7 +200,9 @@
     },
     {
       "id": 16923,
-      "events": [],
+      "events": [
+        17168
+      ],
       "name": "Rants Off/ Dance Off",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/rodo_logo_square.jpg",
       "photoUrl": "/api/img/show-images/show-rantsoffdanceoff-300x300.jpg",
