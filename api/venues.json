@@ -23,7 +23,9 @@
     },
     {
       "id": 10374,
-      "events": [],
+      "events": [
+        17148
+      ],
       "name": "Portland Mercury Stage at Bossanova Ballroom",
       "pageUrl": "10374-portland-mercury-stage-at-bossanova-ballroom"
     },
@@ -40,6 +42,13 @@
       "name": "Cider Riot",
       "address": "910 E Burnside St, Portland, OR",
       "pageUrl": "10380-cider-riot"
+    },
+    {
+      "id": 12533,
+      "events": [],
+      "name": "Crystal Ballroom",
+      "address": "909 E Burnside St, Portland, OR 97214",
+      "pageUrl": "12533-crystal-ballroom"
     },
     {
       "id": 10373,
@@ -75,13 +84,6 @@
       "name": "Siren Theater",
       "address": "315 NW Davis Street, Portland, OR 97209",
       "pageUrl": "10376-siren-theater"
-    },
-    {
-      "id": 12533,
-      "events": [],
-      "name": "Trio Club",
-      "address": "909 E Burnside St, Portland, OR 97214",
-      "pageUrl": "12533-trio-club"
     }
   ]
 }
