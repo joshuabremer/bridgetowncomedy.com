@@ -674,7 +674,9 @@
     },
     {
       "id": 16921,
-      "events": [],
+      "events": [
+        17149
+      ],
       "emceeEvents": [],
       "name": "Bryan Cook",
       "twitter": "BryanCooking",
@@ -1571,7 +1573,9 @@
     {
       "id": 17143,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17149
+      ],
       "name": "Josh Androsky",
       "twitter": "ShutUpAndrosky",
       "website": "http://joshandroskybio.tumblr.com/",
@@ -1612,7 +1616,9 @@
     },
     {
       "id": 15748,
-      "events": [],
+      "events": [
+        17149
+      ],
       "emceeEvents": [],
       "name": "Gareth Reynolds ",
       "twitter": "reynoldsgareth",

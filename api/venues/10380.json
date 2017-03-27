@@ -1,6 +1,9 @@
 {
   "id": 10380,
-  "events": [],
+  "events": [
+    17152,
+    17153
+  ],
   "name": "Cider Riot",
   "address": "910 E Burnside St, Portland, OR",
   "pageUrl": "10380-cider-riot"

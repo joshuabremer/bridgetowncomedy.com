@@ -1,6 +1,8 @@
 {
   "id": 16473,
-  "events": [],
+  "events": [
+    17149
+  ],
   "name": "Reunited!",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/reunited_generic_web_small.jpg",
   "photoUrl": "/api/img/show-images/show-reunited-300x300.jpg",

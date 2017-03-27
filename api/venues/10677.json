@@ -1,6 +1,9 @@
 {
   "id": 10677,
-  "events": [],
+  "events": [
+    17154,
+    17155
+  ],
   "name": "Analog Theater",
   "address": "720 SE Hawthorne Blvd, Portland, OR 97214",
   "pageUrl": "10677-analog-theater"

@@ -1,7 +1,9 @@
 {
   "id": 17143,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17149
+  ],
   "name": "Josh Androsky",
   "twitter": "ShutUpAndrosky",
   "website": "http://joshandroskybio.tumblr.com/",
