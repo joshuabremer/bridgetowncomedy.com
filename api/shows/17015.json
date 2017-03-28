@@ -1,6 +1,8 @@
 {
   "id": 17015,
-  "events": [],
+  "events": [
+    17183
+  ],
   "name": "The Dork Forest",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/bandcamp.jpg",
   "photoUrl": "/api/img/show-images/show-thedorkforest-300x300.jpg",

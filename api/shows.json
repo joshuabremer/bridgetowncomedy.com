@@ -52,7 +52,9 @@
     },
     {
       "id": 16945,
-      "events": [],
+      "events": [
+        17186
+      ],
       "name": "The Jackie and Laurie Show",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/screen-shot-2016-01-26-at-1.14.34-pm-241x160.png",
       "photoUrl": "/api/img/show-images/show-thejackieandlaurieshow-300x300.jpg",
@@ -142,7 +144,9 @@
     },
     {
       "id": 17015,
-      "events": [],
+      "events": [
+        17183
+      ],
       "name": "The Dork Forest",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/bandcamp.jpg",
       "photoUrl": "/api/img/show-images/show-thedorkforest-300x300.jpg",
@@ -180,7 +184,9 @@
     },
     {
       "id": 16640,
-      "events": [],
+      "events": [
+        17184
+      ],
       "name": "Can I Pet Your Dog? Podcast",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/g3atymqx.jpg",
       "photoUrl": "/api/img/show-images/show-canipetyourdogpodcast-300x300.jpg",

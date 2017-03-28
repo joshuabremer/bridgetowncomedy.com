@@ -38,7 +38,9 @@
       "events": [
         17148,
         17149,
-        17164
+        17164,
+        17183,
+        17184
       ],
       "name": "Portland Mercury Stage at Bossanova Ballroom",
       "pageUrl": "10374-portland-mercury-stage-at-bossanova-ballroom"
@@ -82,7 +84,9 @@
         17151,
         17165,
         17167,
-        17168
+        17168,
+        17185,
+        17186
       ],
       "name": "Kill Rock Stars Stage at Doug Fir Lounge",
       "address": "830 E Burnside Street, Portland, OR 97214",
@@ -117,7 +121,9 @@
     },
     {
       "id": 10384,
-      "events": [],
+      "events": [
+        17182
+      ],
       "name": "Revolution Hall",
       "address": "Suite #110, 1300 SE Stark St, Portland, OR",
       "pageUrl": "10384-revolution-hall"

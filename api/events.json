@@ -393,6 +393,69 @@
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17181-competitive-erotica-fan-fiction-with-bryan-cook"
+    },
+    {
+      "id": 17182,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10384,
+      "name": "Come Laugh With Us",
+      "description": "",
+      "startDateTime": "2017-05-06T03:00:00.000Z",
+      "endDateTime": "2017-05-06T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17182-come-laugh-with-us"
+    },
+    {
+      "id": 17183,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10374,
+      "show": "17015",
+      "name": "The Dork Forest",
+      "description": "",
+      "startDateTime": "2017-05-06T20:00:00.000Z",
+      "endDateTime": "2017-05-06T21:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17183-the-dork-forest"
+    },
+    {
+      "id": 17184,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10374,
+      "show": "16640",
+      "name": "Can I Pet Your Dog? Podcast",
+      "description": "",
+      "startDateTime": "2017-05-06T22:30:00.000Z",
+      "endDateTime": "2017-05-07T00:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17184-can-i-pet-your-dog-podcast"
+    },
+    {
+      "id": 17185,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "Hidden America with Jonah Ray",
+      "description": "",
+      "startDateTime": "2017-05-06T20:30:00.000Z",
+      "endDateTime": "2017-05-06T22:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17185-hidden-america-with-jonah-ray"
+    },
+    {
+      "id": 17186,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "show": "16945",
+      "name": "The Jackie and Laurie Show",
+      "description": "",
+      "startDateTime": "2017-05-06T23:00:00.000Z",
+      "endDateTime": "2017-05-07T00:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17186-the-jackie-and-laurie-show"
     }
   ]
 }
