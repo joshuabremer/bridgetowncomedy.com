@@ -456,6 +456,94 @@
       "endDateTime": "2017-05-07T00:30:00.000Z",
       "price": 0,
       "pageUrl": "17186-the-jackie-and-laurie-show"
+    },
+    {
+      "id": 17187,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10677,
+      "show": "15926",
+      "name": "Late Late Breakfast",
+      "description": "",
+      "startDateTime": "2017-05-06T21:30:00.000Z",
+      "endDateTime": "2017-05-06T23:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17187-late-late-breakfast"
+    },
+    {
+      "id": 17188,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10374,
+      "show": "17022",
+      "name": "Hold On with Eugene Mirman",
+      "description": "",
+      "startDateTime": "2017-05-07T03:00:00.000Z",
+      "endDateTime": "2017-05-07T04:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17188-hold-on-with-eugene-mirman"
+    },
+    {
+      "id": 17189,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10374,
+      "show": "16249",
+      "name": "Minority Retort",
+      "description": "",
+      "startDateTime": "2017-05-07T05:00:00.000Z",
+      "endDateTime": "2017-05-07T06:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17189-minority-retort"
+    },
+    {
+      "id": 17190,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "show": "16077",
+      "name": "Andy Kinsler Particular Show",
+      "description": "",
+      "startDateTime": "2017-05-07T02:00:00.000Z",
+      "endDateTime": "2017-05-07T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17190-andy-kinsler-particular-show"
+    },
+    {
+      "id": 17191,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "Some Manner of Ron Lynch Spectacular",
+      "description": "",
+      "startDateTime": "2017-05-07T04:00:00.000Z",
+      "endDateTime": "2017-05-07T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17191-some-manner-of-ron-lynch-spectacular"
+    },
+    {
+      "id": 17192,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "Doug Fir Late Night",
+      "description": "",
+      "startDateTime": "2017-05-07T06:00:00.000Z",
+      "endDateTime": "2017-05-07T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "17192-doug-fir-late-night"
+    },
+    {
+      "id": 17193,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10380,
+      "name": "Cider Riot Early Show",
+      "description": "",
+      "startDateTime": "2017-05-07T02:30:00.000Z",
+      "endDateTime": "2017-05-07T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17193-cider-riot-early-show"
     }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "id": 17022,
-  "events": [],
+  "events": [
+    17188
+  ],
   "name": "Hold On with Eugene Mirman",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/_hold_on_seriespromo_fb-.jpg",
   "photoUrl": "/api/img/show-images/show-holdonwitheugenemirman-300x300.jpg",

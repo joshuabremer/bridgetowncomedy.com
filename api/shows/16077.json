@@ -1,6 +1,8 @@
 {
   "id": 16077,
-  "events": [],
+  "events": [
+    17190
+  ],
   "name": "Andy Kindler&#039;s Particular Show",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/particularshow1-cropped.jpg",
   "photoUrl": "/api/img/show-images/show-andykindler039sparticularshow-300x300.jpg",

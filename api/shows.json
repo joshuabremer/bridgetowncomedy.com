@@ -2,7 +2,9 @@
   "shows": [
     {
       "id": 17022,
-      "events": [],
+      "events": [
+        17188
+      ],
       "name": "Hold On with Eugene Mirman",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/_hold_on_seriespromo_fb-.jpg",
       "photoUrl": "/api/img/show-images/show-holdonwitheugenemirman-300x300.jpg",
@@ -14,7 +16,9 @@
     },
     {
       "id": 16077,
-      "events": [],
+      "events": [
+        17190
+      ],
       "name": "Andy Kindler&#039;s Particular Show",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/particularshow1-cropped.jpg",
       "photoUrl": "/api/img/show-images/show-andykindler039sparticularshow-300x300.jpg",
@@ -236,7 +240,9 @@
     },
     {
       "id": 16249,
-      "events": [],
+      "events": [
+        17189
+      ],
       "name": "Minority Retort",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/mr_logo_6-1.png",
       "photoUrl": "/api/img/show-images/show-minorityretort-300x300.jpg",
@@ -248,7 +254,9 @@
     },
     {
       "id": 15926,
-      "events": [],
+      "events": [
+        17187
+      ],
       "name": "Late Late Breakfast",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/tyler_danny.jpg",
       "photoUrl": "/api/img/show-images/show-latelatebreakfast-300x300.jpg",

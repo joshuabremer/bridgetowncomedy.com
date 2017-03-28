@@ -1,6 +1,8 @@
 {
   "id": 16249,
-  "events": [],
+  "events": [
+    17189
+  ],
   "name": "Minority Retort",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/mr_logo_6-1.png",
   "photoUrl": "/api/img/show-images/show-minorityretort-300x300.jpg",

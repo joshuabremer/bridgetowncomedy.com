@@ -1,6 +1,8 @@
 {
   "id": 15926,
-  "events": [],
+  "events": [
+    17187
+  ],
   "name": "Late Late Breakfast",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/tyler_danny.jpg",
   "photoUrl": "/api/img/show-images/show-latelatebreakfast-300x300.jpg",
