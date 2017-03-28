@@ -1,6 +1,8 @@
 {
   "id": 16644,
-  "events": [],
+  "events": [
+    17209
+  ],
   "name": "Here We Are Podcast",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/https-cdn.evbuc_.com-images-27152992-188761202413-1-original.jpg",
   "photoUrl": "/api/img/show-images/show-herewearepodcast-300x300.jpg",

@@ -70,7 +70,9 @@
     },
     {
       "id": 16088,
-      "events": [],
+      "events": [
+        17205
+      ],
       "name": "Guy Branum&#039;s Gay Bash",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/guybranum1.jpg",
       "photoUrl": "/api/img/show-images/show-guybranum039sgaybash-300x300.jpg",
@@ -122,7 +124,9 @@
     },
     {
       "id": 16946,
-      "events": [],
+      "events": [
+        17213
+      ],
       "name": "The New Negroes",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/custom28bb53b87e6714a35d5486d5301d4a19_0.jpg",
       "photoUrl": "/api/img/show-images/show-thenewnegroes-300x300.jpg",
@@ -230,7 +234,9 @@
     },
     {
       "id": 16644,
-      "events": [],
+      "events": [
+        17209
+      ],
       "name": "Here We Are Podcast",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/https-cdn.evbuc_.com-images-27152992-188761202413-1-original.jpg",
       "photoUrl": "/api/img/show-images/show-herewearepodcast-300x300.jpg",

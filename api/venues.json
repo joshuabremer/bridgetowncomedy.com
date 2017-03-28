@@ -27,7 +27,8 @@
         17187,
         17196,
         17197,
-        17198
+        17198,
+        17210
       ],
       "name": "Analog Theater",
       "address": "720 SE Hawthorne Blvd, Portland, OR 97214",
@@ -49,7 +50,9 @@
         17183,
         17184,
         17188,
-        17189
+        17189,
+        17211,
+        17212
       ],
       "name": "Portland Mercury Stage at Bossanova Ballroom",
       "pageUrl": "10374-portland-mercury-stage-at-bossanova-ballroom"
@@ -103,7 +106,10 @@
         17186,
         17190,
         17191,
-        17192
+        17192,
+        17208,
+        17209,
+        17213
       ],
       "name": "Kill Rock Stars Stage at Doug Fir Lounge",
       "address": "830 E Burnside Street, Portland, OR 97214",
@@ -131,7 +137,8 @@
         17161,
         17180,
         17181,
-        17204
+        17204,
+        17205
       ],
       "name": "Paris Theater",
       "address": "116 SE Yamhill St, Portland, OR 97217",
@@ -140,7 +147,8 @@
     {
       "id": 10384,
       "events": [
-        17182
+        17182,
+        17207
       ],
       "name": "Revolution Hall",
       "address": "Suite #110, 1300 SE Stark St, Portland, OR",
@@ -148,7 +156,9 @@
     },
     {
       "id": 10376,
-      "events": [],
+      "events": [
+        17206
+      ],
       "name": "Siren Theater",
       "address": "315 NW Davis Street, Portland, OR 97209",
       "pageUrl": "10376-siren-theater"
