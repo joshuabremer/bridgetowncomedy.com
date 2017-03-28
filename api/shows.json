@@ -102,7 +102,9 @@
     },
     {
       "id": 16098,
-      "events": [],
+      "events": [
+        17180
+      ],
       "name": "Picture This!",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/picturethis_logo3_small.png",
       "photoUrl": "/api/img/show-images/show-picturethis-300x300.jpg",
@@ -126,7 +128,9 @@
     },
     {
       "id": 16471,
-      "events": [],
+      "events": [
+        17181
+      ],
       "name": "Competitive Erotic Fan Fiction with Bryan Cook",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/ceff_generic_2013_web.jpg",
       "photoUrl": "/api/img/show-images/show-competitiveeroticfanfictionwithbryancook-300x300.jpg",

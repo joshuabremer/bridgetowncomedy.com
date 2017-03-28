@@ -4,7 +4,10 @@
       "id": 10763,
       "events": [
         17156,
-        17157
+        17157,
+        17175,
+        17176,
+        17177
       ],
       "name": "Analog Lounge (Downstairs)",
       "address": "720 SE Hawthorne Blvd, Portland, OR 97214",
@@ -44,7 +47,9 @@
       "id": 10378,
       "events": [
         17158,
-        17159
+        17159,
+        17178,
+        17179
       ],
       "name": "Bunk Bar",
       "address": "1028 SE Water Street, Portland, OR 97214",
@@ -102,7 +107,9 @@
       "id": 12478,
       "events": [
         17160,
-        17161
+        17161,
+        17180,
+        17181
       ],
       "name": "Paris Theater",
       "address": "116 SE Yamhill St, Portland, OR 97217",

@@ -1,6 +1,8 @@
 {
   "id": 16098,
-  "events": [],
+  "events": [
+    17180
+  ],
   "name": "Picture This!",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/picturethis_logo3_small.png",
   "photoUrl": "/api/img/show-images/show-picturethis-300x300.jpg",
