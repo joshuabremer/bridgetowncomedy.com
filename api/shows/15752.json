@@ -1,6 +1,8 @@
 {
   "id": 15752,
-  "events": [],
+  "events": [
+    17216
+  ],
   "name": "Palindrome Fight",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/iron_palindromist_logo.png",
   "photoUrl": "/api/img/show-images/show-palindromefight-300x300.jpg",

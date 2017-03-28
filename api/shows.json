@@ -276,7 +276,9 @@
     },
     {
       "id": 15752,
-      "events": [],
+      "events": [
+        17216
+      ],
       "name": "Palindrome Fight",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/iron_palindromist_logo.png",
       "photoUrl": "/api/img/show-images/show-palindromefight-300x300.jpg",
@@ -328,7 +330,9 @@
     },
     {
       "id": 16781,
-      "events": [],
+      "events": [
+        17217
+      ],
       "name": "Control Yourself",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/logo_jpeg_0.jpg",
       "photoUrl": "/api/img/show-images/show-controlyourself-300x300.jpg",

@@ -789,6 +789,80 @@
       "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17213-the-new-negroes"
+    },
+    {
+      "id": 17214,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "Dave Hill Show? ",
+      "description": "",
+      "startDateTime": "2017-05-08T04:00:00.000Z",
+      "endDateTime": "2017-05-08T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17214-dave-hill-show-"
+    },
+    {
+      "id": 17215,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10380,
+      "name": "Cider Riot Early Show",
+      "description": "",
+      "startDateTime": "2017-05-08T02:30:00.000Z",
+      "endDateTime": "2017-05-08T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17215-cider-riot-early-show"
+    },
+    {
+      "id": 17216,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10677,
+      "show": "15752",
+      "name": "Palindrome Fight",
+      "description": "",
+      "startDateTime": "2017-05-08T02:00:00.000Z",
+      "endDateTime": "2017-05-08T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17216-palindrome-fight"
+    },
+    {
+      "id": 17217,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10677,
+      "show": "16781",
+      "name": "Control Yourself Live Podcast",
+      "description": "",
+      "startDateTime": "2017-05-08T04:00:00.000Z",
+      "endDateTime": "2017-05-08T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17217-control-yourself-live-podcast"
+    },
+    {
+      "id": 17218,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Analog Downstairs Early Show",
+      "description": "",
+      "startDateTime": "2017-05-08T02:30:00.000Z",
+      "endDateTime": "2017-05-08T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17218-analog-downstairs-early-show"
+    },
+    {
+      "id": 17219,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10378,
+      "name": "Bunk Birthday Bash! ",
+      "description": "",
+      "startDateTime": "2017-05-08T04:00:00.000Z",
+      "endDateTime": "2017-05-08T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17219-bunk-birthday-bash-"
     }
   ]
 }
