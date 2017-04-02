@@ -236,7 +236,8 @@
     {
       "id": 16917,
       "events": [
-        17165
+        17165,
+        17198
       ],
       "emceeEvents": [],
       "name": "Dave Hill",
@@ -545,7 +546,9 @@
     },
     {
       "id": 16895,
-      "events": [],
+      "events": [
+        17198
+      ],
       "emceeEvents": [],
       "name": "Billy Wayne Davis",
       "twitter": "billywaynedavis",
@@ -663,7 +666,9 @@
     },
     {
       "id": 16786,
-      "events": [],
+      "events": [
+        17198
+      ],
       "emceeEvents": [],
       "name": "Caitlin Weierhauser",
       "twitter": "UncleCait",
@@ -1011,7 +1016,9 @@
     },
     {
       "id": 16318,
-      "events": [],
+      "events": [
+        17198
+      ],
       "emceeEvents": [],
       "name": "Mike Lebovitz",
       "twitter": "mikelebovitz",
@@ -1153,7 +1160,9 @@
     },
     {
       "id": 16503,
-      "events": [],
+      "events": [
+        17198
+      ],
       "emceeEvents": [],
       "name": "Stephen Agyei",
       "twitter": "Stephenagyei",
@@ -1581,7 +1590,9 @@
     },
     {
       "id": 15738,
-      "events": [],
+      "events": [
+        17198
+      ],
       "emceeEvents": [],
       "name": "Sonia Denis",
       "twitter": "sonideni",
