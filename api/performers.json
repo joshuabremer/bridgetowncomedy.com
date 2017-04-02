@@ -16,7 +16,9 @@
     },
     {
       "id": 16925,
-      "events": [],
+      "events": [
+        17182
+      ],
       "emceeEvents": [],
       "name": "Janeane Garofalo",
       "twitter": "",
@@ -44,7 +46,9 @@
     },
     {
       "id": 16927,
-      "events": [],
+      "events": [
+        17182
+      ],
       "emceeEvents": [],
       "name": "Karen Kilgariff",
       "twitter": "KarenKilgariff",
@@ -72,7 +76,9 @@
     },
     {
       "id": 16920,
-      "events": [],
+      "events": [
+        17182
+      ],
       "emceeEvents": [],
       "name": "Baron Vaughn",
       "twitter": "barvonblaq",
@@ -377,7 +383,9 @@
     {
       "id": 16187,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17191
+      ],
       "name": "Ron Lynch",
       "twitter": "ronlynch1",
       "website": "https://www.facebook.com/ron.lynch1",
@@ -605,7 +613,9 @@
     {
       "id": 15722,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17198
+      ],
       "name": "Amy Miller",
       "twitter": "amymiller",
       "website": "http://amymillercomedy.com",
@@ -1669,7 +1679,9 @@
     {
       "id": 16926,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17208
+      ],
       "name": "Andy Wood",
       "twitter": "andytwood",
       "website": "http://andytwood.com",

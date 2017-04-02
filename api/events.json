@@ -396,7 +396,11 @@
     },
     {
       "id": 17182,
-      "performers": [],
+      "performers": [
+        16925,
+        16927,
+        16920
+      ],
       "emcee": 0,
       "venue": 10384,
       "show": "17228",
@@ -522,7 +526,7 @@
     {
       "id": 17191,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16187,
       "venue": 10373,
       "name": "Some Manner of Ron Lynch Spectacular",
       "description": "",
@@ -607,7 +611,7 @@
     {
       "id": 17198,
       "performers": [],
-      "emcee": 0,
+      "emcee": 15722,
       "venue": 10677,
       "show": "16274",
       "name": "Midnight Ma$$",
@@ -729,7 +733,7 @@
     {
       "id": 17208,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16926,
       "venue": 10373,
       "name": "Probably Science",
       "description": "",
