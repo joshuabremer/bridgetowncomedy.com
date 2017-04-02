@@ -562,7 +562,9 @@
     },
     {
       "id": 16732,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Caitlin Gill",
       "twitter": "ROBOTCAITLIN",
@@ -669,7 +671,9 @@
       "events": [
         17198
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17158
+      ],
       "name": "Caitlin Weierhauser",
       "twitter": "UncleCait",
       "website": "http://Lezstandup.com",
@@ -958,7 +962,9 @@
     },
     {
       "id": 15799,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Robby Hoffman",
       "twitter": "iAmRobbyHoffman",
@@ -1146,7 +1152,9 @@
     },
     {
       "id": 16530,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Irene Tu",
       "twitter": "irene_tu",
@@ -1316,7 +1324,9 @@
     },
     {
       "id": 16718,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Andie Main",
       "twitter": "andiemain",
@@ -1330,7 +1340,9 @@
     },
     {
       "id": 16884,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Natasha Muse",
       "twitter": "NatashaMuse",
@@ -1404,7 +1416,9 @@
     },
     {
       "id": 15951,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Pat Brown",
       "twitter": "patbrownshow",
@@ -1520,7 +1534,9 @@
     },
     {
       "id": 15859,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Kirsten Kuppenbender",
       "twitter": "kupptastic",
@@ -1548,7 +1564,9 @@
     },
     {
       "id": 16360,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Kristin Key",
       "twitter": "thekristinkey",

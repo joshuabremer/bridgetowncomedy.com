@@ -1,12 +1,21 @@
 {
   "id": 17158,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16718,
+    16530,
+    15859,
+    15951,
+    15799,
+    16360,
+    16884,
+    16732
+  ],
+  "emcee": 16786,
   "venue": 10378,
-  "name": "Bunk Prime Time",
+  "name": "Lez is More",
   "description": "",
   "startDateTime": "2017-05-05T04:00:00.000Z",
   "endDateTime": "2017-05-05T05:30:00.000Z",
   "price": 0,
-  "pageUrl": "17158-bunk-prime-time"
+  "pageUrl": "17158-lez-is-more"
 }
