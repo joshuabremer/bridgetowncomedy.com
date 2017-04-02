@@ -1,6 +1,8 @@
 {
   "id": 17223,
-  "events": [],
+  "events": [
+    17165
+  ],
   "name": "Audible Presents The Guest List",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/guestlist.jpg",
   "photoUrl": "/api/img/show-images/show-audiblepresentstheguestlist-300x300.jpg",

@@ -1,7 +1,9 @@
 {
   "id": 17163,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16484
+  ],
+  "emcee": 16869,
   "venue": 17162,
   "name": "No Pun Intendo",
   "description": "",

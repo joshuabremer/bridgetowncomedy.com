@@ -79,7 +79,7 @@
     {
       "id": 17154,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16393,
       "venue": 10677,
       "show": "16394",
       "name": "Barbara Holm Believes in You",
@@ -175,8 +175,10 @@
     },
     {
       "id": 17163,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16484
+      ],
+      "emcee": 16869,
       "venue": 17162,
       "name": "No Pun Intendo",
       "description": "",
@@ -199,20 +201,26 @@
     },
     {
       "id": 17165,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16602,
+        16685,
+        16657,
+        16917
+      ],
+      "emcee": 16502,
       "venue": 10373,
-      "name": "Guest List",
+      "show": "17223",
+      "name": "Audible Presents The Guest List",
       "description": "",
       "startDateTime": "2017-05-06T02:00:00.000Z",
       "endDateTime": "2017-05-06T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17165-guest-list"
+      "pageUrl": "17165-audible-presents-the-guest-list"
     },
     {
       "id": 17167,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16894,
       "venue": 10373,
       "show": "16929",
       "name": "Turnt Up with Eliza Skinner",
@@ -371,7 +379,7 @@
     {
       "id": 17180,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16405,
       "venue": 12478,
       "show": "16098",
       "name": "Picture This! ",
@@ -384,7 +392,7 @@
     {
       "id": 17181,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16921,
       "venue": 12478,
       "show": "16471",
       "name": "Competitive Erotica Fan Fiction with Bryan Cook",
@@ -414,7 +422,7 @@
     {
       "id": 17183,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16919,
       "venue": 10374,
       "show": "17015",
       "name": "The Dork Forest",
@@ -451,7 +459,10 @@
     },
     {
       "id": 17186,
-      "performers": [],
+      "performers": [
+        16919,
+        16915
+      ],
       "emcee": 0,
       "venue": 10373,
       "show": "16945",
@@ -477,8 +488,10 @@
     },
     {
       "id": 17188,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16927
+      ],
+      "emcee": 17009,
       "venue": 10374,
       "show": "17022",
       "name": "Audible Presents Hold On with Eugene Mirman",
@@ -513,7 +526,7 @@
     {
       "id": 17190,
       "performers": [],
-      "emcee": 0,
+      "emcee": 17008,
       "venue": 10373,
       "show": "16077",
       "name": "Andy Kindler's Particular Show",

@@ -33,7 +33,9 @@
     {
       "id": 17008,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17190
+      ],
       "name": "Andy Kindler ",
       "twitter": "",
       "website": "",
@@ -47,7 +49,8 @@
     {
       "id": 16927,
       "events": [
-        17182
+        17182,
+        17188
       ],
       "emceeEvents": [],
       "name": "Karen Kilgariff",
@@ -62,8 +65,12 @@
     },
     {
       "id": 16919,
-      "events": [],
-      "emceeEvents": [],
+      "events": [
+        17186
+      ],
+      "emceeEvents": [
+        17183
+      ],
       "name": "Jackie Kashian",
       "twitter": "jackiekashian",
       "website": "http://www.jackiekashian.com/",
@@ -181,7 +188,9 @@
     {
       "id": 16894,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17167
+      ],
       "name": "Eliza Skinner",
       "twitter": "elizaskinner",
       "website": "http://eliza.skinner@gmail.com",
@@ -210,7 +219,9 @@
     },
     {
       "id": 16915,
-      "events": [],
+      "events": [
+        17186
+      ],
       "emceeEvents": [],
       "name": "Laurie Kilmartin",
       "twitter": "anylaurie16",
@@ -224,7 +235,9 @@
     },
     {
       "id": 16917,
-      "events": [],
+      "events": [
+        17165
+      ],
       "emceeEvents": [],
       "name": "Dave Hill",
       "twitter": "mrdavehill",
@@ -400,7 +413,9 @@
     },
     {
       "id": 16685,
-      "events": [],
+      "events": [
+        17165
+      ],
       "emceeEvents": [],
       "name": "Annie Lederman",
       "twitter": "annielederman",
@@ -444,7 +459,9 @@
     },
     {
       "id": 16657,
-      "events": [],
+      "events": [
+        17165
+      ],
       "emceeEvents": [],
       "name": "Brooke Van Poppelen",
       "twitter": "BVPcomedy",
@@ -630,7 +647,9 @@
     },
     {
       "id": 16484,
-      "events": [],
+      "events": [
+        17163
+      ],
       "emceeEvents": [],
       "name": "Anthony Lopez",
       "twitter": "anthonylopezpt2",
@@ -701,7 +720,9 @@
     {
       "id": 16869,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17163
+      ],
       "name": "Steven Wilber",
       "twitter": "WilberWithAnE",
       "website": "http://stevenstevensteven.com",
@@ -717,7 +738,9 @@
       "events": [
         17149
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17181
+      ],
       "name": "Bryan Cook",
       "twitter": "BryanCooking",
       "website": "",
@@ -959,7 +982,9 @@
     {
       "id": 17009,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17188
+      ],
       "name": "Eugene Mirman",
       "twitter": "EugeneMirman",
       "website": "",
@@ -1085,7 +1110,9 @@
     {
       "id": 16405,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17180
+      ],
       "name": "Brandie Posey",
       "twitter": "brandazzle",
       "website": "http://brandieposey.com",
@@ -1322,7 +1349,9 @@
     },
     {
       "id": 16602,
-      "events": [],
+      "events": [
+        17165
+      ],
       "emceeEvents": [],
       "name": "Josh Johnson",
       "twitter": "joshjohnson",
@@ -1437,7 +1466,9 @@
     {
       "id": 16502,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17165
+      ],
       "name": "Matt Lieb",
       "twitter": "lieb123456789",
       "website": "",

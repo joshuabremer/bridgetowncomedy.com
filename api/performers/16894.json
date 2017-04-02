@@ -1,7 +1,9 @@
 {
   "id": 16894,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17167
+  ],
   "name": "Eliza Skinner",
   "twitter": "elizaskinner",
   "website": "http://eliza.skinner@gmail.com",

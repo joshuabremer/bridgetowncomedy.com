@@ -1,7 +1,9 @@
 {
   "id": 17008,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17190
+  ],
   "name": "Andy Kindler ",
   "twitter": "",
   "website": "",

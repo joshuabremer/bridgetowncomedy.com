@@ -1,7 +1,9 @@
 {
   "id": 17188,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16927
+  ],
+  "emcee": 17009,
   "venue": 10374,
   "show": "17022",
   "name": "Audible Presents Hold On with Eugene Mirman",

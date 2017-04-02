@@ -1,7 +1,9 @@
 {
   "id": 16405,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17180
+  ],
   "name": "Brandie Posey",
   "twitter": "brandazzle",
   "website": "http://brandieposey.com",
