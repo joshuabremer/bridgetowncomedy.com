@@ -399,12 +399,13 @@
       "performers": [],
       "emcee": 0,
       "venue": 10384,
-      "name": "Come Laugh With Us",
+      "show": "17228",
+      "name": "Come Laugh With Us with Lance Banks",
       "description": "",
       "startDateTime": "2017-05-06T03:00:00.000Z",
       "endDateTime": "2017-05-06T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17182-come-laugh-with-us"
+      "pageUrl": "17182-come-laugh-with-us-with-lance-banks"
     },
     {
       "id": 17183,
@@ -602,8 +603,8 @@
       "show": "16274",
       "name": "Midnight Ma$$",
       "description": "",
-      "startDateTime": "2017-05-07T06:55:00.000Z",
-      "endDateTime": "2017-05-07T06:59:00.000Z",
+      "startDateTime": "2017-05-07T06:30:00.000Z",
+      "endDateTime": "2017-05-07T06:55:00.000Z",
       "price": 0,
       "pageUrl": "17198-midnight-ma"
     },
