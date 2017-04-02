@@ -1,7 +1,9 @@
 {
   "id": 16641,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17209
+  ],
   "name": "Shane Mauss",
   "twitter": "shanecomedy",
   "website": "http://shanemauss.com",

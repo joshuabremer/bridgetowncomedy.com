@@ -1,13 +1,17 @@
 {
   "id": 17216,
-  "performers": [],
+  "performers": [
+    16297,
+    16670,
+    16190
+  ],
   "emcee": 0,
   "venue": 10677,
   "show": "15752",
   "name": "Palindrome Fight",
   "description": "",
-  "startDateTime": "2017-05-08T02:00:00.000Z",
-  "endDateTime": "2017-05-08T03:30:00.000Z",
+  "startDateTime": "2017-05-08T00:00:00.000Z",
+  "endDateTime": "2017-05-08T01:30:00.000Z",
   "price": 0,
   "pageUrl": "17216-palindrome-fight"
 }

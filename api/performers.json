@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16715,
+      "id": 16800,
       "events": [],
       "emceeEvents": [],
-      "name": "Justin Hicks ",
-      "twitter": "Hicks_jn",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jhickscomedy.jpg",
-      "photoUrl": "/api/img/performer-images/performer-justinhicks-300x300.jpg",
-      "sortOrder": 66,
+      "name": "Sean Jordan",
+      "twitter": "SeanSJordan",
+      "website": "http://seanjordancomedy.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/denver.jpg",
+      "photoUrl": "/api/img/performer-images/performer-seanjordan-300x300.jpg",
+      "sortOrder": 67,
       "excludeFromList": false,
-      "bio": "<p>Justin Hicks is a stand up comedian based in Austin, TX.  Justin was raised in small town Connecticut and has lived in Texas since 2010.  Much of his comedy is drawn from his upbringing and southern experiences.  He has a calm demeanor and cool delivery that is unique and easy to connect with.  Justin&#039;s humor covers topics ranging from chap-stick to R&amp;B music (he may or may not be the best R&amp;B comic in central Texas).  Justin began performing comedy in 2015.  He was a semi-finalist in the 2016 Funniest Person in Austin competition and has preformed at the Crossroads Comedy Festival (Indianapolis, IN)  and MR Fest (San Marcos, TX).</p>\n",
-      "pageUrl": "16715-justin-hicks-"
+      "bio": "<p>Sean is a stand up comedian living in Los Angeles by way of South Dakota.  He made it out even though South Dakota is the greatest state in the country!  Sean spent his formative years in Portland OR where voted the funniest person in 2014.  In 2015 he was named one of the &quot;Comics to Watch&quot; by Splitsider and in 2016 was awarded the same title by Comedy Central.  Sean moved to Los Angeles almost a year ago where he waisted no time digging into the stand up scene performing on the top shows in the city while also maintaining a non stop touring schedule.  If you&#039;re a podcast fan then you&#039;ve most likely heard Sean as a regular guest and fan favorite on Doug Benson&#039;s podcast Doug Loves Movies.  You may have also heard him on Professor Blastoff, The Crabfeast, All Fantasy Everything, Competitive Erotic Fan Fiction, Put Your Hands Together and ARIYNBF (Alison Rosen is Your New Best Friend).  Sean is no stranger to the festival circuit doing festivals like this one all over the country.  Those festivals include: Sketchfest in San Francisco, High Plains Comedy Festival in Denver and CROM Comedy Fest in Omaha to name a few.  Sean was also a part time staff writer on Live Wire radio and just recently wrapped up as a member of a writing team for a Comedy Central pilot.</p>\n",
+      "pageUrl": "16800-sean-jordan"
     },
     {
       "id": 16925,
@@ -231,7 +231,9 @@
     {
       "id": 16641,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17209
+      ],
       "name": "Shane Mauss",
       "twitter": "shanecomedy",
       "website": "http://shanemauss.com",
@@ -286,7 +288,9 @@
     },
     {
       "id": 15888,
-      "events": [],
+      "events": [
+        17189
+      ],
       "emceeEvents": [],
       "name": "Joel Kim Booster",
       "twitter": "ihatejoelkim",
@@ -314,7 +318,9 @@
     },
     {
       "id": 16190,
-      "events": [],
+      "events": [
+        17216
+      ],
       "emceeEvents": [],
       "name": "Myq Kaplan",
       "twitter": "myqkaplan",
@@ -398,9 +404,7 @@
     },
     {
       "id": 16855,
-      "events": [
-        17189
-      ],
+      "events": [],
       "emceeEvents": [],
       "name": "Maggie Maye",
       "twitter": "Maggiemayehaha",
@@ -414,7 +418,9 @@
     },
     {
       "id": 16916,
-      "events": [],
+      "events": [
+        17189
+      ],
       "emceeEvents": [],
       "name": "Nico Santos",
       "twitter": "nicosantoscomic",
@@ -925,6 +931,20 @@
       "pageUrl": "15799-robby-hoffman"
     },
     {
+      "id": 16715,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Justin Hicks ",
+      "twitter": "Hicks_jn",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jhickscomedy.jpg",
+      "photoUrl": "/api/img/performer-images/performer-justinhicks-300x300.jpg",
+      "sortOrder": 66,
+      "excludeFromList": false,
+      "bio": "<p>Justin Hicks is a stand up comedian based in Austin, TX.  Justin was raised in small town Connecticut and has lived in Texas since 2010.  Much of his comedy is drawn from his upbringing and southern experiences.  He has a calm demeanor and cool delivery that is unique and easy to connect with.  Justin&#039;s humor covers topics ranging from chap-stick to R&amp;B music (he may or may not be the best R&amp;B comic in central Texas).  Justin began performing comedy in 2015.  He was a semi-finalist in the 2016 Funniest Person in Austin competition and has preformed at the Crossroads Comedy Festival (Indianapolis, IN)  and MR Fest (San Marcos, TX).</p>\n",
+      "pageUrl": "16715-justin-hicks-"
+    },
+    {
       "id": 17009,
       "events": [],
       "emceeEvents": [],
@@ -937,20 +957,6 @@
       "excludeFromList": false,
       "bio": "<p>Brooklyn resident Eugene Mirman escaped the clutches of Russian communism at the age of four when his family immigrated from Moscow to Lexington, MA (where along with Paul Revere and John Adams he kicked off the American revolution). He attended Hampshire College and designed his own major of Comedy – doing a one-hour standup act as his thesis (for which he was made fun of, don’t worry).</p>\n<p>Eugene currently stars as the voice of “Gene” on Fox’s hit animated series Bob’s Burgers. He is also known for portraying comedian/mobster Yvgeny Mirminsky on Adult Swim’s Delocated, Eugene the landlord on Flight of the Conchords, Dr. Eugene Mirman on Aqua Teen Hunger Force and Eugene, the Russian foreign exchange student, on Home Movies. He is a frequent co-host of Star Talk with Neil deGrasse Tyson and hosts the audio series Hold On with Eugene Mirman for Audible, which has featured such guests as Jim Gaffigan, “Weird Al” Yankovic, and Reggie Watts. Eugene has also appeared on Archer, @Midnight, Inside Amy Schumer, Late Night With Conan O’Brien, Russell Howard’s Good News, Late Night with Seth Myers, Broad City, Last Week Tonight with John Oliver and more.</p>\n<p>Eugene’s comedy special Eugene Mirman: An Evening of Comedy in a Fake Underground Laboratory aired on Comedy Central in 2012 and his most recent special, Vegan on His Way to the Complain Store, premiered on Netflix in 2015. In 2015 he also released a nine-disc vinyl box set on SubPop entitled I’m Sorry (You’re Welcome), which could also be purchased as a chair, a bathrobe, and a puppy.</p>\n<p>Eugene was named Best New York City Comedian by the Village Voice, one of “50 Funniest” by Time Out New York, and one of the 10 best comedians of the last decade by Paste Magazine. Eugene was also named by Rolling Stone as “Hot Twitterer” and keeps his 400k+ followers entertained daily.</p>\n<p>A pioneer of the comedy variety show since the days of Rififi, Eugene co-founded Pretty Good Friends along with Julie Smith Clem, which began as a weekly comedy show in Brooklyn, but grew into tours, large outdoor shows, and TV and radio projects. Out of these shows, Eugene and Julie also created (originally as a joke) the Eugene Mirman Comedy Festival, which is now a yearly institution in Brooklyn and beyond.</p>\n",
       "pageUrl": "17009-eugene-mirman"
-    },
-    {
-      "id": 16800,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Sean Jordan",
-      "twitter": "SeanSJordan",
-      "website": "http://seanjordancomedy.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/denver.jpg",
-      "photoUrl": "/api/img/performer-images/performer-seanjordan-300x300.jpg",
-      "sortOrder": 67,
-      "excludeFromList": false,
-      "bio": "<p>Sean is a stand up comedian living in Los Angeles by way of South Dakota.  He made it out even though South Dakota is the greatest state in the country!  Sean spent his formative years in Portland OR where voted the funniest person in 2014.  In 2015 he was named one of the &quot;Comics to Watch&quot; by Splitsider and in 2016 was awarded the same title by Comedy Central.  Sean moved to Los Angeles almost a year ago where he waisted no time digging into the stand up scene performing on the top shows in the city while also maintaining a non stop touring schedule.  If you&#039;re a podcast fan then you&#039;ve most likely heard Sean as a regular guest and fan favorite on Doug Benson&#039;s podcast Doug Loves Movies.  You may have also heard him on Professor Blastoff, The Crabfeast, All Fantasy Everything, Competitive Erotic Fan Fiction, Put Your Hands Together and ARIYNBF (Alison Rosen is Your New Best Friend).  Sean is no stranger to the festival circuit doing festivals like this one all over the country.  Those festivals include: Sketchfest in San Francisco, High Plains Comedy Festival in Denver and CROM Comedy Fest in Omaha to name a few.  Sean was also a part time staff writer on Live Wire radio and just recently wrapped up as a member of a writing team for a Comedy Central pilot.</p>\n",
-      "pageUrl": "16800-sean-jordan"
     },
     {
       "id": 16107,
@@ -1318,7 +1324,9 @@
     },
     {
       "id": 16670,
-      "events": [],
+      "events": [
+        17216
+      ],
       "emceeEvents": [],
       "name": "Zach Sherwin",
       "twitter": "zachsherwin",
@@ -1853,6 +1861,22 @@
       "excludeFromList": false,
       "bio": "<p>Milan Patel is a stand up comedian from Seattle, WA. He has regularly performed in Seattle&#039;s Bumbershoot Music &amp; Comedy festival and has produced sketch and stand-up shows in Seattle. He currently lives in Portland, OR and is quickly becoming one of Portland&#039;s favorite new comedians to watch. His comedy style ranges from dead-pan jokes to strange observational pieces to lighting fast crowd-work.</p>\n",
       "pageUrl": "16150-milan-patel"
+    },
+    {
+      "id": 16297,
+      "events": [
+        17216
+      ],
+      "emceeEvents": [],
+      "name": "Mark Saltveit",
+      "twitter": "taoish",
+      "website": "http://palindromist.org/mark-saltveit",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/saltveit_outside_headshot_2_0.jpg",
+      "photoUrl": "/api/img/performer-images/performer-marksaltveit-300x300.jpg",
+      "sortOrder": 132,
+      "excludeFromList": true,
+      "bio": "<p>Mark Saltveit is the World Palindrome Champion. He writes about football, Daoism and anything else you pay him for. As seen on ESPN Sportscenter, CNN (live with Anderson Cooper), NYT, LAT, Economist, Time, etc. and heard on NPR, BBC, CBC. Author of \"The Tao of Chip Kelly\" and \"A Man, A Plan, A Palindrome.\"</p>\n",
+      "pageUrl": "16297-mark-saltveit"
     }
   ]
 }
