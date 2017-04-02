@@ -486,8 +486,16 @@
     },
     {
       "id": 17189,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16112,
+        16521,
+        16905,
+        16790,
+        16647,
+        16136,
+        16855
+      ],
+      "emcee": 16419,
       "venue": 10374,
       "show": "16249",
       "name": "Minority Retort",
