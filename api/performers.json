@@ -145,7 +145,9 @@
     },
     {
       "id": 16051,
-      "events": [],
+      "events": [
+        17181
+      ],
       "emceeEvents": [
         17205
       ],
@@ -227,6 +229,7 @@
       "id": 16917,
       "events": [
         17165,
+        17181,
         17198
       ],
       "emceeEvents": [],
@@ -411,7 +414,9 @@
     },
     {
       "id": 16401,
-      "events": [],
+      "events": [
+        17181
+      ],
       "emceeEvents": [],
       "name": "Andres du Bouchet",
       "twitter": "dubouchet",
@@ -1177,7 +1182,9 @@
     },
     {
       "id": 16337,
-      "events": [],
+      "events": [
+        17181
+      ],
       "emceeEvents": [],
       "name": "Troy Walker",
       "twitter": "",
@@ -1353,7 +1360,9 @@
     },
     {
       "id": 15897,
-      "events": [],
+      "events": [
+        17181
+      ],
       "emceeEvents": [],
       "name": "Julia Claire",
       "twitter": "ohjuliatweets",
@@ -1429,7 +1438,9 @@
     },
     {
       "id": 16487,
-      "events": [],
+      "events": [
+        17181
+      ],
       "emceeEvents": [],
       "name": "Kara Klenk",
       "twitter": "karaklenk",
@@ -1542,7 +1553,8 @@
     {
       "id": 17143,
       "events": [
-        17149
+        17149,
+        17181
       ],
       "emceeEvents": [
         17149

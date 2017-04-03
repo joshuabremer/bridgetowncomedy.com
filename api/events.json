@@ -404,7 +404,15 @@
     },
     {
       "id": 17181,
-      "performers": [],
+      "performers": [
+        17143,
+        16401,
+        16487,
+        16051,
+        15897,
+        16337,
+        16917
+      ],
       "emcee": 16921,
       "venue": 12478,
       "show": "16471",
@@ -833,13 +841,12 @@
       "performers": [],
       "emcee": 0,
       "venue": 10373,
-      "show": "16946",
-      "name": "The New Negroes",
+      "name": "Doug Fir Early Show",
       "description": "",
       "startDateTime": "2017-05-08T02:00:00.000Z",
       "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17213-the-new-negroes"
+      "pageUrl": "17213-doug-fir-early-show"
     },
     {
       "id": 17214,
