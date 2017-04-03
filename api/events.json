@@ -16,7 +16,11 @@
       "id": 17149,
       "performers": [
         16921,
-        15748
+        15748,
+        16591,
+        16894,
+        17122,
+        17143
       ],
       "emcee": 17143,
       "venue": 10374,
@@ -621,8 +625,10 @@
     },
     {
       "id": 17197,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16879
+      ],
+      "emcee": 16352,
       "venue": 10677,
       "show": "15827",
       "name": "Brew Haha: The Comedy Show Drinking Game",

@@ -1,7 +1,9 @@
 {
   "id": 16352,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17197
+  ],
   "name": "Brad Silnutzer",
   "twitter": "bradlivesdreams",
   "website": "",
