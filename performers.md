@@ -2,5 +2,5 @@
 layout: page
 title: Performers
 permalink: /performers/
-description: Come see these performers for the Bridgetown Comedy Festival in 2016!
+description: Come see these performers for the Bridgetown Comedy Festival in 2017!
 ---
