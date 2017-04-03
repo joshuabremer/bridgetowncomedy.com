@@ -130,7 +130,8 @@
     {
       "id": 17122,
       "events": [
-        17149
+        17149,
+        17167
       ],
       "emceeEvents": [],
       "name": "Ian Karmel",
@@ -164,6 +165,7 @@
     {
       "id": 16647,
       "events": [
+        17167,
         17189
       ],
       "emceeEvents": [],
@@ -342,6 +344,7 @@
     {
       "id": 15888,
       "events": [
+        17154,
         17189
       ],
       "emceeEvents": [],
@@ -480,7 +483,9 @@
     },
     {
       "id": 16187,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [
         17191
       ],
@@ -496,7 +501,9 @@
     },
     {
       "id": 16855,
-      "events": [],
+      "events": [
+        17167
+      ],
       "emceeEvents": [],
       "name": "Maggie Maye",
       "twitter": "Maggiemayehaha",
@@ -510,7 +517,9 @@
     },
     {
       "id": 16037,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [],
       "name": "Lisa Best",
       "twitter": "_lisabest",
@@ -909,7 +918,9 @@
     },
     {
       "id": 16107,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [],
       "name": "Katie Nguyen",
       "twitter": "ktnuggin",
@@ -1041,9 +1052,7 @@
     },
     {
       "id": 16530,
-      "events": [
-        17158
-      ],
+      "events": [],
       "emceeEvents": [],
       "name": "Irene Tu",
       "twitter": "irene_tu",
@@ -1219,7 +1228,9 @@
     },
     {
       "id": 16177,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [],
       "name": "Andy Erikson",
       "twitter": "andyerikson",
@@ -1280,6 +1291,7 @@
     {
       "id": 16670,
       "events": [
+        17167,
         17216
       ],
       "emceeEvents": [],
@@ -1718,7 +1730,9 @@
     },
     {
       "id": 16821,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [],
       "name": "George Civeris",
       "twitter": "georgeciveris",
@@ -1762,7 +1776,9 @@
     },
     {
       "id": 16396,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [],
       "name": "Julia Shiplett",
       "twitter": "lertiene",
