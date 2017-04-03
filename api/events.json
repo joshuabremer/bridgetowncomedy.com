@@ -315,13 +315,13 @@
     {
       "id": 17174,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16641,
       "venue": 10677,
       "show": "16642",
       "name": "A Good Trip with Shane Mauss",
       "description": "",
-      "startDateTime": "2017-05-06T06:00:00.000Z",
-      "endDateTime": "2017-05-06T06:59:00.000Z",
+      "startDateTime": "2017-05-07T05:00:00.000Z",
+      "endDateTime": "2017-05-07T06:30:00.000Z",
       "price": 0,
       "pageUrl": "17174-a-good-trip-with-shane-mauss"
     },
@@ -607,15 +607,17 @@
     },
     {
       "id": 17196,
-      "performers": [],
+      "performers": [
+        16201
+      ],
       "emcee": 0,
       "venue": 10677,
-      "name": "Analog Theater Early Show",
+      "name": "Off the Wallberger with Phil Schallberger",
       "description": "",
       "startDateTime": "2017-05-07T03:00:00.000Z",
       "endDateTime": "2017-05-07T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17196-analog-theater-early-show"
+      "pageUrl": "17196-off-the-wallberger-with-phil-schallberger"
     },
     {
       "id": 17197,
@@ -625,8 +627,8 @@
       "show": "15827",
       "name": "Brew Haha: The Comedy Show Drinking Game",
       "description": "",
-      "startDateTime": "2017-05-07T05:00:00.000Z",
-      "endDateTime": "2017-05-07T06:30:00.000Z",
+      "startDateTime": "2017-05-06T06:00:00.000Z",
+      "endDateTime": "2017-05-06T06:59:00.000Z",
       "price": 0,
       "pageUrl": "17197-brew-haha-the-comedy-show-drinking-game"
     },
