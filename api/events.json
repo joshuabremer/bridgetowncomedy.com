@@ -204,7 +204,13 @@
     {
       "id": 17163,
       "performers": [
-        16484
+        16484,
+        16502,
+        16405,
+        15738,
+        16903,
+        16784,
+        15749
       ],
       "emcee": 16869,
       "venue": 17162,
@@ -762,12 +768,12 @@
       "performers": [],
       "emcee": 0,
       "venue": 10378,
-      "name": "Bunk Late Night",
+      "name": "Secret Headliner!",
       "description": "",
       "startDateTime": "2017-05-07T06:00:00.000Z",
       "endDateTime": "2017-05-07T06:59:00.000Z",
       "price": 0,
-      "pageUrl": "17203-bunk-late-night"
+      "pageUrl": "17203-secret-headliner"
     },
     {
       "id": 17204,
@@ -808,8 +814,12 @@
     },
     {
       "id": 17207,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        15979,
+        16920,
+        17224
+      ],
+      "emcee": 10429,
       "venue": 10384,
       "name": "Mystery Science Theater 3000 Q&A",
       "description": "",

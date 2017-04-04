@@ -1,7 +1,11 @@
 {
   "id": 17207,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    15979,
+    16920,
+    17224
+  ],
+  "emcee": 10429,
   "venue": 10384,
   "name": "Mystery Science Theater 3000 Q&A",
   "description": "",

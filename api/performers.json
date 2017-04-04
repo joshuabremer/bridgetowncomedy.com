@@ -85,6 +85,7 @@
       "id": 16920,
       "events": [
         17182,
+        17207,
         17231
       ],
       "emceeEvents": [
@@ -117,7 +118,9 @@
     },
     {
       "id": 17224,
-      "events": [],
+      "events": [
+        17207
+      ],
       "emceeEvents": [],
       "name": "Jonah Ray",
       "twitter": "jonahray",
@@ -317,7 +320,9 @@
     },
     {
       "id": 15979,
-      "events": [],
+      "events": [
+        17207
+      ],
       "emceeEvents": [],
       "name": "Hampton Yount",
       "twitter": "Hamptonyount",
@@ -461,6 +466,7 @@
     {
       "id": 15749,
       "events": [
+        17163,
         17180,
         17197
       ],
@@ -620,7 +626,9 @@
     },
     {
       "id": 16903,
-      "events": [],
+      "events": [
+        17163
+      ],
       "emceeEvents": [],
       "name": "Matt Knudsen ",
       "twitter": "mattknudsen",
@@ -996,7 +1004,9 @@
     },
     {
       "id": 16405,
-      "events": [],
+      "events": [
+        17163
+      ],
       "emceeEvents": [
         17180
       ],
@@ -1013,6 +1023,7 @@
     {
       "id": 16784,
       "events": [
+        17163,
         17197
       ],
       "emceeEvents": [],
@@ -1378,6 +1389,7 @@
     {
       "id": 15738,
       "events": [
+        17163,
         17198
       ],
       "emceeEvents": [],
@@ -1393,7 +1405,9 @@
     },
     {
       "id": 16502,
-      "events": [],
+      "events": [
+        17163
+      ],
       "emceeEvents": [
         17165
       ],
