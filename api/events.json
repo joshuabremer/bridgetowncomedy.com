@@ -617,25 +617,25 @@
       "id": 17194,
       "performers": [],
       "emcee": 0,
-      "venue": 10380,
-      "name": "Cider Riot Prime Time",
+      "venue": 10376,
+      "name": "Siren Theater Prime Time",
       "description": "",
       "startDateTime": "2017-05-07T04:30:00.000Z",
       "endDateTime": "2017-05-07T06:00:00.000Z",
       "price": 0,
-      "pageUrl": "17194-cider-riot-prime-time"
+      "pageUrl": "17194-siren-theater-prime-time"
     },
     {
       "id": 17195,
       "performers": [],
       "emcee": 0,
       "venue": 10380,
-      "name": "Cider Riot Late Night",
+      "name": "Open Mic",
       "description": "",
-      "startDateTime": "2017-05-07T06:30:00.000Z",
+      "startDateTime": "2017-05-07T04:00:00.000Z",
       "endDateTime": "2017-05-07T06:59:00.000Z",
       "price": 0,
-      "pageUrl": "17195-cider-riot-late-night"
+      "pageUrl": "17195-open-mic"
     },
     {
       "id": 17196,
@@ -797,7 +797,9 @@
     },
     {
       "id": 17208,
-      "performers": [],
+      "performers": [
+        16928
+      ],
       "emcee": 16926,
       "venue": 10373,
       "name": "Probably Science",

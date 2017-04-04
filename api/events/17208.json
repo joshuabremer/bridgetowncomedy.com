@@ -1,6 +1,8 @@
 {
   "id": 17208,
-  "performers": [],
+  "performers": [
+    16928
+  ],
   "emcee": 16926,
   "venue": 10373,
   "name": "Probably Science",

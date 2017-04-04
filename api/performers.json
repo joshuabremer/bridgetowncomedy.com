@@ -569,7 +569,9 @@
     },
     {
       "id": 16928,
-      "events": [],
+      "events": [
+        17208
+      ],
       "emceeEvents": [],
       "name": "Matt Kirshen",
       "twitter": "mattkirshen",
