@@ -144,7 +144,6 @@
         16037,
         15859,
         15951,
-        15799,
         16360,
         16884,
         16732
@@ -177,8 +176,8 @@
       "venue": 12478,
       "name": "Paris Theater Early Show",
       "description": "",
-      "startDateTime": "2017-05-05T03:00:00.000Z",
-      "endDateTime": "2017-05-05T04:30:00.000Z",
+      "startDateTime": "2017-05-05T02:30:00.000Z",
+      "endDateTime": "2017-05-05T04:00:00.000Z",
       "price": 0,
       "pageUrl": "17160-paris-theater-early-show"
     },
@@ -189,8 +188,8 @@
       "venue": 12478,
       "name": "Paris Theater Prime Time",
       "description": "",
-      "startDateTime": "2017-05-05T05:00:00.000Z",
-      "endDateTime": "2017-05-05T06:30:00.000Z",
+      "startDateTime": "2017-05-05T04:30:00.000Z",
+      "endDateTime": "2017-05-05T06:00:00.000Z",
       "price": 0,
       "pageUrl": "17161-paris-theater-prime-time"
     },
