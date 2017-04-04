@@ -1,12 +1,13 @@
 {
   "id": 17170,
   "performers": [],
-  "emcee": 0,
-  "venue": 10380,
-  "name": "Cider Riot Prime Time Show",
+  "emcee": 16920,
+  "venue": 10374,
+  "show": "16946",
+  "name": "The New Negroes",
   "description": "",
-  "startDateTime": "2017-05-06T04:00:00.000Z",
-  "endDateTime": "2017-05-06T05:30:00.000Z",
+  "startDateTime": "2017-05-06T05:00:00.000Z",
+  "endDateTime": "2017-05-06T06:30:00.000Z",
   "price": 0,
-  "pageUrl": "17170-cider-riot-prime-time-show"
+  "pageUrl": "17170-the-new-negroes"
 }

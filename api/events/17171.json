@@ -3,10 +3,10 @@
   "performers": [],
   "emcee": 0,
   "venue": 10380,
-  "name": "Cider Riot Late Night",
+  "name": "Open Mic",
   "description": "",
-  "startDateTime": "2017-05-06T06:00:00.000Z",
+  "startDateTime": "2017-05-06T04:00:00.000Z",
   "endDateTime": "2017-05-06T06:59:00.000Z",
   "price": 0,
-  "pageUrl": "17171-cider-riot-late-night"
+  "pageUrl": "17171-open-mic"
 }

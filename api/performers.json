@@ -89,7 +89,9 @@
         17182,
         17231
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17170
+      ],
       "name": "Baron Vaughn",
       "twitter": "barvonblaq",
       "website": "",
@@ -1219,7 +1221,8 @@
     {
       "id": 16107,
       "events": [
-        17154
+        17154,
+        17232
       ],
       "emceeEvents": [],
       "name": "Katie Nguyen",
@@ -1673,7 +1676,9 @@
     },
     {
       "id": 15820,
-      "events": [],
+      "events": [
+        17232
+      ],
       "emceeEvents": [],
       "name": "Alex Falcone",
       "twitter": "alex_falcone",
@@ -1812,7 +1817,8 @@
     {
       "id": 16484,
       "events": [
-        17163
+        17163,
+        17232
       ],
       "emceeEvents": [],
       "name": "Anthony Lopez",

@@ -74,12 +74,12 @@
       "performers": [],
       "emcee": 0,
       "venue": 10380,
-      "name": "Cider Riot Prime Time",
+      "name": "Open Mic!",
       "description": "",
-      "startDateTime": "2017-05-05T04:30:00.000Z",
+      "startDateTime": "2017-05-05T04:00:00.000Z",
       "endDateTime": "2017-05-05T06:00:00.000Z",
       "price": 0,
-      "pageUrl": "17153-cider-riot-prime-time"
+      "pageUrl": "17153-open-mic"
     },
     {
       "id": 17154,
@@ -275,34 +275,35 @@
       "venue": 10380,
       "name": "Cider Riot Early Show",
       "description": "",
-      "startDateTime": "2017-05-06T02:00:00.000Z",
-      "endDateTime": "2017-05-06T03:30:00.000Z",
+      "startDateTime": "2017-05-06T02:30:00.000Z",
+      "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 0,
       "pageUrl": "17169-cider-riot-early-show"
     },
     {
       "id": 17170,
       "performers": [],
-      "emcee": 0,
-      "venue": 10380,
-      "name": "Cider Riot Prime Time Show",
+      "emcee": 16920,
+      "venue": 10374,
+      "show": "16946",
+      "name": "The New Negroes",
       "description": "",
-      "startDateTime": "2017-05-06T04:00:00.000Z",
-      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "startDateTime": "2017-05-06T05:00:00.000Z",
+      "endDateTime": "2017-05-06T06:30:00.000Z",
       "price": 0,
-      "pageUrl": "17170-cider-riot-prime-time-show"
+      "pageUrl": "17170-the-new-negroes"
     },
     {
       "id": 17171,
       "performers": [],
       "emcee": 0,
       "venue": 10380,
-      "name": "Cider Riot Late Night",
+      "name": "Open Mic",
       "description": "",
-      "startDateTime": "2017-05-06T06:00:00.000Z",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T06:59:00.000Z",
       "price": 0,
-      "pageUrl": "17171-cider-riot-late-night"
+      "pageUrl": "17171-open-mic"
     },
     {
       "id": 17172,
@@ -348,8 +349,8 @@
       "venue": 10763,
       "name": "Analog Downstairs Early Show",
       "description": "",
-      "startDateTime": "2017-05-06T02:00:00.000Z",
-      "endDateTime": "2017-05-06T03:30:00.000Z",
+      "startDateTime": "2017-05-06T02:30:00.000Z",
+      "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 0,
       "pageUrl": "17175-analog-downstairs-early-show"
     },
@@ -452,12 +453,12 @@
       "emcee": 0,
       "venue": 10384,
       "show": "17228",
-      "name": "Come Laugh With Us with Lance Banks",
+      "name": "Come Laugh With Us with Lance Bangs",
       "description": "",
       "startDateTime": "2017-05-06T03:00:00.000Z",
       "endDateTime": "2017-05-06T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17182-come-laugh-with-us-with-lance-banks"
+      "pageUrl": "17182-come-laugh-with-us-with-lance-bangs"
     },
     {
       "id": 17183,
@@ -959,6 +960,23 @@
       "endDateTime": "2017-05-05T05:00:00.000Z",
       "price": 0,
       "pageUrl": "17231-the-goddamn-comedy-jam"
+    },
+    {
+      "id": 17232,
+      "performers": [
+        16107,
+        15820,
+        16484
+      ],
+      "emcee": 0,
+      "venue": 10374,
+      "show": "16094",
+      "name": "Earthquake Hurricane",
+      "description": "",
+      "startDateTime": "2017-05-04T03:00:00.000Z",
+      "endDateTime": "2017-05-04T05:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17232-earthquake-hurricane"
     }
   ]
 }
