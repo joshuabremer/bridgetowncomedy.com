@@ -53,6 +53,7 @@
     {
       "id": 16927,
       "events": [
+        17150,
         17182,
         17188
       ],
@@ -110,6 +111,7 @@
     {
       "id": 16918,
       "events": [
+        17160,
         17204
       ],
       "emceeEvents": [],
@@ -584,6 +586,7 @@
       "id": 16732,
       "events": [
         17158,
+        17158,
         17180
       ],
       "emceeEvents": [],
@@ -631,7 +634,9 @@
     },
     {
       "id": 16865,
-      "events": [],
+      "events": [
+        17170
+      ],
       "emceeEvents": [],
       "name": "Lashonda Lester",
       "twitter": "glamgirl313",
@@ -731,7 +736,9 @@
       "events": [
         17189
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17155
+      ],
       "name": "Bri Pruett",
       "twitter": "bripruett",
       "website": "http://bripruett.com",
@@ -1079,7 +1086,7 @@
     {
       "id": 16312,
       "events": [
-        17170
+        17151
       ],
       "emceeEvents": [],
       "name": "Nick Chambers",
