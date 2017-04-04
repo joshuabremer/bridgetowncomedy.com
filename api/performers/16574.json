@@ -1,7 +1,9 @@
 {
   "id": 16574,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17148
+  ],
   "name": "Shane Torres",
   "twitter": "SyrupMountain",
   "website": "http://www.shaneisacomedian.com/",

@@ -17,6 +17,7 @@
     {
       "id": 16925,
       "events": [
+        17148,
         17182
       ],
       "emceeEvents": [],
@@ -354,7 +355,7 @@
     {
       "id": 15888,
       "events": [
-        17154,
+        17148,
         17189
       ],
       "emceeEvents": [],
@@ -502,6 +503,7 @@
     {
       "id": 16855,
       "events": [
+        17148,
         17167
       ],
       "emceeEvents": [],
@@ -533,7 +535,9 @@
     },
     {
       "id": 16346,
-      "events": [],
+      "events": [
+        17148
+      ],
       "emceeEvents": [],
       "name": "Drew Lynch",
       "twitter": "",
@@ -548,6 +552,7 @@
     {
       "id": 16895,
       "events": [
+        17148,
         17198
       ],
       "emceeEvents": [],
@@ -643,7 +648,9 @@
     {
       "id": 16574,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17148
+      ],
       "name": "Shane Torres",
       "twitter": "SyrupMountain",
       "website": "http://www.shaneisacomedian.com/",
@@ -943,6 +950,7 @@
     {
       "id": 15930,
       "events": [
+        17148,
         17170
       ],
       "emceeEvents": [],
@@ -1271,7 +1279,9 @@
     },
     {
       "id": 16212,
-      "events": [],
+      "events": [
+        17148
+      ],
       "emceeEvents": [],
       "name": "Nathan Brannon",
       "twitter": "nathanbrannon",
@@ -1577,7 +1587,6 @@
     {
       "id": 17143,
       "events": [
-        17149,
         17181
       ],
       "emceeEvents": [

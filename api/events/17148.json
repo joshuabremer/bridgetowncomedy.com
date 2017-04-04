@@ -1,7 +1,15 @@
 {
   "id": 17148,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    15930,
+    16346,
+    16212,
+    15888,
+    16855,
+    16895,
+    16925
+  ],
+  "emcee": 16574,
   "venue": 10374,
   "name": "Festival Opening Show",
   "description": "",
