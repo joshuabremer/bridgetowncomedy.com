@@ -88,6 +88,7 @@
         17231
       ],
       "emceeEvents": [
+        17151,
         17170
       ],
       "name": "Baron Vaughn",
@@ -330,7 +331,9 @@
     },
     {
       "id": 16525,
-      "events": [],
+      "events": [
+        17151
+      ],
       "emceeEvents": [],
       "name": "Candice Thompson",
       "twitter": "jokesbycandice",
@@ -1270,6 +1273,7 @@
     {
       "id": 15951,
       "events": [
+        17151,
         17158
       ],
       "emceeEvents": [],
@@ -1463,7 +1467,9 @@
     },
     {
       "id": 16801,
-      "events": [],
+      "events": [
+        17151
+      ],
       "emceeEvents": [],
       "name": "David Perdue",
       "twitter": "dueordie",
@@ -1491,7 +1497,9 @@
     },
     {
       "id": 15905,
-      "events": [],
+      "events": [
+        17151
+      ],
       "emceeEvents": [],
       "name": "Kenice Mobley",
       "twitter": "kfmawesomeness",
@@ -1505,7 +1513,9 @@
     },
     {
       "id": 15858,
-      "events": [],
+      "events": [
+        17151
+      ],
       "emceeEvents": [],
       "name": "Brodie Reed",
       "twitter": "ayobrobro",
@@ -1609,6 +1619,7 @@
     {
       "id": 16503,
       "events": [
+        17151,
         17198
       ],
       "emceeEvents": [],
@@ -1696,7 +1707,9 @@
     },
     {
       "id": 15971,
-      "events": [],
+      "events": [
+        17151
+      ],
       "emceeEvents": [],
       "name": "Robert Jenkins",
       "twitter": "RobJComedy",
@@ -1893,7 +1906,9 @@
     },
     {
       "id": 16677,
-      "events": [],
+      "events": [
+        17151
+      ],
       "emceeEvents": [],
       "name": "Marcus Coleman",
       "twitter": "MrMarcusColeman",
