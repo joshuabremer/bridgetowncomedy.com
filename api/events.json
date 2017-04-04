@@ -50,7 +50,6 @@
         15858,
         16677,
         16503,
-        15951,
         15971,
         15905,
         16801,
@@ -171,12 +170,12 @@
       "performers": [],
       "emcee": 0,
       "venue": 10378,
-      "name": "Bunk Late Night",
+      "name": "Secret Headliner!",
       "description": "",
       "startDateTime": "2017-05-05T06:00:00.000Z",
       "endDateTime": "2017-05-05T06:59:00.000Z",
       "price": 0,
-      "pageUrl": "17159-bunk-late-night"
+      "pageUrl": "17159-secret-headliner"
     },
     {
       "id": 17160,
@@ -267,7 +266,7 @@
     {
       "id": 17168,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16922,
       "venue": 10373,
       "show": "16923",
       "name": "Rants Off/ Dance Off",
@@ -291,7 +290,16 @@
     },
     {
       "id": 17170,
-      "performers": [],
+      "performers": [
+        16808,
+        16715,
+        16312,
+        15930,
+        16416,
+        16756,
+        15951,
+        16828
+      ],
       "emcee": 16920,
       "venue": 10374,
       "show": "16946",
@@ -404,18 +412,18 @@
       "performers": [],
       "emcee": 0,
       "venue": 10378,
-      "name": "Bunk Late Night",
+      "name": "Secret Headliner!",
       "description": "",
       "startDateTime": "2017-05-06T06:00:00.000Z",
       "endDateTime": "2017-05-06T06:59:00.000Z",
       "price": 0,
-      "pageUrl": "17179-bunk-late-night"
+      "pageUrl": "17179-secret-headliner"
     },
     {
       "id": 17180,
       "performers": [
         16718,
-        16828,
+        15858,
         15749,
         16190,
         16916,
@@ -665,7 +673,11 @@
     {
       "id": 17197,
       "performers": [
-        16879
+        16879,
+        16784,
+        16039,
+        15749,
+        16525
       ],
       "emcee": 16352,
       "venue": 10677,
@@ -910,9 +922,10 @@
       "performers": [
         16297,
         16670,
-        16190
+        16190,
+        17238
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10677,
       "show": "15752",
       "name": "Palindrome Fight",
@@ -1006,9 +1019,10 @@
     {
       "id": 17234,
       "performers": [
-        16800
+        16800,
+        17238
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10677,
       "name": "Sean Jordan and Dax Jordan: The Sklaren't Brothers",
       "description": "",
