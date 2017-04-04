@@ -841,8 +841,8 @@
       "venue": 10374,
       "name": "Bossanova Ballroom Early Show",
       "description": "",
-      "startDateTime": "2017-05-08T02:00:00.000Z",
-      "endDateTime": "2017-05-08T03:30:00.000Z",
+      "startDateTime": "2017-05-08T03:00:00.000Z",
+      "endDateTime": "2017-05-08T04:30:00.000Z",
       "price": 0,
       "pageUrl": "17211-bossanova-ballroom-early-show"
     },
@@ -853,8 +853,8 @@
       "venue": 10374,
       "name": "Festival Closing Show",
       "description": "",
-      "startDateTime": "2017-05-08T04:30:00.000Z",
-      "endDateTime": "2017-05-08T06:00:00.000Z",
+      "startDateTime": "2017-05-08T05:00:00.000Z",
+      "endDateTime": "2017-05-08T06:30:00.000Z",
       "price": 0,
       "pageUrl": "17212-festival-closing-show"
     },
@@ -979,6 +979,44 @@
       "endDateTime": "2017-05-04T05:00:00.000Z",
       "price": 0,
       "pageUrl": "17232-earthquake-hurricane"
+    },
+    {
+      "id": 17233,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10380,
+      "name": "Cider Riot Prime Time",
+      "description": "",
+      "startDateTime": "2017-05-08T04:30:00.000Z",
+      "endDateTime": "2017-05-08T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17233-cider-riot-prime-time"
+    },
+    {
+      "id": 17234,
+      "performers": [
+        16800
+      ],
+      "emcee": 0,
+      "venue": 10677,
+      "name": "Sean Jordan and Dax Jordan: The Sklaren't Brothers",
+      "description": "",
+      "startDateTime": "2017-05-08T02:00:00.000Z",
+      "endDateTime": "2017-05-08T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17234-sean-jordan-and-dax-jordan-the-sklarent-brothers"
+    },
+    {
+      "id": 17235,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10763,
+      "name": "Analog Lounge Prime Time",
+      "description": "",
+      "startDateTime": "2017-05-08T04:30:00.000Z",
+      "endDateTime": "2017-05-08T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17235-analog-lounge-prime-time"
     }
   ]
 }
