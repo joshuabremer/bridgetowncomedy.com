@@ -1,7 +1,9 @@
 {
   "id": 17160,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16919
+  ],
+  "emcee": 10429,
   "venue": 12478,
   "name": "Paris Theater Early Show",
   "description": "",

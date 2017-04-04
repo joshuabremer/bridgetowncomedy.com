@@ -1,7 +1,15 @@
 {
   "id": 17204,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16574,
+    16800,
+    17122,
+    16201,
+    16855,
+    16657,
+    16918
+  ],
+  "emcee": 10429,
   "venue": 12478,
   "name": "Funny Over Everything Reunion",
   "description": "",

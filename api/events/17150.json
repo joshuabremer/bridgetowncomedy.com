@@ -1,7 +1,9 @@
 {
   "id": 17150,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    17008
+  ],
+  "emcee": 10429,
   "venue": 10373,
   "name": "Doug Fir Early Show",
   "description": "",

@@ -33,7 +33,9 @@
     },
     {
       "id": 17008,
-      "events": [],
+      "events": [
+        17150
+      ],
       "emceeEvents": [
         17190
       ],
@@ -67,6 +69,7 @@
     {
       "id": 16919,
       "events": [
+        17160,
         17186
       ],
       "emceeEvents": [
@@ -105,7 +108,9 @@
     },
     {
       "id": 16918,
-      "events": [],
+      "events": [
+        17204
+      ],
       "emceeEvents": [],
       "name": "Matt Braunger",
       "twitter": "Braunger",
@@ -137,7 +142,8 @@
       "id": 17122,
       "events": [
         17149,
-        17167
+        17167,
+        17204
       ],
       "emceeEvents": [],
       "name": "Ian Karmel",
@@ -451,7 +457,8 @@
     {
       "id": 16657,
       "events": [
-        17165
+        17165,
+        17204
       ],
       "emceeEvents": [],
       "name": "Brooke Van Poppelen",
@@ -504,7 +511,8 @@
       "id": 16855,
       "events": [
         17148,
-        17167
+        17167,
+        17204
       ],
       "emceeEvents": [],
       "name": "Maggie Maye",
@@ -647,7 +655,9 @@
     },
     {
       "id": 16574,
-      "events": [],
+      "events": [
+        17204
+      ],
       "emceeEvents": [
         17148
       ],
@@ -696,6 +706,7 @@
     {
       "id": 16800,
       "events": [
+        17204,
         17234
       ],
       "emceeEvents": [],
@@ -1798,7 +1809,8 @@
     {
       "id": 16201,
       "events": [
-        17196
+        17196,
+        17204
       ],
       "emceeEvents": [],
       "name": "Philip Schallberger",
@@ -2133,7 +2145,9 @@
     },
     {
       "id": 17239,
-      "events": [],
+      "events": [
+        17159
+      ],
       "emceeEvents": [],
       "name": "Special Secret Guest!",
       "twitter": "",
