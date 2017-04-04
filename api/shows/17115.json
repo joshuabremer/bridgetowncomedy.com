@@ -1,6 +1,8 @@
 {
   "id": 17115,
-  "events": [],
+  "events": [
+    17231
+  ],
   "name": "The Goddamn Comedy Jam",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/gdcj_logo.png",
   "photoUrl": "/api/img/show-images/show-thegoddamncomedyjam-300x300.jpg",
