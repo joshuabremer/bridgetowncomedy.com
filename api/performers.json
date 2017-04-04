@@ -18,7 +18,8 @@
       "id": 16925,
       "events": [
         17148,
-        17182
+        17182,
+        17231
       ],
       "emceeEvents": [],
       "name": "Janeane Garofalo",
@@ -127,7 +128,9 @@
       "events": [
         17207
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17185
+      ],
       "name": "Jonah Ray",
       "twitter": "jonahray",
       "website": "",
@@ -159,7 +162,8 @@
     {
       "id": 16051,
       "events": [
-        17181
+        17181,
+        17188
       ],
       "emceeEvents": [
         17205
@@ -426,7 +430,9 @@
     },
     {
       "id": 16603,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [],
       "name": "Debra DiGiovanni",
       "twitter": "DEBRADIGIOVANNI",
@@ -492,7 +498,7 @@
     {
       "id": 16187,
       "events": [
-        17154
+        17196
       ],
       "emceeEvents": [
         17191
@@ -1195,7 +1201,8 @@
     {
       "id": 16177,
       "events": [
-        17154
+        17154,
+        17196
       ],
       "emceeEvents": [],
       "name": "Andy Erikson",
@@ -1275,6 +1282,7 @@
       "id": 16107,
       "events": [
         17154,
+        17196,
         17232
       ],
       "emceeEvents": [],
@@ -1490,7 +1498,9 @@
     },
     {
       "id": 16147,
-      "events": [],
+      "events": [
+        17196
+      ],
       "emceeEvents": [],
       "name": "Carolyn Busa",
       "twitter": "misstoiletslave",
@@ -1504,7 +1514,9 @@
     },
     {
       "id": 16912,
-      "events": [],
+      "events": [
+        17154
+      ],
       "emceeEvents": [],
       "name": "Barbara Gray",
       "twitter": "BabsGray",
@@ -1794,7 +1806,9 @@
     },
     {
       "id": 16853,
-      "events": [],
+      "events": [
+        17196
+      ],
       "emceeEvents": [],
       "name": "Phoebe Bottoms ",
       "twitter": "phoebebottoms",
@@ -1809,10 +1823,11 @@
     {
       "id": 16201,
       "events": [
-        17196,
         17204
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17196
+      ],
       "name": "Philip Schallberger",
       "twitter": "phil_schall",
       "website": "http://philschall.com",
@@ -1842,6 +1857,7 @@
     {
       "id": 16112,
       "events": [
+        17154,
         17189
       ],
       "emceeEvents": [],
@@ -1906,7 +1922,9 @@
     },
     {
       "id": 16447,
-      "events": [],
+      "events": [
+        17196
+      ],
       "emceeEvents": [],
       "name": "Christian Ricketts",
       "twitter": "",
@@ -2146,7 +2164,8 @@
     {
       "id": 17239,
       "events": [
-        17159
+        17159,
+        17188
       ],
       "emceeEvents": [],
       "name": "Special Secret Guest!",
@@ -2165,7 +2184,9 @@
         17216,
         17234
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17153
+      ],
       "name": "Dax Jordan",
       "twitter": "",
       "website": "",

@@ -1,9 +1,14 @@
 {
   "id": 17196,
   "performers": [
-    16201
+    16107,
+    16447,
+    16177,
+    16147,
+    16853,
+    16187
   ],
-  "emcee": 0,
+  "emcee": 16201,
   "venue": 10677,
   "name": "Off the Wallberger with Phil Schallberger",
   "description": "",
