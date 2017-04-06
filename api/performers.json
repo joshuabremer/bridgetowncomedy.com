@@ -21,7 +21,7 @@
       "events": [
         17148,
         17182,
-        17231
+        17191
       ],
       "emceeEvents": [],
       "name": "Janeane Garofalo",
@@ -55,9 +55,9 @@
     {
       "id": 16927,
       "events": [
-        17150,
         17182,
-        17188
+        17188,
+        17231
       ],
       "emceeEvents": [],
       "name": "Karen Kilgariff",
@@ -150,7 +150,8 @@
       "events": [
         17149,
         17167,
-        17204
+        17204,
+        17231
       ],
       "emceeEvents": [],
       "name": "Ian Karmel",
