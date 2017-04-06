@@ -1,12 +1,14 @@
 {
   "id": 17211,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16925
+  ],
+  "emcee": 10429,
   "venue": 10374,
-  "name": "Bossanova Ballroom Early Show",
+  "name": "LAAAAAADIIIIIIIIIIIEESSSSSSSSS",
   "description": "",
   "startDateTime": "2017-05-08T03:00:00.000Z",
   "endDateTime": "2017-05-08T04:30:00.000Z",
   "price": 0,
-  "pageUrl": "17211-bossanova-ballroom-early-show"
+  "pageUrl": "17211-laaaaaadiiiiiiiiiiieesssssssss"
 }

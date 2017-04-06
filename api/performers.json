@@ -21,7 +21,8 @@
       "events": [
         17148,
         17182,
-        17191
+        17191,
+        17211
       ],
       "emceeEvents": [],
       "name": "Janeane Garofalo",
@@ -237,7 +238,8 @@
     {
       "id": 16915,
       "events": [
-        17186
+        17186,
+        17190
       ],
       "emceeEvents": [],
       "name": "Laurie Kilmartin",
@@ -302,7 +304,8 @@
     {
       "id": 16591,
       "events": [
-        17149
+        17149,
+        17190
       ],
       "emceeEvents": [],
       "name": "Nick Vatterott",
@@ -501,6 +504,7 @@
       "events": [
         17163,
         17180,
+        17190,
         17197
       ],
       "emceeEvents": [],
@@ -666,7 +670,8 @@
     {
       "id": 16865,
       "events": [
-        17170
+        17170,
+        17190
       ],
       "emceeEvents": [],
       "name": "Lashonda Lester",
@@ -715,7 +720,9 @@
     },
     {
       "id": 15887,
-      "events": [],
+      "events": [
+        17190
+      ],
       "emceeEvents": [],
       "name": "Ian Abramson",
       "twitter": "iantherage",
