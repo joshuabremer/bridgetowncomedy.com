@@ -210,7 +210,6 @@
       "id": 17163,
       "performers": [
         16484,
-        16502,
         16405,
         15738,
         16903,
@@ -663,15 +662,23 @@
     },
     {
       "id": 17194,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16502,
+        16304,
+        16884,
+        16508,
+        16647,
+        16732,
+        16571
+      ],
+      "emcee": 16530,
       "venue": 10376,
-      "name": "Siren Theater Prime Time",
+      "name": "That's My Bay",
       "description": "",
       "startDateTime": "2017-05-07T04:30:00.000Z",
       "endDateTime": "2017-05-07T06:00:00.000Z",
       "price": 0,
-      "pageUrl": "17194-siren-theater-prime-time"
+      "pageUrl": "17194-thats-my-bay"
     },
     {
       "id": 17195,
@@ -1007,8 +1014,15 @@
     },
     {
       "id": 17217,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        15738,
+        16169,
+        16602,
+        15888,
+        15977,
+        16657
+      ],
+      "emcee": 16658,
       "venue": 10677,
       "show": "16781",
       "name": "Control Yourself Live Podcast",

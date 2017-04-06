@@ -191,6 +191,7 @@
       "events": [
         17167,
         17189,
+        17194,
         17211
       ],
       "emceeEvents": [],
@@ -276,7 +277,9 @@
     },
     {
       "id": 16571,
-      "events": [],
+      "events": [
+        17194
+      ],
       "emceeEvents": [],
       "name": "Brent Weinbach",
       "twitter": "BrentWeinbach",
@@ -394,7 +397,8 @@
       "id": 15888,
       "events": [
         17148,
-        17189
+        17189,
+        17217
       ],
       "emceeEvents": [],
       "name": "Joel Kim Booster",
@@ -494,7 +498,8 @@
     {
       "id": 16657,
       "events": [
-        17165
+        17165,
+        17217
       ],
       "emceeEvents": [],
       "name": "Brooke Van Poppelen",
@@ -633,7 +638,8 @@
       "events": [
         17158,
         17158,
-        17180
+        17180,
+        17194
       ],
       "emceeEvents": [
         17211
@@ -835,7 +841,9 @@
     },
     {
       "id": 15977,
-      "events": [],
+      "events": [
+        17217
+      ],
       "emceeEvents": [],
       "name": "Drennon Davis",
       "twitter": "DrennonDavis",
@@ -1141,7 +1149,9 @@
       "events": [
         17175
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17194
+      ],
       "name": "Irene Tu",
       "twitter": "irene_tu",
       "website": "http://irenetu.com",
@@ -1232,7 +1242,9 @@
     },
     {
       "id": 16304,
-      "events": [],
+      "events": [
+        17194
+      ],
       "emceeEvents": [],
       "name": "JR De Guzman",
       "twitter": "jrdeguzm",
@@ -1297,7 +1309,8 @@
     {
       "id": 16884,
       "events": [
-        17158
+        17158,
+        17194
       ],
       "emceeEvents": [],
       "name": "Natasha Muse",
@@ -1329,7 +1342,8 @@
     {
       "id": 16602,
       "events": [
-        17165
+        17165,
+        17217
       ],
       "emceeEvents": [],
       "name": "Josh Johnson",
@@ -1500,7 +1514,8 @@
       "id": 15738,
       "events": [
         17163,
-        17198
+        17198,
+        17217
       ],
       "emceeEvents": [],
       "name": "Sonia Denis",
@@ -1516,7 +1531,7 @@
     {
       "id": 16502,
       "events": [
-        17163
+        17194
       ],
       "emceeEvents": [
         17165
@@ -1754,7 +1769,9 @@
     },
     {
       "id": 16508,
-      "events": [],
+      "events": [
+        17194
+      ],
       "emceeEvents": [],
       "name": "Andrew Orolfo",
       "twitter": "Andrew_orolfo",
@@ -1816,7 +1833,8 @@
     {
       "id": 16169,
       "events": [
-        17199
+        17199,
+        17217
       ],
       "emceeEvents": [],
       "name": "Dusty Slay",
@@ -1961,7 +1979,9 @@
     {
       "id": 16658,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17217
+      ],
       "name": "JoAnn Schinderle ",
       "twitter": "joannlizabeth",
       "website": "http://www.joannschinderle.com",
