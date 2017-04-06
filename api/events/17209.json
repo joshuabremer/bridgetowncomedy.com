@@ -2,12 +2,12 @@
   "id": 17209,
   "performers": [],
   "emcee": 16641,
-  "venue": 10373,
+  "venue": 10677,
   "show": "16644",
   "name": "Here We Are Podcast",
   "description": "",
-  "startDateTime": "2017-05-07T23:00:00.000Z",
-  "endDateTime": "2017-05-08T00:30:00.000Z",
+  "startDateTime": "2017-05-07T00:00:00.000Z",
+  "endDateTime": "2017-05-07T01:30:00.000Z",
   "price": 0,
   "pageUrl": "17209-here-we-are-podcast"
 }

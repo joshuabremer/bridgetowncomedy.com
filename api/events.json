@@ -874,12 +874,12 @@
       "id": 17209,
       "performers": [],
       "emcee": 16641,
-      "venue": 10373,
+      "venue": 10677,
       "show": "16644",
       "name": "Here We Are Podcast",
       "description": "",
-      "startDateTime": "2017-05-07T23:00:00.000Z",
-      "endDateTime": "2017-05-08T00:30:00.000Z",
+      "startDateTime": "2017-05-07T00:00:00.000Z",
+      "endDateTime": "2017-05-07T01:30:00.000Z",
       "price": 0,
       "pageUrl": "17209-here-we-are-podcast"
     },
@@ -1084,6 +1084,21 @@
       "endDateTime": "2017-05-08T06:00:00.000Z",
       "price": 0,
       "pageUrl": "17235-analog-lounge-prime-time"
+    },
+    {
+      "id": 17248,
+      "performers": [
+        16800
+      ],
+      "emcee": 17122,
+      "venue": 10373,
+      "show": "17123",
+      "name": "All Fantasy Everything",
+      "description": "",
+      "startDateTime": "2017-05-06T23:00:00.000Z",
+      "endDateTime": "2017-05-07T00:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17248-all-fantasy-everything"
     }
   ]
 }

@@ -100,7 +100,9 @@
     },
     {
       "id": 17123,
-      "events": [],
+      "events": [
+        17248
+      ],
       "name": "All Fantasy Everything",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/fantasy800.jpg",
       "photoUrl": "/api/img/show-images/show-allfantasyeverything-300x300.jpg",
