@@ -4,7 +4,8 @@
       "id": 16926,
       "events": [],
       "emceeEvents": [
-        17208
+        17208,
+        17250
       ],
       "name": "Andy Wood",
       "twitter": "andytwood",
@@ -75,7 +76,8 @@
       "id": 16919,
       "events": [
         17160,
-        17186
+        17186,
+        17202
       ],
       "emceeEvents": [
         17183
@@ -115,7 +117,8 @@
       "id": 16918,
       "events": [
         17204,
-        17231
+        17231,
+        17250
       ],
       "emceeEvents": [],
       "name": "Matt Braunger",
@@ -131,7 +134,8 @@
     {
       "id": 17224,
       "events": [
-        17207
+        17207,
+        17250
       ],
       "emceeEvents": [
         17185
@@ -278,7 +282,8 @@
       "id": 16571,
       "events": [
         17194,
-        17196
+        17196,
+        17250
       ],
       "emceeEvents": [],
       "name": "Brent Weinbach",
@@ -518,7 +523,8 @@
         17163,
         17180,
         17190,
-        17197
+        17197,
+        17202
       ],
       "emceeEvents": [],
       "name": "Chris Fairbanks ",
@@ -709,7 +715,8 @@
     {
       "id": 16903,
       "events": [
-        17163
+        17163,
+        17202
       ],
       "emceeEvents": [],
       "name": "Matt Knudsen ",
@@ -778,6 +785,7 @@
     {
       "id": 16800,
       "events": [
+        17202,
         17234,
         17248
       ],
@@ -860,7 +868,9 @@
     },
     {
       "id": 15786,
-      "events": [],
+      "events": [
+        17250
+      ],
       "emceeEvents": [],
       "name": "Michelle Biloon",
       "twitter": "biloon",
@@ -1399,7 +1409,8 @@
     {
       "id": 16212,
       "events": [
-        17148
+        17148,
+        17250
       ],
       "emceeEvents": [],
       "name": "Nathan Brannon",
@@ -1414,7 +1425,9 @@
     },
     {
       "id": 15923,
-      "events": [],
+      "events": [
+        17191
+      ],
       "emceeEvents": [],
       "name": "Gabe Dinger",
       "twitter": "GabeDinger",
@@ -2288,7 +2301,8 @@
       "id": 17238,
       "events": [
         17216,
-        17234
+        17234,
+        17250
       ],
       "emceeEvents": [
         17153,

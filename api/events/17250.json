@@ -1,12 +1,19 @@
 {
   "id": 17250,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16212,
+    15786,
+    17224,
+    17238,
+    16571,
+    16918
+  ],
+  "emcee": 16926,
   "venue": 10376,
-  "name": "A DECADE OF MEMORIES",
+  "name": "2008: Birth of Elation",
   "description": "",
   "startDateTime": "2017-05-06T04:30:00.000Z",
   "endDateTime": "2017-05-06T06:00:00.000Z",
   "price": 0,
-  "pageUrl": "17250-a-decade-of-memories"
+  "pageUrl": "17250-2008-birth-of-elation"
 }
