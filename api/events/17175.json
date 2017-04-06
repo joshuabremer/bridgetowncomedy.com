@@ -1,7 +1,14 @@
 {
   "id": 17175,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    15908,
+    16530,
+    16715,
+    16021,
+    16801,
+    16790
+  ],
+  "emcee": 10429,
   "venue": 10763,
   "name": "New Faces",
   "description": "",
