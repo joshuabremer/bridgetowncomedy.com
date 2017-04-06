@@ -277,7 +277,8 @@
     {
       "id": 16571,
       "events": [
-        17194
+        17194,
+        17196
       ],
       "emceeEvents": [],
       "name": "Brent Weinbach",
@@ -673,7 +674,8 @@
       "id": 16136,
       "events": [
         17189,
-        17194
+        17194,
+        17249
       ],
       "emceeEvents": [],
       "name": "Janine Brito",
@@ -723,7 +725,8 @@
     {
       "id": 16574,
       "events": [
-        17204
+        17204,
+        17249
       ],
       "emceeEvents": [
         17148
@@ -872,7 +875,8 @@
     {
       "id": 16277,
       "events": [
-        17204
+        17204,
+        17249
       ],
       "emceeEvents": [],
       "name": "Ismael Loutfi",
@@ -1047,7 +1051,8 @@
       "id": 15930,
       "events": [
         17148,
-        17170
+        17170,
+        17249
       ],
       "emceeEvents": [],
       "name": "Chinedu Unaka",
@@ -1377,7 +1382,8 @@
       "id": 16107,
       "events": [
         17196,
-        17232
+        17232,
+        17249
       ],
       "emceeEvents": [],
       "name": "Katie Nguyen",
@@ -1786,7 +1792,8 @@
       "id": 16503,
       "events": [
         17151,
-        17198
+        17198,
+        17249
       ],
       "emceeEvents": [],
       "name": "Stephen Agyei",
@@ -1895,7 +1902,8 @@
     {
       "id": 16821,
       "events": [
-        17154
+        17154,
+        17249
       ],
       "emceeEvents": [],
       "name": "George Civeris",
@@ -1994,6 +2002,7 @@
     {
       "id": 16786,
       "events": [
+        17168,
         17198
       ],
       "emceeEvents": [

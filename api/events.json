@@ -274,7 +274,9 @@
     },
     {
       "id": 17168,
-      "performers": [],
+      "performers": [
+        16786
+      ],
       "emcee": 16922,
       "venue": 10373,
       "show": "16923",
@@ -698,7 +700,8 @@
         16447,
         16177,
         16147,
-        16853
+        16853,
+        16571
       ],
       "emcee": 16201,
       "venue": 10677,
@@ -1062,7 +1065,7 @@
         16927,
         16918
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 17230,
       "show": "17115",
       "name": "The Goddamn Comedy Jam",
@@ -1147,27 +1150,35 @@
     },
     {
       "id": 17249,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16107,
+        16821,
+        15930,
+        16277,
+        16136,
+        16503,
+        16574
+      ],
+      "emcee": 10429,
       "venue": 10376,
-      "name": "Siren Early Show",
+      "name": "Immigration Nation",
       "description": "",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17249-siren-early-show"
+      "pageUrl": "17249-immigration-nation"
     },
     {
       "id": 17250,
       "performers": [],
       "emcee": 0,
       "venue": 10376,
-      "name": "Siren Primetime",
+      "name": "A DECADE OF MEMORIES",
       "description": "",
       "startDateTime": "2017-05-06T04:30:00.000Z",
       "endDateTime": "2017-05-06T06:00:00.000Z",
       "price": 0,
-      "pageUrl": "17250-siren-primetime"
+      "pageUrl": "17250-a-decade-of-memories"
     }
   ]
 }

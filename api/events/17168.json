@@ -1,6 +1,8 @@
 {
   "id": 17168,
-  "performers": [],
+  "performers": [
+    16786
+  ],
   "emcee": 16922,
   "venue": 10373,
   "show": "16923",
