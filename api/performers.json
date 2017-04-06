@@ -190,7 +190,8 @@
       "id": 16647,
       "events": [
         17167,
-        17189
+        17189,
+        17211
       ],
       "emceeEvents": [],
       "name": "Marcella Arguello",
@@ -206,7 +207,8 @@
     {
       "id": 16828,
       "events": [
-        17170
+        17170,
+        17206
       ],
       "emceeEvents": [],
       "name": "Kevin Avery",
@@ -340,7 +342,8 @@
     {
       "id": 16685,
       "events": [
-        17165
+        17165,
+        17211
       ],
       "emceeEvents": [],
       "name": "Annie Lederman",
@@ -373,7 +376,8 @@
       "id": 16525,
       "events": [
         17151,
-        17197
+        17197,
+        17211
       ],
       "emceeEvents": [],
       "name": "Candice Thompson",
@@ -439,6 +443,7 @@
       "id": 16190,
       "events": [
         17180,
+        17206,
         17216
       ],
       "emceeEvents": [],
@@ -455,7 +460,9 @@
     {
       "id": 16603,
       "events": [
-        17154
+        17154,
+        17206,
+        17211
       ],
       "emceeEvents": [],
       "name": "Debra DiGiovanni",
@@ -628,7 +635,9 @@
         17158,
         17180
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17211
+      ],
       "name": "Caitlin Gill",
       "twitter": "ROBOTCAITLIN",
       "website": "http://www.caitlingillcomedy.com/",
@@ -675,7 +684,8 @@
       "id": 16865,
       "events": [
         17170,
-        17190
+        17190,
+        17211
       ],
       "emceeEvents": [],
       "name": "Lashonda Lester",
@@ -869,7 +879,9 @@
     },
     {
       "id": 16474,
-      "events": [],
+      "events": [
+        17206
+      ],
       "emceeEvents": [],
       "name": "Andrew Sleighter",
       "twitter": "andrewsleighter",
@@ -1091,7 +1103,8 @@
     {
       "id": 16405,
       "events": [
-        17163
+        17163,
+        17206
       ],
       "emceeEvents": [
         17180
@@ -1202,7 +1215,9 @@
     {
       "id": 15748,
       "events": [
-        17149
+        17149,
+        17181,
+        17206
       ],
       "emceeEvents": [],
       "name": "Gareth Reynolds ",
@@ -1232,7 +1247,8 @@
     {
       "id": 16808,
       "events": [
-        17170
+        17170,
+        17206
       ],
       "emceeEvents": [],
       "name": "Greg Coleman II",
@@ -1678,7 +1694,8 @@
     {
       "id": 17143,
       "events": [
-        17181
+        17181,
+        17206
       ],
       "emceeEvents": [
         17149
@@ -2009,7 +2026,9 @@
     },
     {
       "id": 16409,
-      "events": [],
+      "events": [
+        17211
+      ],
       "emceeEvents": [],
       "name": "Amanda Arnold",
       "twitter": "Manduh_Arnold",
@@ -2244,7 +2263,8 @@
         17234
       ],
       "emceeEvents": [
-        17153
+        17153,
+        17171
       ],
       "name": "Dax Jordan",
       "twitter": "",

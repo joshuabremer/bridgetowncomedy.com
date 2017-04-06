@@ -324,7 +324,7 @@
     {
       "id": 17171,
       "performers": [],
-      "emcee": 0,
+      "emcee": 17238,
       "venue": 10380,
       "name": "Open Mic",
       "description": "",
@@ -466,17 +466,18 @@
         16051,
         15897,
         16337,
-        16917
+        16917,
+        15748
       ],
       "emcee": 16921,
       "venue": 12478,
       "show": "16471",
-      "name": "Competitive Erotica Fan Fiction with Bryan Cook",
+      "name": "Competitive Erotic Fan Fiction with Bryan Cook",
       "description": "",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17181-competitive-erotica-fan-fiction-with-bryan-cook"
+      "pageUrl": "17181-competitive-erotic-fan-fiction-with-bryan-cook"
     },
     {
       "id": 17182,
@@ -844,7 +845,16 @@
     },
     {
       "id": 17206,
-      "performers": [],
+      "performers": [
+        16474,
+        16808,
+        16828,
+        16405,
+        16603,
+        15748,
+        17143,
+        16190
+      ],
       "emcee": 16177,
       "venue": 10376,
       "name": "Punchline Punchout with Andy Erickson ",
@@ -912,9 +922,15 @@
     {
       "id": 17211,
       "performers": [
+        16409,
+        16685,
+        16865,
+        16603,
+        16525,
+        16647,
         16925
       ],
-      "emcee": 10429,
+      "emcee": 16732,
       "venue": 10374,
       "name": "LAAAAAADIIIIIIIIIIIEESSSSSSSSS",
       "description": "",
