@@ -228,7 +228,8 @@
     {
       "id": 16894,
       "events": [
-        17149
+        17149,
+        17202
       ],
       "emceeEvents": [
         17167
@@ -680,7 +681,6 @@
       "id": 16136,
       "events": [
         17189,
-        17194,
         17249
       ],
       "emceeEvents": [],
@@ -1012,7 +1012,9 @@
     },
     {
       "id": 15722,
-      "events": [],
+      "events": [
+        17194
+      ],
       "emceeEvents": [
         17198
       ],
@@ -1257,9 +1259,7 @@
     },
     {
       "id": 16304,
-      "events": [
-        17194
-      ],
+      "events": [],
       "emceeEvents": [],
       "name": "JR De Guzman",
       "twitter": "jrdeguzm",
@@ -1290,7 +1290,9 @@
     },
     {
       "id": 16261,
-      "events": [],
+      "events": [
+        17202
+      ],
       "emceeEvents": [],
       "name": "T.J. Chambers",
       "twitter": "tjchambersLA",
@@ -1358,6 +1360,7 @@
       "id": 16602,
       "events": [
         17165,
+        17202,
         17217
       ],
       "emceeEvents": [],
@@ -1548,9 +1551,7 @@
     },
     {
       "id": 16502,
-      "events": [
-        17194
-      ],
+      "events": [],
       "emceeEvents": [
         17165
       ],
@@ -1983,7 +1984,8 @@
       "id": 16112,
       "events": [
         17154,
-        17189
+        17189,
+        17202
       ],
       "emceeEvents": [],
       "name": "Wilfred Padua",

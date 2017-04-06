@@ -1,17 +1,21 @@
 {
   "id": 17202,
   "performers": [
+    16602,
+    16112,
+    16261,
+    16894,
     16903,
     16800,
     16919,
     15749
   ],
-  "emcee": 10429,
+  "emcee": 0,
   "venue": 10378,
-  "name": "Bunk Prime Time",
+  "name": "10 Years of Favorites",
   "description": "",
   "startDateTime": "2017-05-07T04:00:00.000Z",
   "endDateTime": "2017-05-07T05:30:00.000Z",
   "price": 0,
-  "pageUrl": "17202-bunk-prime-time"
+  "pageUrl": "17202-10-years-of-favorites"
 }
