@@ -487,8 +487,7 @@
     {
       "id": 16657,
       "events": [
-        17165,
-        17204
+        17165
       ],
       "emceeEvents": [],
       "name": "Brooke Van Poppelen",
@@ -559,7 +558,8 @@
     {
       "id": 16037,
       "events": [
-        17158
+        17158,
+        17204
       ],
       "emceeEvents": [],
       "name": "Lisa Best",
@@ -607,7 +607,9 @@
     },
     {
       "id": 17237,
-      "events": [],
+      "events": [
+        17248
+      ],
       "emceeEvents": [],
       "name": "Dulcé Sloan",
       "twitter": "",
@@ -757,11 +759,12 @@
     {
       "id": 16800,
       "events": [
-        17204,
         17234,
         17248
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17204
+      ],
       "name": "Sean Jordan",
       "twitter": "SeanSJordan",
       "website": "http://seanjordancomedy.com",
@@ -850,7 +853,9 @@
     },
     {
       "id": 16277,
-      "events": [],
+      "events": [
+        17204
+      ],
       "emceeEvents": [],
       "name": "Ismael Loutfi",
       "twitter": "Ismaelian",
@@ -1972,7 +1977,8 @@
       "id": 16484,
       "events": [
         17163,
-        17232
+        17232,
+        17248
       ],
       "emceeEvents": [],
       "name": "Anthony Lopez",

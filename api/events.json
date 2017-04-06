@@ -813,14 +813,14 @@
       "id": 17204,
       "performers": [
         16574,
-        16800,
         17122,
+        16277,
         16201,
+        16037,
         16855,
-        16657,
         16918
       ],
-      "emcee": 10429,
+      "emcee": 16800,
       "venue": 12478,
       "name": "Funny Over Everything Reunion",
       "description": "",
@@ -1102,15 +1102,17 @@
     {
       "id": 17248,
       "performers": [
-        16800
+        16800,
+        17237,
+        16484
       ],
       "emcee": 17122,
       "venue": 10373,
       "show": "17123",
       "name": "All Fantasy Everything",
       "description": "",
-      "startDateTime": "2017-05-06T23:00:00.000Z",
-      "endDateTime": "2017-05-07T00:30:00.000Z",
+      "startDateTime": "2017-05-07T23:00:00.000Z",
+      "endDateTime": "2017-05-08T00:30:00.000Z",
       "price": 0,
       "pageUrl": "17248-all-fantasy-everything"
     },
