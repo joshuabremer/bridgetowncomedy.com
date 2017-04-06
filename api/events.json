@@ -382,12 +382,12 @@
       ],
       "emcee": 10429,
       "venue": 10763,
-      "name": "New Faces",
+      "name": "New Favorites",
       "description": "",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17175-new-faces"
+      "pageUrl": "17175-new-favorites"
     },
     {
       "id": 17176,
@@ -754,12 +754,12 @@
       ],
       "emcee": 10429,
       "venue": 10763,
-      "name": "New Faces",
+      "name": "New Favorites",
       "description": "",
       "startDateTime": "2017-05-07T02:00:00.000Z",
       "endDateTime": "2017-05-07T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17199-new-faces"
+      "pageUrl": "17199-new-favorites"
     },
     {
       "id": 17200,
@@ -845,14 +845,14 @@
     {
       "id": 17206,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16177,
       "venue": 10376,
-      "name": "Siren Early Show",
+      "name": "Punchline Punchout with Andy Erickson ",
       "description": "",
       "startDateTime": "2017-05-07T02:30:00.000Z",
       "endDateTime": "2017-05-07T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17206-siren-early-show"
+      "pageUrl": "17206-punchline-punchout-with-andy-erickson-"
     },
     {
       "id": 17207,
@@ -1113,6 +1113,30 @@
       "endDateTime": "2017-05-07T00:30:00.000Z",
       "price": 0,
       "pageUrl": "17248-all-fantasy-everything"
+    },
+    {
+      "id": 17249,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10376,
+      "name": "Siren Early Show",
+      "description": "",
+      "startDateTime": "2017-05-06T02:30:00.000Z",
+      "endDateTime": "2017-05-06T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17249-siren-early-show"
+    },
+    {
+      "id": 17250,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10376,
+      "name": "Siren Primetime",
+      "description": "",
+      "startDateTime": "2017-05-06T04:30:00.000Z",
+      "endDateTime": "2017-05-06T06:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17250-siren-primetime"
     }
   ]
 }
