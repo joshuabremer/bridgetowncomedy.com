@@ -241,8 +241,9 @@
       "performers": [
         16602,
         16685,
+        16917,
         16657,
-        16917
+        17224
       ],
       "emcee": 16502,
       "venue": 10373,
@@ -683,7 +684,7 @@
     {
       "id": 17195,
       "performers": [],
-      "emcee": 0,
+      "emcee": 17238,
       "venue": 10380,
       "name": "Open Mic",
       "description": "",
