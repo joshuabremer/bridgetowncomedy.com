@@ -1,7 +1,13 @@
 {
   "id": 17187,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16519,
+    15738,
+    16039,
+    16277,
+    16732
+  ],
+  "emcee": 10429,
   "venue": 10677,
   "show": "15926",
   "name": "Late Late Breakfast",

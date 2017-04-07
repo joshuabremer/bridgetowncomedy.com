@@ -1,7 +1,9 @@
 {
   "id": 17179,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    17239
+  ],
+  "emcee": 10429,
   "venue": 10378,
   "name": "Secret Headliner!",
   "description": "",
