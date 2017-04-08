@@ -560,10 +560,9 @@
         16519,
         15738,
         16039,
-        16277,
-        16732
+        16277
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10677,
       "show": "15926",
       "name": "Late Late Breakfast",
@@ -599,7 +598,6 @@
         16905,
         16790,
         16136,
-        15888,
         16916
       ],
       "emcee": 16419,
@@ -634,16 +632,17 @@
       "id": 17191,
       "performers": [
         15923,
+        16768,
         16925
       ],
       "emcee": 16187,
       "venue": 10373,
-      "name": "Some Manner of Ron Lynch Spectacular",
+      "name": "Crapshoot! with Ron Lynch",
       "description": "",
       "startDateTime": "2017-05-07T04:00:00.000Z",
       "endDateTime": "2017-05-07T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17191-some-manner-of-ron-lynch-spectacular"
+      "pageUrl": "17191-crapshoot-with-ron-lynch"
     },
     {
       "id": 17192,
@@ -842,7 +841,6 @@
         16574,
         17122,
         16277,
-        16037,
         16855,
         16918
       ],
@@ -858,7 +856,13 @@
     {
       "id": 17205,
       "performers": [
-        15888
+        16786,
+        16276,
+        16136,
+        16037,
+        15951,
+        15888,
+        16732
       ],
       "emcee": 16051,
       "venue": 12478,
