@@ -210,6 +210,7 @@
       "id": 16828,
       "events": [
         17170,
+        17173,
         17206
       ],
       "emceeEvents": [],
@@ -280,7 +281,7 @@
     {
       "id": 16571,
       "events": [
-        17194,
+        17173,
         17196,
         17250
       ],
@@ -644,8 +645,8 @@
       "events": [
         17158,
         17158,
+        17173,
         17180,
-        17194,
         17205
       ],
       "emceeEvents": [
@@ -998,7 +999,7 @@
     {
       "id": 15722,
       "events": [
-        17194
+        17173
       ],
       "emceeEvents": [
         17198
@@ -1152,7 +1153,7 @@
         17175
       ],
       "emceeEvents": [
-        17194
+        17173
       ],
       "name": "Irene Tu",
       "twitter": "irene_tu",
@@ -1248,7 +1249,9 @@
     },
     {
       "id": 16304,
-      "events": [],
+      "events": [
+        17173
+      ],
       "emceeEvents": [],
       "name": "JR De Guzman",
       "twitter": "jrdeguzm",
@@ -1316,7 +1319,7 @@
       "id": 16884,
       "events": [
         17158,
-        17194
+        17173
       ],
       "emceeEvents": [],
       "name": "Natasha Muse",
@@ -1546,7 +1549,9 @@
     },
     {
       "id": 16502,
-      "events": [],
+      "events": [
+        17173
+      ],
       "emceeEvents": [
         17165
       ],
@@ -1784,7 +1789,7 @@
     {
       "id": 16508,
       "events": [
-        17194
+        17173
       ],
       "emceeEvents": [],
       "name": "Andrew Orolfo",
@@ -1801,10 +1806,11 @@
       "id": 16503,
       "events": [
         17151,
-        17198,
+        17198
+      ],
+      "emceeEvents": [
         17249
       ],
-      "emceeEvents": [],
       "name": "Stephen Agyei",
       "twitter": "Stephenagyei",
       "website": "http://StephenAgyei.com",

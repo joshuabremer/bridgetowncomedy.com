@@ -1,12 +1,21 @@
 {
   "id": 17173,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16508,
+    16571,
+    15722,
+    16732,
+    16828,
+    16502,
+    16304,
+    16884
+  ],
+  "emcee": 16530,
   "venue": 10677,
-  "name": "Analog Theater Prime Time",
+  "name": "That's My Bay",
   "description": "",
   "startDateTime": "2017-05-06T04:00:00.000Z",
   "endDateTime": "2017-05-06T05:30:00.000Z",
   "price": 0,
-  "pageUrl": "17173-analog-theater-prime-time"
+  "pageUrl": "17173-thats-my-bay"
 }
