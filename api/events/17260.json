@@ -1,14 +1,17 @@
 {
   "id": 17260,
   "performers": [
-    16925
+    16925,
+    16930,
+    16828,
+    16786
   ],
   "emcee": 0,
   "venue": 10376,
   "name": "Make America Laugh Again (Political Show)",
   "description": "",
-  "startDateTime": "2016-06-04T02:30:00.000Z",
-  "endDateTime": "2016-06-04T04:00:00.000Z",
+  "startDateTime": "2017-05-06T02:30:00.000Z",
+  "endDateTime": "2017-05-06T04:00:00.000Z",
   "price": 0,
   "pageUrl": "17260-make-america-laugh-again-political-show"
 }

@@ -212,7 +212,8 @@
       "events": [
         17170,
         17173,
-        17206
+        17206,
+        17260
       ],
       "emceeEvents": [],
       "name": "Kevin Avery",
@@ -1034,7 +1035,9 @@
     },
     {
       "id": 16930,
-      "events": [],
+      "events": [
+        17260
+      ],
       "emceeEvents": [],
       "name": "Nate Craig",
       "twitter": "",
@@ -2021,7 +2024,8 @@
       "events": [
         17168,
         17198,
-        17205
+        17205,
+        17260
       ],
       "emceeEvents": [
         17158
