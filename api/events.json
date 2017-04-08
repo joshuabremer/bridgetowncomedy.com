@@ -1059,8 +1059,15 @@
     },
     {
       "id": 17219,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16318,
+        16401,
+        16894,
+        16928,
+        16855,
+        16927
+      ],
+      "emcee": 17238,
       "venue": 10378,
       "name": "Bunk Birthday Bash! ",
       "description": "",

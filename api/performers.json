@@ -56,6 +56,7 @@
       "events": [
         17182,
         17188,
+        17219,
         17231
       ],
       "emceeEvents": [],
@@ -229,7 +230,8 @@
       "id": 16894,
       "events": [
         17149,
-        17202
+        17202,
+        17219
       ],
       "emceeEvents": [
         17167
@@ -489,7 +491,8 @@
     {
       "id": 16401,
       "events": [
-        17181
+        17181,
+        17219
       ],
       "emceeEvents": [],
       "name": "Andres du Bouchet",
@@ -562,7 +565,8 @@
       "events": [
         17148,
         17167,
-        17204
+        17204,
+        17219
       ],
       "emceeEvents": [],
       "name": "Maggie Maye",
@@ -666,7 +670,8 @@
     {
       "id": 16928,
       "events": [
-        17208
+        17208,
+        17219
       ],
       "emceeEvents": [],
       "name": "Matt Kirshen",
@@ -935,7 +940,8 @@
     {
       "id": 16318,
       "events": [
-        17198
+        17198,
+        17219
       ],
       "emceeEvents": [],
       "name": "Mike Lebovitz",
@@ -2317,7 +2323,8 @@
       "emceeEvents": [
         17153,
         17171,
-        17195
+        17195,
+        17219
       ],
       "name": "Dax Jordan",
       "twitter": "",
