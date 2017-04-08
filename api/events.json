@@ -1215,6 +1215,18 @@
       "endDateTime": "2017-05-08T02:30:00.000Z",
       "price": 0,
       "pageUrl": "17254-i-anonymous"
+    },
+    {
+      "id": 17258,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10374,
+      "name": "Industry Panel",
+      "description": "",
+      "startDateTime": "2017-05-06T19:30:00.000Z",
+      "endDateTime": "2017-05-06T20:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17258-industry-panel"
     }
   ]
 }
