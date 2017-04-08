@@ -305,7 +305,6 @@
       "performers": [
         16808,
         16715,
-        16865,
         15930,
         16416,
         16756,
@@ -505,12 +504,12 @@
         17236
       ],
       "emcee": 16919,
-      "venue": 10374,
+      "venue": 10373,
       "show": "17015",
       "name": "The Dork Forest",
       "description": "",
-      "startDateTime": "2017-05-06T20:00:00.000Z",
-      "endDateTime": "2017-05-06T21:30:00.000Z",
+      "startDateTime": "2017-05-06T20:30:00.000Z",
+      "endDateTime": "2017-05-06T22:00:00.000Z",
       "price": 0,
       "pageUrl": "17183-the-dork-forest"
     },
@@ -522,8 +521,8 @@
       "show": "16640",
       "name": "Can I Pet Your Dog? Podcast",
       "description": "",
-      "startDateTime": "2017-05-06T22:30:00.000Z",
-      "endDateTime": "2017-05-07T00:00:00.000Z",
+      "startDateTime": "2017-05-06T21:00:00.000Z",
+      "endDateTime": "2017-05-06T22:30:00.000Z",
       "price": 0,
       "pageUrl": "17184-can-i-pet-your-dog-podcast"
     },
@@ -534,8 +533,8 @@
       "venue": 10373,
       "name": "Hidden America with Jonah Ray",
       "description": "",
-      "startDateTime": "2017-05-06T20:30:00.000Z",
-      "endDateTime": "2017-05-06T22:00:00.000Z",
+      "startDateTime": "2017-05-06T23:00:00.000Z",
+      "endDateTime": "2017-05-07T00:30:00.000Z",
       "price": 0,
       "pageUrl": "17185-hidden-america-with-jonah-ray"
     },
@@ -546,12 +545,12 @@
         16915
       ],
       "emcee": 0,
-      "venue": 10373,
+      "venue": 10374,
       "show": "16945",
       "name": "The Jackie and Laurie Show",
       "description": "",
-      "startDateTime": "2017-05-06T23:00:00.000Z",
-      "endDateTime": "2017-05-07T00:30:00.000Z",
+      "startDateTime": "2017-05-06T23:30:00.000Z",
+      "endDateTime": "2017-05-07T01:00:00.000Z",
       "price": 0,
       "pageUrl": "17186-the-jackie-and-laurie-show"
     },
@@ -616,7 +615,6 @@
     {
       "id": 17190,
       "performers": [
-        16865,
         15887,
         16591,
         15749,
@@ -953,7 +951,6 @@
       "performers": [
         16409,
         16685,
-        16865,
         16603,
         16525,
         16647,
