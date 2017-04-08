@@ -423,18 +423,6 @@
       "pageUrl": "17177-analog-downstairs-late-night"
     },
     {
-      "id": 17178,
-      "performers": [],
-      "emcee": 0,
-      "venue": 10378,
-      "name": "Bunk Prime Time",
-      "description": "",
-      "startDateTime": "2017-05-06T04:00:00.000Z",
-      "endDateTime": "2017-05-06T05:30:00.000Z",
-      "price": 0,
-      "pageUrl": "17178-bunk-prime-time"
-    },
-    {
       "id": 17179,
       "performers": [
         17239
@@ -923,8 +911,8 @@
       "venue": 10373,
       "name": "Probably Science",
       "description": "",
-      "startDateTime": "2017-05-07T20:00:00.000Z",
-      "endDateTime": "2017-05-07T21:30:00.000Z",
+      "startDateTime": "2017-05-07T22:30:00.000Z",
+      "endDateTime": "2017-05-08T00:00:00.000Z",
       "price": 0,
       "pageUrl": "17208-probably-science"
     },
@@ -1168,8 +1156,8 @@
       "show": "17123",
       "name": "All Fantasy Everything",
       "description": "",
-      "startDateTime": "2017-05-07T22:00:00.000Z",
-      "endDateTime": "2017-05-07T23:30:00.000Z",
+      "startDateTime": "2017-05-07T20:00:00.000Z",
+      "endDateTime": "2017-05-07T21:30:00.000Z",
       "price": 0,
       "pageUrl": "17248-all-fantasy-everything"
     },
@@ -1187,8 +1175,8 @@
       "venue": 10376,
       "name": "Immigration Nation",
       "description": "",
-      "startDateTime": "2017-05-06T02:30:00.000Z",
-      "endDateTime": "2017-05-06T04:00:00.000Z",
+      "startDateTime": "2017-05-06T04:30:00.000Z",
+      "endDateTime": "2017-05-06T06:00:00.000Z",
       "price": 0,
       "pageUrl": "17249-immigration-nation"
     },
@@ -1203,11 +1191,11 @@
         16918
       ],
       "emcee": 16926,
-      "venue": 10376,
+      "venue": 10378,
       "name": "2008: Birth of Elation",
       "description": "",
-      "startDateTime": "2017-05-06T04:30:00.000Z",
-      "endDateTime": "2017-05-06T06:00:00.000Z",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17250-2008-birth-of-elation"
     },
@@ -1246,6 +1234,20 @@
       "endDateTime": "2017-05-08T01:30:00.000Z",
       "price": 0,
       "pageUrl": "17259-unspecified-panel"
+    },
+    {
+      "id": 17260,
+      "performers": [
+        16925
+      ],
+      "emcee": 0,
+      "venue": 10376,
+      "name": "Make America Laugh Again (Political Show)",
+      "description": "",
+      "startDateTime": "2016-06-04T02:30:00.000Z",
+      "endDateTime": "2016-06-04T04:00:00.000Z",
+      "price": 0,
+      "pageUrl": "17260-make-america-laugh-again-political-show"
     }
   ]
 }
