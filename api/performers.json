@@ -972,6 +972,7 @@
     {
       "id": 15799,
       "events": [
+        17192,
         17199
       ],
       "emceeEvents": [],
@@ -1398,6 +1399,7 @@
     {
       "id": 16107,
       "events": [
+        17192,
         17232,
         17249
       ],
@@ -1585,7 +1587,8 @@
       "id": 16790,
       "events": [
         17175,
-        17189
+        17189,
+        17260
       ],
       "emceeEvents": [],
       "name": "Arish Singh",
@@ -1668,7 +1671,9 @@
         17151,
         17175
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17260
+      ],
       "name": "David Perdue",
       "twitter": "dueordie",
       "website": "",
