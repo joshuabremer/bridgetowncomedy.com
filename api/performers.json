@@ -581,7 +581,6 @@
     {
       "id": 16037,
       "events": [
-        17158,
         17205
       ],
       "emceeEvents": [],
@@ -1111,10 +1110,10 @@
     },
     {
       "id": 16360,
-      "events": [
+      "events": [],
+      "emceeEvents": [
         17158
       ],
-      "emceeEvents": [],
       "name": "Kristin Key",
       "twitter": "thekristinkey",
       "website": "http://www.kristinkey.com/",
@@ -1694,7 +1693,9 @@
     },
     {
       "id": 16922,
-      "events": [],
+      "events": [
+        17158
+      ],
       "emceeEvents": [
         17168
       ],
@@ -2058,13 +2059,13 @@
     {
       "id": 16786,
       "events": [
+        17158,
         17168,
         17198,
         17205,
         17260
       ],
       "emceeEvents": [
-        17158,
         17254
       ],
       "name": "Caitlin Weierhauser",
