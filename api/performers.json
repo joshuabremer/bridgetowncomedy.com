@@ -19,6 +19,7 @@
       "events": [
         17148,
         17182,
+        17192,
         17260
       ],
       "emceeEvents": [],
@@ -192,8 +193,7 @@
       "id": 16647,
       "events": [
         17167,
-        17189,
-        17211
+        17189
       ],
       "emceeEvents": [],
       "name": "Marcella Arguello",
@@ -353,7 +353,7 @@
       "id": 16685,
       "events": [
         17165,
-        17211
+        17192
       ],
       "emceeEvents": [],
       "name": "Annie Lederman",
@@ -386,8 +386,8 @@
       "id": 16525,
       "events": [
         17151,
-        17197,
-        17211
+        17192,
+        17197
       ],
       "emceeEvents": [],
       "name": "Candice Thompson",
@@ -473,8 +473,8 @@
       "id": 16603,
       "events": [
         17154,
-        17206,
-        17211
+        17192,
+        17206
       ],
       "emceeEvents": [],
       "name": "Debra DiGiovanni",
@@ -630,6 +630,7 @@
     {
       "id": 17237,
       "events": [
+        17192,
         17248
       ],
       "emceeEvents": [],
@@ -1648,7 +1649,9 @@
       "events": [
         17154
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17192
+      ],
       "name": "Barbara Gray",
       "twitter": "BabsGray",
       "website": "http://myjokesareuphere.com",
@@ -1713,7 +1716,8 @@
       "id": 15858,
       "events": [
         17151,
-        17180
+        17180,
+        17260
       ],
       "emceeEvents": [],
       "name": "Brodie Reed",
@@ -2042,7 +2046,6 @@
       ],
       "emceeEvents": [
         17158,
-        17211,
         17254
       ],
       "name": "Caitlin Weierhauser",
@@ -2092,7 +2095,7 @@
     {
       "id": 16409,
       "events": [
-        17211
+        17192
       ],
       "emceeEvents": [],
       "name": "Amanda Arnold",

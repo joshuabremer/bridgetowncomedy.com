@@ -1,12 +1,19 @@
 {
   "id": 17192,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16409,
+    16685,
+    16525,
+    16603,
+    16925,
+    17237
+  ],
+  "emcee": 16912,
   "venue": 10373,
-  "name": "Doug Fir Late Night",
+  "name": "Ladies of Laughter",
   "description": "",
-  "startDateTime": "2017-05-07T06:00:00.000Z",
-  "endDateTime": "2017-05-07T06:59:00.000Z",
+  "startDateTime": "2017-05-07T04:00:00.000Z",
+  "endDateTime": "2017-05-07T05:30:00.000Z",
   "price": 0,
-  "pageUrl": "17192-doug-fir-late-night"
+  "pageUrl": "17192-ladies-of-laughter"
 }
