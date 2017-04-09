@@ -19,7 +19,6 @@
       "events": [
         17148,
         17182,
-        17191,
         17260
       ],
       "emceeEvents": [],
@@ -793,7 +792,9 @@
         17189,
         17254
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17164
+      ],
       "name": "Bri Pruett",
       "twitter": "bripruett",
       "website": "http://bripruett.com",
@@ -806,7 +807,9 @@
     },
     {
       "id": 16869,
-      "events": [],
+      "events": [
+        17164
+      ],
       "emceeEvents": [
         17163
       ],
@@ -1412,6 +1415,7 @@
       "id": 16212,
       "events": [
         17148,
+        17164,
         17250
       ],
       "emceeEvents": [],
@@ -1785,7 +1789,9 @@
     },
     {
       "id": 16042,
-      "events": [],
+      "events": [
+        17164
+      ],
       "emceeEvents": [],
       "name": "Zak Toscani",
       "twitter": "zaktoscani",

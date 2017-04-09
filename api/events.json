@@ -227,19 +227,22 @@
       "id": 17164,
       "performers": [
         15923,
+        16784,
+        16042,
+        16869,
         15722,
         16800,
-        16784,
+        16212,
         17122
       ],
-      "emcee": 10429,
+      "emcee": 16521,
       "venue": 10374,
-      "name": "Bossanova Early Show",
+      "name": "Ex Ports",
       "description": "",
       "startDateTime": "2017-05-06T03:00:00.000Z",
       "endDateTime": "2017-05-06T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17164-bossanova-early-show"
+      "pageUrl": "17164-ex-ports"
     },
     {
       "id": 17165,
@@ -633,8 +636,7 @@
       "id": 17191,
       "performers": [
         15923,
-        16768,
-        16925
+        16768
       ],
       "emcee": 16187,
       "venue": 10373,
@@ -676,8 +678,8 @@
       "venue": 10376,
       "name": "Siren Primetime",
       "description": "",
-      "startDateTime": "2017-05-07T04:30:00.000Z",
-      "endDateTime": "2017-05-07T06:00:00.000Z",
+      "startDateTime": "2017-05-06T02:30:00.000Z",
+      "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 0,
       "pageUrl": "17194-siren-primetime"
     },
@@ -886,8 +888,8 @@
       "venue": 10376,
       "name": "Punchline Punchout with Andy Erickson ",
       "description": "",
-      "startDateTime": "2017-05-07T02:30:00.000Z",
-      "endDateTime": "2017-05-07T04:00:00.000Z",
+      "startDateTime": "2017-05-07T04:30:00.000Z",
+      "endDateTime": "2017-05-07T06:00:00.000Z",
       "price": 0,
       "pageUrl": "17206-punchline-punchout-with-andy-erickson-"
     },
@@ -1256,12 +1258,12 @@
         16828,
         16786
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10376,
       "name": "Make America Laugh Again (Political Show)",
       "description": "",
-      "startDateTime": "2017-05-06T02:30:00.000Z",
-      "endDateTime": "2017-05-06T04:00:00.000Z",
+      "startDateTime": "2017-05-07T02:30:00.000Z",
+      "endDateTime": "2017-05-07T04:00:00.000Z",
       "price": 0,
       "pageUrl": "17260-make-america-laugh-again-political-show"
     }
