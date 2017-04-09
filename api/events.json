@@ -123,7 +123,7 @@
     {
       "id": 17155,
       "performers": [],
-      "emcee": 16521,
+      "emcee": 10429,
       "venue": 10677,
       "name": "Analog Prime Time",
       "description": "",
@@ -208,6 +208,7 @@
       "id": 17163,
       "performers": [
         16484,
+        16199,
         16405,
         15738,
         16903,
@@ -1207,7 +1208,9 @@
     },
     {
       "id": 17254,
-      "performers": [],
+      "performers": [
+        16521
+      ],
       "emcee": 16732,
       "venue": 10374,
       "name": "I, Anonymous",

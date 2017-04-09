@@ -793,11 +793,10 @@
     {
       "id": 16521,
       "events": [
-        17189
+        17189,
+        17254
       ],
-      "emceeEvents": [
-        17155
-      ],
+      "emceeEvents": [],
       "name": "Bri Pruett",
       "twitter": "bripruett",
       "website": "http://bripruett.com",
@@ -1493,7 +1492,9 @@
     },
     {
       "id": 16199,
-      "events": [],
+      "events": [
+        17163
+      ],
       "emceeEvents": [],
       "name": "Mekki Leeper",
       "twitter": "MekkiLeeper",
