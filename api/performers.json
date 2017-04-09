@@ -36,7 +36,7 @@
     {
       "id": 17008,
       "events": [
-        17150
+        17160
       ],
       "emceeEvents": [
         17190
@@ -72,7 +72,7 @@
     {
       "id": 16919,
       "events": [
-        17160,
+        17150,
         17186,
         17202
       ],
@@ -209,6 +209,7 @@
     {
       "id": 16828,
       "events": [
+        17150,
         17170,
         17173,
         17206,
@@ -857,6 +858,7 @@
     {
       "id": 15786,
       "events": [
+        17150,
         17250
       ],
       "emceeEvents": [],
@@ -906,7 +908,9 @@
     },
     {
       "id": 16325,
-      "events": [],
+      "events": [
+        17150
+      ],
       "emceeEvents": [],
       "name": "Caleb Synan",
       "twitter": "",
@@ -1605,7 +1609,9 @@
     },
     {
       "id": 16103,
-      "events": [],
+      "events": [
+        17150
+      ],
       "emceeEvents": [],
       "name": "John Novosad",
       "twitter": "HippiemansPlan",
@@ -1740,7 +1746,9 @@
     },
     {
       "id": 16265,
-      "events": [],
+      "events": [
+        17150
+      ],
       "emceeEvents": [],
       "name": "Bret Raybould",
       "twitter": "BretRaybould",
@@ -1787,7 +1795,9 @@
     },
     {
       "id": 15767,
-      "events": [],
+      "events": [
+        17150
+      ],
       "emceeEvents": [],
       "name": "Casey Crawford",
       "twitter": "caseycrawford78",
@@ -2032,6 +2042,7 @@
       "id": 16658,
       "events": [],
       "emceeEvents": [
+        17150,
         17217
       ],
       "name": "JoAnn Schinderle ",

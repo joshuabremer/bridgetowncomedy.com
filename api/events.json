@@ -42,16 +42,22 @@
     {
       "id": 17150,
       "performers": [
-        17008
+        16265,
+        15767,
+        15786,
+        16325,
+        16103,
+        16828,
+        16919
       ],
-      "emcee": 10429,
+      "emcee": 16658,
       "venue": 10373,
-      "name": "Doug Fir Early Show",
+      "name": "Doug Fir Opening Show",
       "description": "",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17150-doug-fir-early-show"
+      "pageUrl": "17150-doug-fir-opening-show"
     },
     {
       "id": 17151,
@@ -193,9 +199,9 @@
     {
       "id": 17160,
       "performers": [
-        16919
+        17008
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 12478,
       "name": "Paris Theater Early Show",
       "description": "",
