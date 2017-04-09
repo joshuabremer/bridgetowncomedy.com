@@ -1,7 +1,11 @@
 {
   "id": 17210,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16021,
+    15905,
+    15951
+  ],
+  "emcee": 10429,
   "venue": 10677,
   "name": "Sunday Brunch Show",
   "description": "",
