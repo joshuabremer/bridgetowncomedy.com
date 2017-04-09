@@ -950,7 +950,7 @@
         16525,
         16647
       ],
-      "emcee": 16732,
+      "emcee": 16786,
       "venue": 10374,
       "name": "LAAAAAADIIIIIIIIIIIEESSSSSSSSS",
       "description": "",
@@ -1208,7 +1208,7 @@
     {
       "id": 17254,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16732,
       "venue": 10374,
       "name": "I, Anonymous",
       "description": "",
@@ -1246,10 +1246,11 @@
       "performers": [
         16925,
         16930,
+        16784,
         16828,
         16786
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10376,
       "name": "Make America Laugh Again (Political Show)",
       "description": "",
