@@ -1,7 +1,13 @@
 {
   "id": 17164,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    15923,
+    15722,
+    16800,
+    16784,
+    17122
+  ],
+  "emcee": 10429,
   "venue": 10374,
   "name": "Bossanova Early Show",
   "description": "",

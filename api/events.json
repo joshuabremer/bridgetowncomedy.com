@@ -225,8 +225,14 @@
     },
     {
       "id": 17164,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        15923,
+        15722,
+        16800,
+        16784,
+        17122
+      ],
+      "emcee": 10429,
       "venue": 10374,
       "name": "Bossanova Early Show",
       "description": "",
@@ -267,8 +273,8 @@
       "show": "16929",
       "name": "Turnt Up with Eliza Skinner",
       "description": "",
-      "startDateTime": "2017-05-06T04:00:00.000Z",
-      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "startDateTime": "2017-05-07T04:00:00.000Z",
+      "endDateTime": "2017-05-07T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17167-turnt-up-with-eliza-skinner"
     },
@@ -634,8 +640,8 @@
       "venue": 10373,
       "name": "Crapshoot! with Ron Lynch",
       "description": "",
-      "startDateTime": "2017-05-07T04:00:00.000Z",
-      "endDateTime": "2017-05-07T05:30:00.000Z",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17191-crapshoot-with-ron-lynch"
     },
@@ -1080,7 +1086,6 @@
       "performers": [
         17122,
         16920,
-        16927,
         16918
       ],
       "emcee": 10429,
