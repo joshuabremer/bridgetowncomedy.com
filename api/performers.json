@@ -1,18 +1,18 @@
 {
   "performers": [
     {
-      "id": 16818,
+      "id": 15957,
       "events": [],
       "emceeEvents": [],
-      "name": "Forrest Shaw",
-      "twitter": "forrestshaw",
-      "website": "http://forrestshaw.net",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/forrestshaw_beard_small.jpg",
-      "photoUrl": "/api/img/performer-images/performer-forrestshaw-300x300.jpg",
-      "sortOrder": 70,
+      "name": "Raj Desai",
+      "twitter": "_rajdesai",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/raj_desai_photo_.png",
+      "photoUrl": "/api/img/performer-images/performer-rajdesai-300x300.jpg",
+      "sortOrder": 71,
       "excludeFromList": false,
-      "bio": "<p>Forrest Shaw made his television debut on Conan and appeared on Gotham Comedy LIVE on AXS TV in early 2015. He has performed in numerous festivals such as, Comedy Central’s South Beach Comedy Festival, Boston Comedy Festival, Big Sky Comedy Festival, New York Underground Comedy Festival, World Series of Comedy, &amp; the Comedy Central Open Mic Fight, and he was awarded 2013’s Ultimate Miami Comedian. Forrest is featured in season two of the FXX show Legit and has also appeared on Animal Planet.  Forrest is a co-writer (and lead actor) of the award winning web series (live action and animated) Labor Days (labordays.tv). He is co-creator of the weekly What’s What Podcast (whatswhatpod.com). He can also be heard on Sirius/XM Satellite radio, Pandora, and Spotify. His debut album ‘Mister Grizzly’ was released on November 18, 2014 on Comedy Records.</p>\n",
-      "pageUrl": "16818-forrest-shaw"
+      "bio": "<p>Raj Desai is a writer and stand-up comedian residing in Los Angeles.  He recently wrote for Triumph the Insult Comic Dog&#039;s Hulu specials, for which he was nominated for a 2016 Primetime Emmy Award and a 2017 Writers Guild Award.  He also worked as a writer/blogger on Comedy Central&#039;s &quot;The Jeselnik Offensive&quot; and has had humor pieces published by &quot;The New Yorker&quot; and &quot;McSweeney&#039;s.&quot;</p>\n<p>He has performed stand-up on the &quot;Late Late Show with Craig Ferguson,&quot; &quot;Last Comic Standing,&quot; and Comedy Central’s &quot;Live at Gotham.&quot;   He continues to perform standup around L.A. at The Comedy Store, The Improv, Nerdmelt, UCB and other venues in and outside L.A.</p>\n<p>He has also acted in ABC&#039;s &quot;Fresh Off the Boat&quot; and Comedy Central&#039;s &quot;Hampton Deville,&quot; in addition to playing Reba on the hit sitcom &quot;Reba.&quot;</p>\n",
+      "pageUrl": "15957-raj-desai"
     },
     {
       "id": 16925,
@@ -1215,6 +1215,20 @@
       "pageUrl": "16926-andy-wood"
     },
     {
+      "id": 16818,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Forrest Shaw",
+      "twitter": "forrestshaw",
+      "website": "http://forrestshaw.net",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/forrestshaw_beard_small.jpg",
+      "photoUrl": "/api/img/performer-images/performer-forrestshaw-300x300.jpg",
+      "sortOrder": 70,
+      "excludeFromList": false,
+      "bio": "<p>Forrest Shaw made his television debut on Conan and appeared on Gotham Comedy LIVE on AXS TV in early 2015. He has performed in numerous festivals such as, Comedy Central’s South Beach Comedy Festival, Boston Comedy Festival, Big Sky Comedy Festival, New York Underground Comedy Festival, World Series of Comedy, &amp; the Comedy Central Open Mic Fight, and he was awarded 2013’s Ultimate Miami Comedian. Forrest is featured in season two of the FXX show Legit and has also appeared on Animal Planet.  Forrest is a co-writer (and lead actor) of the award winning web series (live action and animated) Labor Days (labordays.tv). He is co-creator of the weekly What’s What Podcast (whatswhatpod.com). He can also be heard on Sirius/XM Satellite radio, Pandora, and Spotify. His debut album ‘Mister Grizzly’ was released on November 18, 2014 on Comedy Records.</p>\n",
+      "pageUrl": "16818-forrest-shaw"
+    },
+    {
       "id": 17009,
       "events": [],
       "emceeEvents": [
@@ -1229,20 +1243,6 @@
       "excludeFromList": false,
       "bio": "<p>Brooklyn resident Eugene Mirman escaped the clutches of Russian communism at the age of four when his family immigrated from Moscow to Lexington, MA (where along with Paul Revere and John Adams he kicked off the American revolution). He attended Hampshire College and designed his own major of Comedy – doing a one-hour standup act as his thesis (for which he was made fun of, don’t worry).</p>\n<p>Eugene currently stars as the voice of “Gene” on Fox’s hit animated series Bob’s Burgers. He is also known for portraying comedian/mobster Yvgeny Mirminsky on Adult Swim’s Delocated, Eugene the landlord on Flight of the Conchords, Dr. Eugene Mirman on Aqua Teen Hunger Force and Eugene, the Russian foreign exchange student, on Home Movies. He is a frequent co-host of Star Talk with Neil deGrasse Tyson and hosts the audio series Hold On with Eugene Mirman for Audible, which has featured such guests as Jim Gaffigan, “Weird Al” Yankovic, and Reggie Watts. Eugene has also appeared on Archer, @Midnight, Inside Amy Schumer, Late Night With Conan O’Brien, Russell Howard’s Good News, Late Night with Seth Myers, Broad City, Last Week Tonight with John Oliver and more.</p>\n<p>Eugene’s comedy special Eugene Mirman: An Evening of Comedy in a Fake Underground Laboratory aired on Comedy Central in 2012 and his most recent special, Vegan on His Way to the Complain Store, premiered on Netflix in 2015. In 2015 he also released a nine-disc vinyl box set on SubPop entitled I’m Sorry (You’re Welcome), which could also be purchased as a chair, a bathrobe, and a puppy.</p>\n<p>Eugene was named Best New York City Comedian by the Village Voice, one of “50 Funniest” by Time Out New York, and one of the 10 best comedians of the last decade by Paste Magazine. Eugene was also named by Rolling Stone as “Hot Twitterer” and keeps his 400k+ followers entertained daily.</p>\n<p>A pioneer of the comedy variety show since the days of Rififi, Eugene co-founded Pretty Good Friends along with Julie Smith Clem, which began as a weekly comedy show in Brooklyn, but grew into tours, large outdoor shows, and TV and radio projects. Out of these shows, Eugene and Julie also created (originally as a joke) the Eugene Mirman Comedy Festival, which is now a yearly institution in Brooklyn and beyond.</p>\n",
       "pageUrl": "17009-eugene-mirman"
-    },
-    {
-      "id": 15957,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Raj Desai",
-      "twitter": "_rajdesai",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/raj_desai_photo_.png",
-      "photoUrl": "/api/img/performer-images/performer-rajdesai-300x300.jpg",
-      "sortOrder": 71,
-      "excludeFromList": false,
-      "bio": "<p>Raj Desai is a writer and stand-up comedian residing in Los Angeles.  He recently wrote for Triumph the Insult Comic Dog&#039;s Hulu specials, for which he was nominated for a 2016 Primetime Emmy Award and a 2017 Writers Guild Award.  He also worked as a writer/blogger on Comedy Central&#039;s &quot;The Jeselnik Offensive&quot; and has had humor pieces published by &quot;The New Yorker&quot; and &quot;McSweeney&#039;s.&quot;</p>\n<p>He has performed stand-up on the &quot;Late Late Show with Craig Ferguson,&quot; &quot;Last Comic Standing,&quot; and Comedy Central’s &quot;Live at Gotham.&quot;   He continues to perform standup around L.A. at The Comedy Store, The Improv, Nerdmelt, UCB and other venues in and outside L.A.</p>\n<p>He has also acted in ABC&#039;s &quot;Fresh Off the Boat&quot; and Comedy Central&#039;s &quot;Hampton Deville,&quot; in addition to playing Reba on the hit sitcom &quot;Reba.&quot;</p>\n",
-      "pageUrl": "15957-raj-desai"
     },
     {
       "id": 15748,
@@ -2369,6 +2369,38 @@
       "excludeFromList": true,
       "bio": "<p>Dax! He's great!</p>\n",
       "pageUrl": "17238-dax-jordan"
+    },
+    {
+      "id": 16537,
+      "events": [
+        17187
+      ],
+      "emceeEvents": [],
+      "name": "Danny Maupin",
+      "twitter": "dannymaupin",
+      "website": "http://www.dannymaupin.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/dannymindy.jpg",
+      "photoUrl": "/api/img/performer-images/performer-dannymaupin-300x300.jpg",
+      "sortOrder": 139,
+      "excludeFromList": true,
+      "bio": "<p>Danny Maupin is a dynamic comedian known for using not just his voice, but his whole body to deliver energetic performances that blend unapologetic self-awareness with sharp-witted storytelling. His unique and spontaneous standup has been featured at Comedy Central’s New York Comedy Festival, Chicago Comedy Exposition, Hell Yes Fest, Orlando Indie Comedy Fest, Crom Comedy Festival and many more. </p>\n<p>Danny is based out of Chicago and when he isn’t traveling the country performing standup comedy, he stays busy as co-creator and co-host of Late Late Breakfast which tours extensively as well as maintains monthly shows at The Hideout in Chicago and the legendary The Creek and The Cave in NYC. Late Late Breakfast has been described as “a raucous afternoon of high-energy mischief” by the Chicago Tribune, “a standup comedy show like no other” by The Daily Dot and was recently featured as a top concept comedy show by The Interrobang. He is also a co-producer of Character Assassination at The Laugh Factory in Chicago.</p>\n",
+      "pageUrl": "16537-danny-maupin"
+    },
+    {
+      "id": 15947,
+      "events": [
+        17187
+      ],
+      "emceeEvents": [],
+      "name": "Tyler Jackson",
+      "twitter": "tjaxkson",
+      "website": "Http://www.latelatebreakfast.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_0029.jpg",
+      "photoUrl": "/api/img/performer-images/performer-tylerjackson-300x300.jpg",
+      "sortOrder": 140,
+      "excludeFromList": true,
+      "bio": "<p>Tyler Jackson is a standup from Chicago who writes short, absurd jokes and relishes wordplay, non-sequiturs, and embarrassing personal details. He is co-creator of the bizarre monthly comedy happening, the Late Late Breakfast. The Pelican Brief is his third novel.</p>\n",
+      "pageUrl": "15947-tyler-jackson"
     }
   ]
 }
