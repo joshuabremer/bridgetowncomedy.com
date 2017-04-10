@@ -5,9 +5,7 @@
       "performers": [
         15930,
         16346,
-        16212,
         15888,
-        16855,
         16895,
         16925
       ],
@@ -42,18 +40,23 @@
     {
       "id": 17150,
       "performers": [
+        16921,
+        16912,
+        16337,
         15786,
+        16474,
+        16855,
         16571,
         16919
       ],
-      "emcee": 10429,
+      "emcee": 16212,
       "venue": 10373,
-      "name": "Bridgetown: The Early Years",
-      "description": "",
+      "name": "Bridgetown: The Early Years (2008-2012)",
+      "description": "<p>Comics from the first five years of the Bridgetown Festival, including: Nathan Brannon, Michelle Biloon and festival founder, Andy Wood (2008), Jackie Kashian (2009), Andrew Sleighter (2010), Bryan Cook and Barbara Gray (2011) Maggie Maye and Troy Walker (2012).</p>\n",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17150-bridgetown-the-early-years"
+      "pageUrl": "17150-bridgetown-the-early-years-2008-2012"
     },
     {
       "id": 17151,
@@ -106,7 +109,6 @@
       "performers": [
         16821,
         16112,
-        16912,
         16396,
         16177,
         16187,

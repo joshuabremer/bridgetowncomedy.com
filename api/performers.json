@@ -567,7 +567,7 @@
     {
       "id": 16855,
       "events": [
-        17148,
+        17150,
         17167,
         17204,
         17219
@@ -756,7 +756,8 @@
     {
       "id": 16921,
       "events": [
-        17149
+        17149,
+        17150
       ],
       "emceeEvents": [
         17181
@@ -898,6 +899,7 @@
     {
       "id": 16474,
       "events": [
+        17150,
         17206
       ],
       "emceeEvents": [],
@@ -963,6 +965,7 @@
     {
       "id": 16337,
       "events": [
+        17150,
         17181
       ],
       "emceeEvents": [],
@@ -1425,11 +1428,12 @@
     {
       "id": 16212,
       "events": [
-        17148,
         17164,
         17250
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17150
+      ],
       "name": "Nathan Brannon",
       "twitter": "nathanbrannon",
       "website": "http://www.nathanbrannon.com",
@@ -1660,7 +1664,7 @@
     {
       "id": 16912,
       "events": [
-        17154
+        17150
       ],
       "emceeEvents": [
         17192
