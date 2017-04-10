@@ -42,22 +42,18 @@
     {
       "id": 17150,
       "performers": [
-        16265,
-        15767,
         15786,
-        16325,
-        16103,
-        16828,
+        16571,
         16919
       ],
-      "emcee": 16658,
+      "emcee": 10429,
       "venue": 10373,
-      "name": "Doug Fir Opening Show",
+      "name": "Bridgetown: The Early Years",
       "description": "",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17150-doug-fir-opening-show"
+      "pageUrl": "17150-bridgetown-the-early-years"
     },
     {
       "id": 17151,
@@ -1017,12 +1013,12 @@
       "performers": [],
       "emcee": 16917,
       "venue": 10373,
-      "name": "Dave Hill Show? ",
+      "name": "Bridgetown: The Later Years",
       "description": "",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17214-dave-hill-show-"
+      "pageUrl": "17214-bridgetown-the-later-years"
     },
     {
       "id": 17215,
