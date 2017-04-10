@@ -54,8 +54,7 @@
       "events": [
         17182,
         17188,
-        17202,
-        17219
+        17202
       ],
       "emceeEvents": [],
       "name": "Karen Kilgariff",
@@ -191,7 +190,8 @@
       "id": 16647,
       "events": [
         17167,
-        17189
+        17189,
+        17197
       ],
       "emceeEvents": [],
       "name": "Marcella Arguello",
@@ -227,8 +227,7 @@
       "id": 16894,
       "events": [
         17149,
-        17202,
-        17219
+        17202
       ],
       "emceeEvents": [
         17167
@@ -495,8 +494,7 @@
       "id": 16401,
       "events": [
         17181,
-        17202,
-        17219
+        17202
       ],
       "emceeEvents": [],
       "name": "Andres du Bouchet",
@@ -568,8 +566,7 @@
       "events": [
         17150,
         17167,
-        17202,
-        17219
+        17202
       ],
       "emceeEvents": [],
       "name": "Maggie Maye",
@@ -672,8 +669,7 @@
       "id": 16928,
       "events": [
         17202,
-        17208,
-        17219
+        17208
       ],
       "emceeEvents": [],
       "name": "Matt Kirshen",
@@ -690,7 +686,8 @@
       "id": 16136,
       "events": [
         17189,
-        17205
+        17205,
+        17260
       ],
       "emceeEvents": [],
       "name": "Janine Brito",
@@ -949,9 +946,7 @@
     },
     {
       "id": 16318,
-      "events": [
-        17219
-      ],
+      "events": [],
       "emceeEvents": [
         17202
       ],
@@ -1381,6 +1376,7 @@
       "id": 16602,
       "events": [
         17165,
+        17190,
         17217
       ],
       "emceeEvents": [],
@@ -2069,8 +2065,7 @@
         17158,
         17168,
         17198,
-        17205,
-        17260
+        17205
       ],
       "emceeEvents": [
         17254
@@ -2137,7 +2132,9 @@
     },
     {
       "id": 16150,
-      "events": [],
+      "events": [
+        17189
+      ],
       "emceeEvents": [],
       "name": "Milan Patel",
       "twitter": "Milan_Patel",
@@ -2368,8 +2365,7 @@
       "emceeEvents": [
         17153,
         17171,
-        17195,
-        17219
+        17195
       ],
       "name": "Dax Jordan",
       "twitter": "",

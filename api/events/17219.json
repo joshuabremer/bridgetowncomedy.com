@@ -1,19 +1,12 @@
 {
   "id": 17219,
-  "performers": [
-    16318,
-    16401,
-    16894,
-    16928,
-    16855,
-    16927
-  ],
-  "emcee": 17238,
+  "performers": [],
+  "emcee": 0,
   "venue": 10378,
-  "name": "Bunk Birthday Bash! ",
+  "name": "Bunk Closing Show",
   "description": "",
   "startDateTime": "2017-05-08T04:00:00.000Z",
   "endDateTime": "2017-05-08T05:30:00.000Z",
   "price": 0,
-  "pageUrl": "17219-bunk-birthday-bash-"
+  "pageUrl": "17219-bunk-closing-show"
 }

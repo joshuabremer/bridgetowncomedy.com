@@ -406,7 +406,7 @@
         16801,
         16790
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10763,
       "name": "New Favorites",
       "description": "",
@@ -609,11 +609,12 @@
     {
       "id": 17189,
       "performers": [
-        16112,
-        16521,
-        16647,
         16905,
+        16112,
+        16647,
         16790,
+        16150,
+        16521,
         16136,
         16916
       ],
@@ -633,7 +634,8 @@
         15887,
         16591,
         15749,
-        16915
+        16915,
+        16602
       ],
       "emcee": 17008,
       "venue": 10373,
@@ -740,8 +742,9 @@
       "id": 17197,
       "performers": [
         16879,
-        16784,
         16039,
+        16784,
+        16647,
         15749,
         16525
       ],
@@ -961,7 +964,7 @@
         15905,
         15951
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10677,
       "name": "Sunday Brunch Show",
       "description": "",
@@ -1091,22 +1094,15 @@
     },
     {
       "id": 17219,
-      "performers": [
-        16318,
-        16401,
-        16894,
-        16928,
-        16855,
-        16927
-      ],
-      "emcee": 17238,
+      "performers": [],
+      "emcee": 0,
       "venue": 10378,
-      "name": "Bunk Birthday Bash! ",
+      "name": "Bunk Closing Show",
       "description": "",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17219-bunk-birthday-bash-"
+      "pageUrl": "17219-bunk-closing-show"
     },
     {
       "id": 17231,
@@ -1278,7 +1274,7 @@
       "id": 17260,
       "performers": [
         15858,
-        16786,
+        16136,
         16930,
         16790,
         16828,
