@@ -759,7 +759,6 @@
       "id": 17198,
       "performers": [
         16786,
-        16318,
         16503,
         15738,
         16917,
@@ -821,16 +820,9 @@
     {
       "id": 17202,
       "performers": [
-        16602,
-        16112,
-        16261,
-        16894,
-        16903,
-        16800,
-        16919,
-        15749
+        17238
       ],
-      "emcee": 0,
+      "emcee": 16318,
       "venue": 10378,
       "name": "10 Years of Favorites",
       "description": "",
@@ -1014,17 +1006,18 @@
       "id": 17214,
       "performers": [
         15908,
-        16784,
         16037,
+        16784,
         15738,
+        16103,
         16869,
-        16039,
+        16416,
         17237
       ],
-      "emcee": 10429,
+      "emcee": 16039,
       "venue": 10373,
       "name": "Bridgetown: The Later Years",
-      "description": "",
+      "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams and Curtis Cook (2013), Lisa Best and Steven Wilber (2014), Dulcè Sloan and Sonia Denis (2015) and John Novosad, Ben Harkins and Shalewa Sharpe (2017).</p>\n",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T05:30:00.000Z",
       "price": 0,

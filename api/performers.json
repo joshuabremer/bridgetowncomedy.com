@@ -71,8 +71,7 @@
       "id": 16919,
       "events": [
         17150,
-        17186,
-        17202
+        17186
       ],
       "emceeEvents": [
         17183
@@ -227,7 +226,6 @@
       "id": 16894,
       "events": [
         17149,
-        17202,
         17219
       ],
       "emceeEvents": [
@@ -423,10 +421,11 @@
       "events": [
         17160,
         17187,
-        17197,
+        17197
+      ],
+      "emceeEvents": [
         17214
       ],
-      "emceeEvents": [],
       "name": "Allen Strickland Williams",
       "twitter": "totallyallen",
       "website": "http://www.allenstricklandwilliams.com/",
@@ -530,8 +529,7 @@
       "events": [
         17180,
         17190,
-        17197,
-        17202
+        17197
       ],
       "emceeEvents": [],
       "name": "Chris Fairbanks ",
@@ -704,8 +702,7 @@
     {
       "id": 16903,
       "events": [
-        17163,
-        17202
+        17163
       ],
       "emceeEvents": [],
       "name": "Matt Knudsen ",
@@ -777,7 +774,6 @@
       "id": 16800,
       "events": [
         17164,
-        17202,
         17234,
         17248
       ],
@@ -950,10 +946,11 @@
     {
       "id": 16318,
       "events": [
-        17198,
         17219
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17202
+      ],
       "name": "Mike Lebovitz",
       "twitter": "mikelebovitz",
       "website": "http://bridgetown.festivalthing.com/mikelebovitz%40gmail.com",
@@ -1038,7 +1035,8 @@
       "id": 16416,
       "events": [
         17170,
-        17199
+        17199,
+        17214
       ],
       "emceeEvents": [],
       "name": "Shalewa Sharpe",
@@ -1309,9 +1307,7 @@
     },
     {
       "id": 16261,
-      "events": [
-        17202
-      ],
+      "events": [],
       "emceeEvents": [],
       "name": "T.J. Chambers",
       "twitter": "tjchambersLA",
@@ -1381,7 +1377,6 @@
       "id": 16602,
       "events": [
         17165,
-        17202,
         17217
       ],
       "emceeEvents": [],
@@ -1622,7 +1617,9 @@
     },
     {
       "id": 16103,
-      "events": [],
+      "events": [
+        17214
+      ],
       "emceeEvents": [],
       "name": "John Novosad",
       "twitter": "HippiemansPlan",
@@ -2033,8 +2030,7 @@
       "id": 16112,
       "events": [
         17154,
-        17189,
-        17202
+        17189
       ],
       "emceeEvents": [],
       "name": "Wilfred Padua",
@@ -2360,6 +2356,7 @@
     {
       "id": 17238,
       "events": [
+        17202,
         17216,
         17234,
         17250

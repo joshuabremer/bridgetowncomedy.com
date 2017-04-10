@@ -1,10 +1,11 @@
 {
   "id": 16318,
   "events": [
-    17198,
     17219
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17202
+  ],
   "name": "Mike Lebovitz",
   "twitter": "mikelebovitz",
   "website": "http://bridgetown.festivalthing.com/mikelebovitz%40gmail.com",
