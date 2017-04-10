@@ -268,9 +268,7 @@
         17181,
         17198
       ],
-      "emceeEvents": [
-        17214
-      ],
+      "emceeEvents": [],
       "name": "Dave Hill",
       "twitter": "mrdavehill",
       "website": "http://davehillonline.com",
@@ -284,7 +282,6 @@
     {
       "id": 16571,
       "events": [
-        17150,
         17173,
         17196,
         17250
@@ -426,7 +423,8 @@
       "events": [
         17160,
         17187,
-        17197
+        17197,
+        17214
       ],
       "emceeEvents": [],
       "name": "Allen Strickland Williams",
@@ -586,7 +584,8 @@
     {
       "id": 16037,
       "events": [
-        17205
+        17205,
+        17214
       ],
       "emceeEvents": [],
       "name": "Lisa Best",
@@ -636,6 +635,7 @@
       "id": 17237,
       "events": [
         17192,
+        17214,
         17248
       ],
       "emceeEvents": [],
@@ -757,7 +757,8 @@
       "id": 16921,
       "events": [
         17149,
-        17150
+        17150,
+        17217
       ],
       "emceeEvents": [
         17181
@@ -816,7 +817,8 @@
     {
       "id": 16869,
       "events": [
-        17164
+        17164,
+        17214
       ],
       "emceeEvents": [
         17163
@@ -1156,6 +1158,7 @@
         17163,
         17164,
         17197,
+        17214,
         17260
       ],
       "emceeEvents": [],
@@ -1205,7 +1208,9 @@
     },
     {
       "id": 16926,
-      "events": [],
+      "events": [
+        17150
+      ],
       "emceeEvents": [
         17207,
         17208,
@@ -1566,7 +1571,7 @@
         17163,
         17187,
         17198,
-        17217
+        17214
       ],
       "emceeEvents": [],
       "name": "Sonia Denis",
@@ -2147,7 +2152,8 @@
     {
       "id": 15908,
       "events": [
-        17175
+        17175,
+        17214
       ],
       "emceeEvents": [],
       "name": "Ben Harkins",
