@@ -1,14 +1,20 @@
 {
   "id": 17160,
   "performers": [
-    17008
+    16251,
+    16276,
+    16685,
+    16039,
+    16657,
+    16190,
+    16917
   ],
-  "emcee": 10429,
+  "emcee": 16521,
   "venue": 12478,
-  "name": "Paris Theater Early Show",
+  "name": "Let's Do It with Bri Pruett",
   "description": "",
   "startDateTime": "2017-05-05T03:30:00.000Z",
   "endDateTime": "2017-05-05T05:00:00.000Z",
   "price": 0,
-  "pageUrl": "17160-paris-theater-early-show"
+  "pageUrl": "17160-lets-do-it-with-bri-pruett"
 }
