@@ -820,16 +820,21 @@
     {
       "id": 17202,
       "performers": [
-        17238
+        17238,
+        16894,
+        16401,
+        16928,
+        16855,
+        16927
       ],
       "emcee": 16318,
       "venue": 10378,
-      "name": "10 Years of Favorites",
+      "name": "Bunk Birthday Bash!",
       "description": "",
       "startDateTime": "2017-05-07T04:00:00.000Z",
       "endDateTime": "2017-05-07T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17202-10-years-of-favorites"
+      "pageUrl": "17202-bunk-birthday-bash"
     },
     {
       "id": 17203,
@@ -852,7 +857,6 @@
         16574,
         17122,
         16277,
-        16855,
         16918
       ],
       "emcee": 16800,
