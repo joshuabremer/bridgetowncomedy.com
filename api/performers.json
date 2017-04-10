@@ -1653,6 +1653,7 @@
     {
       "id": 16147,
       "events": [
+        17148,
         17196
       ],
       "emceeEvents": [],
@@ -1918,7 +1919,9 @@
     },
     {
       "id": 15967,
-      "events": [],
+      "events": [
+        17148
+      ],
       "emceeEvents": [],
       "name": "Samantha Ruddy",
       "twitter": "Samlymatters",
