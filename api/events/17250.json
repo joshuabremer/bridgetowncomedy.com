@@ -1,12 +1,20 @@
 {
   "id": 17250,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16169,
+    16715,
+    16416,
+    15957,
+    16325,
+    15951,
+    16895
+  ],
+  "emcee": 16801,
   "venue": 10378,
-  "name": "Southern Comfort",
+  "name": "Going' South",
   "description": "",
-  "startDateTime": "2017-05-06T04:00:00.000Z",
-  "endDateTime": "2017-05-06T05:30:00.000Z",
+  "startDateTime": "2017-05-07T04:00:00.000Z",
+  "endDateTime": "2017-05-07T05:30:00.000Z",
   "price": 0,
-  "pageUrl": "17250-southern-comfort"
+  "pageUrl": "17250-going-south"
 }

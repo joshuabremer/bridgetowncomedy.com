@@ -2,7 +2,9 @@
   "performers": [
     {
       "id": 15957,
-      "events": [],
+      "events": [
+        17250
+      ],
       "emceeEvents": [],
       "name": "Raj Desai",
       "twitter": "_rajdesai",
@@ -618,7 +620,8 @@
       "id": 16895,
       "events": [
         17148,
-        17198
+        17198,
+        17250
       ],
       "emceeEvents": [],
       "name": "Billy Wayne Davis",
@@ -917,7 +920,9 @@
     },
     {
       "id": 16325,
-      "events": [],
+      "events": [
+        17250
+      ],
       "emceeEvents": [],
       "name": "Caleb Synan",
       "twitter": "",
@@ -1005,7 +1010,7 @@
       "id": 16715,
       "events": [
         17170,
-        17175
+        17250
       ],
       "emceeEvents": [],
       "name": "Justin Hicks ",
@@ -1042,7 +1047,8 @@
       "events": [
         17170,
         17199,
-        17214
+        17214,
+        17250
       ],
       "emceeEvents": [],
       "name": "Shalewa Sharpe",
@@ -1473,7 +1479,8 @@
       "events": [
         17158,
         17170,
-        17210
+        17210,
+        17250
       ],
       "emceeEvents": [],
       "name": "Pat Brown",
@@ -1698,6 +1705,7 @@
         17175
       ],
       "emceeEvents": [
+        17250,
         17260
       ],
       "name": "David Perdue",
@@ -1910,7 +1918,8 @@
       "id": 16169,
       "events": [
         17199,
-        17217
+        17217,
+        17250
       ],
       "emceeEvents": [],
       "name": "Dusty Slay",
