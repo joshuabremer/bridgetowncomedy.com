@@ -858,20 +858,18 @@
     {
       "id": 17204,
       "performers": [
-        16201,
         15897,
         16574,
         17122,
         16277,
-        17237,
-        16918
+        17237
       ],
       "emcee": 16800,
       "venue": 12478,
       "name": "Funny Over Everything Reunion",
       "description": "",
-      "startDateTime": "2017-05-07T02:00:00.000Z",
-      "endDateTime": "2017-05-07T03:30:00.000Z",
+      "startDateTime": "2017-05-07T06:00:00.000Z",
+      "endDateTime": "2017-05-07T06:59:00.000Z",
       "price": 0,
       "pageUrl": "17204-funny-over-everything-reunion"
     },
