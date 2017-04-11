@@ -294,7 +294,13 @@
     {
       "id": 17168,
       "performers": [
-        16786
+        16318,
+        16177,
+        16855,
+        15859,
+        16786,
+        16928,
+        17008
       ],
       "emcee": 16922,
       "venue": 10373,
@@ -770,7 +776,6 @@
     {
       "id": 17198,
       "performers": [
-        16786,
         16503,
         15738,
         16917,
@@ -1219,21 +1224,15 @@
     },
     {
       "id": 17250,
-      "performers": [
-        16212,
-        15786,
-        17238,
-        16571,
-        16918
-      ],
-      "emcee": 16926,
+      "performers": [],
+      "emcee": 0,
       "venue": 10378,
-      "name": "2008!",
+      "name": "Southern Comfort",
       "description": "",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17250-2008"
+      "pageUrl": "17250-southern-comfort"
     },
     {
       "id": 17254,
