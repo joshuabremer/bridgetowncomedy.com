@@ -1308,8 +1308,8 @@
       "venue": 12478,
       "name": "Braunger Hour",
       "description": "",
-      "startDateTime": "2016-05-07T02:00:00.000Z",
-      "endDateTime": "2016-06-04T03:30:00.000Z",
+      "startDateTime": "2017-05-07T02:00:00.000Z",
+      "endDateTime": "2017-05-07T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17271-braunger-hour"
     },
@@ -1322,8 +1322,8 @@
       "venue": 12478,
       "name": "Braunger Hour",
       "description": "",
-      "startDateTime": "2016-05-08T02:00:00.000Z",
-      "endDateTime": "2016-05-08T03:30:00.000Z",
+      "startDateTime": "2017-05-06T02:00:00.000Z",
+      "endDateTime": "2017-05-06T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17272-braunger-hour"
     }
