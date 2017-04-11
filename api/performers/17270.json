@@ -1,7 +1,9 @@
 {
   "id": 17270,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17182
+  ],
   "name": "Lance Bangs",
   "twitter": "",
   "website": "",
