@@ -477,8 +477,7 @@
       "id": 16603,
       "events": [
         17154,
-        17192,
-        17206
+        17192
       ],
       "emceeEvents": [],
       "name": "Debra DiGiovanni",
@@ -2186,7 +2185,8 @@
     {
       "id": 16251,
       "events": [
-        17160
+        17160,
+        17206
       ],
       "emceeEvents": [],
       "name": "Becky Braunstein",
