@@ -1817,7 +1817,9 @@
     },
     {
       "id": 16754,
-      "events": [],
+      "events": [
+        17216
+      ],
       "emceeEvents": [],
       "name": "Nasser Khan",
       "twitter": "khanfartist",
@@ -2194,7 +2196,8 @@
     {
       "id": 16677,
       "events": [
-        17151
+        17151,
+        17216
       ],
       "emceeEvents": [],
       "name": "Marcus Coleman",
