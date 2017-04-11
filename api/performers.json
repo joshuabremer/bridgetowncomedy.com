@@ -1006,7 +1006,7 @@
       "name": "Justin Hicks ",
       "twitter": "Hicks_jn",
       "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jhickscomedy.jpg",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/_dsc6526small.jpg",
       "photoUrl": "/api/img/performer-images/performer-justinhicks-300x300.jpg",
       "sortOrder": 57,
       "excludeFromList": false,
@@ -2414,6 +2414,20 @@
       "excludeFromList": true,
       "bio": "<p>Tyler Jackson is a standup from Chicago who writes short, absurd jokes and relishes wordplay, non-sequiturs, and embarrassing personal details. He is co-creator of the bizarre monthly comedy happening, the Late Late Breakfast. The Pelican Brief is his third novel.</p>\n",
       "pageUrl": "15947-tyler-jackson"
+    },
+    {
+      "id": 17270,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Lance Bangs",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/img_5261.jpg",
+      "photoUrl": "/api/img/performer-images/performer-lancebangs-300x300.jpg",
+      "sortOrder": 141,
+      "excludeFromList": true,
+      "bio": "<p>Lance Bangs is an American filmmaker and music video director.</p>\n",
+      "pageUrl": "17270-lance-bangs"
     }
   ]
 }
