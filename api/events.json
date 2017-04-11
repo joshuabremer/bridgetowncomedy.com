@@ -96,7 +96,7 @@
     {
       "id": 17153,
       "performers": [],
-      "emcee": 17238,
+      "emcee": 10429,
       "venue": 10380,
       "name": "Open Mic!",
       "description": "",
@@ -128,7 +128,7 @@
     {
       "id": 17155,
       "performers": [],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10677,
       "name": "Analog Prime Time",
       "description": "",
@@ -185,7 +185,7 @@
       "performers": [
         17239
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -715,15 +715,17 @@
     },
     {
       "id": 17194,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16916
+      ],
+      "emcee": 16571,
       "venue": 10376,
-      "name": "Siren Primetime",
+      "name": "Brent Weinbach Video Show",
       "description": "",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17194-siren-primetime"
+      "pageUrl": "17194-brent-weinbach-video-show"
     },
     {
       "id": 17195,
@@ -1333,6 +1335,20 @@
       "endDateTime": "2017-05-06T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17272-braunger-hour"
+    },
+    {
+      "id": 17275,
+      "performers": [
+        16800
+      ],
+      "emcee": 17238,
+      "venue": 10763,
+      "name": "Dax Jordan and Sean Jordan: The Sklaren't Brothers",
+      "description": "",
+      "startDateTime": "2017-05-05T06:00:00.000Z",
+      "endDateTime": "2017-05-05T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "17275-dax-jordan-and-sean-jordan-the-sklarent-brothers"
     }
   ]
 }

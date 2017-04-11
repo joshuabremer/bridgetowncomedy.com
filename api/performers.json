@@ -290,7 +290,9 @@
         17173,
         17196
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17194
+      ],
       "name": "Brent Weinbach",
       "twitter": "BrentWeinbach",
       "website": "",
@@ -339,7 +341,8 @@
       "id": 16916,
       "events": [
         17180,
-        17189
+        17189,
+        17194
       ],
       "emceeEvents": [],
       "name": "Nico Santos",
@@ -783,7 +786,8 @@
       "id": 16800,
       "events": [
         17164,
-        17248
+        17248,
+        17275
       ],
       "emceeEvents": [
         17204
@@ -2389,9 +2393,9 @@
         17216
       ],
       "emceeEvents": [
-        17153,
         17171,
-        17195
+        17195,
+        17275
       ],
       "name": "Dax Jordan",
       "twitter": "",
