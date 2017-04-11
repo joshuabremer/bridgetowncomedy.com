@@ -469,8 +469,8 @@
       "show": "16098",
       "name": "Picture This! ",
       "description": "",
-      "startDateTime": "2017-05-06T02:00:00.000Z",
-      "endDateTime": "2017-05-06T03:30:00.000Z",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17180-picture-this-"
     },
@@ -491,8 +491,8 @@
       "show": "16471",
       "name": "Competitive Erotic Fan Fiction with Bryan Cook",
       "description": "",
-      "startDateTime": "2017-05-06T04:00:00.000Z",
-      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "startDateTime": "2017-05-06T06:00:00.000Z",
+      "endDateTime": "2017-05-06T06:59:00.000Z",
       "price": 0,
       "pageUrl": "17181-competitive-erotic-fan-fiction-with-bryan-cook"
     },
@@ -979,12 +979,12 @@
       "performers": [],
       "emcee": 0,
       "venue": 10374,
-      "name": "Fifteen Minutes of Fame",
+      "name": "Bossanova Early Show",
       "description": "",
       "startDateTime": "2017-05-08T03:00:00.000Z",
       "endDateTime": "2017-05-08T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17211-fifteen-minutes-of-fame"
+      "pageUrl": "17211-bossanova-early-show"
     },
     {
       "id": 17212,
@@ -1153,18 +1153,15 @@
     },
     {
       "id": 17234,
-      "performers": [
-        16800,
-        17238
-      ],
-      "emcee": 10429,
+      "performers": [],
+      "emcee": 0,
       "venue": 10677,
-      "name": "Sean Jordan and Dax Jordan: The Sklaren't Brothers",
+      "name": "Analog Theater Early Show",
       "description": "",
       "startDateTime": "2017-05-08T02:00:00.000Z",
       "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17234-sean-jordan-and-dax-jordan-the-sklarent-brothers"
+      "pageUrl": "17234-analog-theater-early-show"
     },
     {
       "id": 17235,
@@ -1219,7 +1216,6 @@
       "performers": [
         16212,
         15786,
-        17224,
         17238,
         16571,
         16918
@@ -1290,6 +1286,34 @@
       "endDateTime": "2017-05-07T04:00:00.000Z",
       "price": 0,
       "pageUrl": "17260-make-america-laugh-again-political-show"
+    },
+    {
+      "id": 17271,
+      "performers": [
+        16918
+      ],
+      "emcee": 0,
+      "venue": 12478,
+      "name": "Braunger Hour",
+      "description": "",
+      "startDateTime": "2016-05-07T02:00:00.000Z",
+      "endDateTime": "2016-06-04T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17271-braunger-hour"
+    },
+    {
+      "id": 17272,
+      "performers": [
+        16918
+      ],
+      "emcee": 0,
+      "venue": 12478,
+      "name": "Braunger Hour",
+      "description": "",
+      "startDateTime": "2016-05-08T02:00:00.000Z",
+      "endDateTime": "2016-05-08T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17272-braunger-hour"
     }
   ]
 }
