@@ -42,7 +42,6 @@
     {
       "id": 17150,
       "performers": [
-        16921,
         16912,
         16474,
         16337,
@@ -54,7 +53,7 @@
       "emcee": 16212,
       "venue": 10373,
       "name": "Bridgetown: The Early Years (2008-2012)",
-      "description": "<p>Comics from the first five years of the Bridgetown perform, including: Nathan Brannon, Michelle Biloon and festival founder, Andy Wood (2008), Jackie Kashian (2009), Andrew Sleighter (2010), Bryan Cook and Barbara Gray (2011) Maggie Maye and Troy Walker (2012).</p>\n",
+      "description": "<p>Comics from the first five years of the Bridgetown perform, including: Nathan Brannon, Michelle Biloon and festival founder, Andy Wood (2008), Jackie Kashian (2009), Andrew Sleighter (2010), Barbara Gray (2011) Maggie Maye and Troy Walker (2012).</p>\n",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
       "price": 0,
@@ -354,15 +353,23 @@
     },
     {
       "id": 17172,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        15799,
+        16557,
+        15888,
+        16177,
+        16337,
+        16318,
+        16921
+      ],
+      "emcee": 16147,
       "venue": 10677,
-      "name": "Analog Theater Early Show",
+      "name": "Bridgetown Breakouts",
       "description": "",
       "startDateTime": "2017-05-06T02:00:00.000Z",
       "endDateTime": "2017-05-06T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17172-analog-theater-early-show"
+      "pageUrl": "17172-bridgetown-breakouts"
     },
     {
       "id": 17173,
@@ -784,12 +791,11 @@
       "performers": [
         16457,
         16169,
-        15799,
         16416,
         15905,
         16768
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10763,
       "name": "New Favorites",
       "description": "",

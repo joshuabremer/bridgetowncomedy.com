@@ -404,6 +404,7 @@
       "id": 15888,
       "events": [
         17148,
+        17172,
         17205,
         17217
       ],
@@ -755,7 +756,7 @@
       "id": 16921,
       "events": [
         17149,
-        17150,
+        17172,
         17217
       ],
       "emceeEvents": [
@@ -831,7 +832,9 @@
     },
     {
       "id": 16557,
-      "events": [],
+      "events": [
+        17172
+      ],
       "emceeEvents": [],
       "name": "Jesse Elias",
       "twitter": "FinalFanJesse7",
@@ -945,7 +948,9 @@
     },
     {
       "id": 16318,
-      "events": [],
+      "events": [
+        17172
+      ],
       "emceeEvents": [
         17202
       ],
@@ -963,6 +968,7 @@
       "id": 16337,
       "events": [
         17150,
+        17172,
         17181
       ],
       "emceeEvents": [],
@@ -979,8 +985,8 @@
     {
       "id": 15799,
       "events": [
-        17192,
-        17199
+        17172,
+        17192
       ],
       "emceeEvents": [],
       "name": "Robby Hoffman",
@@ -1321,6 +1327,7 @@
       "id": 16177,
       "events": [
         17154,
+        17172,
         17196
       ],
       "emceeEvents": [
@@ -1652,7 +1659,9 @@
         17148,
         17196
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17172
+      ],
       "name": "Carolyn Busa",
       "twitter": "misstoiletslave",
       "website": "http://www.carolynbusa.com",
