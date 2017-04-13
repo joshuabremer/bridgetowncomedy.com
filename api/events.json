@@ -827,18 +827,6 @@
       "pageUrl": "17200-festival-buds"
     },
     {
-      "id": 17201,
-      "performers": [],
-      "emcee": 0,
-      "venue": 10763,
-      "name": "Analog Downstairs Late Night",
-      "description": "",
-      "startDateTime": "2017-05-07T06:00:00.000Z",
-      "endDateTime": "2017-05-07T06:59:00.000Z",
-      "price": 0,
-      "pageUrl": "17201-analog-downstairs-late-night"
-    },
-    {
       "id": 17202,
       "performers": [
         17238,
@@ -1120,7 +1108,7 @@
       "name": "Analog Theater Primetime",
       "description": "",
       "startDateTime": "2017-05-06T04:00:00.000Z",
-      "endDateTime": "2017-05-08T05:30:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17219-analog-theater-primetime"
     },
@@ -1175,13 +1163,12 @@
     {
       "id": 17234,
       "performers": [
+        16718,
+        16429,
         16895,
-        16521,
-        16103,
-        16790,
-        16647,
         16503,
-        17143
+        17143,
+        16103
       ],
       "emcee": 16484,
       "venue": 10763,

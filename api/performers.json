@@ -198,8 +198,7 @@
       "events": [
         17167,
         17189,
-        17197,
-        17234
+        17197
       ],
       "emceeEvents": [],
       "name": "Marcella Arguello",
@@ -810,7 +809,6 @@
       "id": 16521,
       "events": [
         17189,
-        17234,
         17254
       ],
       "emceeEvents": [
@@ -1630,7 +1628,6 @@
       "events": [
         17175,
         17189,
-        17234,
         17260
       ],
       "emceeEvents": [],
@@ -2255,7 +2252,8 @@
       "id": 16718,
       "events": [
         17158,
-        17180
+        17180,
+        17234
       ],
       "emceeEvents": [],
       "name": "Andie Main",
@@ -2271,7 +2269,8 @@
     {
       "id": 16429,
       "events": [
-        17191
+        17191,
+        17234
       ],
       "emceeEvents": [],
       "name": "Robbie Pankow",
