@@ -382,10 +382,10 @@
       "performers": [
         16508,
         16828,
+        16571,
         16304,
         16502,
         16884,
-        16571,
         15722
       ],
       "emcee": 16530,
@@ -716,16 +716,20 @@
     {
       "id": 17194,
       "performers": [
-        16916
+        16912,
+        15887,
+        16591,
+        16647,
+        15977
       ],
       "emcee": 16571,
       "venue": 10376,
-      "name": "Brent Weinbach Video Show",
+      "name": "Brent Weinbach and Friends Mega Show",
       "description": "",
       "startDateTime": "2017-05-06T04:30:00.000Z",
       "endDateTime": "2017-05-06T06:00:00.000Z",
       "price": 0,
-      "pageUrl": "17194-brent-weinbach-video-show"
+      "pageUrl": "17194-brent-weinbach-and-friends-mega-show"
     },
     {
       "id": 17195,
@@ -1351,8 +1355,15 @@
     },
     {
       "id": 17280,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        15957,
+        16919,
+        15738,
+        16903,
+        16894,
+        17008
+      ],
+      "emcee": 16048,
       "venue": 10374,
       "name": "Bossanova Early",
       "description": "",

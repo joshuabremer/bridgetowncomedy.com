@@ -3,7 +3,8 @@
     {
       "id": 15957,
       "events": [
-        17250
+        17250,
+        17280
       ],
       "emceeEvents": [],
       "name": "Raj Desai",
@@ -40,7 +41,8 @@
       "id": 17008,
       "events": [
         17168,
-        17231
+        17231,
+        17280
       ],
       "emceeEvents": [
         17190
@@ -78,7 +80,8 @@
       "events": [
         17150,
         17186,
-        17190
+        17190,
+        17280
       ],
       "emceeEvents": [
         17183
@@ -197,6 +200,7 @@
       "events": [
         17167,
         17189,
+        17194,
         17197
       ],
       "emceeEvents": [],
@@ -233,7 +237,8 @@
       "id": 16894,
       "events": [
         17149,
-        17202
+        17202,
+        17280
       ],
       "emceeEvents": [
         17167
@@ -325,7 +330,8 @@
       "id": 16591,
       "events": [
         17149,
-        17190
+        17190,
+        17194
       ],
       "emceeEvents": [],
       "name": "Nick Vatterott",
@@ -342,8 +348,7 @@
       "id": 16916,
       "events": [
         17180,
-        17189,
-        17194
+        17189
       ],
       "emceeEvents": [],
       "name": "Nico Santos",
@@ -716,7 +721,8 @@
     {
       "id": 16903,
       "events": [
-        17163
+        17163,
+        17280
       ],
       "emceeEvents": [],
       "name": "Matt Knudsen ",
@@ -751,7 +757,8 @@
     {
       "id": 15887,
       "events": [
-        17190
+        17190,
+        17194
       ],
       "emceeEvents": [],
       "name": "Ian Abramson",
@@ -865,6 +872,7 @@
       "id": 15977,
       "events": [
         17191,
+        17194,
         17217
       ],
       "emceeEvents": [],
@@ -1592,7 +1600,8 @@
         17163,
         17187,
         17198,
-        17214
+        17214,
+        17280
       ],
       "emceeEvents": [],
       "name": "Sonia Denis",
@@ -1696,7 +1705,8 @@
     {
       "id": 16912,
       "events": [
-        17150
+        17150,
+        17194
       ],
       "emceeEvents": [
         17192
@@ -1904,7 +1914,9 @@
     {
       "id": 16048,
       "events": [],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17280
+      ],
       "name": "Scott Losse",
       "twitter": "coolbathroom",
       "website": "http://bridgetown.festivalthing.com/scottlosse%40gmail.com",

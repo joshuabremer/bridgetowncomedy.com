@@ -1,14 +1,18 @@
 {
   "id": 17194,
   "performers": [
-    16916
+    16912,
+    15887,
+    16591,
+    16647,
+    15977
   ],
   "emcee": 16571,
   "venue": 10376,
-  "name": "Brent Weinbach Video Show",
+  "name": "Brent Weinbach and Friends Mega Show",
   "description": "",
   "startDateTime": "2017-05-06T04:30:00.000Z",
   "endDateTime": "2017-05-06T06:00:00.000Z",
   "price": 0,
-  "pageUrl": "17194-brent-weinbach-video-show"
+  "pageUrl": "17194-brent-weinbach-and-friends-mega-show"
 }
