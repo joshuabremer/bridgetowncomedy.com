@@ -294,6 +294,7 @@
     {
       "id": 16571,
       "events": [
+        17163,
         17173,
         17196
       ],
@@ -724,7 +725,6 @@
     {
       "id": 16903,
       "events": [
-        17163,
         17280
       ],
       "emceeEvents": [],
@@ -1838,10 +1838,11 @@
     {
       "id": 16754,
       "events": [
-        17216,
+        17216
+      ],
+      "emceeEvents": [
         17219
       ],
-      "emceeEvents": [],
       "name": "Nasser Khan",
       "twitter": "khanfartist",
       "website": "",
@@ -2038,7 +2039,8 @@
     {
       "id": 16853,
       "events": [
-        17196
+        17196,
+        17219
       ],
       "emceeEvents": [],
       "name": "Phoebe Bottoms ",

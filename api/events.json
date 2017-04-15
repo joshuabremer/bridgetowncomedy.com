@@ -185,7 +185,7 @@
       "performers": [
         17239
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -221,15 +221,15 @@
         16199,
         16405,
         15738,
-        16903,
-        16784
+        16784,
+        16571
       ],
       "emcee": 16869,
       "venue": 17162,
       "name": "No Pun Intendo",
       "description": "",
       "startDateTime": "2017-05-05T04:00:00.000Z",
-      "endDateTime": "2017-05-05T05:30:00.000Z",
+      "endDateTime": "2017-05-05T06:00:00.000Z",
       "price": 0,
       "pageUrl": "17163-no-pun-intendo"
     },
@@ -1096,15 +1096,15 @@
     {
       "id": 17219,
       "performers": [
-        16754,
-        15971,
         15820,
+        15971,
+        16853,
         16484,
         16261,
         16855,
         16919
       ],
-      "emcee": 10429,
+      "emcee": 16754,
       "venue": 10677,
       "name": "Analog Theater Primetime",
       "description": "",
