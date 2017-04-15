@@ -62,6 +62,7 @@
       "id": 16927,
       "events": [
         17182,
+        17184,
         17188,
         17202
       ],
@@ -1491,7 +1492,9 @@
       "events": [
         17164
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17281
+      ],
       "name": "Gabe Dinger",
       "twitter": "GabeDinger",
       "website": "http://www.GabeDinger.com",

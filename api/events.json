@@ -546,9 +546,10 @@
       "id": 17184,
       "performers": [
         16346,
+        16927,
         16925
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10374,
       "show": "16640",
       "name": "Can I Pet Your Dog? Podcast",
@@ -1372,6 +1373,18 @@
       "endDateTime": "2017-05-06T04:30:00.000Z",
       "price": 0,
       "pageUrl": "17280-bossanova-early"
+    },
+    {
+      "id": 17281,
+      "performers": [],
+      "emcee": 15923,
+      "venue": 10677,
+      "name": "Sunday Dinger with Gabe Dinner: A Second Course",
+      "description": "",
+      "startDateTime": "2017-05-08T02:00:00.000Z",
+      "endDateTime": "2017-05-08T03:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17281-sunday-dinger-with-gabe-dinner-a-second-course"
     }
   ]
 }
