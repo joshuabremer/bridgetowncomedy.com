@@ -128,38 +128,38 @@
     {
       "id": 17155,
       "performers": [],
-      "emcee": 0,
+      "emcee": 16429,
       "venue": 10677,
-      "name": "Analog Prime Time",
+      "name": "Whatever Forever with Robbie Pankow",
       "description": "",
       "startDateTime": "2017-05-05T05:00:00.000Z",
       "endDateTime": "2017-05-05T06:30:00.000Z",
       "price": 0,
-      "pageUrl": "17155-analog-prime-time"
+      "pageUrl": "17155-whatever-forever-with-robbie-pankow"
     },
     {
       "id": 17156,
       "performers": [],
       "emcee": 0,
       "venue": 10763,
-      "name": "Analog Downstairs Early Show",
+      "name": "The Andie Main Attraction",
       "description": "",
       "startDateTime": "2017-05-05T02:00:00.000Z",
       "endDateTime": "2017-05-05T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17156-analog-downstairs-early-show"
+      "pageUrl": "17156-the-andie-main-attraction"
     },
     {
       "id": 17157,
       "performers": [],
-      "emcee": 0,
+      "emcee": 15908,
       "venue": 10763,
-      "name": "Analog Downstairs Prime Time",
+      "name": "Ben Harkins Isn't Sure",
       "description": "",
       "startDateTime": "2017-05-05T04:00:00.000Z",
       "endDateTime": "2017-05-05T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17157-analog-downstairs-prime-time"
+      "pageUrl": "17157-ben-harkins-isnt-sure"
     },
     {
       "id": 17158,
