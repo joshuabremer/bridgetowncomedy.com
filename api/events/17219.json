@@ -1,7 +1,15 @@
 {
   "id": 17219,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16754,
+    15971,
+    15820,
+    16484,
+    16261,
+    16855,
+    16919
+  ],
+  "emcee": 10429,
   "venue": 10677,
   "name": "Analog Theater Primetime",
   "description": "",

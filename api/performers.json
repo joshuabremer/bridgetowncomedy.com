@@ -81,6 +81,7 @@
         17150,
         17186,
         17190,
+        17219,
         17280
       ],
       "emceeEvents": [
@@ -582,7 +583,8 @@
         17150,
         17167,
         17168,
-        17202
+        17202,
+        17219
       ],
       "emceeEvents": [],
       "name": "Maggie Maye",
@@ -1339,7 +1341,9 @@
     },
     {
       "id": 16261,
-      "events": [],
+      "events": [
+        17219
+      ],
       "emceeEvents": [],
       "name": "T.J. Chambers",
       "twitter": "tjchambersLA",
@@ -1834,7 +1838,8 @@
     {
       "id": 16754,
       "events": [
-        17216
+        17216,
+        17219
       ],
       "emceeEvents": [],
       "name": "Nasser Khan",
@@ -1982,6 +1987,7 @@
     {
       "id": 15820,
       "events": [
+        17219,
         17232
       ],
       "emceeEvents": [],
@@ -1998,7 +2004,8 @@
     {
       "id": 15971,
       "events": [
-        17151
+        17151,
+        17219
       ],
       "emceeEvents": [],
       "name": "Robert Jenkins",
@@ -2133,6 +2140,7 @@
       "id": 16484,
       "events": [
         17163,
+        17219,
         17232,
         17248
       ],

@@ -757,12 +757,12 @@
       ],
       "emcee": 16869,
       "venue": 10677,
-      "name": "Off the Wallberger with Phil Schallberger",
+      "name": "Portland Weird Keep",
       "description": "",
       "startDateTime": "2017-05-07T05:00:00.000Z",
       "endDateTime": "2017-05-07T06:30:00.000Z",
       "price": 0,
-      "pageUrl": "17196-off-the-wallberger-with-phil-schallberger"
+      "pageUrl": "17196-portland-weird-keep"
     },
     {
       "id": 17197,
@@ -1095,8 +1095,16 @@
     },
     {
       "id": 17219,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16754,
+        15971,
+        15820,
+        16484,
+        16261,
+        16855,
+        16919
+      ],
+      "emcee": 10429,
       "venue": 10677,
       "name": "Analog Theater Primetime",
       "description": "",
