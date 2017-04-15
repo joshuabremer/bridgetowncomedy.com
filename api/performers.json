@@ -4,7 +4,7 @@
       "id": 15957,
       "events": [
         17250,
-        17280
+        17272
       ],
       "emceeEvents": [],
       "name": "Raj Desai",
@@ -440,7 +440,6 @@
       "id": 16039,
       "events": [
         17160,
-        17187,
         17197
       ],
       "emceeEvents": [
@@ -912,7 +911,6 @@
     {
       "id": 16277,
       "events": [
-        17187,
         17204,
         17249
       ],
@@ -1123,7 +1121,9 @@
     },
     {
       "id": 16352,
-      "events": [],
+      "events": [
+        17199
+      ],
       "emceeEvents": [
         17197
       ],
@@ -1155,7 +1155,9 @@
     },
     {
       "id": 16360,
-      "events": [],
+      "events": [
+        17199
+      ],
       "emceeEvents": [
         17158
       ],
@@ -1232,7 +1234,9 @@
       "events": [
         17151
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17199
+      ],
       "name": "Nick Chambers",
       "twitter": "chamberscomedy",
       "website": "http://www.chamberscomedy.com",
@@ -1264,7 +1268,9 @@
     },
     {
       "id": 16818,
-      "events": [],
+      "events": [
+        17175
+      ],
       "emceeEvents": [],
       "name": "Forrest Shaw",
       "twitter": "forrestshaw",
@@ -1546,7 +1552,9 @@
       "events": [
         17196
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17175
+      ],
       "name": "Sara June",
       "twitter": "heysarajune",
       "website": "http://www.heysarajune.com",
@@ -1775,7 +1783,6 @@
       "id": 15905,
       "events": [
         17151,
-        17199,
         17210
       ],
       "emceeEvents": [],
@@ -1809,7 +1816,9 @@
     },
     {
       "id": 16265,
-      "events": [],
+      "events": [
+        17175
+      ],
       "emceeEvents": [],
       "name": "Bret Raybould",
       "twitter": "BretRaybould",
@@ -1844,6 +1853,7 @@
     {
       "id": 16754,
       "events": [
+        17199,
         17216
       ],
       "emceeEvents": [
@@ -2129,7 +2139,8 @@
       "events": [
         17158,
         17168,
-        17205
+        17205,
+        17272
       ],
       "emceeEvents": [
         17254

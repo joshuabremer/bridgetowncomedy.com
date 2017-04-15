@@ -414,13 +414,15 @@
     {
       "id": 17175,
       "performers": [
-        15908,
         16530,
+        16265,
+        15908,
         16021,
         16801,
-        16790
+        16790,
+        16818
       ],
-      "emcee": 10429,
+      "emcee": 16464,
       "venue": 10763,
       "name": "New Favorites",
       "description": "",
@@ -549,7 +551,7 @@
         16927,
         16925
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10374,
       "show": "16640",
       "name": "Can I Pet Your Dog? Podcast",
@@ -592,12 +594,10 @@
       "performers": [
         16537,
         15947,
-        16039,
-        16277,
         15738,
         16519
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10677,
       "show": "15926",
       "name": "Late Late Breakfast",
@@ -811,11 +811,13 @@
       "performers": [
         16457,
         16169,
+        16352,
         16416,
-        15905,
-        16768
+        16768,
+        16754,
+        16360
       ],
-      "emcee": 10429,
+      "emcee": 16312,
       "venue": 10763,
       "name": "New Favorites",
       "description": "",
@@ -1330,9 +1332,11 @@
     {
       "id": 17272,
       "performers": [
-        16918
+        16786,
+        16918,
+        15957
       ],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 12478,
       "name": "Braunger Hour",
       "description": "",
@@ -1358,7 +1362,6 @@
     {
       "id": 17280,
       "performers": [
-        15957,
         16919,
         15738,
         16903,

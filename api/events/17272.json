@@ -1,9 +1,11 @@
 {
   "id": 17272,
   "performers": [
-    16918
+    16786,
+    16918,
+    15957
   ],
-  "emcee": 0,
+  "emcee": 10429,
   "venue": 12478,
   "name": "Braunger Hour",
   "description": "",
