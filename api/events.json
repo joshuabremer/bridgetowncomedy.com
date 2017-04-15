@@ -747,12 +747,13 @@
       "id": 17196,
       "performers": [
         16201,
-        16177,
-        16147,
+        16464,
         16853,
         16557,
         16107,
-        16571
+        16571,
+        16177,
+        16187
       ],
       "emcee": 16869,
       "venue": 10677,
@@ -817,18 +818,6 @@
       "endDateTime": "2017-05-07T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17199-new-favorites"
-    },
-    {
-      "id": 17200,
-      "performers": [],
-      "emcee": 0,
-      "venue": 10763,
-      "name": "Festival Buds",
-      "description": "",
-      "startDateTime": "2017-05-07T04:00:00.000Z",
-      "endDateTime": "2017-05-07T05:30:00.000Z",
-      "price": 0,
-      "pageUrl": "17200-festival-buds"
     },
     {
       "id": 17202,

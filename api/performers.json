@@ -560,7 +560,8 @@
       "id": 16187,
       "events": [
         17154,
-        17190
+        17190,
+        17196
       ],
       "emceeEvents": [
         17191
@@ -1532,7 +1533,9 @@
     },
     {
       "id": 16464,
-      "events": [],
+      "events": [
+        17196
+      ],
       "emceeEvents": [],
       "name": "Sara June",
       "twitter": "heysarajune",
@@ -1686,8 +1689,7 @@
     {
       "id": 16147,
       "events": [
-        17148,
-        17196
+        17148
       ],
       "emceeEvents": [
         17172
