@@ -1,7 +1,9 @@
 {
   "id": 17323,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17187
+  ],
   "name": "Danny Maupin and Tyler Jackson",
   "twitter": "",
   "website": "",
