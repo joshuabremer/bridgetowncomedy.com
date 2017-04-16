@@ -310,16 +310,16 @@
       "performers": [
         16647,
         16670,
-        16855,
-        17122
+        16337,
+        16190
       ],
       "emcee": 16894,
       "venue": 10373,
       "show": "16929",
       "name": "Turnt Up with Eliza Skinner",
       "description": "",
-      "startDateTime": "2017-05-07T04:00:00.000Z",
-      "endDateTime": "2017-05-07T05:30:00.000Z",
+      "startDateTime": "2017-05-07T06:00:00.000Z",
+      "endDateTime": "2017-05-07T06:59:00.000Z",
       "price": 0,
       "pageUrl": "17167-turnt-up-with-eliza-skinner"
     },
@@ -1442,13 +1442,17 @@
     },
     {
       "id": 17320,
-      "performers": [],
+      "performers": [
+        16487,
+        16401,
+        16925
+      ],
       "emcee": 16917,
       "venue": 10373,
       "name": "The Dave Hill Experiment",
       "description": "",
-      "startDateTime": "2017-05-07T06:00:00.000Z",
-      "endDateTime": "2017-05-07T06:59:00.000Z",
+      "startDateTime": "2017-05-07T04:00:00.000Z",
+      "endDateTime": "2017-05-07T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17320-the-dave-hill-experiment"
     },
