@@ -1,22 +1,22 @@
 {
   "performers": [
     {
-      "id": 16304,
+      "id": 15748,
       "events": [
-        17155
+        17149,
+        17181,
+        17206
       ],
-      "emceeEvents": [
-        17173
-      ],
-      "name": "JR De Guzman",
-      "twitter": "jrdeguzm",
-      "website": "http://j.deguzman.r@gmail.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
-      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
-      "sortOrder": 73,
+      "emceeEvents": [],
+      "name": "Gareth Reynolds ",
+      "twitter": "reynoldsgareth",
+      "website": "http://www.garethreynolds.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gareth_reynolds_2016.jpg",
+      "photoUrl": "/api/img/performer-images/performer-garethreynolds-300x300.jpg",
+      "sortOrder": 72,
       "excludeFromList": false,
-      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
-      "pageUrl": "16304-jr-de-guzman"
+      "bio": "<p><strong>GARETH REYNOLDS</strong> hails from the sweet streets of Milwaukee, Wisconsin originally. After moving to Los Angeles, Gareth starred in NBC’s ‘The Real Wedding Crashers’ which was as creatively stimulating as it was successful. However, through that show he began producing and writing ooriginal material, eventually making shows at COMEDY CENTRAL, the TRAVEL CHANNEL, and MTV.</p>\n<p>In 2015 he began doing an American History podcast called ‘The Dollop’ with Dave Anthony, which currently gets over 1.3 million downloads each month. The podcast has taken him all over the world to perform it. He just appeared in the ABC show ‘Hail Mary’ in which he is one of the leads and is a writer on NETFLIX original series Flaked. He currently has a development deal with FOX, and he now tours the country doing stand up. He also has a cat named Jose.</p>\n",
+      "pageUrl": "15748-gareth-reynolds-"
     },
     {
       "id": 16925,
@@ -758,7 +758,8 @@
       "id": 16574,
       "events": [
         17204,
-        17249
+        17249,
+        17250
       ],
       "emceeEvents": [
         17148
@@ -1016,7 +1017,6 @@
       "id": 16337,
       "events": [
         17150,
-        17172,
         17181
       ],
       "emceeEvents": [],
@@ -1091,8 +1091,7 @@
       "events": [
         17170,
         17199,
-        17214,
-        17250
+        17214
       ],
       "emceeEvents": [],
       "name": "Shalewa Sharpe",
@@ -1321,24 +1320,6 @@
       "pageUrl": "15957-raj-desai"
     },
     {
-      "id": 15748,
-      "events": [
-        17149,
-        17181,
-        17206
-      ],
-      "emceeEvents": [],
-      "name": "Gareth Reynolds ",
-      "twitter": "reynoldsgareth",
-      "website": "http://www.garethreynolds.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/gareth_reynolds_2016.jpg",
-      "photoUrl": "/api/img/performer-images/performer-garethreynolds-300x300.jpg",
-      "sortOrder": 72,
-      "excludeFromList": false,
-      "bio": "<p><strong>GARETH REYNOLDS</strong> hails from the sweet streets of Milwaukee, Wisconsin originally. After moving to Los Angeles, Gareth starred in NBC’s ‘The Real Wedding Crashers’ which was as creatively stimulating as it was successful. However, through that show he began producing and writing ooriginal material, eventually making shows at COMEDY CENTRAL, the TRAVEL CHANNEL, and MTV.</p>\n<p>In 2015 he began doing an American History podcast called ‘The Dollop’ with Dave Anthony, which currently gets over 1.3 million downloads each month. The podcast has taken him all over the world to perform it. He just appeared in the ABC show ‘Hail Mary’ in which he is one of the leads and is a writer on NETFLIX original series Flaked. He currently has a development deal with FOX, and he now tours the country doing stand up. He also has a cat named Jose.</p>\n",
-      "pageUrl": "15748-gareth-reynolds-"
-    },
-    {
       "id": 17009,
       "events": [],
       "emceeEvents": [
@@ -1353,6 +1334,24 @@
       "excludeFromList": false,
       "bio": "<p>Brooklyn resident Eugene Mirman escaped the clutches of Russian communism at the age of four when his family immigrated from Moscow to Lexington, MA (where along with Paul Revere and John Adams he kicked off the American revolution). He attended Hampshire College and designed his own major of Comedy – doing a one-hour standup act as his thesis (for which he was made fun of, don’t worry).</p>\n<p>Eugene currently stars as the voice of “Gene” on Fox’s hit animated series Bob’s Burgers. He is also known for portraying comedian/mobster Yvgeny Mirminsky on Adult Swim’s Delocated, Eugene the landlord on Flight of the Conchords, Dr. Eugene Mirman on Aqua Teen Hunger Force and Eugene, the Russian foreign exchange student, on Home Movies. He is a frequent co-host of Star Talk with Neil deGrasse Tyson and hosts the audio series Hold On with Eugene Mirman for Audible, which has featured such guests as Jim Gaffigan, “Weird Al” Yankovic, and Reggie Watts. Eugene has also appeared on Archer, @Midnight, Inside Amy Schumer, Late Night With Conan O’Brien, Russell Howard’s Good News, Late Night with Seth Myers, Broad City, Last Week Tonight with John Oliver and more.</p>\n<p>Eugene’s comedy special Eugene Mirman: An Evening of Comedy in a Fake Underground Laboratory aired on Comedy Central in 2012 and his most recent special, Vegan on His Way to the Complain Store, premiered on Netflix in 2015. In 2015 he also released a nine-disc vinyl box set on SubPop entitled I’m Sorry (You’re Welcome), which could also be purchased as a chair, a bathrobe, and a puppy.</p>\n<p>Eugene was named Best New York City Comedian by the Village Voice, one of “50 Funniest” by Time Out New York, and one of the 10 best comedians of the last decade by Paste Magazine. Eugene was also named by Rolling Stone as “Hot Twitterer” and keeps his 400k+ followers entertained daily.</p>\n<p>A pioneer of the comedy variety show since the days of Rififi, Eugene co-founded Pretty Good Friends along with Julie Smith Clem, which began as a weekly comedy show in Brooklyn, but grew into tours, large outdoor shows, and TV and radio projects. Out of these shows, Eugene and Julie also created (originally as a joke) the Eugene Mirman Comedy Festival, which is now a yearly institution in Brooklyn and beyond.</p>\n",
       "pageUrl": "17009-eugene-mirman"
+    },
+    {
+      "id": 16304,
+      "events": [
+        17155
+      ],
+      "emceeEvents": [
+        17173
+      ],
+      "name": "JR De Guzman",
+      "twitter": "jrdeguzm",
+      "website": "http://j.deguzman.r@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
+      "sortOrder": 73,
+      "excludeFromList": false,
+      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
+      "pageUrl": "16304-jr-de-guzman"
     },
     {
       "id": 16808,
@@ -1542,8 +1541,7 @@
       "events": [
         17158,
         17170,
-        17210,
-        17250
+        17210
       ],
       "emceeEvents": [],
       "name": "Pat Brown",
@@ -1630,7 +1628,6 @@
       "id": 16519,
       "events": [
         17157,
-        17187,
         17219,
         17249
       ],
@@ -1650,7 +1647,6 @@
       "events": [
         17163,
         17187,
-        17198,
         17214,
         17280
       ],
@@ -1960,9 +1956,7 @@
     {
       "id": 16503,
       "events": [
-        17151,
-        17198,
-        17234
+        17151
       ],
       "emceeEvents": [
         17249
@@ -2589,20 +2583,6 @@
       "pageUrl": "17321-allegra-ringo-and-renee-colvert"
     },
     {
-      "id": 17322,
-      "events": [],
-      "emceeEvents": [],
-      "name": "Renee Colvert",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bridgetown_2017_twitter_1_0.jpg",
-      "photoUrl": "/api/img/performer-images/performer-reneecolvert-300x300.jpg",
-      "sortOrder": 143,
-      "excludeFromList": true,
-      "bio": "<p>this is the bio for renee colvert</p>\n",
-      "pageUrl": "17322-renee-colvert"
-    },
-    {
       "id": 17323,
       "events": [],
       "emceeEvents": [
@@ -2613,7 +2593,7 @@
       "website": "",
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bridgetown_2017_twitter_1_1.jpg",
       "photoUrl": "/api/img/performer-images/performer-dannymaupinandtylerjackson-300x300.jpg",
-      "sortOrder": 144,
+      "sortOrder": 143,
       "excludeFromList": true,
       "bio": "<p>This is a show at breakfast time.</p>\n",
       "pageUrl": "17323-danny-maupin-and-tyler-jackson"
