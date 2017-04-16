@@ -1,10 +1,11 @@
 {
   "id": 16508,
   "events": [
-    17152,
     17173
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17152
+  ],
   "name": "Andrew Orolfo",
   "twitter": "Andrew_orolfo",
   "website": "",
