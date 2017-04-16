@@ -285,10 +285,11 @@
       "events": [
         17160,
         17165,
-        17181,
-        17198
+        17181
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17320
+      ],
       "name": "Dave Hill",
       "twitter": "mrdavehill",
       "website": "http://davehillonline.com",
@@ -502,7 +503,8 @@
       "id": 16603,
       "events": [
         17154,
-        17192
+        17192,
+        17197
       ],
       "emceeEvents": [],
       "name": "Debra DiGiovanni",
@@ -1219,7 +1221,6 @@
       "events": [
         17163,
         17164,
-        17197,
         17214,
         17254,
         17260
@@ -1255,11 +1256,10 @@
     {
       "id": 16312,
       "events": [
-        17151
+        17151,
+        17175
       ],
-      "emceeEvents": [
-        17199
-      ],
+      "emceeEvents": [],
       "name": "Nick Chambers",
       "twitter": "chamberscomedy",
       "website": "http://www.chamberscomedy.com",
@@ -1782,8 +1782,7 @@
     {
       "id": 16801,
       "events": [
-        17151,
-        17175
+        17151
       ],
       "emceeEvents": [
         17250,
@@ -1894,10 +1893,10 @@
       "id": 16754,
       "events": [
         17159,
-        17199,
         17216
       ],
       "emceeEvents": [
+        17199,
         17219
       ],
       "name": "Nasser Khan",
@@ -1914,6 +1913,7 @@
       "id": 15767,
       "events": [
         17155,
+        17175,
         17196
       ],
       "emceeEvents": [],
@@ -2021,7 +2021,7 @@
       "id": 16169,
       "events": [
         17152,
-        17175,
+        17199,
         17217,
         17250
       ],

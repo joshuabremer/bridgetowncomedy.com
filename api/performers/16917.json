@@ -3,10 +3,11 @@
   "events": [
     17160,
     17165,
-    17181,
-    17198
+    17181
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17320
+  ],
   "name": "Dave Hill",
   "twitter": "mrdavehill",
   "website": "http://davehillonline.com",
