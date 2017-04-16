@@ -142,14 +142,14 @@
     {
       "id": 17156,
       "performers": [],
-      "emcee": 0,
+      "emcee": 10429,
       "venue": 10763,
-      "name": "The Andie Main Attraction",
+      "name": "Analog Downstairs Early",
       "description": "",
       "startDateTime": "2017-05-05T02:00:00.000Z",
       "endDateTime": "2017-05-05T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17156-the-andie-main-attraction"
+      "pageUrl": "17156-analog-downstairs-early"
     },
     {
       "id": 17157,
@@ -1101,12 +1101,12 @@
       ],
       "emcee": 16754,
       "venue": 10677,
-      "name": "Analog Theater Primetime",
+      "name": "Nerd Life",
       "description": "",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17219-analog-theater-primetime"
+      "pageUrl": "17219-nerd-life"
     },
     {
       "id": 17231,
