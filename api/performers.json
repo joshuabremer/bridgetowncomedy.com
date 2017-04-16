@@ -716,7 +716,6 @@
     {
       "id": 16136,
       "events": [
-        17189,
         17205,
         17260
       ],
@@ -888,8 +887,7 @@
       "events": [
         17149,
         17191,
-        17194,
-        17217
+        17194
       ],
       "emceeEvents": [],
       "name": "Drennon Davis",
@@ -1490,7 +1488,9 @@
         17249,
         17275
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17216
+      ],
       "name": "Katie Nguyen",
       "twitter": "ktnuggin",
       "website": "http://katie-nguyen.com",
@@ -1852,7 +1852,7 @@
       "id": 16265,
       "events": [
         17156,
-        17175
+        17199
       ],
       "emceeEvents": [],
       "name": "Bret Raybould",
@@ -2015,7 +2015,7 @@
       "id": 16169,
       "events": [
         17152,
-        17199,
+        17175,
         17217,
         17250
       ],
