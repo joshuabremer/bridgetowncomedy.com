@@ -489,7 +489,9 @@
     },
     {
       "id": 17177,
-      "performers": [],
+      "performers": [
+        16136
+      ],
       "emcee": 0,
       "venue": 10763,
       "name": "Analog Downstairs Late Night",
@@ -715,8 +717,7 @@
         16447,
         16670,
         16915,
-        15977,
-        16925
+        15977
       ],
       "emcee": 16187,
       "venue": 10374,
@@ -904,7 +905,6 @@
         17122,
         15897,
         16574,
-        16277,
         17237,
         17239
       ],
@@ -1019,18 +1019,6 @@
       "pageUrl": "17210-sunday-brunch-show"
     },
     {
-      "id": 17212,
-      "performers": [],
-      "emcee": 0,
-      "venue": 10374,
-      "name": "Festival Closing Show",
-      "description": "",
-      "startDateTime": "2017-05-08T05:00:00.000Z",
-      "endDateTime": "2017-05-08T06:30:00.000Z",
-      "price": 0,
-      "pageUrl": "17212-festival-closing-show"
-    },
-    {
       "id": 17213,
       "performers": [],
       "emcee": 10429,
@@ -1098,7 +1086,6 @@
       "id": 17217,
       "performers": [
         16169,
-        16602,
         16921,
         16657
       ],
@@ -1199,7 +1186,6 @@
         16429,
         16895,
         16503,
-        17143,
         16103
       ],
       "emcee": 16484,
