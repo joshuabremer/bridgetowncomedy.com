@@ -447,7 +447,8 @@
       "id": 16039,
       "events": [
         17160,
-        17197
+        17197,
+        17203
       ],
       "emceeEvents": [
         17214
@@ -465,7 +466,8 @@
     {
       "id": 16905,
       "events": [
-        17189
+        17189,
+        17203
       ],
       "emceeEvents": [],
       "name": "Ahmed Bharoocha",
@@ -521,6 +523,7 @@
         17155,
         17181,
         17202,
+        17203,
         17259
       ],
       "emceeEvents": [],
@@ -556,7 +559,8 @@
       "id": 15749,
       "events": [
         17180,
-        17197
+        17197,
+        17203
       ],
       "emceeEvents": [],
       "name": "Chris Fairbanks ",
@@ -837,6 +841,7 @@
       "id": 16521,
       "events": [
         17189,
+        17234,
         17254
       ],
       "emceeEvents": [
@@ -1813,6 +1818,7 @@
       "id": 15905,
       "events": [
         17151,
+        17203,
         17210
       ],
       "emceeEvents": [],
@@ -1925,7 +1931,9 @@
         17164,
         17275
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17203
+      ],
       "name": "Zak Toscani",
       "twitter": "zaktoscani",
       "website": "http://www.zaktoscani.com/",
