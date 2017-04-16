@@ -1,7 +1,12 @@
 {
   "id": 17361,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    15820,
+    16201,
+    16884,
+    16641
+  ],
+  "emcee": 10429,
   "venue": 10373,
   "name": "Doug Fir Primetime",
   "description": "",

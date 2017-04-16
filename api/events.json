@@ -344,7 +344,7 @@
         16855,
         15859,
         16786,
-        16928,
+        16107,
         17008
       ],
       "emcee": 16922,
@@ -359,8 +359,15 @@
     },
     {
       "id": 17169,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16549,
+        16503,
+        16304,
+        16251,
+        16429,
+        16103
+      ],
+      "emcee": 16677,
       "venue": 10380,
       "name": "Cider Riot Early Show",
       "description": "",
@@ -475,8 +482,16 @@
     },
     {
       "id": 17176,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16821,
+        15967,
+        16768,
+        15905,
+        16670,
+        16930,
+        16346
+      ],
+      "emcee": 16276,
       "venue": 10763,
       "name": "Analog Downstairs Prime Time",
       "description": "",
@@ -486,24 +501,17 @@
       "pageUrl": "17176-analog-downstairs-prime-time"
     },
     {
-      "id": 17177,
-      "performers": [],
-      "emcee": 10429,
-      "venue": 10763,
-      "name": "Analog Downstairs Late Night",
-      "description": "",
-      "startDateTime": "2017-05-06T06:30:00.000Z",
-      "endDateTime": "2017-05-06T06:59:00.000Z",
-      "price": 0,
-      "pageUrl": "17177-analog-downstairs-late-night"
-    },
-    {
       "id": 17179,
       "performers": [
+        16150,
+        16447,
+        16405,
+        16474,
         16136,
+        16927,
         17239
       ],
-      "emcee": 0,
+      "emcee": 16112,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -1397,6 +1405,7 @@
     {
       "id": 17280,
       "performers": [
+        16658,
         16919,
         15738,
         16903,
@@ -1438,8 +1447,13 @@
     },
     {
       "id": 17361,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        15820,
+        16201,
+        16884,
+        16641
+      ],
+      "emcee": 10429,
       "venue": 10373,
       "name": "Doug Fir Primetime",
       "description": "",

@@ -1,7 +1,14 @@
 {
   "id": 17169,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16549,
+    16503,
+    16304,
+    16251,
+    16429,
+    16103
+  ],
+  "emcee": 16677,
   "venue": 10380,
   "name": "Cider Riot Early Show",
   "description": "",

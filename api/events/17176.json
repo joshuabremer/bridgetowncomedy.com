@@ -1,7 +1,15 @@
 {
   "id": 17176,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16821,
+    15967,
+    16768,
+    15905,
+    16670,
+    16930,
+    16346
+  ],
+  "emcee": 16276,
   "venue": 10763,
   "name": "Analog Downstairs Prime Time",
   "description": "",
