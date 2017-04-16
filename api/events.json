@@ -27,7 +27,9 @@
         15748,
         16591,
         16894,
-        17122
+        17122,
+        15977,
+        17239
       ],
       "emcee": 17143,
       "venue": 10374,
@@ -280,15 +282,15 @@
         16647,
         16670,
         16855,
-        16337
+        17122
       ],
       "emcee": 16894,
       "venue": 10373,
       "show": "16929",
       "name": "Turnt Up with Eliza Skinner",
       "description": "",
-      "startDateTime": "2017-05-07T06:00:00.000Z",
-      "endDateTime": "2017-05-07T06:59:00.000Z",
+      "startDateTime": "2017-05-07T04:00:00.000Z",
+      "endDateTime": "2017-05-07T05:30:00.000Z",
       "price": 0,
       "pageUrl": "17167-turnt-up-with-eliza-skinner"
     },
@@ -1374,6 +1376,18 @@
       "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 0,
       "pageUrl": "17281-sunday-dinger-with-gabe-dinner-a-second-course"
+    },
+    {
+      "id": 17320,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "The Dave Hill Experiment",
+      "description": "",
+      "startDateTime": "2017-05-07T06:00:00.000Z",
+      "endDateTime": "2017-05-07T06:59:00.000Z",
+      "price": 0,
+      "pageUrl": "17320-the-dave-hill-experiment"
     }
   ]
 }
