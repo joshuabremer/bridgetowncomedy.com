@@ -5,9 +5,9 @@
       "performers": [
         15930,
         16346,
-        16147,
-        15888,
         15967,
+        15722,
+        15888,
         16895,
         16925
       ],
@@ -46,10 +46,11 @@
       "performers": [
         16912,
         16474,
-        16337,
         15786,
-        16855,
+        16337,
+        16732,
         16926,
+        16855,
         16919
       ],
       "emcee": 16212,
@@ -85,8 +86,11 @@
     },
     {
       "id": 17152,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16508,
+        16930
+      ],
+      "emcee": 10429,
       "venue": 10380,
       "name": "Cider Riot Early Show",
       "description": "",
@@ -114,6 +118,7 @@
         16112,
         16396,
         16177,
+        16916,
         16187,
         16603
       ],
@@ -129,7 +134,9 @@
     },
     {
       "id": 17155,
-      "performers": [],
+      "performers": [
+        16401
+      ],
       "emcee": 16429,
       "venue": 10677,
       "name": "Whatever Forever with Robbie Pankow",
@@ -141,7 +148,9 @@
     },
     {
       "id": 17156,
-      "performers": [],
+      "performers": [
+        16903
+      ],
       "emcee": 10429,
       "venue": 10763,
       "name": "Analog Downstairs Early",
@@ -153,7 +162,10 @@
     },
     {
       "id": 17157,
-      "performers": [],
+      "performers": [
+        16325,
+        16828
+      ],
       "emcee": 15908,
       "venue": 10763,
       "name": "Ben Harkins Isn't Sure",
@@ -185,6 +197,7 @@
     {
       "id": 17159,
       "performers": [
+        16647,
         17239
       ],
       "emcee": 10429,
@@ -1336,7 +1349,9 @@
     {
       "id": 17275,
       "performers": [
-        16800
+        16800,
+        15923,
+        15979
       ],
       "emcee": 17238,
       "venue": 10763,

@@ -1,6 +1,8 @@
 {
   "id": 17156,
-  "performers": [],
+  "performers": [
+    16903
+  ],
   "emcee": 10429,
   "venue": 10763,
   "name": "Analog Downstairs Early",

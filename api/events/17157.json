@@ -1,6 +1,9 @@
 {
   "id": 17157,
-  "performers": [],
+  "performers": [
+    16325,
+    16828
+  ],
   "emcee": 15908,
   "venue": 10763,
   "name": "Ben Harkins Isn't Sure",
