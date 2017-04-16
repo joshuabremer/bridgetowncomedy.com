@@ -447,8 +447,7 @@
       "id": 16039,
       "events": [
         17160,
-        17197,
-        17203
+        17197
       ],
       "emceeEvents": [
         17214
@@ -466,8 +465,7 @@
     {
       "id": 16905,
       "events": [
-        17189,
-        17203
+        17189
       ],
       "emceeEvents": [],
       "name": "Ahmed Bharoocha",
@@ -523,7 +521,6 @@
         17155,
         17181,
         17202,
-        17203,
         17259
       ],
       "emceeEvents": [],
@@ -727,7 +724,6 @@
     {
       "id": 16136,
       "events": [
-        17177,
         17205,
         17260
       ],
@@ -746,6 +742,7 @@
       "id": 16903,
       "events": [
         17156,
+        17203,
         17280
       ],
       "emceeEvents": [],
@@ -917,7 +914,8 @@
     {
       "id": 15786,
       "events": [
-        17150
+        17150,
+        17203
       ],
       "emceeEvents": [],
       "name": "Michelle Biloon",
@@ -968,6 +966,7 @@
       "id": 16325,
       "events": [
         17157,
+        17193,
         17250
       ],
       "emceeEvents": [],
@@ -1508,7 +1507,8 @@
     {
       "id": 16212,
       "events": [
-        17164
+        17164,
+        17203
       ],
       "emceeEvents": [
         17150
@@ -1527,7 +1527,8 @@
       "id": 15923,
       "events": [
         17159,
-        17164
+        17164,
+        17193
       ],
       "emceeEvents": [
         17281
@@ -1599,7 +1600,8 @@
     {
       "id": 16199,
       "events": [
-        17163
+        17163,
+        17193
       ],
       "emceeEvents": [],
       "name": "Mekki Leeper",
@@ -1743,7 +1745,8 @@
     {
       "id": 16147,
       "events": [
-        17155
+        17155,
+        17193
       ],
       "emceeEvents": [
         17172
@@ -2002,7 +2005,8 @@
       "id": 16756,
       "events": [
         17157,
-        17170
+        17170,
+        17193
       ],
       "emceeEvents": [],
       "name": "Yedoye Travis",
@@ -2037,7 +2041,8 @@
     {
       "id": 15967,
       "events": [
-        17148
+        17148,
+        17193
       ],
       "emceeEvents": [],
       "name": "Samantha Ruddy",
@@ -2141,7 +2146,8 @@
     {
       "id": 16396,
       "events": [
-        17154
+        17154,
+        17198
       ],
       "emceeEvents": [],
       "name": "Julia Shiplett",
@@ -2160,7 +2166,9 @@
         17154,
         17189
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17193
+      ],
       "name": "Wilfred Padua",
       "twitter": "wilfredpadua",
       "website": "http://wilfredpadua.com",
@@ -2235,7 +2243,8 @@
       "id": 16447,
       "events": [
         17156,
-        17191
+        17191,
+        17193
       ],
       "emceeEvents": [],
       "name": "Christian Ricketts",
@@ -2342,7 +2351,8 @@
     {
       "id": 16549,
       "events": [
-        17156
+        17156,
+        17203
       ],
       "emceeEvents": [],
       "name": "Jason Goad",

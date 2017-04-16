@@ -487,10 +487,8 @@
     },
     {
       "id": 17177,
-      "performers": [
-        16136
-      ],
-      "emcee": 0,
+      "performers": [],
+      "emcee": 10429,
       "venue": 10763,
       "name": "Analog Downstairs Late Night",
       "description": "",
@@ -748,8 +746,16 @@
     },
     {
       "id": 17193,
-      "performers": [],
-      "emcee": 0,
+      "performers": [
+        16147,
+        16199,
+        16447,
+        16325,
+        15967,
+        16756,
+        15923
+      ],
+      "emcee": 16112,
       "venue": 10380,
       "name": "Cider Riot Early Show",
       "description": "",
@@ -830,7 +836,9 @@
     },
     {
       "id": 17198,
-      "performers": [],
+      "performers": [
+        16396
+      ],
       "emcee": 15722,
       "venue": 10677,
       "show": "16274",
@@ -883,10 +891,11 @@
       "id": 17203,
       "performers": [
         15905,
-        16905,
-        16039,
+        16549,
+        15786,
+        16212,
+        16903,
         15749,
-        16401,
         17239
       ],
       "emcee": 16042,
