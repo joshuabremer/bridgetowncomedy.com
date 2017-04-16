@@ -1,7 +1,9 @@
 {
   "id": 17321,
   "events": [],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17184
+  ],
   "name": "Allegra Ringo and Renee Colvert",
   "twitter": "",
   "website": "",
