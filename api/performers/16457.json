@@ -2,9 +2,13 @@
   "id": 16457,
   "events": [
     17157,
+    17169,
+    17187,
     17199
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17213
+  ],
   "name": "David Venhuizen",
   "twitter": "david_venhuizen",
   "website": "http://davidvenhuizen.com",

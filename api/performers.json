@@ -5,6 +5,7 @@
       "events": [
         17155,
         17169,
+        17213,
         17249
       ],
       "emceeEvents": [],
@@ -187,6 +188,7 @@
       "events": [
         17181,
         17188,
+        17217,
         17231
       ],
       "emceeEvents": [
@@ -379,7 +381,8 @@
       "events": [
         17160,
         17165,
-        17192
+        17192,
+        17217
       ],
       "emceeEvents": [],
       "name": "Annie Lederman",
@@ -636,7 +639,7 @@
       "id": 16346,
       "events": [
         17148,
-        17176,
+        17172,
         17184
       ],
       "emceeEvents": [],
@@ -802,9 +805,7 @@
     {
       "id": 16921,
       "events": [
-        17149,
-        17172,
-        17217
+        17149
       ],
       "emceeEvents": [
         17181
@@ -903,7 +904,8 @@
       "events": [
         17149,
         17191,
-        17194
+        17194,
+        17198
       ],
       "emceeEvents": [],
       "name": "Drennon Davis",
@@ -1011,7 +1013,8 @@
       "id": 16318,
       "events": [
         17152,
-        17172
+        17172,
+        17198
       ],
       "emceeEvents": [
         17202
@@ -1140,6 +1143,7 @@
       "events": [
         17148,
         17170,
+        17215,
         17249
       ],
       "emceeEvents": [],
@@ -1176,9 +1180,13 @@
       "id": 16457,
       "events": [
         17157,
+        17169,
+        17187,
         17199
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17213
+      ],
       "name": "David Venhuizen",
       "twitter": "david_venhuizen",
       "website": "http://davidvenhuizen.com",
@@ -1668,7 +1676,7 @@
       "events": [
         17163,
         17187,
-        17214,
+        17217,
         17280
       ],
       "emceeEvents": [],
@@ -1797,7 +1805,8 @@
     {
       "id": 16801,
       "events": [
-        17151
+        17151,
+        17218
       ],
       "emceeEvents": [
         17250,
@@ -1872,7 +1881,8 @@
       "id": 16265,
       "events": [
         17156,
-        17199
+        17199,
+        17217
       ],
       "emceeEvents": [],
       "name": "Bret Raybould",
@@ -2434,7 +2444,10 @@
     {
       "id": 17116,
       "events": [
-        17152
+        17152,
+        17176,
+        17187,
+        17215
       ],
       "emceeEvents": [],
       "name": "John B. Duff",
