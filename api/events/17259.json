@@ -1,7 +1,16 @@
 {
   "id": 17259,
-  "performers": [],
-  "emcee": 0,
+  "performers": [
+    16828,
+    15957,
+    16401,
+    16647,
+    16790,
+    16768,
+    16927,
+    17143
+  ],
+  "emcee": 16732,
   "venue": 10373,
   "name": "Unspecified Panel",
   "description": "",

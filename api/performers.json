@@ -64,7 +64,8 @@
         17182,
         17184,
         17188,
-        17202
+        17202,
+        17259
       ],
       "emceeEvents": [],
       "name": "Karen Kilgariff",
@@ -207,7 +208,8 @@
         17167,
         17189,
         17194,
-        17197
+        17197,
+        17259
       ],
       "emceeEvents": [],
       "name": "Marcella Arguello",
@@ -227,6 +229,7 @@
         17170,
         17173,
         17206,
+        17259,
         17260
       ],
       "emceeEvents": [],
@@ -356,7 +359,8 @@
       "events": [
         17154,
         17180,
-        17189
+        17189,
+        17205
       ],
       "emceeEvents": [],
       "name": "Nico Santos",
@@ -516,7 +520,8 @@
       "events": [
         17155,
         17181,
-        17202
+        17202,
+        17259
       ],
       "emceeEvents": [],
       "name": "Andres du Bouchet",
@@ -659,9 +664,9 @@
     {
       "id": 17237,
       "events": [
+        17189,
         17192,
         17204,
-        17214,
         17248
       ],
       "emceeEvents": [],
@@ -682,7 +687,9 @@
         17180,
         17205
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17259
+      ],
       "name": "Caitlin Gill",
       "twitter": "ROBOTCAITLIN",
       "website": "http://www.caitlingillcomedy.com/",
@@ -973,7 +980,8 @@
       "events": [
         17155,
         17191,
-        17199
+        17199,
+        17259
       ],
       "emceeEvents": [],
       "name": "Sean Devlin 叶 世民",
@@ -1304,6 +1312,7 @@
       "id": 15957,
       "events": [
         17250,
+        17259,
         17272
       ],
       "emceeEvents": [],
@@ -1485,7 +1494,6 @@
       "events": [
         17196,
         17232,
-        17249,
         17275
       ],
       "emceeEvents": [
@@ -1690,6 +1698,7 @@
         17159,
         17175,
         17189,
+        17259,
         17260
       ],
       "emceeEvents": [],
@@ -1870,7 +1879,8 @@
       "events": [
         17181,
         17206,
-        17234
+        17234,
+        17259
       ],
       "emceeEvents": [
         17149
