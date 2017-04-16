@@ -500,9 +500,10 @@
     {
       "id": 17179,
       "performers": [
+        16136,
         17239
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -1434,6 +1435,18 @@
       "endDateTime": "2017-05-07T06:59:00.000Z",
       "price": 0,
       "pageUrl": "17320-the-dave-hill-experiment"
+    },
+    {
+      "id": 17361,
+      "performers": [],
+      "emcee": 0,
+      "venue": 10373,
+      "name": "Doug Fir Primetime",
+      "description": "",
+      "startDateTime": "2017-05-06T04:00:00.000Z",
+      "endDateTime": "2017-05-06T05:30:00.000Z",
+      "price": 0,
+      "pageUrl": "17361-doug-fir-primetime"
     }
   ]
 }
