@@ -815,7 +815,6 @@
       "id": 16921,
       "events": [
         17149,
-        17172,
         17260
       ],
       "emceeEvents": [
@@ -1008,6 +1007,7 @@
       "events": [
         17163,
         17175,
+        17187,
         17191,
         17259
       ],
@@ -1047,7 +1047,8 @@
       "events": [
         17150,
         17167,
-        17181
+        17181,
+        17281
       ],
       "emceeEvents": [],
       "name": "Troy Walker",
@@ -1101,7 +1102,8 @@
       "events": [
         17148,
         17164,
-        17173
+        17173,
+        17213
       ],
       "emceeEvents": [
         17198
@@ -1215,6 +1217,7 @@
       "id": 16360,
       "events": [
         17199,
+        17215,
         17361
       ],
       "emceeEvents": [
@@ -1437,7 +1440,8 @@
       "events": [
         17154,
         17168,
-        17172
+        17169,
+        17191
       ],
       "emceeEvents": [
         17206
@@ -1476,7 +1480,9 @@
         17175,
         17210
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17192
+      ],
       "name": "Kathleen Kanz",
       "twitter": "",
       "website": "http://www.kathleenkanz.com",
@@ -1667,7 +1673,8 @@
       "events": [
         17181,
         17204,
-        17275
+        17275,
+        17281
       ],
       "emceeEvents": [],
       "name": "Julia Claire",
@@ -1795,7 +1802,8 @@
       "id": 16147,
       "events": [
         17155,
-        17193
+        17193,
+        17235
       ],
       "emceeEvents": [
         17361
@@ -1814,11 +1822,11 @@
       "id": 16912,
       "events": [
         17150,
-        17194
+        17194,
+        17198,
+        17233
       ],
-      "emceeEvents": [
-        17192
-      ],
+      "emceeEvents": [],
       "name": "Barbara Gray",
       "twitter": "BabsGray",
       "website": "http://myjokesareuphere.com",
@@ -2025,7 +2033,8 @@
       "id": 16503,
       "events": [
         17151,
-        17169
+        17169,
+        17235
       ],
       "emceeEvents": [
         17249
@@ -2063,7 +2072,8 @@
       "events": [
         17157,
         17170,
-        17193
+        17193,
+        17213
       ],
       "emceeEvents": [],
       "name": "Yedoye Travis",
@@ -2136,8 +2146,7 @@
       "events": [
         17151,
         17179,
-        17196,
-        17219
+        17196
       ],
       "emceeEvents": [],
       "name": "Robert Jenkins",
@@ -2173,6 +2182,7 @@
       "id": 16853,
       "events": [
         17152,
+        17191,
         17196,
         17219
       ],
@@ -2210,7 +2220,9 @@
       "id": 16396,
       "events": [
         17154,
-        17198
+        17198,
+        17233,
+        17320
       ],
       "emceeEvents": [],
       "name": "Julia Shiplett",

@@ -1,6 +1,9 @@
 {
   "id": 17235,
-  "performers": [],
+  "performers": [
+    16147,
+    16503
+  ],
   "emcee": 16409,
   "venue": 10763,
   "name": "Amanda Arnolder and Wiser",
