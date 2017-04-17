@@ -2,11 +2,12 @@
   "id": 15971,
   "events": [
     17151,
-    17179,
     17196,
     17218
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17179
+  ],
   "name": "Robert Jenkins",
   "twitter": "RobJComedy",
   "website": "http://Robjcomedy.com",

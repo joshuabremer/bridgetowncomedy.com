@@ -1,6 +1,12 @@
 {
   "id": 17364,
-  "events": [],
+  "events": [
+    17182,
+    17187,
+    17188,
+    17204,
+    17213
+  ],
   "emceeEvents": [],
   "name": "Kyle Kinane",
   "twitter": "kylekinane",

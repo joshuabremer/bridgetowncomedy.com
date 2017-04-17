@@ -2,11 +2,12 @@
   "id": 16784,
   "events": [
     17155,
-    17164,
     17214,
     17260
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17164
+  ],
   "name": "Curtis Cook",
   "twitter": "Curtis_Cook",
   "website": "http://CurtisCookComedy.com",

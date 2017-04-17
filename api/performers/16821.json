@@ -3,10 +3,11 @@
   "events": [
     17154,
     17175,
-    17215,
     17249
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17215
+  ],
   "name": "George Civeris",
   "twitter": "georgeciveris",
   "website": "",

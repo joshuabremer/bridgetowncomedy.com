@@ -3,10 +3,11 @@
   "events": [
     17156,
     17202,
-    17219,
     17320
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17219
+  ],
   "name": "T.J. Chambers",
   "twitter": "tjchambersLA",
   "website": "http://www.imdb.com/name/nm3811789/",

@@ -2,11 +2,12 @@
   "id": 17116,
   "events": [
     17152,
-    17176,
     17187,
     17213
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17176
+  ],
   "name": "John B. Duff",
   "twitter": "johnbduff",
   "website": "http://www.oddblock.ca",

@@ -66,7 +66,7 @@
         17182,
         17184,
         17188,
-        17213,
+        17214,
         17259
       ],
       "emceeEvents": [],
@@ -104,7 +104,13 @@
     },
     {
       "id": 17364,
-      "events": [],
+      "events": [
+        17182,
+        17187,
+        17188,
+        17204,
+        17213
+      ],
       "emceeEvents": [],
       "name": "Kyle Kinane",
       "twitter": "kylekinane",
@@ -140,6 +146,7 @@
     {
       "id": 16918,
       "events": [
+        17213,
         17231,
         17254,
         17271,
@@ -263,6 +270,7 @@
       "id": 16894,
       "events": [
         17149,
+        17187,
         17280
       ],
       "emceeEvents": [
@@ -515,6 +523,7 @@
         17160,
         17167,
         17180,
+        17202,
         17206,
         17216
       ],
@@ -533,6 +542,7 @@
       "id": 16603,
       "events": [
         17154,
+        17187,
         17192,
         17197
       ],
@@ -590,6 +600,7 @@
       "id": 15749,
       "events": [
         17180,
+        17187,
         17197,
         17203,
         17233
@@ -672,6 +683,7 @@
         17148,
         17172,
         17184,
+        17198,
         17233
       ],
       "emceeEvents": [],
@@ -689,6 +701,7 @@
       "id": 16895,
       "events": [
         17148,
+        17187,
         17234,
         17250
       ],
@@ -727,7 +740,8 @@
       "events": [
         17150,
         17182,
-        17205
+        17205,
+        17235
       ],
       "emceeEvents": [
         17259
@@ -746,7 +760,7 @@
       "id": 16928,
       "events": [
         17168,
-        17172,
+        17176,
         17202,
         17208,
         17249
@@ -784,7 +798,7 @@
       "id": 16903,
       "events": [
         17156,
-        17203,
+        17204,
         17280
       ],
       "emceeEvents": [
@@ -843,6 +857,7 @@
       "id": 16921,
       "events": [
         17149,
+        17172,
         17210,
         17260
       ],
@@ -863,6 +878,7 @@
       "id": 16800,
       "events": [
         17164,
+        17235,
         17248,
         17275
       ],
@@ -882,13 +898,13 @@
     {
       "id": 16521,
       "events": [
+        17164,
         17189,
         17203,
         17254
       ],
       "emceeEvents": [
-        17160,
-        17164
+        17160
       ],
       "name": "Bri Pruett",
       "twitter": "bripruett",
@@ -904,6 +920,7 @@
       "id": 16869,
       "events": [
         17164,
+        17210,
         17214
       ],
       "emceeEvents": [
@@ -1039,6 +1056,7 @@
       "events": [
         17163,
         17187,
+        17235,
         17259,
         17361
       ],
@@ -1058,7 +1076,7 @@
       "events": [
         17152,
         17172,
-        17198,
+        17187,
         17202
       ],
       "emceeEvents": [],
@@ -1094,8 +1112,9 @@
     {
       "id": 15799,
       "events": [
-        17172,
+        17175,
         17192,
+        17210,
         17254
       ],
       "emceeEvents": [],
@@ -1290,11 +1309,12 @@
       "id": 16784,
       "events": [
         17155,
-        17164,
         17214,
         17260
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17164
+      ],
       "name": "Curtis Cook",
       "twitter": "Curtis_Cook",
       "website": "http://CurtisCookComedy.com",
@@ -1460,10 +1480,11 @@
       "events": [
         17156,
         17202,
-        17219,
         17320
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17219
+      ],
       "name": "T.J. Chambers",
       "twitter": "tjchambersLA",
       "website": "http://www.imdb.com/name/nm3811789/",
@@ -1654,12 +1675,11 @@
       "id": 16276,
       "events": [
         17160,
+        17169,
         17205,
         17210
       ],
-      "emceeEvents": [
-        17176
-      ],
+      "emceeEvents": [],
       "name": "Nick Sahoyah",
       "twitter": "sahoyah",
       "website": "http://facebook.com/nicksahoyah",
@@ -1902,7 +1922,8 @@
     {
       "id": 16922,
       "events": [
-        17158
+        17158,
+        17216
       ],
       "emceeEvents": [
         17168
@@ -1998,12 +2019,12 @@
     {
       "id": 16754,
       "events": [
-        17159,
+        17148,
+        17179,
         17216
       ],
       "emceeEvents": [
-        17199,
-        17219
+        17199
       ],
       "name": "Nasser Khan",
       "twitter": "khanfartist",
@@ -2118,7 +2139,7 @@
         17157,
         17170,
         17193,
-        17213
+        17216
       ],
       "emceeEvents": [],
       "name": "Yedoye Travis",
@@ -2194,11 +2215,12 @@
       "id": 15971,
       "events": [
         17151,
-        17179,
         17196,
         17218
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17179
+      ],
       "name": "Robert Jenkins",
       "twitter": "RobJComedy",
       "website": "http://Robjcomedy.com",
@@ -2214,10 +2236,11 @@
       "events": [
         17154,
         17175,
-        17215,
         17249
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17215
+      ],
       "name": "George Civeris",
       "twitter": "georgeciveris",
       "website": "",
@@ -2427,8 +2450,8 @@
     {
       "id": 15908,
       "events": [
-        17187,
-        17214
+        17172,
+        17215
       ],
       "emceeEvents": [
         17157
@@ -2448,7 +2471,6 @@
       "events": [
         17163,
         17170,
-        17216,
         17234
       ],
       "emceeEvents": [],
@@ -2542,11 +2564,12 @@
       "id": 17116,
       "events": [
         17152,
-        17176,
         17187,
         17213
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17176
+      ],
       "name": "John B. Duff",
       "twitter": "johnbduff",
       "website": "http://www.oddblock.ca",
@@ -2564,9 +2587,7 @@
         17168,
         17198
       ],
-      "emceeEvents": [
-        17215
-      ],
+      "emceeEvents": [],
       "name": "Kirsten Kuppenbender",
       "twitter": "kupptastic",
       "website": "http://www.kirstenkuppenbender.com",
@@ -2647,10 +2668,7 @@
         17149,
         17159,
         17179,
-        17182,
-        17188,
-        17203,
-        17204
+        17203
       ],
       "emceeEvents": [],
       "name": "Special Secret Guest!",
