@@ -97,7 +97,7 @@
       "emcee": 16508,
       "venue": 10380,
       "name": "Laugh Riot",
-      "description": "<p>A standup comedy showcase featurting the best of Bridgeton's new faces and festival favorites.</p>\n",
+      "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-05T02:30:00.000Z",
       "endDateTime": "2017-05-05T04:00:00.000Z",
       "price": 10,
@@ -359,7 +359,7 @@
       "emcee": 16277,
       "venue": 10380,
       "name": "Laugh Riot",
-      "description": "<p>A standup comedy showcase featurting the best of Bridgeton's new faces and festival favorites.</p>\n",
+      "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 10,
@@ -768,7 +768,7 @@
       "emcee": 16112,
       "venue": 10380,
       "name": "Laugh Riot",
-      "description": "",
+      "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-07T02:30:00.000Z",
       "endDateTime": "2017-05-07T04:00:00.000Z",
       "price": 0,
@@ -913,7 +913,7 @@
         15749,
         17239
       ],
-      "emcee": 16042,
+      "emcee": 16718,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -1096,7 +1096,7 @@
       "emcee": 0,
       "venue": 10380,
       "name": "Laugh Riot",
-      "description": "<p>A standup comedy showcase featurting the best of Bridgeton's new faces and festival favorites.</p>\n",
+      "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-08T02:30:00.000Z",
       "endDateTime": "2017-05-08T04:00:00.000Z",
       "price": 0,
@@ -1173,12 +1173,12 @@
       ],
       "emcee": 16754,
       "venue": 10677,
-      "name": "Nerd Life",
+      "name": "Nerd Up",
       "description": "",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17219-nerd-life"
+      "pageUrl": "17219-nerd-up"
     },
     {
       "id": 17231,
@@ -1235,10 +1235,10 @@
     {
       "id": 17234,
       "performers": [
-        16718,
         16429,
         16677,
         16521,
+        16042,
         16641,
         16895,
         16103
@@ -1317,12 +1317,12 @@
       ],
       "emcee": 16801,
       "venue": 10378,
-      "name": "Going' South",
-      "description": "",
+      "name": "Kiss My Grits",
+      "description": "<p>A showcase of Southern talent.</p>\n",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17250-going-south"
+      "pageUrl": "17250-kiss-my-grits"
     },
     {
       "id": 17254,
@@ -1516,12 +1516,12 @@
       ],
       "emcee": 16147,
       "venue": 10373,
-      "name": "Doug Fir Primetime",
+      "name": "T. G. I. Firday!",
       "description": "",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17361-doug-fir-primetime"
+      "pageUrl": "17361-t-g-i-firday"
     }
   ]
 }

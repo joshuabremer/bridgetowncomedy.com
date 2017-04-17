@@ -2017,11 +2017,10 @@
       "id": 16042,
       "events": [
         17164,
+        17234,
         17275
       ],
-      "emceeEvents": [
-        17203
-      ],
+      "emceeEvents": [],
       "name": "Zak Toscani",
       "twitter": "zaktoscani",
       "website": "http://www.zaktoscani.com/",
@@ -2480,10 +2479,11 @@
       "id": 16718,
       "events": [
         17158,
-        17180,
-        17234
+        17180
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17203
+      ],
       "name": "Andie Main",
       "twitter": "andiemain",
       "website": "http://andiemaincomedy.com",

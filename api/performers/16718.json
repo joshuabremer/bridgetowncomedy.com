@@ -2,10 +2,11 @@
   "id": 16718,
   "events": [
     17158,
-    17180,
-    17234
+    17180
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17203
+  ],
   "name": "Andie Main",
   "twitter": "andiemain",
   "website": "http://andiemaincomedy.com",
