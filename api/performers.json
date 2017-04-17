@@ -474,6 +474,7 @@
       "id": 16905,
       "events": [
         17189,
+        17204,
         17254
       ],
       "emceeEvents": [],
@@ -813,7 +814,6 @@
       "events": [
         17149,
         17172,
-        17213,
         17260
       ],
       "emceeEvents": [
@@ -947,10 +947,13 @@
     {
       "id": 16277,
       "events": [
-        17152,
+        17156,
+        17213,
         17249
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17169
+      ],
       "name": "Ismael Loutfi",
       "twitter": "Ismaelian",
       "website": "http://ishmaeliswrong.tumblr.com/",
@@ -1150,6 +1153,7 @@
     {
       "id": 15930,
       "events": [
+        17156,
         17170,
         17215,
         17249
@@ -1267,7 +1271,8 @@
       "id": 16530,
       "events": [
         17173,
-        17180
+        17180,
+        17189
       ],
       "emceeEvents": [],
       "name": "Irene Tu",
@@ -1391,7 +1396,9 @@
         17170,
         17206
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17233
+      ],
       "name": "Greg Coleman II",
       "twitter": "SayGCole",
       "website": "https://tinyurl.com/zevcqku",
@@ -1873,6 +1880,7 @@
       "events": [
         17151,
         17182,
+        17215,
         17260
       ],
       "emceeEvents": [],
@@ -1985,7 +1993,9 @@
     {
       "id": 16508,
       "events": [
-        17173
+        17173,
+        17176,
+        17281
       ],
       "emceeEvents": [
         17152
@@ -2131,7 +2141,8 @@
       "id": 16821,
       "events": [
         17154,
-        17176,
+        17175,
+        17215,
         17249
       ],
       "emceeEvents": [],
@@ -2360,7 +2371,7 @@
     {
       "id": 16677,
       "events": [
-        17156,
+        17163,
         17170,
         17216
       ],

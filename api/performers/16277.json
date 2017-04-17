@@ -1,10 +1,13 @@
 {
   "id": 16277,
   "events": [
-    17152,
+    17156,
+    17213,
     17249
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17169
+  ],
   "name": "Ismael Loutfi",
   "twitter": "Ismaelian",
   "website": "http://ishmaeliswrong.tumblr.com/",
