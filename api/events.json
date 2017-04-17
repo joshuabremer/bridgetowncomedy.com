@@ -748,12 +748,12 @@
       ],
       "emcee": 16021,
       "venue": 10374,
-      "name": "Ladies of Laughter",
+      "name": "Herlarious",
       "description": "",
       "startDateTime": "2017-05-07T05:00:00.000Z",
       "endDateTime": "2017-05-07T06:30:00.000Z",
       "price": 0,
-      "pageUrl": "17192-ladies-of-laughter"
+      "pageUrl": "17192-herlarious"
     },
     {
       "id": 17193,
@@ -1226,7 +1226,7 @@
       "emcee": 16808,
       "venue": 10380,
       "name": "Riot Here Riot Now",
-      "description": "",
+      "description": "<p>Cider Riot closing show, featuring the best new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-08T04:30:00.000Z",
       "endDateTime": "2017-05-08T06:00:00.000Z",
       "price": 0,
