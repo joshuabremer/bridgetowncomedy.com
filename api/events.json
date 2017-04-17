@@ -889,11 +889,12 @@
       "id": 17202,
       "performers": [
         17238,
+        16318,
         16401,
         16928,
         16855
       ],
-      "emcee": 16318,
+      "emcee": 16903,
       "venue": 10378,
       "name": "Bunk Birthday Bash",
       "description": "",
@@ -1153,12 +1154,12 @@
       ],
       "emcee": 16251,
       "venue": 10763,
-      "name": "Log Out",
+      "name": "Brains and Braunstein",
       "description": "",
       "startDateTime": "2017-05-08T02:30:00.000Z",
       "endDateTime": "2017-05-08T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17218-log-out"
+      "pageUrl": "17218-brains-and-braunstein"
     },
     {
       "id": 17219,
@@ -1367,7 +1368,7 @@
       ],
       "emcee": 16732,
       "venue": 10373,
-      "name": "No Laughing Matter: Comedy in A New America",
+      "name": "No Laughing Matter: Comedy in a New America",
       "description": "",
       "startDateTime": "2017-05-08T00:30:00.000Z",
       "endDateTime": "2017-05-08T01:30:00.000Z",
