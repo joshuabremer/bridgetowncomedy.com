@@ -2,19 +2,19 @@
   "id": 17176,
   "performers": [
     16508,
-    15967,
-    16396,
     15905,
     17116,
+    16396,
+    15967,
     16670,
     16930
   ],
   "emcee": 16276,
   "venue": 10763,
-  "name": "Analog Downstairs Prime Time",
+  "name": "Log In",
   "description": "",
   "startDateTime": "2017-05-06T04:30:00.000Z",
   "endDateTime": "2017-05-06T06:00:00.000Z",
   "price": 0,
-  "pageUrl": "17176-analog-downstairs-prime-time"
+  "pageUrl": "17176-log-in"
 }
