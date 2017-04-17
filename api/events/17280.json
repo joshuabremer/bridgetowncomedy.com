@@ -1,18 +1,20 @@
 {
   "id": 17280,
   "performers": [
+    16199,
     16658,
     16919,
+    15979,
     16903,
     16894,
     17008
   ],
   "emcee": 16048,
   "venue": 10374,
-  "name": "Bossanova Early",
+  "name": "Supernova",
   "description": "",
   "startDateTime": "2017-05-06T03:00:00.000Z",
   "endDateTime": "2017-05-06T04:30:00.000Z",
   "price": 0,
-  "pageUrl": "17280-bossanova-early"
+  "pageUrl": "17280-supernova"
 }

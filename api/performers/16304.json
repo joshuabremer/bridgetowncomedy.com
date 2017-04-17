@@ -3,10 +3,11 @@
   "events": [
     17155,
     17169,
-    17213,
-    17249
+    17213
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17173
+  ],
   "name": "JR De Guzman",
   "twitter": "jrdeguzm",
   "website": "http://j.deguzman.r@gmail.com",

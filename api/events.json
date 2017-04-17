@@ -3,7 +3,6 @@
     {
       "id": 17148,
       "performers": [
-        15967,
         15738,
         16346,
         15888,
@@ -97,12 +96,12 @@
       ],
       "emcee": 16508,
       "venue": 10380,
-      "name": "Cider Riot Early Show",
-      "description": "",
+      "name": "Laugh Riot",
+      "description": "<p>A standup comedy showcase featurting the best of Bridgeton's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-05T02:30:00.000Z",
       "endDateTime": "2017-05-05T04:00:00.000Z",
-      "price": 0,
-      "pageUrl": "17152-cider-riot-early-show"
+      "price": 10,
+      "pageUrl": "17152-laugh-riot"
     },
     {
       "id": 17154,
@@ -188,10 +187,11 @@
     {
       "id": 17158,
       "performers": [
+        16718,
         15859,
         16786,
         16922,
-        16718,
+        15967,
         16884,
         15951
       ],
@@ -358,12 +358,12 @@
       ],
       "emcee": 16277,
       "venue": 10380,
-      "name": "Cider Riot Early Show",
-      "description": "",
+      "name": "Laugh Riot",
+      "description": "<p>A standup comedy showcase featurting the best of Bridgeton's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
-      "price": 0,
-      "pageUrl": "17169-cider-riot-early-show"
+      "price": 10,
+      "pageUrl": "17169-laugh-riot"
     },
     {
       "id": 17170,
@@ -402,6 +402,7 @@
       "id": 17172,
       "performers": [
         15799,
+        15786,
         15888,
         16318,
         16037,
@@ -427,7 +428,7 @@
         16571,
         15722
       ],
-      "emcee": 10429,
+      "emcee": 16304,
       "venue": 10378,
       "name": "That's My Bay",
       "description": "",
@@ -455,7 +456,6 @@
         16312,
         16821,
         16768,
-        16530,
         16021,
         16790,
         16818
@@ -474,6 +474,7 @@
       "performers": [
         16508,
         15967,
+        16396,
         15905,
         17116,
         16670,
@@ -641,7 +642,8 @@
         16768,
         16457,
         16549,
-        17116
+        17116,
+        15908
       ],
       "emcee": 17323,
       "venue": 10677,
@@ -765,12 +767,12 @@
       ],
       "emcee": 16112,
       "venue": 10380,
-      "name": "Cider Riot Early Show",
+      "name": "Laugh Riot",
       "description": "",
       "startDateTime": "2017-05-07T02:30:00.000Z",
       "endDateTime": "2017-05-07T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17193-cider-riot-early-show"
+      "pageUrl": "17193-laugh-riot"
     },
     {
       "id": 17194,
@@ -846,7 +848,6 @@
     {
       "id": 17198,
       "performers": [
-        16396,
         16312,
         15859,
         16912,
@@ -1092,14 +1093,14 @@
         16360,
         15820
       ],
-      "emcee": 10429,
+      "emcee": 0,
       "venue": 10380,
-      "name": "Cider Riot Early Show",
-      "description": "",
+      "name": "Laugh Riot",
+      "description": "<p>A standup comedy showcase featurting the best of Bridgeton's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-08T02:30:00.000Z",
       "endDateTime": "2017-05-08T04:00:00.000Z",
       "price": 0,
-      "pageUrl": "17215-cider-riot-early-show"
+      "pageUrl": "17215-laugh-riot"
     },
     {
       "id": 17216,
@@ -1224,12 +1225,12 @@
       ],
       "emcee": 16808,
       "venue": 10380,
-      "name": "Cider Riot Prime Time",
+      "name": "Riot Here Riot Now",
       "description": "",
       "startDateTime": "2017-05-08T04:30:00.000Z",
       "endDateTime": "2017-05-08T06:00:00.000Z",
       "price": 0,
-      "pageUrl": "17233-cider-riot-prime-time"
+      "pageUrl": "17233-riot-here-riot-now"
     },
     {
       "id": 17234,
@@ -1287,7 +1288,7 @@
     {
       "id": 17249,
       "performers": [
-        16304,
+        16107,
         16150,
         16821,
         16519,
@@ -1396,7 +1397,7 @@
     {
       "id": 17271,
       "performers": [
-        15908,
+        15820,
         16855,
         16918
       ],
@@ -1449,20 +1450,22 @@
     {
       "id": 17280,
       "performers": [
+        16199,
         16658,
         16919,
+        15979,
         16903,
         16894,
         17008
       ],
       "emcee": 16048,
       "venue": 10374,
-      "name": "Bossanova Early",
+      "name": "Supernova",
       "description": "",
       "startDateTime": "2017-05-06T03:00:00.000Z",
       "endDateTime": "2017-05-06T04:30:00.000Z",
       "price": 0,
-      "pageUrl": "17280-bossanova-early"
+      "pageUrl": "17280-supernova"
     },
     {
       "id": 17281,
@@ -1503,7 +1506,7 @@
     {
       "id": 17361,
       "performers": [
-        16199,
+        16530,
         16360,
         15767,
         16201,
