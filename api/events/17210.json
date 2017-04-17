@@ -3,14 +3,15 @@
   "performers": [
     16021,
     15905,
-    15951
+    15951,
+    16276
   ],
   "emcee": 0,
   "venue": 10677,
-  "name": "Sunday Brunch Show",
+  "name": "Brunchtown!",
   "description": "",
   "startDateTime": "2017-05-07T21:30:00.000Z",
   "endDateTime": "2017-05-07T23:00:00.000Z",
   "price": 0,
-  "pageUrl": "17210-sunday-brunch-show"
+  "pageUrl": "17210-brunchtown"
 }
