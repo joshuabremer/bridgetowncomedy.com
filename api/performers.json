@@ -67,7 +67,7 @@
         17182,
         17184,
         17188,
-        17202,
+        17213,
         17259
       ],
       "emceeEvents": [],
@@ -232,6 +232,7 @@
         17170,
         17173,
         17206,
+        17235,
         17259
       ],
       "emceeEvents": [],
@@ -421,7 +422,7 @@
         17151,
         17192,
         17197,
-        17213
+        17218
       ],
       "emceeEvents": [],
       "name": "Candice Thompson",
@@ -1276,7 +1277,7 @@
       "id": 16530,
       "events": [
         17173,
-        17180,
+        17175,
         17189
       ],
       "emceeEvents": [],
@@ -1633,8 +1634,9 @@
     {
       "id": 16464,
       "events": [
-        17155,
-        17196
+        17152,
+        17196,
+        17213
       ],
       "emceeEvents": [
         17175
@@ -1709,6 +1711,7 @@
       "id": 15738,
       "events": [
         17148,
+        17180,
         17187,
         17217
       ],
@@ -2110,7 +2113,8 @@
       "events": [
         17148,
         17176,
-        17193
+        17193,
+        17281
       ],
       "emceeEvents": [],
       "name": "Samantha Ruddy",
@@ -2418,7 +2422,9 @@
         17169,
         17206
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17218
+      ],
       "name": "Becky Braunstein",
       "twitter": "BeckyFromAlaska",
       "website": "http://www.beckybraunstein.com",
