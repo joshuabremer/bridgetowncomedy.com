@@ -301,7 +301,8 @@
       "events": [
         17160,
         17165,
-        17181
+        17181,
+        17191
       ],
       "emceeEvents": [
         17320
@@ -415,6 +416,7 @@
     {
       "id": 15979,
       "events": [
+        17202,
         17207,
         17275,
         17280
@@ -588,7 +590,8 @@
       "events": [
         17180,
         17197,
-        17203
+        17203,
+        17233
       ],
       "emceeEvents": [],
       "name": "Chris Fairbanks ",
@@ -646,11 +649,12 @@
     {
       "id": 16037,
       "events": [
-        17172,
         17205,
         17214
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17172
+      ],
       "name": "Lisa Best",
       "twitter": "_lisabest",
       "website": "http://www.lisabestcomedy.com/",
@@ -666,7 +670,8 @@
       "events": [
         17148,
         17172,
-        17184
+        17184,
+        17233
       ],
       "emceeEvents": [],
       "name": "Drew Lynch",
@@ -1030,10 +1035,9 @@
       "id": 16768,
       "events": [
         17163,
-        17175,
         17187,
-        17191,
-        17259
+        17259,
+        17361
       ],
       "emceeEvents": [],
       "name": "Sean Devlin 叶 世民",
@@ -1354,7 +1358,9 @@
     {
       "id": 16818,
       "events": [
-        17175
+        17175,
+        17198,
+        17214
       ],
       "emceeEvents": [],
       "name": "Forrest Shaw",
@@ -1446,8 +1452,10 @@
     {
       "id": 16261,
       "events": [
-        17152,
-        17219
+        17156,
+        17202,
+        17219,
+        17320
       ],
       "emceeEvents": [],
       "name": "T.J. Chambers",
@@ -1771,7 +1779,7 @@
     {
       "id": 16790,
       "events": [
-        17156,
+        17152,
         17175,
         17189,
         17259,
@@ -2231,10 +2239,10 @@
     {
       "id": 16201,
       "events": [
+        17172,
         17191,
         17196,
-        17275,
-        17361
+        17275
       ],
       "emceeEvents": [],
       "name": "Philip Schallberger",

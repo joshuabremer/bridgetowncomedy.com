@@ -1,11 +1,12 @@
 {
   "id": 16037,
   "events": [
-    17172,
     17205,
     17214
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17172
+  ],
   "name": "Lisa Best",
   "twitter": "_lisabest",
   "website": "http://www.lisabestcomedy.com/",
