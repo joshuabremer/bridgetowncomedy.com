@@ -1056,12 +1056,12 @@
       ],
       "emcee": 16457,
       "venue": 10373,
-      "name": "Doug Fir Early Show",
+      "name": "The Last Laugh",
       "description": "",
-      "startDateTime": "2017-05-08T02:00:00.000Z",
-      "endDateTime": "2017-05-08T03:30:00.000Z",
+      "startDateTime": "2017-05-08T04:00:00.000Z",
+      "endDateTime": "2017-05-08T05:30:00.000Z",
       "price": 0,
-      "pageUrl": "17213-doug-fir-early-show"
+      "pageUrl": "17213-the-last-laugh"
     },
     {
       "id": 17214,
@@ -1075,12 +1075,12 @@
       ],
       "emcee": 16039,
       "venue": 10373,
-      "name": "Bridgetown: The Later Years",
+      "name": "Bridgetown: The Later Years (2013-2017)",
       "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams and Curtis Cook (2013), Lisa Best and Steven Wilber (2014), Dulcè Sloan and Sonia Denis (2015) and John Novosad, Ben Harkins and Shalewa Sharpe (2017).</p>\n",
-      "startDateTime": "2017-05-08T04:00:00.000Z",
-      "endDateTime": "2017-05-08T05:30:00.000Z",
+      "startDateTime": "2017-05-08T02:00:00.000Z",
+      "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 0,
-      "pageUrl": "17214-bridgetown-the-later-years"
+      "pageUrl": "17214-bridgetown-the-later-years-2013-2017"
     },
     {
       "id": 17215,
@@ -1367,12 +1367,12 @@
       ],
       "emcee": 16732,
       "venue": 10373,
-      "name": "Unspecified Panel",
+      "name": "No Laughing Matter: Comedy in A New America",
       "description": "",
       "startDateTime": "2017-05-08T00:30:00.000Z",
       "endDateTime": "2017-05-08T01:30:00.000Z",
       "price": 0,
-      "pageUrl": "17259-unspecified-panel"
+      "pageUrl": "17259-no-laughing-matter-comedy-in-a-new-america"
     },
     {
       "id": 17260,
