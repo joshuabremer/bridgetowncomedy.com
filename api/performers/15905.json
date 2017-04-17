@@ -3,10 +3,11 @@
   "events": [
     17151,
     17176,
-    17203,
     17210
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17203
+  ],
   "name": "Kenice Mobley",
   "twitter": "kfmawesomeness",
   "website": "http://www.kenicemobley.com",

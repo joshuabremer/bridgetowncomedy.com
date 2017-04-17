@@ -739,6 +739,8 @@
     {
       "id": 16928,
       "events": [
+        17168,
+        17172,
         17202,
         17208,
         17249
@@ -873,7 +875,7 @@
       "id": 16521,
       "events": [
         17189,
-        17234,
+        17203,
         17254
       ],
       "emceeEvents": [
@@ -952,7 +954,8 @@
       "events": [
         17150,
         17172,
-        17203
+        17203,
+        17215
       ],
       "emceeEvents": [],
       "name": "Michelle Biloon",
@@ -973,7 +976,7 @@
         17249
       ],
       "emceeEvents": [
-        17169
+        17250
       ],
       "name": "Ismael Loutfi",
       "twitter": "Ismaelian",
@@ -990,7 +993,8 @@
       "events": [
         17150,
         17179,
-        17206
+        17206,
+        17233
       ],
       "emceeEvents": [],
       "name": "Andrew Sleighter",
@@ -1122,7 +1126,7 @@
         17148,
         17164,
         17173,
-        17213
+        17218
       ],
       "emceeEvents": [
         17198
@@ -1555,7 +1559,7 @@
     {
       "id": 16107,
       "events": [
-        17168,
+        17175,
         17232,
         17249,
         17275
@@ -1655,13 +1659,12 @@
     {
       "id": 16464,
       "events": [
-        17152,
+        17156,
         17196,
-        17213
+        17213,
+        17250
       ],
-      "emceeEvents": [
-        17175
-      ],
+      "emceeEvents": [],
       "name": "Sara June",
       "twitter": "heysarajune",
       "website": "http://www.heysarajune.com",
@@ -1865,10 +1868,10 @@
       "id": 16801,
       "events": [
         17151,
-        17218
+        17218,
+        17250
       ],
       "emceeEvents": [
-        17250,
         17260
       ],
       "name": "David Perdue",
@@ -1904,10 +1907,11 @@
       "events": [
         17151,
         17176,
-        17203,
         17210
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17203
+      ],
       "name": "Kenice Mobley",
       "twitter": "kfmawesomeness",
       "website": "http://www.kenicemobley.com",
@@ -2269,7 +2273,7 @@
         17189
       ],
       "emceeEvents": [
-        17179,
+        17175,
         17193
       ],
       "name": "Wilfred Padua",
@@ -2326,6 +2330,7 @@
       "id": 16484,
       "events": [
         17163,
+        17213,
         17219,
         17232,
         17248
@@ -2365,7 +2370,7 @@
     {
       "id": 16409,
       "events": [
-        17156,
+        17152,
         17192
       ],
       "emceeEvents": [
@@ -2462,10 +2467,11 @@
       "id": 16549,
       "events": [
         17156,
-        17169,
         17187
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17169
+      ],
       "name": "Jason Goad",
       "twitter": "jjgoad",
       "website": "http://www.jjgoad.com",
@@ -2480,11 +2486,10 @@
       "id": 16718,
       "events": [
         17158,
-        17180
+        17180,
+        17234
       ],
-      "emceeEvents": [
-        17203
-      ],
+      "emceeEvents": [],
       "name": "Andie Main",
       "twitter": "andiemain",
       "website": "http://andiemaincomedy.com",
@@ -2538,10 +2543,11 @@
       "events": [
         17158,
         17168,
-        17198,
+        17198
+      ],
+      "emceeEvents": [
         17215
       ],
-      "emceeEvents": [],
       "name": "Kirsten Kuppenbender",
       "twitter": "kupptastic",
       "website": "http://www.kirstenkuppenbender.com",

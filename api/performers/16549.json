@@ -2,10 +2,11 @@
   "id": 16549,
   "events": [
     17156,
-    17169,
     17187
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17169
+  ],
   "name": "Jason Goad",
   "twitter": "jjgoad",
   "website": "http://www.jjgoad.com",

@@ -87,7 +87,7 @@
       "id": 17152,
       "performers": [
         16169,
-        16464,
+        16409,
         16261,
         16853,
         17116,
@@ -150,7 +150,7 @@
         16549,
         15930,
         16790,
-        16409,
+        16464,
         16808,
         16277,
         16903
@@ -331,7 +331,7 @@
         16855,
         15859,
         16786,
-        16107,
+        16928,
         17008
       ],
       "emcee": 16922,
@@ -347,7 +347,6 @@
     {
       "id": 17169,
       "performers": [
-        16549,
         16503,
         16304,
         16251,
@@ -356,7 +355,7 @@
         16103,
         16177
       ],
-      "emcee": 16277,
+      "emcee": 16549,
       "venue": 10380,
       "name": "Laugh Riot",
       "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
@@ -404,6 +403,7 @@
         15799,
         15786,
         15888,
+        16928,
         16318,
         16037,
         16346
@@ -458,9 +458,10 @@
         16768,
         16021,
         16790,
-        16818
+        16818,
+        16107
       ],
-      "emcee": 16464,
+      "emcee": 16112,
       "venue": 10763,
       "name": "Festival Darlings",
       "description": "",
@@ -501,7 +502,7 @@
         16927,
         17239
       ],
-      "emcee": 16112,
+      "emcee": 10429,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -906,7 +907,7 @@
     {
       "id": 17203,
       "performers": [
-        15905,
+        16521,
         16039,
         15786,
         16212,
@@ -914,7 +915,7 @@
         15749,
         17239
       ],
-      "emcee": 16718,
+      "emcee": 15905,
       "venue": 10378,
       "name": "Secret Headliner!",
       "description": "",
@@ -1047,11 +1048,11 @@
     {
       "id": 17213,
       "performers": [
-        16464,
         16304,
         16325,
+        16464,
         16756,
-        15722,
+        16484,
         16277,
         16927
       ],
@@ -1088,13 +1089,13 @@
       "performers": [
         16821,
         15930,
-        15859,
+        15786,
         15858,
         17116,
         16360,
         15820
       ],
-      "emcee": 0,
+      "emcee": 15859,
       "venue": 10380,
       "name": "Laugh Riot",
       "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
@@ -1150,7 +1151,8 @@
         16199,
         16801,
         16525,
-        16212
+        16212,
+        15722
       ],
       "emcee": 16251,
       "venue": 10763,
@@ -1222,7 +1224,8 @@
       "performers": [
         16912,
         16312,
-        16396
+        16396,
+        16474
       ],
       "emcee": 16808,
       "venue": 10380,
@@ -1238,7 +1241,7 @@
       "performers": [
         16429,
         16677,
-        16521,
+        16718,
         16042,
         16641,
         16895,
@@ -1312,11 +1315,13 @@
       "performers": [
         16169,
         16715,
+        16801,
+        16464,
         16325,
         16574,
         16895
       ],
-      "emcee": 16801,
+      "emcee": 16277,
       "venue": 10378,
       "name": "Kiss My Grits",
       "description": "<p>A showcase of Southern talent.</p>\n",
