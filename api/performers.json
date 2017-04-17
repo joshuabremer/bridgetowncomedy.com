@@ -325,6 +325,7 @@
     {
       "id": 16641,
       "events": [
+        17234,
         17361
       ],
       "emceeEvents": [
@@ -611,7 +612,8 @@
         17150,
         17168,
         17202,
-        17219
+        17219,
+        17271
       ],
       "emceeEvents": [],
       "name": "Maggie Maye",
@@ -1005,9 +1007,8 @@
       "id": 16768,
       "events": [
         17163,
-        17176,
+        17175,
         17191,
-        17199,
         17259
       ],
       "emceeEvents": [],
@@ -1081,6 +1082,7 @@
       "id": 16715,
       "events": [
         17151,
+        17199,
         17250
       ],
       "emceeEvents": [],
@@ -1638,7 +1640,9 @@
       "id": 16199,
       "events": [
         17163,
-        17193
+        17193,
+        17218,
+        17361
       ],
       "emceeEvents": [],
       "name": "Mekki Leeper",
@@ -2336,8 +2340,7 @@
         17249
       ],
       "emceeEvents": [
-        17156,
-        17218
+        17156
       ],
       "name": "Milan Patel",
       "twitter": "Milan_Patel",
@@ -2373,7 +2376,8 @@
       "events": [
         17163,
         17170,
-        17216
+        17216,
+        17234
       ],
       "emceeEvents": [],
       "name": "Marcus Coleman",
@@ -2483,7 +2487,8 @@
       "events": [
         17158,
         17168,
-        17198
+        17198,
+        17215
       ],
       "emceeEvents": [],
       "name": "Kirsten Kuppenbender",
