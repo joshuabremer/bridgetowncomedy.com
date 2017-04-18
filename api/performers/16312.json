@@ -2,11 +2,12 @@
   "id": 16312,
   "events": [
     17151,
-    17175,
     17203,
     17233
   ],
-  "emceeEvents": [],
+  "emceeEvents": [
+    17175
+  ],
   "name": "Nick Chambers",
   "twitter": "chamberscomedy",
   "website": "http://www.chamberscomedy.com",
