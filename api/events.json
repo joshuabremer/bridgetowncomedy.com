@@ -59,7 +59,7 @@
       "description": "<p>Comics from the first five years of the Bridgetown perform, including: Nathan Brannon, Michelle Biloon and festival founder, Andy Wood (2008), Jackie Kashian (2009), Andrew Sleighter (2010), Barbara Gray (2011) Maggie Maye and Troy Walker (2012).</p>\n",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17150-bridgetown-the-early-years-2008-2012"
     },
     {
@@ -81,7 +81,7 @@
       "description": "",
       "startDateTime": "2017-05-05T05:00:00.000Z",
       "endDateTime": "2017-05-05T06:30:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17151-the-new-negroes"
     },
     {
@@ -302,7 +302,7 @@
       "description": "",
       "startDateTime": "2017-05-06T02:00:00.000Z",
       "endDateTime": "2017-05-06T03:30:00.000Z",
-      "price": 0,
+      "price": 20,
       "pageUrl": "17165-audible-presents-the-guest-list"
     },
     {
@@ -394,7 +394,7 @@
       "description": "<p>Chaos ensues when comedians drop-in for 3-5 minute sets of new material. </p>\n",
       "startDateTime": "2017-05-06T04:00:00.000Z",
       "endDateTime": "2017-05-06T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "17171-open-mic"
     },
     {
@@ -605,7 +605,7 @@
       "description": "",
       "startDateTime": "2017-05-06T21:00:00.000Z",
       "endDateTime": "2017-05-06T22:30:00.000Z",
-      "price": 0,
+      "price": 20,
       "pageUrl": "17184-can-i-pet-your-dog-podcast"
     },
     {
@@ -633,7 +633,7 @@
       "description": "",
       "startDateTime": "2017-05-06T23:30:00.000Z",
       "endDateTime": "2017-05-07T01:00:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17186-the-jackie-and-laurie-show"
     },
     {
@@ -676,7 +676,7 @@
       "description": "",
       "startDateTime": "2017-05-07T03:00:00.000Z",
       "endDateTime": "2017-05-07T04:30:00.000Z",
-      "price": 0,
+      "price": 20,
       "pageUrl": "17188-audible-presents-hold-on-with-eugene-mirman"
     },
     {
@@ -698,7 +698,7 @@
       "description": "",
       "startDateTime": "2017-05-08T03:00:00.000Z",
       "endDateTime": "2017-05-08T04:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17189-minority-retort"
     },
     {
@@ -738,7 +738,7 @@
       "description": "",
       "startDateTime": "2017-05-08T05:00:00.000Z",
       "endDateTime": "2017-05-08T06:59:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17191-crapshoot-with-ron-lynch"
     },
     {
@@ -759,7 +759,7 @@
       "description": "",
       "startDateTime": "2017-05-07T05:00:00.000Z",
       "endDateTime": "2017-05-07T06:30:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17192-herlarious"
     },
     {
@@ -779,7 +779,7 @@
       "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-07T02:30:00.000Z",
       "endDateTime": "2017-05-07T04:00:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17193-laugh-riot"
     },
     {
@@ -809,7 +809,7 @@
       "description": "<p>Chaos ensues when comedians drop-in for 3-5 minute sets of new material. </p>\n",
       "startDateTime": "2017-05-07T04:00:00.000Z",
       "endDateTime": "2017-05-07T06:59:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "17195-open-mic"
     },
     {
@@ -1119,7 +1119,7 @@
       "description": "<p>A standup comedy showcase featuring the best of Bridgetown's new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-08T02:30:00.000Z",
       "endDateTime": "2017-05-08T04:00:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17215-laugh-riot"
     },
     {
@@ -1258,7 +1258,7 @@
       "description": "<p>Cider Riot closing show, featuring the best new faces and festival favorites.</p>\n",
       "startDateTime": "2017-05-08T04:30:00.000Z",
       "endDateTime": "2017-05-08T06:00:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17233-riot-here-riot-now"
     },
     {
@@ -1373,7 +1373,7 @@
       "description": "",
       "startDateTime": "2017-05-08T01:00:00.000Z",
       "endDateTime": "2017-05-08T02:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17254-i-anonymous"
     },
     {
@@ -1479,7 +1479,7 @@
       "description": "<p>A night of standup hosted by Dax Jordan and Sean Jordan who aren't twins or even brothers... or skalern't they? </p>\n",
       "startDateTime": "2017-05-05T04:00:00.000Z",
       "endDateTime": "2017-05-05T05:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17275-dax-jordan-and-sean-jordan-the-sklarent-brothers"
     },
     {
