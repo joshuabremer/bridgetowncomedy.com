@@ -60,19 +60,6 @@ published: true
 
 
 
-
-
-
-<img src="/img/venue-images/venue-trio-club.jpg" />
-
-
-### Trio Club
-
-  [www.triokaraoke.com](http://www.triokaraoke.com/)
-
-909 E Burnside St, Portland, OR 97214
-
-
 <img src="/img/venue-images/venue-analog.jpeg" />
 
 ### Analog Cafe
