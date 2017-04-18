@@ -442,9 +442,9 @@
       "id": 15979,
       "events": [
         17207,
-        17217,
         17275,
-        17280
+        17280,
+        17281
       ],
       "emceeEvents": [],
       "name": "Hampton Yount",
@@ -2076,9 +2076,9 @@
       "id": 16042,
       "events": [
         17164,
+        17217,
         17234,
-        17275,
-        17281
+        17275
       ],
       "emceeEvents": [],
       "name": "Zak Toscani",
@@ -2488,6 +2488,7 @@
       "events": [
         17163,
         17170,
+        17216,
         17234
       ],
       "emceeEvents": [],
@@ -2604,7 +2605,9 @@
         17168,
         17198
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17210
+      ],
       "name": "Kirsten Kuppenbender",
       "twitter": "kupptastic",
       "website": "http://www.kirstenkuppenbender.com",
