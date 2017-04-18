@@ -17,7 +17,7 @@
       "description": "",
       "startDateTime": "2017-05-05T02:00:00.000Z",
       "endDateTime": "2017-05-05T03:30:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17148-festival-opening-show"
     },
     {
@@ -38,7 +38,7 @@
       "description": "",
       "startDateTime": "2017-05-05T04:00:00.000Z",
       "endDateTime": "2017-05-05T05:30:00.000Z",
-      "price": 0,
+      "price": 20,
       "pageUrl": "17149-reunited-"
     },
     {
@@ -142,7 +142,7 @@
       "description": "",
       "startDateTime": "2017-05-05T05:00:00.000Z",
       "endDateTime": "2017-05-05T06:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17155-whatever-forever-with-robbie-pankow"
     },
     {
@@ -320,7 +320,7 @@
       "description": "",
       "startDateTime": "2017-05-07T06:00:00.000Z",
       "endDateTime": "2017-05-07T06:59:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17167-turnt-up-with-eliza-skinner"
     },
     {
@@ -1180,7 +1180,7 @@
       "emcee": 16251,
       "venue": 10763,
       "name": "Brains and Braunstein",
-      "description": "",
+      "description": "<p>Join Becky Braunstein as we welcome some new faces and Portland favorites!</p>\n",
       "startDateTime": "2017-05-08T02:30:00.000Z",
       "endDateTime": "2017-05-08T04:00:00.000Z",
       "price": 0,
@@ -1238,7 +1238,7 @@
       "description": "",
       "startDateTime": "2017-05-04T03:00:00.000Z",
       "endDateTime": "2017-05-04T05:00:00.000Z",
-      "price": 12,
+      "price": 15,
       "pageUrl": "17232-earthquake-hurricane"
     },
     {
@@ -1295,7 +1295,7 @@
       "emcee": 16409,
       "venue": 10763,
       "name": "Amanda Arnolder and Wiser",
-      "description": "",
+      "description": "<p>Amanda Arnold leads the last standup show of the fest in the Analog Downstairs.</p>\n",
       "startDateTime": "2017-05-08T04:30:00.000Z",
       "endDateTime": "2017-05-08T06:00:00.000Z",
       "price": 0,
@@ -1499,7 +1499,7 @@
       "description": "",
       "startDateTime": "2017-05-06T03:00:00.000Z",
       "endDateTime": "2017-05-06T04:30:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17280-supernova"
     },
     {
