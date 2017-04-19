@@ -1,6 +1,8 @@
 {
   "id": 17363,
-  "events": [],
+  "events": [
+    17207
+  ],
   "name": "An Evening With The Guys From Mystery Science Theater 3000",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/mst3k_hampton_jonah_baron.jpg",
   "photoUrl": "/api/img/show-images/show-aneveningwiththeguysfrommysterysciencetheater3000-300x300.jpg",
