@@ -2,10 +2,10 @@
   "id": 17214,
   "performers": [
     16352,
-    16396,
     16869,
     16818,
     16103,
+    16828,
     16037,
     16784,
     16927
@@ -16,6 +16,6 @@
   "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams and Curtis Cook (2013), Lisa Best and Steven Wilber (2014), Dulcè Sloan and Sonia Denis (2015) and John Novosad, Ben Harkins and Shalewa Sharpe (2017).</p>\n",
   "startDateTime": "2017-05-08T02:00:00.000Z",
   "endDateTime": "2017-05-08T03:30:00.000Z",
-  "price": 10,
+  "price": 15,
   "pageUrl": "17214-bridgetown-the-later-years-2013-2017"
 }
