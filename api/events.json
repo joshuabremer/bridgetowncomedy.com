@@ -59,7 +59,7 @@
       "description": "<p>Comics from the first five years of the Bridgetown perform, including: Nathan Brannon, Michelle Biloon and festival founder, Andy Wood (2008), Jackie Kashian (2009), Andrew Sleighter (2010), Barbara Gray (2011) Maggie Maye and Troy Walker (2012).</p>\n",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17150-bridgetown-the-early-years-2008-2012"
     },
     {
@@ -222,7 +222,7 @@
       "description": "",
       "startDateTime": "2017-05-05T06:00:00.000Z",
       "endDateTime": "2017-05-05T06:59:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17159-secret-headliner"
     },
     {
@@ -242,7 +242,7 @@
       "description": "",
       "startDateTime": "2017-05-05T03:30:00.000Z",
       "endDateTime": "2017-05-05T05:00:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17160-lets-do-it-with-bri-pruett"
     },
     {
@@ -382,7 +382,7 @@
       "description": "",
       "startDateTime": "2017-05-06T05:00:00.000Z",
       "endDateTime": "2017-05-06T06:30:00.000Z",
-      "price": 0,
+      "price": 20,
       "pageUrl": "17170-the-new-negroes"
     },
     {
@@ -508,7 +508,7 @@
       "description": "",
       "startDateTime": "2017-05-06T06:00:00.000Z",
       "endDateTime": "2017-05-06T06:59:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17179-secret-headliner"
     },
     {
@@ -1477,7 +1477,7 @@
       "description": "",
       "startDateTime": "2017-05-06T03:00:00.000Z",
       "endDateTime": "2017-05-06T04:30:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17280-supernova"
     },
     {
