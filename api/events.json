@@ -17,7 +17,7 @@
       "description": "",
       "startDateTime": "2017-05-05T02:00:00.000Z",
       "endDateTime": "2017-05-05T03:30:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17148-festival-opening-show"
     },
     {
@@ -38,7 +38,7 @@
       "description": "",
       "startDateTime": "2017-05-05T04:00:00.000Z",
       "endDateTime": "2017-05-05T05:30:00.000Z",
-      "price": 20,
+      "price": 25,
       "pageUrl": "17149-reunited-"
     },
     {
@@ -122,7 +122,7 @@
       "description": "",
       "startDateTime": "2017-05-05T03:00:00.000Z",
       "endDateTime": "2017-05-05T04:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17154-barbara-holm-believes-in-you"
     },
     {
@@ -142,7 +142,7 @@
       "description": "<p>Hey you're cute!</p>\n<p>Come check Robbie and these comics. They're cute, too.</p>\n",
       "startDateTime": "2017-05-05T05:00:00.000Z",
       "endDateTime": "2017-05-05T06:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17155-whatever-forever-with-robbie-pankow"
     },
     {
@@ -262,7 +262,7 @@
       "description": "",
       "startDateTime": "2017-05-05T04:00:00.000Z",
       "endDateTime": "2017-05-05T06:00:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17163-no-pun-intendo"
     },
     {
@@ -514,7 +514,6 @@
     {
       "id": 17180,
       "performers": [
-        16718,
         15749,
         15738,
         16916,
@@ -1387,27 +1386,6 @@
       "endDateTime": "2017-05-06T20:30:00.000Z",
       "price": 0,
       "pageUrl": "17258-industry-panel"
-    },
-    {
-      "id": 17259,
-      "performers": [
-        16828,
-        15957,
-        16401,
-        16647,
-        16790,
-        16768,
-        16927,
-        17143
-      ],
-      "emcee": 16732,
-      "venue": 10373,
-      "name": "No Laughing Matter: Comedy in a New America",
-      "description": "",
-      "startDateTime": "2017-05-08T00:30:00.000Z",
-      "endDateTime": "2017-05-08T01:30:00.000Z",
-      "price": 10,
-      "pageUrl": "17259-no-laughing-matter-comedy-in-a-new-america"
     },
     {
       "id": 17260,
