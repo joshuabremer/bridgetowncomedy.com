@@ -15,6 +15,6 @@
   "description": "<p>You can't have a Sunday at Bridgetown without a brunch show.</p>\n<p>We're serving up some hot jokes and you won't have to wait in line (well, not for long).</p>\n",
   "startDateTime": "2017-05-07T21:30:00.000Z",
   "endDateTime": "2017-05-07T23:00:00.000Z",
-  "price": 0,
+  "price": 10,
   "pageUrl": "17210-brunchtown"
 }

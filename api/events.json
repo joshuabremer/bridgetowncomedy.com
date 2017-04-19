@@ -697,7 +697,7 @@
       "description": "",
       "startDateTime": "2017-05-08T03:00:00.000Z",
       "endDateTime": "2017-05-08T04:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17189-minority-retort"
     },
     {
@@ -729,6 +729,7 @@
         16670,
         16177,
         15977,
+        17364,
         16917
       ],
       "emcee": 16187,
@@ -737,7 +738,7 @@
       "description": "",
       "startDateTime": "2017-05-08T05:00:00.000Z",
       "endDateTime": "2017-05-08T06:59:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17191-crapshoot-with-ron-lynch"
     },
     {
@@ -911,7 +912,7 @@
       "description": "",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T06:00:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17202-bunk-birthday-bash"
     },
     {
@@ -1056,7 +1057,7 @@
       "description": "<p>You can't have a Sunday at Bridgetown without a brunch show.</p>\n<p>We're serving up some hot jokes and you won't have to wait in line (well, not for long).</p>\n",
       "startDateTime": "2017-05-07T21:30:00.000Z",
       "endDateTime": "2017-05-07T23:00:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17210-brunchtown"
     },
     {
@@ -1065,7 +1066,6 @@
         16304,
         17116,
         16325,
-        17364,
         16464,
         16484,
         16277,
@@ -1077,7 +1077,7 @@
       "description": "",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T05:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17213-the-last-laugh"
     },
     {
@@ -1141,7 +1141,7 @@
       "description": "",
       "startDateTime": "2017-05-08T00:00:00.000Z",
       "endDateTime": "2017-05-08T01:30:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17216-palindrome-fight"
     },
     {
@@ -1158,12 +1158,12 @@
       "emcee": 16658,
       "venue": 10677,
       "show": "16781",
-      "name": "Control Yourself Live Podcast",
+      "name": "Control Yourself with JoAnn Schinderle",
       "description": "",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T05:30:00.000Z",
-      "price": 0,
-      "pageUrl": "17217-control-yourself-live-podcast"
+      "price": 15,
+      "pageUrl": "17217-control-yourself-with-joann-schinderle"
     },
     {
       "id": 17218,
@@ -1314,7 +1314,7 @@
       "description": "",
       "startDateTime": "2017-05-07T20:00:00.000Z",
       "endDateTime": "2017-05-07T21:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17248-all-fantasy-everything"
     },
     {
@@ -1497,7 +1497,7 @@
       "description": "<p>Gather round, folks. Gabe's going to lead this lineup of funny folks in storytelling and good old fashioned jokes.</p>\n<p>It'll be mighty fine, mighty fine indeed.</p>\n",
       "startDateTime": "2017-05-08T02:00:00.000Z",
       "endDateTime": "2017-05-08T03:30:00.000Z",
-      "price": 0,
+      "price": 10,
       "pageUrl": "17281-a-second-helping-of-sunday-dinger-with-gabe-dinner"
     },
     {
