@@ -1232,13 +1232,12 @@
     {
       "id": 16352,
       "events": [
+        17197,
         17199,
         17214,
         17275
       ],
-      "emceeEvents": [
-        17197
-      ],
+      "emceeEvents": [],
       "name": "Brad Silnutzer",
       "twitter": "bradlivesdreams",
       "website": "",
@@ -1408,12 +1407,11 @@
     {
       "id": 15957,
       "events": [
-        17193,
         17217,
-        17361
+        17219
       ],
       "emceeEvents": [
-        17272
+        17271
       ],
       "name": "Raj Desai",
       "twitter": "_rajdesai",
@@ -1602,7 +1600,6 @@
       "events": [
         17159,
         17175,
-        17232,
         17249
       ],
       "emceeEvents": [
@@ -1850,8 +1847,9 @@
     {
       "id": 16487,
       "events": [
-        17157,
-        17181
+        17159,
+        17181,
+        17193
       ],
       "emceeEvents": [],
       "name": "Kara Klenk",
@@ -2200,11 +2198,9 @@
         17159,
         17215,
         17219,
-        17232
-      ],
-      "emceeEvents": [
         17271
       ],
+      "emceeEvents": [],
       "name": "Alex Falcone",
       "twitter": "alex_falcone",
       "website": "http://alexfalconecomedy.com",
@@ -2297,10 +2293,10 @@
       "id": 16396,
       "events": [
         17154,
-        17176,
         17198,
         17214,
-        17233
+        17233,
+        17361
       ],
       "emceeEvents": [],
       "name": "Julia Shiplett",
@@ -2336,7 +2332,7 @@
     {
       "id": 16658,
       "events": [
-        17275,
+        17157,
         17280
       ],
       "emceeEvents": [
@@ -2379,7 +2375,6 @@
         17163,
         17213,
         17219,
-        17232,
         17248
       ],
       "emceeEvents": [
@@ -2456,11 +2451,11 @@
     {
       "id": 15908,
       "events": [
-        17215,
-        17271
+        17215
       ],
       "emceeEvents": [
-        17157
+        17157,
+        17272
       ],
       "name": "Ben Harkins",
       "twitter": "TheBenHarkins",
@@ -2641,10 +2636,10 @@
     },
     {
       "id": 16879,
-      "events": [
+      "events": [],
+      "emceeEvents": [
         17197
       ],
-      "emceeEvents": [],
       "name": "Aaron Black",
       "twitter": "AaronBlackcomic",
       "website": "https://www.facebook.com/aaron.black.739",
