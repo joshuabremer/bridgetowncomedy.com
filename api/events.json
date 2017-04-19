@@ -441,12 +441,12 @@
       "id": 17174,
       "performers": [],
       "emcee": 16641,
-      "venue": 10763,
+      "venue": 10373,
       "show": "16642",
       "name": "A Good Trip with Shane Mauss",
       "description": "",
-      "startDateTime": "2017-05-07T06:00:00.000Z",
-      "endDateTime": "2017-05-07T06:59:00.000Z",
+      "startDateTime": "2017-05-07T23:30:00.000Z",
+      "endDateTime": "2017-05-08T01:00:00.000Z",
       "price": 15,
       "pageUrl": "17174-a-good-trip-with-shane-mauss"
     },
@@ -717,7 +717,7 @@
       "description": "",
       "startDateTime": "2017-05-07T02:00:00.000Z",
       "endDateTime": "2017-05-07T03:30:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17190-andy-kindlers-particular-show"
     },
     {
@@ -758,7 +758,7 @@
       "description": "",
       "startDateTime": "2017-05-07T05:00:00.000Z",
       "endDateTime": "2017-05-07T06:30:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17192-herlarious"
     },
     {
@@ -829,7 +829,7 @@
       "description": "<p>Expect the unexpected as we bring together this special collection of unique performers.</p>\n",
       "startDateTime": "2017-05-07T05:00:00.000Z",
       "endDateTime": "2017-05-07T06:30:00.000Z",
-      "price": 0,
+      "price": 15,
       "pageUrl": "17196-portland-weird-keep"
     },
     {
@@ -931,7 +931,7 @@
       "description": "",
       "startDateTime": "2017-05-07T06:00:00.000Z",
       "endDateTime": "2017-05-07T06:59:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17203-secret-headliner"
     },
     {
@@ -951,7 +951,7 @@
       "description": "",
       "startDateTime": "2017-05-07T06:00:00.000Z",
       "endDateTime": "2017-05-07T06:59:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17204-funny-over-everything-reunion"
     },
     {
@@ -972,7 +972,7 @@
       "description": "",
       "startDateTime": "2017-05-07T04:00:00.000Z",
       "endDateTime": "2017-05-07T05:30:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17205-guy-branums-gay-bash"
     },
     {
@@ -1009,7 +1009,7 @@
       "description": "",
       "startDateTime": "2017-05-07T02:30:00.000Z",
       "endDateTime": "2017-05-07T05:00:00.000Z",
-      "price": 0,
+      "price": 20,
       "pageUrl": "17207-an-evening-with-the-guys-from-mystery-science-theater-3000"
     },
     {
@@ -1275,8 +1275,8 @@
       "venue": 10763,
       "name": "Festival Buds presented by Foster Buds and Glisan Buds",
       "description": "<p>Join us for an extra special show including specials and goodies from Foster Buds and Glisan Buds.</p>\n",
-      "startDateTime": "2017-05-07T04:00:00.000Z",
-      "endDateTime": "2017-05-07T05:30:00.000Z",
+      "startDateTime": "2017-05-07T04:30:00.000Z",
+      "endDateTime": "2017-05-07T06:00:00.000Z",
       "price": 10,
       "pageUrl": "17234-festival-buds-presented-by-foster-buds-and-glisan-buds"
     },
@@ -1335,7 +1335,7 @@
       "description": "<p>A night of comedy from the unique perspectives of comics who are immigrants or the children of immigrants.</p>\n",
       "startDateTime": "2017-05-07T04:30:00.000Z",
       "endDateTime": "2017-05-07T06:00:00.000Z",
-      "price": 10,
+      "price": 15,
       "pageUrl": "17249-immigration-nation"
     },
     {
@@ -1404,7 +1404,7 @@
       "description": "",
       "startDateTime": "2017-05-07T02:30:00.000Z",
       "endDateTime": "2017-05-07T04:00:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17260-make-america-laugh-again"
     },
     {
@@ -1420,7 +1420,7 @@
       "description": "",
       "startDateTime": "2017-05-07T02:00:00.000Z",
       "endDateTime": "2017-05-07T03:30:00.000Z",
-      "price": 0,
+      "price": 5,
       "pageUrl": "17271-braunger-hour"
     },
     {
@@ -1517,7 +1517,7 @@
       "description": "",
       "startDateTime": "2017-05-07T04:00:00.000Z",
       "endDateTime": "2017-05-07T05:30:00.000Z",
-      "price": 15,
+      "price": 20,
       "pageUrl": "17320-the-dave-hill-experiment"
     },
     {
