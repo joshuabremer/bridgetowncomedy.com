@@ -1,6 +1,8 @@
 {
   "id": 16665,
-  "events": [],
+  "events": [
+    17163
+  ],
   "name": "No Pun Intendo",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/no_pun_intendo_logo.jpg",
   "photoUrl": "/api/img/show-images/show-nopunintendo-300x300.jpg",
