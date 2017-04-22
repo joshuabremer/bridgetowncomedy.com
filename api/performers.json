@@ -1322,9 +1322,7 @@
         17214,
         17260
       ],
-      "emceeEvents": [
-        17164
-      ],
+      "emceeEvents": [],
       "name": "Curtis Cook",
       "twitter": "Curtis_Cook",
       "website": "http://CurtisCookComedy.com",
@@ -2064,12 +2062,13 @@
     {
       "id": 16042,
       "events": [
-        17164,
         17217,
         17234,
         17275
       ],
-      "emceeEvents": [],
+      "emceeEvents": [
+        17164
+      ],
       "name": "Zak Toscani",
       "twitter": "zaktoscani",
       "website": "http://www.zaktoscani.com/",
