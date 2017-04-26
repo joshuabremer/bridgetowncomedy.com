@@ -69,6 +69,17 @@ published: true
 720 SE Hawthorne Blvd, Portland, OR 97214
 
 
+
+<img src="/assets/images/sponsor-images/sponsor-cider-riot.png" />
+
+### Cider Riot!
+
+[ciderriot.com](http://ciderriot.com/)
+
+807 NE Couch, Portland, OR 97232
+
+
+
 <img src="/img/venue-images/venue-bunk-bar.png" />
 
 ### Bunk Bar
