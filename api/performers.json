@@ -1,24 +1,24 @@
 {
   "performers": [
     {
-      "id": 16304,
+      "id": 16808,
       "events": [
-        17155,
-        17169,
-        17213
+        17156,
+        17170,
+        17206
       ],
       "emceeEvents": [
-        17173
+        17233
       ],
-      "name": "JR De Guzman",
-      "twitter": "jrdeguzm",
-      "website": "http://j.deguzman.r@gmail.com",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
-      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
-      "sortOrder": 75,
+      "name": "Greg Coleman II",
+      "twitter": "SayGCole",
+      "website": "https://tinyurl.com/zevcqku",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_1_3.jpg",
+      "photoUrl": "/api/img/performer-images/performer-gregcolemanii-300x300.jpg",
+      "sortOrder": 76,
       "excludeFromList": false,
-      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
-      "pageUrl": "16304-jr-de-guzman"
+      "bio": "<p>Greg Coleman has been active in the Minnesota comedy scene since 2012. Coleman was voted Best Comic of 2012 at the MN Comedy Awards, was acknowledged as a Top 10 Performer at the ABFF Comedy Competition in Los Angeles, CA, and was named one of the top 5 comics to watch in 2016 by The Growler dot com. Coleman has gained a reputation as a strong performer, with a twisted point of view and fun stories from his many years working in education. On stage, Coleman comes across as cool, confident, and comfortable</p>\n",
+      "pageUrl": "16808-greg-coleman-ii"
     },
     {
       "id": 16925,
@@ -1448,6 +1448,26 @@
       "pageUrl": "15748-gareth-reynolds-"
     },
     {
+      "id": 16304,
+      "events": [
+        17155,
+        17169,
+        17213
+      ],
+      "emceeEvents": [
+        17173
+      ],
+      "name": "JR De Guzman",
+      "twitter": "jrdeguzm",
+      "website": "http://j.deguzman.r@gmail.com",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/jrdheadshotlowquality.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jrdeguzman-300x300.jpg",
+      "sortOrder": 75,
+      "excludeFromList": false,
+      "bio": "<p>Born in the Philippines and raised in California, JR De Guzman began performing comedy while working as a music teacher, which he quickly learned just meant teaching Taylor Swift songs to teenagers. He has entertained all over the world, having performed for Stand-Up Tokyo and ROR Comedy in Japan, the Jokers Ball in Indonesia, the Badaboom Comedy Series in Amsterdam, the Edmonton Comedy Festival, and countless other international shows. Combining music and comedy, JR serenades the audience into laughter with songs, jokes, and stories of traveling the world, life after college, and family. He has shared the stage with Tim Allen, Margaret Cho, Daniel Tosh, Jerrod Carmichael, Iliza Shlesinger, and more. Catch him on Coming to the Stage Season 2 on Hulu, Comedy Central&#039;s Kevin Hart Presents: Hart of the City, and MTV&#039;s Acting Out. Also, check out his debut album on Sirius XM Radio&#039;s Laugh&#039;s USA.</p>\n",
+      "pageUrl": "16304-jr-de-guzman"
+    },
+    {
       "id": 17009,
       "events": [],
       "emceeEvents": [
@@ -1462,26 +1482,6 @@
       "excludeFromList": false,
       "bio": "<p>Brooklyn resident Eugene Mirman escaped the clutches of Russian communism at the age of four when his family immigrated from Moscow to Lexington, MA (where along with Paul Revere and John Adams he kicked off the American revolution). He attended Hampshire College and designed his own major of Comedy – doing a one-hour standup act as his thesis (for which he was made fun of, don’t worry).</p>\n<p>Eugene currently stars as the voice of “Gene” on Fox’s hit animated series Bob’s Burgers. He is also known for portraying comedian/mobster Yvgeny Mirminsky on Adult Swim’s Delocated, Eugene the landlord on Flight of the Conchords, Dr. Eugene Mirman on Aqua Teen Hunger Force and Eugene, the Russian foreign exchange student, on Home Movies. He is a frequent co-host of Star Talk with Neil deGrasse Tyson and hosts the audio series Hold On with Eugene Mirman for Audible, which has featured such guests as Jim Gaffigan, “Weird Al” Yankovic, and Reggie Watts. Eugene has also appeared on Archer, @Midnight, Inside Amy Schumer, Late Night With Conan O’Brien, Russell Howard’s Good News, Late Night with Seth Myers, Broad City, Last Week Tonight with John Oliver and more.</p>\n<p>Eugene’s comedy special Eugene Mirman: An Evening of Comedy in a Fake Underground Laboratory aired on Comedy Central in 2012 and his most recent special, Vegan on His Way to the Complain Store, premiered on Netflix in 2015. In 2015 he also released a nine-disc vinyl box set on SubPop entitled I’m Sorry (You’re Welcome), which could also be purchased as a chair, a bathrobe, and a puppy.</p>\n<p>Eugene was named Best New York City Comedian by the Village Voice, one of “50 Funniest” by Time Out New York, and one of the 10 best comedians of the last decade by Paste Magazine. Eugene was also named by Rolling Stone as “Hot Twitterer” and keeps his 400k+ followers entertained daily.</p>\n<p>A pioneer of the comedy variety show since the days of Rififi, Eugene co-founded Pretty Good Friends along with Julie Smith Clem, which began as a weekly comedy show in Brooklyn, but grew into tours, large outdoor shows, and TV and radio projects. Out of these shows, Eugene and Julie also created (originally as a joke) the Eugene Mirman Comedy Festival, which is now a yearly institution in Brooklyn and beyond.</p>\n",
       "pageUrl": "17009-eugene-mirman"
-    },
-    {
-      "id": 16808,
-      "events": [
-        17156,
-        17170,
-        17206
-      ],
-      "emceeEvents": [
-        17233
-      ],
-      "name": "Greg Coleman II",
-      "twitter": "SayGCole",
-      "website": "https://tinyurl.com/zevcqku",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/headshot_1_3.jpg",
-      "photoUrl": "/api/img/performer-images/performer-gregcolemanii-300x300.jpg",
-      "sortOrder": 76,
-      "excludeFromList": false,
-      "bio": "<p>Greg Coleman has been active in the Minnesota comedy scene since 2012. Coleman was voted Best Comic of 2012 at the MN Comedy Awards, was acknowledged as a Top 10 Performer at the ABFF Comedy Competition in Los Angeles, CA, and was named one of the top 5 comics to watch in 2016 by The Growler dot com. Coleman has gained a reputation as a strong performer, with a twisted point of view and fun stories from his many years working in education. On stage, Coleman comes across as cool, confident, and comfortable</p>\n",
-      "pageUrl": "16808-greg-coleman-ii"
     },
     {
       "id": 16261,
@@ -2792,13 +2792,13 @@
       ],
       "emceeEvents": [],
       "name": "Keith Baker",
-      "twitter": "",
-      "website": "",
-      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bridgetown_2017_twitter_1_0.jpg",
+      "twitter": "HellcowKeith",
+      "website": "http://keith-baker.com/",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/unnamed_0.jpg",
       "photoUrl": "/api/img/performer-images/performer-keithbaker-300x300.jpg",
       "sortOrder": 146,
       "excludeFromList": true,
-      "bio": "<p>Keith Baker is a game designer and author best known for creating the Eberron Campaign Setting for Dungeons &amp; Dragons. He has worked as a freelancer for Atlas Games, Green Ronin, Pelgrane Publishing, Wizards of the Coast, Goodman Games and more. Currently he is developing the card-based RPG Phoenix: Dawn Command through his company Twogether Studios.</p>\n<p>He lives in Portland, Oregon with his wife Jennifer Ellis.</p>\n",
+      "bio": "<p>Keith Baker is best known for creating the <em>Eberron Campaign Setting </em>for <em>Dungeons &amp; Dragons </em>and the storytelling card game <em>Gloom</em>. As lead designer for Twogether Studios, he's created the card game <em>Phoenix: Dawn Command </em>and <em>Illimat, </em>a neoclassic game developed in collaboration with The Decemberists. He can be found online at Keith-Baker.com.</p>\n",
       "pageUrl": "17362-keith-baker"
     },
     {
@@ -2848,6 +2848,20 @@
       "excludeFromList": true,
       "bio": "<p>'''Team Dresch''' are a Queercore band who performed and recorded in the 1990s and made a significant impression on that movement, as well as on the independent music scene.</p>\n",
       "pageUrl": "17391-team-dresch"
+    },
+    {
+      "id": 19055,
+      "events": [],
+      "emceeEvents": [],
+      "name": "Jenn Ellis",
+      "twitter": "",
+      "website": "",
+      "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/unnamed-1.jpg",
+      "photoUrl": "/api/img/performer-images/performer-jennellis-300x300.jpg",
+      "sortOrder": 150,
+      "excludeFromList": true,
+      "bio": "<p>Jenn Ellis has a passion for making games and events that bring people together. She's the people &amp; product side of Twogether Studios, as well as the producer of the RPG <em>Phoenix: Dawn Command </em>and the upcoming card game <em>Illimat</em>. Jenn has lived in both Portlands, and prefers the Oregon one. </p>\n",
+      "pageUrl": "19055-jenn-ellis"
     }
   ]
 }
