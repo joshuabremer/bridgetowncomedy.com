@@ -2851,7 +2851,9 @@
     },
     {
       "id": 19055,
-      "events": [],
+      "events": [
+        17183
+      ],
       "emceeEvents": [],
       "name": "Jenn Ellis",
       "twitter": "",
