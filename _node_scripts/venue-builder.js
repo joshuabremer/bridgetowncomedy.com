@@ -10,6 +10,7 @@ const VENUE_ADDRESSES = {
   10377: "315 SE 3rd Ave, Portland, OR",
   10380: "910 E Burnside St, Portland, OR",
   12605: "722 E Burnside Street, Portland, OR 97214",
+  10374: "722 E Burnside Street, Portland, OR 97214",
   10378: "1028 SE Water Street, Portland, OR 97214",
   10373: "830 E Burnside Street, Portland, OR 97214",
   10379: "523 SE Grand Ave 97214",
