@@ -16,7 +16,8 @@ const VENUE_ADDRESSES = {
   12478: "116 SE Yamhill St, Portland, OR 97217",
   10384: "Suite #110, 1300 SE Stark St, Portland, OR",
   10376: "315 NW Davis Street, Portland, OR 97209",
-  12533: "909 E Burnside St, Portland, OR 97214"
+  12533: "909 E Burnside St, Portland, OR 97214",
+  10380: "807 NE Couch St, Portland, OR"
 };
 
 module.exports = ObjectBuilder.extend({
