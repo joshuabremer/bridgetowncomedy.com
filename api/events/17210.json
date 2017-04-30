@@ -5,6 +5,7 @@
     16429,
     15905,
     16869,
+    16828,
     16276,
     15951,
     16921
@@ -12,7 +13,7 @@
   "emcee": 15859,
   "venue": 10677,
   "name": "Brunchtown!",
-  "description": "<p>You can't have a Sunday at Bridgetown without a brunch show.</p>\n<p>We're serving up some hot jokes and you won't have to wait in line (well, not for long).</p>\n",
+  "description": "<p>You can't have a Sunday at Bridgetown without a brunch show. How about two of them!</p>\n<p>We're serving up some hot jokes and you won't have to wait in line (well, not for long).</p>\n",
   "startDateTime": "2017-05-07T21:30:00.000Z",
   "endDateTime": "2017-05-07T23:00:00.000Z",
   "price": 10,
