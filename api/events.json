@@ -1068,18 +1068,18 @@
     {
       "id": 17213,
       "performers": [
+        16484,
         16304,
-        15749,
         16325,
         16464,
-        16484,
+        15749,
         16277,
         16918
       ],
       "emcee": 16457,
       "venue": 10373,
       "name": "The Last Laugh",
-      "description": "",
+      "description": "<p>Festival co-founder Matt Braunger closes out the Doug Fir with some of our funniest folks!</p>\n",
       "startDateTime": "2017-05-08T04:00:00.000Z",
       "endDateTime": "2017-05-08T05:30:00.000Z",
       "price": 15,
@@ -1232,11 +1232,11 @@
     {
       "id": 17233,
       "performers": [
-        16912,
-        16312,
-        16519,
         17116,
+        16312,
         16396,
+        16519,
+        16912,
         16474,
         16346
       ],
@@ -1273,10 +1273,10 @@
       "id": 17235,
       "performers": [
         16147,
-        16503,
         15767,
-        16416,
+        16503,
         16768,
+        16416,
         16800,
         16732
       ],
