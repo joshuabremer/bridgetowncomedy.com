@@ -14,7 +14,7 @@ const VENUE_ADDRESSES = {
   10378: "1028 SE Water Street, Portland, OR 97214",
   10373: "830 E Burnside Street, Portland, OR 97214",
   10379: "523 SE Grand Ave 97214",
-  12478: "116 SE Yamhill St, Portland, OR 97217",
+  12478: "6 SW 3rd Ave, Portland, OR 97204",
   10384: "Suite #110, 1300 SE Stark St, Portland, OR",
   10376: "315 NW Davis Street, Portland, OR 97209",
   12533: "909 E Burnside St, Portland, OR 97214",
