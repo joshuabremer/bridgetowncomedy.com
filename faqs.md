@@ -11,7 +11,7 @@ Frequently Asked Questions
 
 **Can I buy individual show tickets in advance?**
 
-Yes! Well, sort of. This year we are selling advance individual show tickets to the two shows we’re putting on at Revolution Hall ([Lance Bangs Presents Come Laugh With Us on May 5th](http://www.revolutionhall.com/event/1468352-lance-bangs-come-laugh-us-portland/), [An Evening With The Guys From Mystery Science Theater 3000 on May 6th](http://www.revolutionhall.com/event/1468354-evening-guys-from-mystery-portland/)) as well as [The Goddamn Comedy Jam at Crystal Ballroom on May 4th](http://www.crystalballroompdx.com/events/168154-The-Goddamn-Comedy-Jam).
+Yes! Well, sort of. This year we are selling advance individual show tickets to the two shows we’re putting on at Revolution Hall ([Lance Bangs Presents Come Laugh With Us on May 5th](http://www.revolutionhall.com/event/1468352-lance-bangs-come-laugh-us-portland/) and [An Evening With The Guys From Mystery Science Theater 3000 on May 6th](http://www.revolutionhall.com/event/1468354-evening-guys-from-mystery-portland/)) as well as [The Goddamn Comedy Jam at Crystal Ballroom on May 4th](http://www.crystalballroompdx.com/events/168154-The-Goddamn-Comedy-Jam).
 
 Apart from those shows, we only sell festival passes in advance. The Standard Festival Pass grants admission to all Bridgetown shows EXCEPT those mentioned above, and the Golden Ticket VIP Pass grants admission to all Bridgetown shows INCLUDING the shows mentioned above. [You can buy both types of passes here while they’re available](https://bridgetown2017.eventbrite.com/)!
 
