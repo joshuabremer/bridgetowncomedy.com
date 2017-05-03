@@ -1,7 +1,6 @@
 {
   "id": 17239,
   "events": [
-    17149,
     17159,
     17179,
     17203
@@ -12,7 +11,7 @@
   "website": "",
   "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/logo_0.png",
   "photoUrl": "/api/img/performer-images/performer-specialsecretguest-300x300.jpg",
-  "sortOrder": 139,
+  "sortOrder": 140,
   "excludeFromList": true,
   "bio": "<p>Special secret guest!</p>\n",
   "pageUrl": "17239-special-secret-guest"
