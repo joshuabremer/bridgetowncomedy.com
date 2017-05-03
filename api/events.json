@@ -797,7 +797,7 @@
       "emcee": 16571,
       "venue": 10376,
       "name": "Brent Weinbach and Friends Mega Show",
-      "description": "<ul><li>Andy Kaufman Award recipient Brent Weinbach shows a selection of videos from his vault of absurdities in between stand-up sets from this lineup of adorable oddballs. </li>\n</ul>",
+      "description": "<p>Andy Kaufman Award recipient Brent Weinbach shows a selection of videos from his vault of absurdities in between stand-up sets from this lineup of adorable oddballs. </p>\n",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 15,
@@ -1443,8 +1443,8 @@
       "performers": [
         16199,
         16658,
-        16919,
         15979,
+        16919,
         16903,
         16894,
         17008
