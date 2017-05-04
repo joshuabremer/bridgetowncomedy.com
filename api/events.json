@@ -406,7 +406,7 @@
         16337,
         16190
       ],
-      "emcee": 16037,
+      "emcee": 0,
       "venue": 10677,
       "name": "Bridgetown Breakouts",
       "description": "<p>We put together this incredible lineup of some of our Bridgetown favorites from throughout the years.</p>\n<p>You saw them here first, now see them again!</p>\n",
@@ -965,7 +965,6 @@
         16786,
         16136,
         16276,
-        16037,
         16884,
         15888,
         16732
@@ -1091,7 +1090,6 @@
       "performers": [
         16352,
         16818,
-        16037,
         16103,
         16784,
         16869,
@@ -1101,7 +1099,7 @@
       "emcee": 16039,
       "venue": 10373,
       "name": "Bridgetown: The Later Years (2013-2017)",
-      "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams, Karen Kilgariff and Curtis Cook (2013), Lisa Best and Steven Wilber (2014), and John Novosad, Brad Silnutzer, Pat Brown, and Forrest Shaw (2017).</p>\n",
+      "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams, Karen Kilgariff and Curtis Cook (2013), Steven Wilber (2014), and John Novosad, Brad Silnutzer, Pat Brown, and Forrest Shaw (2017).</p>\n",
       "startDateTime": "2017-05-08T02:00:00.000Z",
       "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 15,
