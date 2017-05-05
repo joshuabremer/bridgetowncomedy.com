@@ -605,9 +605,7 @@
     },
     {
       "id": 16657,
-      "events": [
-        17217
-      ],
+      "events": [],
       "emceeEvents": [],
       "name": "Brooke Van Poppelen",
       "twitter": "BVPcomedy",
@@ -615,7 +613,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/bvp_headshot_blonde.jpg",
       "photoUrl": "/api/img/performer-images/performer-brookevanpoppelen-300x300.jpg",
       "sortOrder": 32,
-      "excludeFromList": false,
+      "excludeFromList": true,
       "bio": "<p>Brooke Van Poppelen is a NYC based comic, actress, writer, and host of Hack My Life on truTV. Brooke has appeared on The Nightly Show with Larry Wilmore, @Midnight and John Oliver’s New York Stand Up Show on Comedy Central, The Late Late Show with Craig Ferguson on CBS, IFC’s Comedy Drop, and Night Train hosted by Wyatt Cenac for NBC’s Seeso. She has appeared as a guest on ABC’s The View and Dr. Oz ,and also as a talking head &amp; panelist on multiple MTV, truTV &amp; vh1 shows. Brooke worked as a writer &amp; producer for several seasons of Girl Code and Guy Code and many other MTV shows. Her first comedy album, Hard Feelings was released by Sure Think ATX in October and hit #1 on iTunes.</p>\n<p>Brooke can be seen in the web series  Seeing Other People, which she co-wrote and co-stars in with Giulia Rozzi. The six episode web series has been gathering attention from the likes of  IFC.com, Glamour and Laugh Spin.</p>\n<p>Brooke’s stand up comedy has been praised by Splitsider, Esquire and Brightest Young Things. She was recently selected for the Headliners Showcase as part of the Melbourne International Comedy Festival and has also performed at The Bentzen Ball, Riot Fest LA, SXSW, The Eugene Mirman Comedy Festival and Bridgetown and returned to SXSW in 2016 as the host of the Interactive Awards Ceremony. </p>\n<p>In NYC &amp; LA she performs at UCB on shows like Whiplash or Fresh Out! In Brooklyn she can be seen at Union Hall — a lot — especially on her show Comfort Zone which she hosts with singer songwriter Julian Velard.</p>\n<p>Prior to NYC she performed and trained in Chicago at IO, The Second City, and The Playground Theater. Brooke hails from the Detroit suburbs and loves coney dogs.</p>\n",
       "pageUrl": "16657-brooke-van-poppelen"
     },
@@ -691,7 +689,7 @@
       "originalPhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/performers/best_bench_sleep_lores.jpg",
       "photoUrl": "/api/img/performer-images/performer-lisabest-300x300.jpg",
       "sortOrder": 36,
-      "excludeFromList": false,
+      "excludeFromList": true,
       "bio": "<p>Lisa Best is a comedian, writer and performer from Los Angeles and has quickly made a name for herself in LA’s alternative scene as a brilliantly quirky comic and skilled story teller. In the spring of 2014, Lisa began headlining colleges across the country. She is a regular performer at Meltdown with Jonah and Kumail, The Laugh Factory in Hollywood, The Hollywood Improv, the Upright Citizens Brigade theatre, and was chosen to perform her hour at the Nerdmelt showroom for An Evening with Lisa Best. She has been showcased by Comedy Central and IFC, and has been seen at The Laugh Factory in Scottsdale, The Comedy Attic in Bloomington, Comedy Works in Denver, The Laughing Skull and The Improv in Atlanta and numerous other clubs around the county. She has been a featured performer at Sarah Silverman's 1st annual JASH Fesht in Palm Springs, All Jane Comedy Festival in Portland, Los Angeles' alternative comedy festival RIOT, and two years in a row at the Bridgetown Comedy Festival where The Portland Monthly wrote that Lisa \"has a flair for turning embarrassing stories into comedy gold.\" She is also a co-host for the Travel Channel pilot <em>Cheat Day, </em>performed stand up on Viceland’s <em>Flophouse </em>and appeared in digital sketches for Comedy Central, Funny or Die and IFC's Comedy Crib. But enough about her, how are you?</p>\n",
       "pageUrl": "16037-lisa-best"
     },
