@@ -6,10 +6,6 @@ description: 'Bridgetown Comedy Festival, happening Portland, Oregon, May 4th-7t
 published: true
 ---
 
-<h3>Year 10 of Bridgetown is here!</h3>
+<h3>Thank you!</h3>
 
-The tenth annual Bridgetown Comedy Festival is underway, featuring over 100 of the top comedians in the business, with over 50 of those making their Bridgetown debut. Take a look at our [list of performers](https://www.bridgetowncomedy.com/performers) and [themed shows](https://www.bridgetowncomedy.com/shows), and buy your festival pass at [bridgetown2017.eventbrite.com](http://bridgetown2017.eventbrite.com) now!
-
-Want to see individual shows without buying a full pass? You can just pay admission as you enter. [We've got more info on that and other festival logistics here on our frequently asked questions page](https://www.bridgetowncomedy.com/faqs). You can also buy advance tickets to [Lance Bangs Presents: Come Laugh With Us](http://www.revolutionhall.com/event/1468352-lance-bangs-come-laugh-us-portland/) on Friday at Revolution Hall and [An Evening With The Guys From Mystery Science Theater 3000](http://www.revolutionhall.com/event/1468354-evening-guys-from-mystery-portland/) on Saturday at Revolution Hall.
-
-_*Note that standard festival passes do not include admission to events taking place at Revolution Hall_
+Year ten of Bridgetown is in the books! Thanks again to all of our performers, staff, volunteers and of course all of the fans who packed our shows and made this the best installment of the festival yet.
