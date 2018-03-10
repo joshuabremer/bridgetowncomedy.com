@@ -8,4 +8,4 @@ published: true
 
 <h3>Thank you!</h3>
 
-Year ten of Bridgetown is in the books! Thanks again to all of our performers, staff, volunteers and of course all of the fans who packed our shows and made this the best installment of the festival yet. Be sure to follow us on [Twitter](https://twitter.com/bridgetown), [Instagram](https://www.instagram.com/bridgetowncomedy/) and [Facebook](https://www.facebook.com/bridgetowncomedy/) for recaps and photos from Bridgetown 2017 as well as updates on the future of the fest.
+Bridgetown had a great ten-year run, and we're grateful to the hundreds of performers and thousands of fans who made it such a fun decade. We're putting the festival on hiatus for 2018, but it may come back in the future. If so, we'll be sure to keep everyone posted via [Twitter](https://twitter.com/bridgetown), [Instagram](https://www.instagram.com/bridgetowncomedy/) and [Facebook](https://www.facebook.com/bridgetowncomedy/), which are also great places to check out recaps and photos from the past ten years of Bridgetown.
