@@ -68,23 +68,23 @@ fi
 cd ./../;
 
 
-echo "\n\n\n\n======================================"
-echo "Refreshing Festival Data..."
-echo "======================================\n\n"
+# echo "\n\n\n\n======================================"
+# echo "Refreshing Festival Data..."
+# echo "======================================\n\n"
 
-if npm install ; then
-    :
-else
-    echo "Are you in the wrong directory?"
-    exit 1
-fi
+# if npm install ; then
+#     :
+# else
+#     echo "Are you in the wrong directory?"
+#     exit 1
+# fi
 
-if node _node_scripts/build.js ; then
-    :
-else
-    echo "Node Build Failed"
-    exit 1
-fi
+# if node _node_scripts/build.js ; then
+#     :
+# else
+#     echo "Node Build Failed"
+#     exit 1
+# fi
 
 echo "\n\n\n\n======================================"
 echo "Syncing Images..."
