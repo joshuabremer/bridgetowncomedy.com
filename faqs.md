@@ -11,11 +11,11 @@ Frequently Asked Questions
 
 **Can I buy individual show tickets in advance?**
 
-Yes! Well, sort of. This year we are selling advance individual show tickets to the two shows we’re putting on at Revolution Hall ([Lance Bangs Presents Come Laugh With Us on May 5th](http://www.revolutionhall.com/event/1468352-lance-bangs-come-laugh-us-portland/), [An Evening With The Guys From Mystery Science Theater 3000 on May 6th](http://www.revolutionhall.com/event/1468354-evening-guys-from-mystery-portland/)) as well as [The Goddamn Comedy Jam at Crystal Ballroom on May 4th](http://www.crystalballroompdx.com/events/168154-The-Goddamn-Comedy-Jam). Bridgetown is also co-producing a special event pre-festival show with [Patton Oswalt on May 2nd at Arlene Schnitzer Concert Hall](http://www.portland5.com/arlene-schnitzer-concert-hall/events/patton-oswalt) that is ticketed separately and may be sold out by the time you read this. [But click here and check](http://www.portland5.com/arlene-schnitzer-concert-hall/events/patton-oswalt)!
+Yes! Well, sort of. This year we are selling advance individual show tickets to the two shows we’re putting on at Revolution Hall ([Lance Bangs Presents Come Laugh With Us on May 5th](http://www.revolutionhall.com/event/1468352-lance-bangs-come-laugh-us-portland/) and [An Evening With The Guys From Mystery Science Theater 3000 on May 6th](http://www.revolutionhall.com/event/1468354-evening-guys-from-mystery-portland/)).
 
-Apart from those shows, we only sell festival passes in advance. The Standard Festival Pass grants admission to all Bridgetown shows EXCEPT those mentioned above, and the Golden Ticket VIP Pass grants admission to all Bridgetown shows INCLUDING the shows mentioned above apart from the Patton Oswalt pre-festival show. [You can buy both types of passes here while they’re available](https://bridgetown2017.eventbrite.com/)!
+Apart from those shows, we only sell festival passes in advance. The Standard Festival Pass grants admission to all Bridgetown shows EXCEPT those mentioned above, and the Golden Ticket VIP Pass grants admission to all Bridgetown shows INCLUDING the shows mentioned above. [You can buy both types of passes here while they’re available](https://bridgetown2017.eventbrite.com/)!
 
-Apart from that, If you want to attend a single show, you can pay admission as you enter (doors open 30 minutes prior to showtime). This has been Bridgetown’s longtime policy in an attempt to avoid penalizing full festival pass-holders. This way, no matter how popular a single show may be, those with festival passes and those who only want to attend one show have an equal chance at getting in by lining up beforehand.
+If you want to attend any other single shows, you can pay admission as you enter (doors open 30 minutes prior to showtime). This has been Bridgetown’s longtime policy in an attempt to avoid penalizing full festival pass-holders. This way, no matter how popular a single show may be, those with festival passes and those who only want to attend one show have an equal chance at getting in by lining up beforehand.
 
 Note: Individual show tickets are only valid for a single show. They do not grant access for the following shows in the same venue.
 
@@ -46,5 +46,3 @@ It is a good idea to get to shows early to ensure entry. Once a show has sold ou
 **What venues is the festival using this year?**
 
 [Here's a list of this year's venues](https://www.bridgetowncomedy.com/venues).
-
-

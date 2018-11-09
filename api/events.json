@@ -29,7 +29,7 @@
         16894,
         17122,
         15977,
-        17239
+        19161
       ],
       "emcee": 17143,
       "venue": 10374,
@@ -252,7 +252,7 @@
         16768,
         16557,
         16405,
-        16571
+        16318
       ],
       "emcee": 16869,
       "venue": 17162,
@@ -289,9 +289,9 @@
       "id": 17165,
       "performers": [
         16602,
+        15905,
         16685,
         16917,
-        16657,
         17224
       ],
       "emcee": 16502,
@@ -310,7 +310,9 @@
         16647,
         16670,
         16337,
-        16190
+        16190,
+        16855,
+        15977
       ],
       "emcee": 16894,
       "venue": 10373,
@@ -351,7 +353,6 @@
         16429,
         16503,
         16304,
-        16276,
         16177,
         16103
       ],
@@ -408,7 +409,7 @@
         16337,
         16190
       ],
-      "emcee": 16037,
+      "emcee": 16409,
       "venue": 10677,
       "name": "Bridgetown Breakouts",
       "description": "<p>We put together this incredible lineup of some of our Bridgetown favorites from throughout the years.</p>\n<p>You saw them here first, now see them again!</p>\n",
@@ -421,11 +422,11 @@
       "id": 17173,
       "performers": [
         16508,
-        16828,
         16530,
         16916,
-        16502,
+        16828,
         16571,
+        16502,
         15722
       ],
       "emcee": 16304,
@@ -444,7 +445,7 @@
       "venue": 10373,
       "show": "16642",
       "name": "A Good Trip with Shane Mauss",
-      "description": "<p>Shane Mauss is touring around the country on a 100+ city tour with comedy show about psychedelics.  Part stand-up, part storytelling, and part Ted Talk combine for one of the most unique, informative, and funny comedy shows you will ever see.  (No psychedelic experience required)</p>\n",
+      "description": "<p>Shane Mauss is touring around the country on a 100+ city tour with comedy show about psychedelics.  Part stand-up, part storytelling, and part Ted Talk combine for one of the most unique, informative, and funny comedy shows you will ever see.  (No psychedelic experience required!)</p>\n",
       "startDateTime": "2017-05-07T23:30:00.000Z",
       "endDateTime": "2017-05-08T01:00:00.000Z",
       "price": 15,
@@ -474,8 +475,8 @@
       "id": 17176,
       "performers": [
         15967,
-        16928,
         16508,
+        16928,
         16818,
         15905,
         16930,
@@ -561,6 +562,7 @@
         16920,
         17365,
         16187,
+        16732,
         16927,
         16925,
         17364,
@@ -667,6 +669,7 @@
     {
       "id": 17188,
       "performers": [
+        16502,
         16051,
         17364,
         16927
@@ -706,12 +709,13 @@
     {
       "id": 17190,
       "performers": [
-        15887,
-        16591,
-        16602,
-        16187,
+        15888,
         16915,
-        16919
+        15887,
+        16187,
+        16919,
+        16602,
+        16591
       ],
       "emcee": 17008,
       "venue": 10373,
@@ -749,10 +753,10 @@
       "performers": [
         16409,
         15951,
-        16685,
-        16525,
-        16925,
         15799,
+        16685,
+        16925,
+        16525,
         16603,
         17237
       ],
@@ -768,11 +772,11 @@
     {
       "id": 17193,
       "performers": [
-        16199,
-        16325,
-        16048,
-        15967,
         16487,
+        16048,
+        16199,
+        15967,
+        16325,
         16756,
         15923
       ],
@@ -797,7 +801,7 @@
       "emcee": 16571,
       "venue": 10376,
       "name": "Brent Weinbach and Friends Mega Show",
-      "description": "<ul><li>Andy Kaufman Award recipient Brent Weinbach shows a selection of videos from his vault of absurdities in between stand-up sets from this lineup of adorable oddballs. </li>\n</ul>",
+      "description": "<p>Andy Kaufman Award recipient Brent Weinbach shows a selection of videos from his vault of absurdities in between stand-up sets from this lineup of adorable oddballs. </p>\n",
       "startDateTime": "2017-05-06T02:30:00.000Z",
       "endDateTime": "2017-05-06T04:00:00.000Z",
       "price": 15,
@@ -860,13 +864,13 @@
       "id": 17198,
       "performers": [
         16818,
-        16916,
         15859,
-        16912,
+        16396,
         16346,
+        16912,
         15977,
-        16447,
-        16396
+        16658,
+        16447
       ],
       "emcee": 15722,
       "venue": 10677,
@@ -901,11 +905,11 @@
       "id": 17202,
       "performers": [
         16261,
+        16685,
         17238,
         16318,
-        16190,
-        16685,
         16401,
+        16190,
         16928,
         16855
       ],
@@ -963,11 +967,11 @@
       "id": 17205,
       "performers": [
         16786,
-        16136,
         16276,
-        16037,
-        16884,
+        16136,
         15888,
+        16884,
+        16916,
         16732
       ],
       "emcee": 16051,
@@ -1055,7 +1059,7 @@
         15905,
         16276,
         16828,
-        16921
+        17365
       ],
       "emcee": 15859,
       "venue": 10677,
@@ -1074,7 +1078,7 @@
         16325,
         16464,
         15749,
-        16277,
+        16921,
         16918
       ],
       "emcee": 16457,
@@ -1091,17 +1095,17 @@
       "performers": [
         16352,
         16818,
-        16037,
-        16103,
         16784,
+        16103,
         16869,
+        16277,
         15951,
         16927
       ],
       "emcee": 16039,
       "venue": 10373,
       "name": "Bridgetown: The Later Years (2013-2017)",
-      "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams, Karen Kilgariff and Curtis Cook (2013), Lisa Best and Steven Wilber (2014), and John Novosad, Brad Silnutzer, Pat Brown, and Forrest Shaw (2017).</p>\n",
+      "description": "<p>Comics from the last five years of the Bridgetown perform, including: Allen Strickland Williams, Karen Kilgariff and Curtis Cook (2013), Steven Wilber (2014), Ismael Loutfi (2015), and John Novosad, Brad Silnutzer, Pat Brown, and Forrest Shaw (2017).</p>\n",
       "startDateTime": "2017-05-08T02:00:00.000Z",
       "endDateTime": "2017-05-08T03:30:00.000Z",
       "price": 15,
@@ -1158,7 +1162,6 @@
         16265,
         15738,
         15957,
-        16657,
         16051
       ],
       "emcee": 16658,
@@ -1176,9 +1179,9 @@
       "performers": [
         16199,
         15971,
-        15722,
         16801,
         16574,
+        15722,
         16212,
         16525
       ],
@@ -1373,8 +1376,8 @@
         16136,
         16930,
         16790,
-        16921,
         16784,
+        16921,
         16925
       ],
       "emcee": 16801,
@@ -1423,9 +1426,9 @@
       "performers": [
         16800,
         15897,
+        16447,
         16042,
         16201,
-        16447,
         16352,
         15979
       ],
@@ -1441,10 +1444,11 @@
     {
       "id": 17280,
       "performers": [
+        16487,
         16199,
         16658,
-        16919,
         15979,
+        16919,
         16903,
         16894,
         17008
@@ -1481,12 +1485,11 @@
     {
       "id": 17320,
       "performers": [
-        16416,
         16147,
+        16416,
         16401,
-        16641,
-        16657,
-        17365
+        17365,
+        16641
       ],
       "emcee": 16917,
       "venue": 10373,
